@@ -2,9 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>USPTO ATS - 19/658,572 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
+        html, body {
+            width: 100%;
+            max-width: 100%;
+            overflow-x: hidden;
+            margin: 0;
+            padding: 0;
+        }
+        .container, .container-fluid {
+            width: 100% !important;
+            max-width: 100% !important;
+            box-sizing: border-box;
+        }
+        .card {
+            width: 100%;
+            max-width: 100%;
+        }
+        .table-responsive {
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
         a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
             color: #212529 !important;
             text-decoration: none !important;
@@ -15,9 +37,9 @@
     </style>
 </head>
 <body>
-<div class="container py-4">
+<div class="container-fluid py-4" style="max-width: 1400px; width: 100%;">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
-    <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
+    <div class="d-flex justify-content-between align-items-center flex-wrap gap-2 border-bottom pb-3 mb-3 w-100">
         <div>
             <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
@@ -31,16 +53,16 @@
             </button>
         </div>
     </div>
-    <nav class="nav nav-pills mb-3">
+    <nav class="nav nav-pills flex-wrap gap-2 mb-3">
         <a class="nav-link active" href="/">&larr; Back to Dashboard</a>
         <a class="nav-link" href="examiners.html">Examiner Change-Request Log & Accumulative Rules</a>
     </nav>
     <div class="alert alert-danger fw-bold mb-3">🚨 PRE-EXAM FORMALITIES CLERK NOTICE PENDING: Notice to File Missing Parts (NTC.MISS.PRT) requires filing replacement documents/fees to pass pre-exam processing.</div><div class="alert alert-warning fw-bold mb-3">⚠️ PRE-EXAM FORMALITIES CLERK NOTICE PENDING: Notice of Incomplete Reply (NT.INC.REPLY) requires filing supplemental response to prevent abandonment.</div>
     
     <div class="card mb-4">
-        <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center">
-            <h4 class="mb-0"><span class="badge bg-secondary me-2">#28</span>19/658,572 (19658572) - SYSTEM AND METHOD FOR ENCRYPTED KEYBOARD EVENTS</h4>
-            <div>
+        <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center flex-wrap gap-2">
+            <h4 class="mb-0 text-break"><span class="badge bg-secondary me-2">#28</span>19/658,572 (19658572) - SYSTEM AND METHOD FOR ENCRYPTED KEYBOARD EVENTS</h4>
+            <div class="d-flex align-items-center flex-wrap gap-2">
                 <a href="/#a--19658572--19658572__xml" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
                 <a href="/#a--19658572--19658572-application__pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
@@ -113,7 +135,7 @@ The period for reply runs from the original Notice to File Missing Parts date (J
                 <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('deadlines', this)" title="Copy permalink to Deadlines">🔗 Permalink</button>
             </div>
         </div>
-        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-danger'><td>2026-08-03</td><td>IMPLIED_CROSS_REFERENCED</td><td>Original two-month statutory response period running from Notice to File Missing Parts mailed 2026-06-03, reaffirmed by Notice of Incomplete Reply mailed 2026-08-11.</td><td>EXTENSION_REQUIRED</td><td>5 months (Max: 2027-01-04)</td></tr><tr class='table-warning'><td>2026-11-03</td><td>EXTENDABLE</td><td>Three-month extension of time deadline under 37 CFR 1.136(a) to submit complete reply curing drawings and fee balance.</td><td>UPCOMING</td><td>2 months (Max: 2027-01-04)</td></tr></tbody></table>
+        <div class='table-responsive'><table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-danger'><td>2026-08-03</td><td>IMPLIED_CROSS_REFERENCED</td><td>Original two-month statutory response period running from Notice to File Missing Parts mailed 2026-06-03, reaffirmed by Notice of Incomplete Reply mailed 2026-08-11.</td><td>EXTENSION_REQUIRED</td><td>5 months (Max: 2027-01-04)</td></tr><tr class='table-warning'><td>2026-11-03</td><td>EXTENDABLE</td><td>Three-month extension of time deadline under 37 CFR 1.136(a) to submit complete reply curing drawings and fee balance.</td><td>UPCOMING</td><td>2 months (Max: 2027-01-04)</td></tr></tbody></table></div>
     </div>
     
     <div id="extension-fees" class="mb-4">
@@ -188,18 +210,19 @@ The period for reply runs from the original Notice to File Missing Parts date (J
             </div>
         </div>
         
-        <table class="table table-hover table-bordered table-sm">
-            <thead class="table-dark">
-                <tr>
-                    <th>Mail Date</th>
-                    <th>Document Code</th>
-                    <th>Description</th>
-                    <th>Document Link</th>
-                    <th>Size</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered table-sm">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Mail Date</th>
+                        <th>Document Code</th>
+                        <th>Description</th>
+                        <th>Document Link</th>
+                        <th>Size</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
             <td><code>2026-08-11</code></td>
             <td><span class="badge bg-warning text-dark">NT.INC.REPLY (PDF)</span></td>
             <td>Notice of Incomplete Reply</td>
@@ -212,8 +235,9 @@ The period for reply runs from the original Notice to File Missing Parts date (J
             <td><a href="/#a--19658572--19658572_06-03-2026_NTC__MISS__PRT__pdf" class="fw-bold"><code>19658572_06-03-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>157 KB</td>
         </tr>
-            </tbody>
-        </table>
+                </tbody>
+            </table>
+        </div>
         
     </div>
 
@@ -250,18 +274,19 @@ The period for reply runs from the original Notice to File Missing Parts date (J
                     <small class="text-muted">Click any snapshot to pivot the entire application view to that historical state</small>
                 </div>
             </div>
-            <table class="table table-hover table-bordered table-sm mt-2">
-                <thead class="table-dark">
-                    <tr>
-                        <th>Snapshot Version</th>
-                        <th>Status Posture</th>
-                        <th>Risk & Urgency Delta</th>
-                        <th>Cured Deficiencies & Verified Filings</th>
-                        <th>State Pivot Action</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
+            <div class="table-responsive">
+                <table class="table table-hover table-bordered table-sm mt-2">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Snapshot Version</th>
+                            <th>Status Posture</th>
+                            <th>Risk & Urgency Delta</th>
+                            <th>Cured Deficiencies & Verified Filings</th>
+                            <th>State Pivot Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
             <td><strong><a href="app_19658572_101026.html">2026-10-10 (v2)</a></strong><span class="badge bg-success ms-1">Latest (v2)</span></td>
             <td>Application Undergoing Preexam Processing</td>
             <td><span class="badge bg-success fs-6">✅ Cured: -950 Risk</span><br><small class="text-muted">Urgency: 558.87</small></td>
@@ -280,8 +305,9 @@ The period for reply runs from the original Notice to File Missing Parts date (J
             <td><small class='text-muted'>Initial baseline analysis posture.</small></td>
             <td><a href="app_19658572_100926.html" class="btn btn-sm btn-outline-primary py-0">Pivot to State</a></td>
         </tr>
-                </tbody>
-            </table>
+                    </tbody>
+                </table>
+            </div>
         </div>
         
     </div>
