@@ -1,0 +1,61 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+
+\geometry{letterpaper, margin=1in}
+\doublespacing
+
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+    \textbf{\large CLAIMS}
+\end{center}
+
+\vspace{0.4cm}
+\noindent What is claimed is:
+
+\begin{enumerate}[label=\textbf{\arabic*.}, leftmargin=0.5in, itemsep=0.4cm]
+    \item A memory interface system for a computer, comprising:
+    \begin{itemize}[leftmargin=0.3in, noitemsep]
+        \item a memory slot on a motherboard, said slot containing a first two-dimensional array of individually addressable electromagnetic radiation emitters; and
+        \item a removable memory module, said module containing memory chips and a second two-dimensional array of electromagnetic radiation sensors, wherein said second array is positioned to optically couple with the first array when the module is installed in the slot.
+    \end{itemize}
+
+    \item The system of claim 1, wherein data is transmitted between the motherboard and the memory module as a sequence of frames, with each frame comprising a plurality of data packets encoded as the emission characteristics of the emitters in the first array.
+
+    \item The system of claim 2, wherein the emission characteristics include at least one of wavelength or intensity.
+
+    \item The system of claim 1, wherein the emitters are micro-LEDs or micro-OLEDs and the sensors are a CMOS image sensor.
+
+    \item The system of claim 1, wherein the aggregate data transmission bandwidth of the interface is in the terabit-per-second or petabit-per-second range.
+
+    \item A memory module for a computer system, comprising:
+    \begin{itemize}[leftmargin=0.3in, noitemsep]
+        \item a plurality of memory integrated circuits (chips);
+        \item a printed circuit board on which the memory chips are mounted; and
+        \item a two-dimensional array of photon sensors integrated onto the module, configured to serve as the primary data interface for the module.
+    \end{itemize}
+
+    \item The memory module of claim 6, wherein the array of photon sensors replaces a traditional metallic edge connector.
+
+    \item A method for accessing computer memory, comprising the steps of:
+    \begin{itemize}[leftmargin=0.3in, noitemsep]
+        \item generating, by a memory controller, a sequence of data frames, wherein data to be written to a memory module is encoded into the emission characteristics of a two-dimensional array of emitters located in a motherboard memory slot;
+        \item transmitting said sequence of frames as light from the emitter array;
+        \item capturing, by a sensor array on the memory module, said sequence of frames; and
+        \item decoding said frames and writing the data to memory chips on the module.
+    \end{itemize}
+
+    \item The method of claim 8, wherein the data is transferred at a rate exceeding 1 terabit per second.
+
+    \item The method of claim 8, further comprising a self-calibration step upon installation of the module, wherein the memory module and the memory slot electronically negotiate a data map to optimize accuracy.
+\end{enumerate}
+
+\end{document}

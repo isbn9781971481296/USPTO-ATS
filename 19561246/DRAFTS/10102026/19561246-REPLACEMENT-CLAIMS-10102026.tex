@@ -1,0 +1,46 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+
+\geometry{letterpaper, margin=1in}
+\doublespacing
+
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+    \textbf{\large CLAIMS}
+\end{center}
+
+\vspace{0.4cm}
+\noindent What is claimed is:
+
+\begin{enumerate}[label=\textbf{\arabic*.}, leftmargin=0.5in, itemsep=0.4cm]
+    \item A method for secure communication between a first device and a second device over a parallel communication channel, the method comprising the steps of:
+    \begin{itemize}[leftmargin=0.3in, noitemsep]
+        \item generating a session-specific data encoding map based on a shared secret known to the first and second devices;
+        \item transmitting data from the first device to the second device, wherein the data is encoded into a sequence of physical channel states according to the session-specific map;
+        \item receiving the physical channel states at the second device and decoding the data according to the session-specific map; and
+        \item deleting the session-specific map on at least one of the devices upon termination of a communication session.
+    \end{itemize}
+
+    \item The method of claim 1, wherein the shared secret is a cryptographic seed, and the map is generated using a deterministic pseudo-random algorithm.
+
+    \item The method of claim 1, wherein the shared secret is exchanged via a secure out-of-band channel.
+
+    \item The method of claim 1, wherein the parallel communication channel has a cardinality greater than 2.
+
+    \item The method of claim 4, wherein the channel comprises a plurality of pixels, and the map creates a correspondence between multi-byte data blocks and unique pixel colors.
+
+    \item The method of claim 1, wherein an eavesdropper intercepting the sequence of physical channel states without the session-specific map is unable to decode the data.
+
+    \item The method of claim 1, wherein the parallel communication channel is a massively parallel optical interface as described in U.S. Patent Application No. 19/559,705.
+\end{enumerate}
+
+\end{document}

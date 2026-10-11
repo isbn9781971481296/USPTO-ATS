@@ -1,0 +1,62 @@
+[
+  {
+    "rule_cited": "37 CFR 1.75(h)",
+    "target_document": "Claims",
+    "application_number": "19561223",
+    "examiner_name": "ANDREA BENNETT",
+    "notice_date": "2026-04-07",
+    "deficiency_description": "Claims submitted on 2026-03-09 did not commence on a separate sheet.",
+    "specific_directive": "Submit replacement claims in the form of a claim listing commencing on a separate sheet in compliance with 37 CFR 1.75(h) and 1.121.",
+    "is_unanticipated_or_novel": false
+  },
+  {
+    "rule_cited": "37 CFR 1.72(b)",
+    "target_document": "Abstract",
+    "application_number": "19561223",
+    "examiner_name": "ANDREA BENNETT",
+    "notice_date": "2026-04-07",
+    "deficiency_description": "Abstract submitted on 2026-03-09 did not commence on a separate sheet.",
+    "specific_directive": "Submit a replacement abstract commencing on a separate sheet in compliance with 37 CFR 1.72(b) and 1.121.",
+    "is_unanticipated_or_novel": false
+  },
+  {
+    "rule_cited": "37 CFR 1.16(u)",
+    "target_document": "Fees",
+    "application_number": "19561223",
+    "examiner_name": "ANDREA BENNETT",
+    "notice_date": "2026-04-07",
+    "deficiency_description": "Specification not submitted in DOCX format, triggering non-DOCX surcharge.",
+    "specific_directive": "Submit non-DOCX penalty fee ($172.00 Small Entity).",
+    "is_unanticipated_or_novel": false
+  },
+  {
+    "rule_cited": "37 CFR 1.16(a), (k), (o), (f)",
+    "target_document": "Fees",
+    "application_number": "19561223",
+    "examiner_name": "ANDREA BENNETT",
+    "notice_date": "2026-04-07",
+    "deficiency_description": "Statutory basic filing fee, search fee, examination fee, and late surcharge missing.",
+    "specific_directive": "Submit basic filing fee, search fee, examination fee, and late surcharge under 37 CFR 1.16(f).",
+    "is_unanticipated_or_novel": false
+  },
+  {
+    "rule_cited": "37 CFR 1.29",
+    "target_document": "Declaration",
+    "application_number": "19561223",
+    "examiner_name": "ANDREA BENNETT",
+    "notice_date": "2026-04-07",
+    "deficiency_description": "Micro entity certification missing.",
+    "specific_directive": "Submit Certification of Micro Entity Status (PTO/SB/15A) or establish Small Entity status under 37 CFR 1.27.",
+    "is_unanticipated_or_novel": false
+  },
+  {
+    "rule_cited": "37 CFR 1.16(a), (k), (o), (u)",
+    "target_document": "Fees",
+    "application_number": "19561223",
+    "examiner_name": "ANDREA BENNETT",
+    "notice_date": "2026-08-05",
+    "deficiency_description": "Pre-examination statutory base fees unpaid ($70 basic + $172 non-DOCX + $308 search + $352 exam less $416 credit = $486 net due). Extension of time required as reply was received after 2-month period.",
+    "specific_directive": "Remit remaining $486.00 fee balance and petition for extension of time under 37 CFR 1.136(a) with requisite fee.",
+    "is_unanticipated_or_novel": false
+  }
+]

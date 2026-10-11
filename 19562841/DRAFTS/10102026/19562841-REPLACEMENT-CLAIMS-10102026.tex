@@ -1,0 +1,43 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+
+\geometry{letterpaper, margin=1in}
+\doublespacing
+
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+    \textbf{\large CLAIMS}
+\end{center}
+
+\vspace{0.4cm}
+\noindent What is claimed is:
+
+\begin{enumerate}[label=\textbf{\arabic*.}, leftmargin=0.5in, itemsep=0.4cm]
+    \item A computing system, comprising:
+    \begin{itemize}[leftmargin=0.3in, noitemsep]
+        \item a plurality of computational units; and
+        \item a massively parallel optical data fabric connecting the plurality of computational units;
+        \item wherein at least one computational unit is configured to remain in a first power state and to enter a second, higher power state to perform a computation in response to receiving a data frame via the optical data fabric.
+    \end{itemize}
+
+    \item The system of claim 1, wherein the system does not include a global, high-frequency clock signal distributed to all computational units.
+
+    \item The system of claim 1, wherein computation is scheduled according to a data-flow model.
+
+    \item The system of claim 1, wherein the arrival of a data frame at a computational unit acts as an event trigger for that unit to perform an operation.
+
+    \item The system of claim 1, wherein the optical data fabric comprises a plurality of optical buses, each with a bit-width greater than 128 bits.
+
+    \item The system of claim 1, wherein the optical data fabric is an implementation of the interface described in U.S. Patent Application No. 19/559,705.
+\end{enumerate}
+
+\end{document}

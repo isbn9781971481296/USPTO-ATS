@@ -1,0 +1,9 @@
+# ACCUMULATIVE USPTO EXAMINER RULE ENFORCEMENT LOG
+# Format: [RULE CITED] | [TARGET DOCUMENT] | [APPLICATION] | [EXAMINER] | [DATE] | [DEFICIENCY & DIRECTIVE]
+
+37 CFR 1.75(h) | Claims | App 19561223 | ANDREA BENNETT | 2026-04-07 | Claims submitted on 2026-03-09 did not commence on a separate sheet.; Submit replacement claims in the form of a claim listing commencing on a separate sheet in compliance with 37 CFR 1.75(h) and 1.121.
+37 CFR 1.72(b) | Abstract | App 19561223 | ANDREA BENNETT | 2026-04-07 | Abstract submitted on 2026-03-09 did not commence on a separate sheet.; Submit a replacement abstract commencing on a separate sheet in compliance with 37 CFR 1.72(b) and 1.121.
+37 CFR 1.16(u) | Fees | App 19561223 | ANDREA BENNETT | 2026-04-07 | Specification not submitted in DOCX format, triggering non-DOCX surcharge.; Submit non-DOCX penalty fee ($172.00 Small Entity).
+37 CFR 1.16(a), (k), (o), (f) | Fees | App 19561223 | ANDREA BENNETT | 2026-04-07 | Statutory basic filing fee, search fee, examination fee, and late surcharge missing.; Submit basic filing fee, search fee, examination fee, and late surcharge under 37 CFR 1.16(f).
+37 CFR 1.29 | Declaration | App 19561223 | ANDREA BENNETT | 2026-04-07 | Micro entity certification missing.; Submit Certification of Micro Entity Status (PTO/SB/15A) or establish Small Entity status under 37 CFR 1.27.
+37 CFR 1.16(a), (k), (o), (u) | Fees | App 19561223 | ANDREA BENNETT | 2026-08-05 | Pre-examination statutory base fees unpaid ($70 basic + $172 non-DOCX + $308 search + $352 exam less $416 credit = $486 net due). Extension of time required as reply was received after 2-month period.; Remit remaining $486.00 fee balance and petition for extension of time under 37 CFR 1.136(a) with requisite fee.

@@ -1,0 +1,41 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+
+\geometry{letterpaper, margin=1in}
+\doublespacing
+
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+    \textbf{\large CLAIMS}
+\end{center}
+
+\vspace{0.4cm}
+\noindent What is claimed is:
+
+\begin{enumerate}[label=\textbf{\arabic*.}, leftmargin=0.5in, itemsep=0.4cm]
+    \item A data storage apparatus, comprising:
+    \begin{itemize}[leftmargin=0.3in, noitemsep]
+        \item a non-volatile storage medium;
+        \item a storage controller communicatively coupled to the storage medium; and
+        \item a massively parallel optical interface, coupled to the storage controller, configured to serve as the primary data input/output port for the apparatus.
+    \end{itemize}
+
+    \item The apparatus of claim 1, wherein the optical interface comprises a two-dimensional array of photon emitters and a two-dimensional array of photon sensors.
+
+    \item The apparatus of claim 1, wherein the optical interface replaces a serial electrical interface such as SATA, SAS, or NVMe.
+
+    \item The apparatus of claim 1, wherein the apparatus is configured to transfer data via the optical interface as a sequence of light frames at a rate exceeding 100 gigabits per second.
+
+    \item A storage system, comprising a host computer and at least one Optically-Attached Storage (OAS) apparatus according to claim 1, wherein the host computer and the OAS apparatus are connected via a massively parallel optical link.
+\end{enumerate}
+
+\end{document}
