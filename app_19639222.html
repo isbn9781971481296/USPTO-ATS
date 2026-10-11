@@ -32,7 +32,7 @@
         </div>
     </div>
     <nav class="nav nav-pills mb-3">
-        <a class="nav-link active" href="index.html">&larr; Back to Dashboard</a>
+        <a class="nav-link active" href="/">&larr; Back to Dashboard</a>
         <a class="nav-link" href="examiners.html">Examiner Change-Request Log & Accumulative Rules</a>
     </nav>
     
@@ -41,8 +41,8 @@
         <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center">
             <h4 class="mb-0"><span class="badge bg-secondary me-2">#94</span>19/639,222 (19639222) - Memory System for the Storage and Retrieval of Parametric and Symbolic Data Representations</h4>
             <div>
-                <a href="19639222/19639222.xml" target="_blank" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
-                <a href="index.html#19639222%2F19639222-application.pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
+                <a href="/#a--19639222--19639222__xml" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
+                <a href="/#a--19639222--19639222-application__pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
         </div>
         <div class="card-body">
@@ -78,7 +78,13 @@
     </div>
     
     <div id="attorney-summary" class="mb-4">
-        <h5>Attorney Summary</h5>
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="mb-0">Attorney Summary</h5>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('attorney-summary', this)" title="Copy permalink to Attorney Summary">🔗 Permalink</button>
+            </div>
+        </div>
         <p class="border p-3 bg-light">PROSECUTION BRIEF & STATUS ASSESSMENT (Application 19/639,222):
 
 1. VERIFICATION OF LATEST APPLICANT FILINGS (2026-10-09):
@@ -100,7 +106,13 @@ Because the complete response, replacement sheets, extension petition, and exten
     </div>
     
     <div id="deadlines" class="mb-4">
-        <h5>Deadlines</h5>
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="mb-0">Deadlines</h5>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('deadlines', this)" title="Copy permalink to Deadlines">🔗 Permalink</button>
+            </div>
+        </div>
         <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-success'><td>2026-09-08</td><td>FORMALITIES</td><td>Two-month response deadline to Notice to File Missing Parts mailed July 7, 2026 (September 7, 2026 was federal holiday Labor Day, rolling to September 8, 2026 under 37 CFR 1.7).</td><td>SATISFIED</td><td>5 months (Max: 2027-02-08)</td></tr><tr class='table-success'><td>2026-11-09</td><td>EXTENDABLE</td><td>Two-month extended response deadline to Notice to File Missing Parts under 37 CFR 1.136(a) (November 7, 2026 falls on a Saturday, rolling forward to Monday, November 9, 2026 under 37 CFR 1.7(a)).</td><td>SATISFIED</td><td>3 months (Max: 2027-02-08)</td></tr><tr class='table-success'><td>2026-11-30</td><td>IMPLIED_CROSS_REFERENCED</td><td>Two-month deadline from mail date of Petition Decision (OPPT mailed 2026-09-28) to request reconsideration under 37 CFR 1.183 (November 28, 2026 falls on a Saturday, rolling to Monday, November 30, 2026). Unextendable under 37 CFR 1.136(a).</td><td>SATISFIED</td><td>0 months (Max: 2026-11-30)</td></tr></tbody></table>
     </div>
     
@@ -109,7 +121,11 @@ Because the complete response, replacement sheets, extension petition, and exten
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
-            <span class="badge bg-primary">Small Entity Rates</span>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('extension-fees', this)" title="Copy permalink to Extension Fees">🔗 Permalink</button>
+                <span class="badge bg-primary">Small Entity Rates</span>
+            </div>
         </div>
         <div class="card-body">
             <div class="row align-items-center">
@@ -152,13 +168,25 @@ Because the complete response, replacement sheets, extension petition, and exten
     </div>
     
     <div id="recommendations" class="mb-4">
-        <h5>Recommendations</h5>
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="mb-0">Recommendations</h5>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('recommendations', this)" title="Copy permalink to Recommendations">🔗 Permalink</button>
+            </div>
+        </div>
         <ul><li><strong>Priority 1:</strong> Audit OPAP Processing and Fee Ledger Reconciliation for Small Entity Transition <em>(Deadline: 2026-10-24)</em><br><small>37 CFR 1.27, 37 CFR 1.53(f), MPEP 506 - Verify that the Office of Patent Application Processing accepts the October 9, 2026 response (PEFR), enters replacement claims and abstract, credits the $416.00 initial payment, and applies Small Entity fee rates rather than undiscounted large entity rates. If OPAP issues a fee deficiency notice due to clerical processing of the old $2,184.00 undiscounted balance, immediately contact the Application Assistance Unit at (571) 272-4200 with the Small Entity transmittal.</small></li><li><strong>Priority 2:</strong> Verify Application Assignment to Technology Center 2100 and Assigned Examiner <em>(Deadline: 2026-11-15)</em><br><small>MPEP 504, MPEP 708 - Confirm that ApplicationStatusCode updates from 19 (Preexam Processing) to an examining art unit in Technology Center 2100 under Examiner ADD2AFC, and ensure that the pending Request for Suspension under 37 CFR 1.103(a) is placed before the Supervisory Patent Examiner or Group Director for adjudication.</small></li><li><strong>Priority 3:</strong> Monitor Disposition of Conditional Request for Suspension of Action under 37 CFR 1.103(a) <em>(Deadline: 2026-12-01)</em><br><small>37 CFR 1.103(a), MPEP 709 - Under 37 CFR 1.103(a), suspension of action requires good and sufficient cause and that no Office action be outstanding. Because the pre-examination formalities were fully cured on October 9, 2026, the application is clear of outstanding actions. Track issuance of the TC Director's communication granting or acting upon the requested 6-month suspension.</small></li></ul>
     </div>
     
     <hr>
     <div id="communications" class="mt-4 mb-4">
-        <h5>Communications Received from USPTO</h5>
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="mb-0">Communications Received from USPTO</h5>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('communications', this)" title="Copy permalink to Communications">🔗 Permalink</button>
+            </div>
+        </div>
         
         <table class="table table-hover table-bordered table-sm">
             <thead class="table-dark">
@@ -181,7 +209,7 @@ Because the complete response, replacement sheets, extension petition, and exten
             <td><code>2026-07-07</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="index.html#19639222%2F19639222_07-07-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19639222_07-07-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="/#a--19639222--19639222_07-07-2026_NTC__MISS__PRT__pdf" class="fw-bold"><code>19639222_07-07-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>146 KB</td>
         </tr>
             </tbody>
@@ -199,7 +227,11 @@ Because the complete response, replacement sheets, extension petition, and exten
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
             <h5 class="mb-0 text-success">Filed Documents & Submissions (USPTO Electronic Acknowledgement Receipts)</h5>
-            <span class="badge bg-success">0 Document(s) Filed</span>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-success py-0 border-0" onclick="copySectionPermalink('filed-documents', this)" title="Copy permalink to Filed Documents">🔗 Permalink</button>
+                <span class="badge bg-success">0 Document(s) Filed</span>
+            </div>
         </div>
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
@@ -210,9 +242,13 @@ Because the complete response, replacement sheets, extension petition, and exten
         
         <hr>
         <div class="mt-4">
-            <div class="d-flex justify-content-between align-items-center">
+            <div class="d-flex justify-content-between align-items-center mb-2">
                 <h5 class="mb-0">Pivot-able Change-Log & State Progression</h5>
-                <small class="text-muted">Click any snapshot to pivot the entire application view to that historical state</small>
+                <div class="d-flex align-items-center gap-2">
+                    <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                    <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('state-progression', this)" title="Copy permalink to State Progression">🔗 Permalink</button>
+                    <small class="text-muted">Click any snapshot to pivot the entire application view to that historical state</small>
+                </div>
             </div>
             <table class="table table-hover table-bordered table-sm mt-2">
                 <thead class="table-dark">
@@ -226,11 +262,11 @@ Because the complete response, replacement sheets, extension petition, and exten
                 </thead>
                 <tbody>
                     <tr>
-            <td><strong><a href="app_19639222.html">2026-10-10 (v2)</a></strong><span class="badge bg-success ms-1">Latest (v2)</span></td>
+            <td><strong><a href="app_19639222_101026.html">2026-10-10 (v2)</a></strong><span class="badge bg-success ms-1">Latest (v2)</span></td>
             <td>Application Undergoing Preexam Processing</td>
             <td><span class="badge bg-light text-dark border">Stable (0 Risk)</span><br><small class="text-muted">Urgency: 0.00</small></td>
             <td><div class='text-success fw-bold'>✅ Cured:</div><small>2026-11-30: IMPLIED_CROSS_REFERENCED (Two-month deadline from mail date of Petition Deci...)</small></td>
-            <td><a href="app_19639222.html" class="btn btn-sm btn-outline-primary py-0">Pivot to State</a></td>
+            <td><a href="app_19639222_101026.html" class="btn btn-sm btn-outline-primary py-0">Pivot to State</a></td>
         </tr><tr>
             <td><strong><a href="app_19639222_101026_v1.html">2026-10-10 (v1)</a></strong><span class="badge bg-secondary ms-1">Historical (v1)</span></td>
             <td>Application Undergoing Preexam Processing</td>
@@ -252,7 +288,13 @@ Because the complete response, replacement sheets, extension petition, and exten
 
     <hr>
     <div id="verified-responses" class="mt-4 mb-4">
-        <h5>Docket-Verified Responses & Submitted Filings</h5>
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="mb-0">Docket-Verified Responses & Submitted Filings</h5>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('verified-responses', this)" title="Copy permalink to Verified Responses">🔗 Permalink</button>
+            </div>
+        </div>
         
         <table class="table table-hover table-bordered table-sm mt-2">
             <thead class="table-dark">
@@ -268,7 +310,7 @@ Because the complete response, replacement sheets, extension petition, and exten
             <td><code>2026-10-09</code></td>
             <td><strong>Response to Notice to File Missing Parts & Suspension Request</strong><br><small class='text-success'>Matched IFW: CLM (Claims), ABST (Abstract), XT/ (Extension of Time), M856 (Letter Requesting Suspension of Action), PEFR (Applicant Response to Pre-Exam Formalities Notice), N417 (Electronic Filing System Acknowledgment Receipt), N417.PYMT (Electronic Fee Payment)</small></td>
             <td><span class="badge bg-success">Verified on Docket (USPTO Confirmed)</span></td>
-            <td><ul class='list-unstyled mb-0'><li>📄 <a href="index.html#19639222%2FDRAFTS%2F10092026%2F19639222-EXTENSION-OF-TIME-10092026.pdf" class="fw-semibold"><code>19639222-EXTENSION-OF-TIME-10092026.pdf</code></a> <span class='text-muted'>(68 KB)</span></li><li>📄 <a href="index.html#19639222%2FDRAFTS%2F10092026%2F19639222-REPLACEMENT-ABSTRACT-10092026.pdf" class="fw-semibold"><code>19639222-REPLACEMENT-ABSTRACT-10092026.pdf</code></a> <span class='text-muted'>(54 KB)</span></li><li>📄 <a href="index.html#19639222%2FDRAFTS%2F10092026%2F19639222-REPLACEMENT-CLAIMS-10092026.pdf" class="fw-semibold"><code>19639222-REPLACEMENT-CLAIMS-10092026.pdf</code></a> <span class='text-muted'>(57 KB)</span></li><li>📄 <a href="index.html#19639222%2FDRAFTS%2F10092026%2F19639222-REPLACEMENT-SHEETS-10092026.pdf" class="fw-semibold"><code>19639222-REPLACEMENT-SHEETS-10092026.pdf</code></a> <span class='text-muted'>(53 KB)</span></li><li>📄 <a href="index.html#19639222%2FDRAFTS%2F10092026%2F19639222-REQUEST-FOR-SUSPENSION-1103A-10092026.pdf" class="fw-semibold"><code>19639222-REQUEST-FOR-SUSPENSION-1103A-10092026.pdf</code></a> <span class='text-muted'>(78 KB)</span></li><li>📄 <a href="index.html#19639222%2FDRAFTS%2F10092026%2F19639222-RESPONSE-MISSING-PARTS-10092026.pdf" class="fw-semibold"><code>19639222-RESPONSE-MISSING-PARTS-10092026.pdf</code></a> <span class='text-muted'>(107 KB)</span></li></ul></td>
+            <td><ul class='list-unstyled mb-0'><li>📄 <a href="/#a--19639222--DRAFTS--10092026--19639222-EXTENSION-OF-TIME-10092026__pdf" class="fw-semibold"><code>19639222-EXTENSION-OF-TIME-10092026.pdf</code></a> <span class='text-muted'>(68 KB)</span></li><li>📄 <a href="/#a--19639222--DRAFTS--10092026--19639222-REPLACEMENT-ABSTRACT-10092026__pdf" class="fw-semibold"><code>19639222-REPLACEMENT-ABSTRACT-10092026.pdf</code></a> <span class='text-muted'>(54 KB)</span></li><li>📄 <a href="/#a--19639222--DRAFTS--10092026--19639222-REPLACEMENT-CLAIMS-10092026__pdf" class="fw-semibold"><code>19639222-REPLACEMENT-CLAIMS-10092026.pdf</code></a> <span class='text-muted'>(57 KB)</span></li><li>📄 <a href="/#a--19639222--DRAFTS--10092026--19639222-REPLACEMENT-SHEETS-10092026__pdf" class="fw-semibold"><code>19639222-REPLACEMENT-SHEETS-10092026.pdf</code></a> <span class='text-muted'>(53 KB)</span></li><li>📄 <a href="/#a--19639222--DRAFTS--10092026--19639222-REQUEST-FOR-SUSPENSION-1103A-10092026__pdf" class="fw-semibold"><code>19639222-REQUEST-FOR-SUSPENSION-1103A-10092026.pdf</code></a> <span class='text-muted'>(78 KB)</span></li><li>📄 <a href="/#a--19639222--DRAFTS--10092026--19639222-RESPONSE-MISSING-PARTS-10092026__pdf" class="fw-semibold"><code>19639222-RESPONSE-MISSING-PARTS-10092026.pdf</code></a> <span class='text-muted'>(107 KB)</span></li></ul></td>
         </tr>
             </tbody>
         </table>
@@ -276,6 +318,27 @@ Because the complete response, replacement sheets, extension petition, and exten
     </div>
 </div>
 <script>
+    function copySectionPermalink(sectionId, btn) {
+        const baseUrl = window.location.href.split('#')[0];
+        const permalink = baseUrl + '#' + sectionId;
+        window.location.hash = '#' + sectionId;
+        if (navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(permalink).then(() => showCopiedFeedback(btn)).catch(() => fallbackCopy(permalink, btn));
+        } else {
+            fallbackCopy(permalink, btn);
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const hash = window.location.hash;
+        if (hash && hash.length > 1) {
+            const el = document.querySelector(hash);
+            if (el) {
+                setTimeout(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' }), 100);
+            }
+        }
+    });
+
     function shareCurrentPage(btn) {
         const url = window.location.href;
         if (navigator.clipboard && window.isSecureContext) {
