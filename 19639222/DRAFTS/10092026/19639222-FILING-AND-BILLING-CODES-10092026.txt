@@ -1,0 +1,99 @@
+================================================================================
+USPTO PATENT CENTER ELECTRONIC SUBMISSION GUIDE: FILING & BILLING CODES
+APPLICATION NO.: 19/639,222 | CONFIRMATION NO.: 7096
+TITLE: A Memory System for the Storage and Retrieval of Parametric and Symbolic Data Representations
+INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
+ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27)
+DATE OF SUBMISSION: October 9, 2026
+================================================================================
+
+1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
+--------------------------------------------------------------------------------
+In the USPTO Patent Center portal (patentcenter.uspto.gov), you do NOT submit
+separate electronic filings for each document. 
+
+All documents listed below are uploaded together in a SINGLE ELECTRONIC SUBMISSION
+(one electronic envelope) under Application No. 19/639,222.
+
+During the upload workflow:
+- Step 1: Upload all PDF files.
+- Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
+- Step 3: Proceed to the Fee Calculation screen (where fees are calculated in one cart).
+- Step 4: Pay the total calculated fees in one single credit card/deposit transaction.
+
+
+2. ITEM-BY-ITEM DOCUMENT FILING & BILLING CODE MAPPING
+--------------------------------------------------------------------------------
+
+ITEM 1: Main Response to Pre-Exam Notice
+  - File: 19639222-RESPONSE-MISSING-PARTS-10092026.pdf
+  - Portal Dropdown Description: "Applicant Response to Pre-Exam Formalities Notice"
+  - USPTO Internal Doc Code: RESP.PRE (or RCMS)
+  - Direct Document Fee: $0.00 (No fee required for the response document itself)
+  - Purpose: Formal response curing all pre-examination deficiencies, asserting
+             Small Entity status, and referencing all attachments.
+
+ITEM 2: Replacement Claims
+  - File: 19639222-REPLACEMENT-CLAIMS-10092026.pdf
+  - Portal Dropdown Description: "Claims"
+  - USPTO Internal Doc Code: CLM
+  - Direct Document Fee: $0.00 (Within original claim count of 9 total claims)
+  - Purpose: Replacement Claims 1-9 commencing on a separate sheet (37 CFR § 1.75(h)).
+
+ITEM 3: Replacement Abstract
+  - File: 19639222-REPLACEMENT-ABSTRACT-10092026.pdf
+  - Portal Dropdown Description: "Abstract"
+  - USPTO Internal Doc Code: ABST
+  - Direct Document Fee: $0.00
+  - Purpose: Replacement Abstract commencing on a separate sheet (37 CFR § 1.72(b)).
+
+ITEM 4: Petition for Two-Month Extension of Time
+  - File: 19639222-EXTENSION-OF-TIME-10092026.pdf
+  - Portal Dropdown Description: "Extension of Time"
+  - USPTO Internal Doc Code: EXT.X
+  - Mandatory Billing / Fee Code: 2252
+  - Fee Description: EXTENSION FOR RESPONSE WITHIN SECOND MONTH, EXCEPT PROVISIONAL APPLICATIONS
+  - Small Entity Fee Amount: $276.00 (MANDATORY TO AVOID ABANDONMENT)
+  - Explanation: The original 2-month period for reply to the July 7, 2026 Notice
+                 expired September 8, 2026. The 1st month extension expired
+                 October 7, 2026. A 2nd month extension (under 37 CFR § 1.136(a))
+                 extends the deadline to Monday, November 9, 2026. This fee must
+                 be paid at the time of submission.
+
+ITEM 5: Request for Suspension of Action under 37 CFR § 1.103(a)
+  - File: 19639222-REQUEST-FOR-SUSPENSION-1103A-10092026.pdf
+  - Portal Dropdown Description: "Letter Requesting Suspension of Action"
+  - USPTO Internal Doc Code: SUSP.REQ
+  - Applicable Billing / Fee Code: 2830
+  - Fee Description: PROCESSING FEE, EXCEPT IN PROVISIONAL APPLICATIONS (37 CFR 1.17(i))
+  - Small Entity Fee Amount: $60.00
+  - Purpose: Formal request to suspend action for 6 months once pre-exam is cleared,
+             based on collateral litigation in federal court (SDTX 4:26-cv-08794).
+
+
+3. FEE SUMMARY FOR THE ELECTRONIC SUBMISSION CART
+--------------------------------------------------------------------------------
+
+A. Mandatory Immediate Fees in Patent Center Payment Cart:
+   1. Fee Code 2252 (Two-Month Extension of Time, Small Entity):       $276.00
+   2. Fee Code 2830 (Processing Fee / Suspension under 1.17(i)):         $60.00
+   -----------------------------------------------------------------------------
+   SUBTOTAL IMMEDIATE PAYMENT:                                         $336.00
+
+B. Small Entity Conversion Delta (If Prompted by Patent Center Fee Engine):
+   Because fees were initially paid at Micro Entity rates on April 5 and July 24,
+   converting to Small Entity requires paying the difference (delta):
+   - Basic Filing Fee (Fee Code 4011/2011 Small Entity):                 $70.00
+   - Search Fee Delta ($308.00 Small - $154.00 Micro):                  $154.00
+   - Examination Fee Delta ($352.00 Small - $176.00 Micro):             $176.00
+   - Non-DOCX Surcharge Delta ($172.00 Small - $86.00 Micro):            $86.00
+   - Late Surcharge Delta (Fee Code 2051, $68.00 Small - $34.00 Micro):   $34.00
+   - Information Disclosure Statement Delta ($112.00 Small - $56.00):    $56.00
+   -----------------------------------------------------------------------------
+   MAXIMUM TOTAL FEE DELTA FOR SMALL ENTITY:                           $576.00
+
+Note: If Patent Center's automated fee calculator does not automatically add the $576.00
+pre-exam delta during this submission, pay the immediate $388.00 (or $276.00 extension).
+The Office of Patent Application Processing (OPAP) will accept the response and, if
+any fee balance remains, issue a simple fee accounting notice without risking abandonment.
+================================================================================

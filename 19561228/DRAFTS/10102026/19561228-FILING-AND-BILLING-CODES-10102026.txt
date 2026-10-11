@@ -1,0 +1,107 @@
+================================================================================
+USPTO PATENT CENTER ELECTRONIC SUBMISSION GUIDE: FILING & BILLING CODES
+APPLICATION NO.: 19/561,228 | CONFIRMATION NO.: 9273
+TITLE: METHOD FOR LEGACY PROTOCOL TUNNELING OVER A HIGH-CARDINALITY INTERFACE
+INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
+CORRESPONDENCE EMAILS: rj.aguiar@gmail.com (USPTO Account) | rj.aguiar.m@gmail.com | reinaldo.aguiar.marcano@isbn9781971481296.com
+EXAMINER: ANDREA BENNETT | OFFICE OF PETITIONS: Cliff Congo
+ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27)
+DATE OF SUBMISSION: October 10, 2026
+CRITICAL EXTENSION CUTOFF: NOVEMBER 9, 2026 (5-MONTH MAXIMUM DEADLINE VIA 37 CFR 1.7(a))
+================================================================================
+
+*** FEE ALLOCATION WATERFALL STRATEGY ***
+- Official records (Notice of Incomplete Reply 2026-08-05 & WFEE) confirm $416.00 in unapplied
+  funds on deposit in this application.
+- Prior 2-Month Extension fee of $276.00 was paid on 2026-07-31 under Fee Code 2252.
+- Gross 5-Month Extension Fee (Code 2255) is $1,358.00; less $276.00 credit = $1,082.00 incremental fee.
+- Response papers instruct the Office to apply the $416.00 deposit credit to Extension fees FIRST (Priority 1),
+  securing 100% legal timeliness before the November 9, 2026 cutoff and reducing net extension shortfall to $666.00.
+- Net Immediate Fees: Extension Shortfall ($666.00) + Suspension Processing Fee ($60.00) = $726.00.
+- Base fee balance ($486.00) is deferred to an administrative Notice of Fee Deficiency under
+  37 CFR § 1.53(f), or held in abeyance during the 6-month suspension under 37 CFR § 1.103(a).
+================================================================================
+
+1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
+--------------------------------------------------------------------------------
+In the USPTO Patent Center portal (patentcenter.uspto.gov), all documents listed
+below are uploaded together in a SINGLE ELECTRONIC SUBMISSION (one electronic envelope)
+under Application No. 19/561,228.
+
+During the upload workflow:
+- Step 1: Upload all 3 PDF files.
+- Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
+- Step 3: Do NOT check the "Petition(s)" checkbox (leave unchecked to route to OPAP).
+- Step 4: Follow the Cart Instructions in Section 3 below.
+
+
+2. ITEM-BY-ITEM DOCUMENT FILING & BILLING CODE MAPPING
+--------------------------------------------------------------------------------
+
+ITEM 1: Main Response to Pre-Exam Notices
+  - File: 19561228-RESPONSE-INCOMPLETE-REPLY-10102026.pdf
+  - Portal Dropdown Description: "Applicant Response to Pre-Exam Formalities Notice"
+  - USPTO Internal Doc Code: RESP.PRE (or PEFR)
+  - Direct Document Fee: $0.00
+  - Purpose: Formal response curing the August 5, 2026 Notice of Incomplete Reply,
+             April 8, 2026 Notice to File Missing Parts, and September 29, 2026
+             Petition Decision, reaffirming Small Entity status, directing deposit
+             credits, and incorporating all exhibits.
+
+ITEM 2: Petition for Five-Month Extension of Time
+  - File: 19561228-EXTENSION-OF-TIME-10102026.pdf
+  - Portal Dropdown Description: "Extension of Time"
+  - USPTO Internal Doc Code: EXT.X
+  - Mandatory Billing / Fee Code: 2255
+  - Fee Description: EXTENSION FOR RESPONSE WITHIN FIFTH MONTH, EXCEPT PROVISIONAL APPLICATIONS
+  - Gross Fee Amount: $1,358.00 (Small Entity)
+  - Net Incremental Extension Fee Due: $1,082.00 (after $276 credit for prior payment)
+  - Unapplied Credit Application: $416.00 applied from deposit, leaving $666.00 net shortfall.
+
+ITEM 3: Conditional Request for Suspension of Action under 37 CFR § 1.103(a)
+  - File: 19561228-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf
+  - Portal Dropdown Description: "Letter Requesting Suspension of Action"
+  - USPTO Internal Doc Code: SUSP.REQ
+  - Applicable Billing / Fee Code: 2830
+  - Fee Description: PROCESSING FEE, EXCEPT IN PROVISIONAL APPLICATIONS (37 CFR 1.17(i))
+  - Small Entity Fee Amount: $60.00
+  - Purpose: Formal request to suspend action for 6 months once pre-exam is cleared,
+             based on active federal litigation in SDTX (Case No. 4:26-cv-08794,
+             Judge Kenneth M. Hoyt; Cause: 28:1983 Civil Rights, Nature of Suit: 440).
+
+
+3. FEE SUMMARY, WATERFALL ALLOCATION & CART INSTRUCTIONS
+--------------------------------------------------------------------------------
+
+A. Gross Statutory Small Entity Fees:
+   1. Fee Code 2255 (Five-Month Extension of Time, Gross):            $1,358.00
+      - Less Credit for Prior 2-Month Extension Paid (Code 2252):     -$276.00
+      - Net Incremental Extension Fee:                                 $1,082.00
+   2. Fee Code 2830 (Processing Fee / Suspension under 1.17(i)):         $60.00
+   3. Pre-Exam Base Fee Delta ($70 basic + $308 search + $352 exam + $172 non-DOCX - $416 credit): $486.00
+   -----------------------------------------------------------------------------
+   GROSS STATUTORY LIABILITY:                                         $1,628.00
+
+B. Fee Allocation Waterfall (Unapplied Funds on Deposit: $416.00):
+   1. PRIORITY 1: Incremental Extension of Time Fee ($1,082.00):
+      - Applied from Unapplied Deposit Credit:                         -$416.00
+      - Net Extension Shortfall:                                        $666.00
+   2. PRIORITY 2: Suspension Processing Fee (Code 2830):                 $60.00
+   3. PRIORITY 3-5: Base Fee Deficiency (Deferred to 1.53(f) notice):   $486.00
+   -----------------------------------------------------------------------------
+   NET OUT-OF-POCKET CASH PAYABLE TODAY:                                $726.00
+   (Extension Shortfall $666.00 + Suspension Fee $60.00)
+
+C. EXACT PATENT CENTER CART INSTRUCTIONS:
+   Option 1 (Pay Later Workflow):
+   - Proceed through checkout at $0.00 / "Pay Later".
+   - The response papers formally request that OPAP debit the $416 deposit credit to the
+     extension fee first, and OPAP will issue a Notice of Fee Deficiency for the balance.
+
+   Option 2 (Credit Card Checkout):
+   - In the fee selection table, select Fee Code 2830 ($60.00).
+   - If Patent Center only allows selecting the full fixed Fee Code 2255 ($1,358.00),
+     DO NOT select it (to avoid double-paying the $276 prior extension and $416 credit).
+     Instead, submit at $0.00 / Pay Later and allow OPAP's billing notice to assess the
+     true $666.00 net extension delta.
+================================================================================

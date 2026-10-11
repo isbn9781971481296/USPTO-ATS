@@ -1,0 +1,24 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{setspace}
+
+\geometry{letterpaper, margin=1in}
+\doublespacing
+
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+    \textbf{\large ABSTRACT OF THE DISCLOSURE}
+\end{center}
+
+\vspace{0.6cm}
+
+A communication protocol for negotiating data encoding schemes at the Physical (Layer 1) and Data-Link (Layer 2) layers of the OSI model, specifically for high-cardinality parallel interfaces. The protocol comprises: a device, upon connection, transmitting a capabilities frame using a universally supported, low-cardinality default encoding; the capabilities frame advertising the device's supported encoding maps; a receiving device responding with a selection frame choosing one of the advertised encodings; and both devices then switching from the default encoding to the selected, high-density encoding for all subsequent data transmission in the session. This moves encoding negotiation from the Application Layer to the hardware layer, enabling interfaces where the physical signal representation itself is dynamically variable.
+
+\end{document}

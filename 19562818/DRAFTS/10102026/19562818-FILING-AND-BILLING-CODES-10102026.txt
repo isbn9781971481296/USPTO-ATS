@@ -1,0 +1,137 @@
+================================================================================
+USPTO PATENT CENTER ELECTRONIC SUBMISSION GUIDE: FILING & BILLING CODES
+APPLICATION NO.: 19/562,818 | CONFIRMATION NO.: 1093
+TITLE: APPARATUS FOR A MASSIVELY PARALLEL OPTICAL DATA BUS ARCHITECTURE
+INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
+CORRESPONDENCE EMAILS: rj.aguiar@gmail.com (USPTO Account) | rj.aguiar.m@gmail.com | reinaldo.aguiar.marcano@isbn9781971481296.com
+EXAMINER: ANDREA BENNETT | OFFICE OF PETITIONS: Charles Steven Brantley
+ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27)
+DATE OF SUBMISSION: October 10, 2026
+CRITICAL EXTENSION CUTOFF: NOVEMBER 9, 2026 (2-MONTH EXTENSION DEADLINE)
+================================================================================
+
+*** FEE ALLOCATION WATERFALL STRATEGY ***
+- Official records (Notice of Incomplete Reply 2026-10-06 & WFEE) confirm $416.00 in unapplied
+  funds on deposit in this application.
+- 2-Month Extension Fee (Code 2252) is $276.00 (Small Entity).
+- Suspension Processing Fee (Code 2830) is $60.00 (Small Entity).
+- Total immediate procedural fees: $276.00 + $60.00 = $336.00.
+- Because your deposit credit ($416.00) exceeds $336.00, both the Extension fee and Suspension
+  fee are 100% satisfied by your existing deposit, leaving $80.00 to reduce the base fee delta!
+- Base fee balance ($406.00 net) is deferred to an administrative Notice of Fee Deficiency under
+  37 CFR § 1.53(f), or held in abeyance during the 6-month suspension under 37 CFR § 1.103(a).
+- NET IMMEDIATE CASH REQUIRED TODAY: $0.00!
+================================================================================
+
+1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
+--------------------------------------------------------------------------------
+In the USPTO Patent Center portal (patentcenter.uspto.gov), all documents listed
+below are uploaded together in a SINGLE ELECTRONIC SUBMISSION (one electronic envelope)
+under Application No. 19/562,818.
+
+During the upload workflow:
+- Step 1: Upload all 6 PDF files.
+- Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
+- Step 3: Do NOT check the "Petition(s)" checkbox (leave unchecked to route to OPAP).
+- Step 4: Proceed through checkout at $0.00 / "Pay Later". Do NOT select or pay any fees by card.
+
+
+2. ITEM-BY-ITEM DOCUMENT FILING & BILLING CODE MAPPING
+--------------------------------------------------------------------------------
+
+ITEM 1: Main Response to Pre-Exam Notices
+  - File: 19562818-RESPONSE-INCOMPLETE-REPLY-10102026.pdf
+  - Portal Dropdown Description: "Applicant Response to Pre-Exam Formalities Notice"
+  - USPTO Internal Doc Code: RESP.PRE (or PEFR)
+  - Direct Document Fee: $0.00
+  - Purpose: Formal response curing the October 6, 2026 Notice of Incomplete Reply,
+             July 9, 2026 Notice to File Missing Parts, and October 1, 2026
+             Petition Decision, reaffirming Small Entity status, directing deposit
+             credits, and incorporating all exhibits.
+
+ITEM 2: Standalone Replacement Claims
+  - File: 19562818-REPLACEMENT-CLAIMS-10102026.pdf
+  - Portal Dropdown Description: "Claims"
+  - USPTO Internal Doc Code: CLM
+  - Direct Document Fee: $0.00 (Claims 1-7)
+  - Purpose: Clean replacement Claims 1-7 commencing on a separate sheet (37 CFR § 1.75(h)),
+             consecutively numbered under 37 CFR § 1.126, double spaced under 1.52(b),
+             pure statutory heading "CLAIMS" / "What is claimed is:".
+
+ITEM 3: Standalone Replacement Abstract
+  - File: 19562818-REPLACEMENT-ABSTRACT-10102026.pdf
+  - Portal Dropdown Description: "Abstract"
+  - USPTO Internal Doc Code: ABST
+  - Direct Document Fee: $0.00
+  - Purpose: Clean replacement Abstract commencing on a separate sheet (37 CFR § 1.72(b)),
+             under 150 words, double spaced under 37 CFR § 1.52(b),
+             pure statutory heading "ABSTRACT OF THE DISCLOSURE".
+
+ITEM 4: Standalone Formal Replacement Drawing Sheet (37 CFR § 1.84)
+  - File: 19562818-REPLACEMENT-DRAWINGS-10102026.pdf
+  - Portal Dropdown Description: "Drawings" or "Drawings - other than black and white line drawings"
+  - USPTO Internal Doc Code: DRW
+  - Direct Document Fee: $0.00
+  - Purpose: Formal standalone drawing sheet (Sheet 1 of 1 presenting FIG. 1)
+             complying with 37 CFR § 1.84, executed on plain white paper with 1-inch
+             margins, concise labels, and Arabic numerals (1.84(o), (u)(1)).
+
+ITEM 5: Executed Inventor's Declaration (37 CFR § 1.63)
+  - File: 19562818-INVENTOR-DECLARATION-10102026.pdf
+  - Portal Dropdown Description: "Oath or Declaration"
+  - USPTO Internal Doc Code: OATH
+  - Direct Document Fee: $0.00
+  - Purpose: Executed declaration explicitly referencing Application No. 19/562,818 and
+             filing date March 11, 2026, stating legal residence (26714 Valleyside Dr),
+             mailing address (2302 Britton Ridge Dr), citizenship (USA), and
+             statutory authorization averment under 37 CFR § 1.63(a)(4).
+
+ITEM 6: Petition for Two-Month Extension of Time
+  - File: 19562818-EXTENSION-OF-TIME-10102026.pdf
+  - Portal Dropdown Description: "Extension of Time"
+  - USPTO Internal Doc Code: EXT.X
+  - Mandatory Billing / Fee Code: 2252
+  - Fee Description: EXTENSION FOR RESPONSE WITHIN SECOND MONTH, EXCEPT PROVISIONAL APPLICATIONS
+  - Small Entity Fee Amount: $276.00 (EXTENDS STATUTORY DEADLINE TO NOV 9, 2026)
+  - Unapplied Credit Application: $276.00 applied 100% from deposit credit ($140 credit remains).
+
+ITEM 7: Conditional Request for Suspension of Action under 37 CFR § 1.103(a)
+  - File: 19562818-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf
+  - Portal Dropdown Description: "Letter Requesting Suspension of Action"
+  - USPTO Internal Doc Code: SUSP.REQ
+  - Applicable Billing / Fee Code: 2830
+  - Fee Description: PROCESSING FEE, EXCEPT IN PROVISIONAL APPLICATIONS (37 CFR 1.17(i))
+  - Small Entity Fee Amount: $60.00
+  - Purpose: Formal request to suspend action for 6 months once pre-exam is cleared,
+             based on active federal litigation in SDTX (Case No. 4:26-cv-08794,
+             Judge Kenneth M. Hoyt; Cause: 28:1983 Civil Rights, Nature of Suit: 440).
+  - Unapplied Credit Application: $60.00 applied 100% from remaining deposit credit ($80 credit remains).
+
+
+3. FEE SUMMARY, WATERFALL ALLOCATION & CART INSTRUCTIONS
+--------------------------------------------------------------------------------
+
+A. Gross Statutory Small Entity Fees:
+   1. Fee Code 2252 (Two-Month Extension of Time, Small Entity):        $276.00
+   2. Fee Code 2830 (Processing Fee / Suspension under 1.17(i)):         $60.00
+   3. Pre-Exam Base Fee Delta ($70 basic + $308 search + $352 exam + $172 non-DOCX - $416 credit): $486.00
+   -----------------------------------------------------------------------------
+   GROSS STATUTORY LIABILITY:                                           $822.00
+
+B. Fee Allocation Waterfall (Unapplied Funds on Deposit: $416.00):
+   1. PRIORITY 1: Extension of Time Fee (Code 2252, $276.00):          -$276.00 (100% COVERED)
+   2. PRIORITY 2: Suspension Processing Fee (Code 2830, $60.00):        -$60.00 (100% COVERED)
+   3. PRIORITY 3-5: Remaining Deposit Credit Applied to Base Delta:     -$80.00
+   -----------------------------------------------------------------------------
+   NET OUT-OF-POCKET CASH PAYABLE TODAY:                                  $0.00
+   REMAINING BASE DEFICIENCY (Deferred to 1.53(f) Deficiency Notice):   $406.00
+
+C. EXACT PATENT CENTER CART INSTRUCTIONS:
+   * DO NOT SELECT OR PAY ANY FEES BY CREDIT CARD TODAY.
+   * Proceed through checkout at $0.00 / "Pay Later".
+   * The response papers formally request that OPAP debit the $276.00 extension fee
+     and $60.00 suspension fee directly from your $416.00 deposit credit.
+   * OPAP will acknowledge the response as 100% timely and issue an administrative
+     Notice of Fee Deficiency under 37 CFR § 1.53(f) for the remaining $406.00 base delta,
+     giving you a fresh 2-month window or held in abeyance during the 6-month suspension.
+================================================================================

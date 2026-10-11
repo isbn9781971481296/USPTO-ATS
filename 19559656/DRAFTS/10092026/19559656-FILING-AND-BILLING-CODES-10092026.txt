@@ -1,0 +1,96 @@
+================================================================================
+USPTO PATENT CENTER ELECTRONIC SUBMISSION GUIDE: FILING & BILLING CODES
+APPLICATION NO.: 19/559,656 | CONFIRMATION NO.: 1120
+TITLE: DISTRIBUTED SYSTEM AND METHOD FOR COVERT COMMUNICATION VIA SATELLITE-OBSERVABLE, GEO-SPATIALLY LOCATED VISUAL ENCODERS
+INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
+ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27)
+DATE OF SUBMISSION: October 9, 2026
+CRITICAL EXTENSION CUTOFF: OCTOBER 12, 2026 (2-MONTH EXTENSION DEADLINE)
+================================================================================
+
+1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
+--------------------------------------------------------------------------------
+In the USPTO Patent Center portal (patentcenter.uspto.gov), you do NOT submit
+separate electronic filings for each document. 
+
+All documents listed below are uploaded together in a SINGLE ELECTRONIC SUBMISSION
+(one electronic envelope) under Application No. 19/559,656.
+
+During the upload workflow:
+- Step 1: Upload all PDF files.
+- Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
+- Step 3: Do NOT check the "Petition(s)" checkbox (leave unchecked to route to OPAP).
+- Step 4: In the fee selection table, check Fee Code 2252 ($276.00) and Fee Code 2830 ($60.00).
+- Step 5: Pay the total calculated fees in one single credit card transaction.
+
+
+2. ITEM-BY-ITEM DOCUMENT FILING & BILLING CODE MAPPING
+--------------------------------------------------------------------------------
+
+ITEM 1: Main Response to Pre-Exam Notices
+  - File: 19559656-RESPONSE-MISSING-PARTS-10092026.pdf
+  - Portal Dropdown Description: "Applicant Response to Pre-Exam Formalities Notice"
+  - USPTO Internal Doc Code: RESP.PRE
+  - Direct Document Fee: $0.00 (No fee required for transmittal)
+  - Purpose: Formal response curing the June 12, 2026 Notice to File Missing Parts
+             and September 15, 2026 Notice of Incomplete Reply, reaffirming
+             Small Entity status, and referencing attachments.
+
+ITEM 2: Replacement Abstract (Standalone)
+  - File: 19559656-REPLACEMENT-ABSTRACT-10092026.pdf
+  - Portal Dropdown Description: "Abstract"
+  - USPTO Internal Doc Code: ABST
+  - Direct Document Fee: $0.00
+  - Purpose: Replacement Abstract commencing on a separate sheet (37 CFR § 1.72(b)).
+             (Note: Original Claims 1-20 are already on a separate sheet in the file).
+
+ITEM 3: Petition for Two-Month Extension of Time
+  - File: 19559656-EXTENSION-OF-TIME-10092026.pdf
+  - Portal Dropdown Description: "Extension of Time"
+  - USPTO Internal Doc Code: EXT.X
+  - Mandatory Billing / Fee Code: 2252
+  - Fee Description: EXTENSION FOR RESPONSE WITHIN SECOND MONTH, EXCEPT PROVISIONAL APPLICATIONS
+  - Small Entity Fee Amount: $276.00 (MANDATORY TO AVOID ABANDONMENT BY OCT 12, 2026)
+  - Urgency Note: The initial 2-month period expired August 12, 2026. The 1st month
+                  extension expired September 14, 2026. The 2nd month extension
+                  expires on MONDAY, OCTOBER 12, 2026. Submitting this fee now
+                  rescues the application from immediate abandonment.
+
+ITEM 4: Conditional Request for Suspension of Action under 37 CFR § 1.103(a)
+  - File: 19559656-REQUEST-FOR-SUSPENSION-1103A-10092026.pdf
+  - Portal Dropdown Description: "Letter Requesting Suspension of Action"
+  - USPTO Internal Doc Code: SUSP.REQ
+  - Applicable Billing / Fee Code: 2830
+  - Fee Description: PROCESSING FEE, EXCEPT IN PROVISIONAL APPLICATIONS (37 CFR 1.17(i))
+  - Small Entity Fee Amount: $60.00
+  - Purpose: Formal request to suspend action for 6 months once pre-exam is cleared,
+             based on active federal litigation in SDTX (Civil Action No. 4:26-CV-08794).
+
+
+3. FEE SUMMARY FOR THE ELECTRONIC SUBMISSION CART
+--------------------------------------------------------------------------------
+
+A. Mandatory Immediate Fees to Select in Patent Center Payment Cart:
+   1. Fee Code 2252 (Two-Month Extension of Time, Small Entity):       $276.00
+   2. Fee Code 2830 (Processing Fee / Suspension under 1.17(i)):         $60.00
+   -----------------------------------------------------------------------------
+   SUBTOTAL IMMEDIATE PAYMENT:                                         $336.00
+
+B. Small Entity Pre-Exam Base Fee Delta (Itemized in Notice to File Missing Parts):
+   The June 12, 2026 Notice and October 1, 2026 Petition Decision itemize the
+   following base fees due under Small Entity status:
+   - Basic Filing Fee (Small Entity, Fee Code 4011):                     $70.00
+   - Remaining Surcharge Balance ($68.00 Small - $34.00 paid on 7/25):   $34.00
+   - Search Fee Balance (Small Entity, Fee Code 2111):                  $154.00
+   - Examination Fee Balance (Small Entity, Fee Code 2311):             $176.00
+   - Non-DOCX Surcharge Balance (Small Entity, Fee Code 2054):           $86.00
+   -----------------------------------------------------------------------------
+   TOTAL PRE-EXAM BASE FEE DEFICIENCY:                                 $520.00
+
+Payment Strategy:
+If Patent Center prompts you to select or pay the $520.00 base fees now, pay them alongside
+the $336.00 ($856.00 total). If Patent Center only allows selecting the Extension and
+Processing fees, pay the immediate $336.00. The application will be protected from
+abandonment, OPAP will clear the formalities, and any remaining fee accounting will be
+settled without risking abandonment.
+================================================================================

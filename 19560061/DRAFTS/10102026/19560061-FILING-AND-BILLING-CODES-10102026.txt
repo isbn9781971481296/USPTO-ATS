@@ -1,0 +1,126 @@
+================================================================================
+USPTO PATENT CENTER ELECTRONIC SUBMISSION GUIDE: FILING & BILLING CODES
+APPLICATION NO.: 19/560,061 | CONFIRMATION NO.: 5295
+TITLE: OPTICALLY-ATTACHED STORAGE APPARATUS AND SYSTEM
+INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
+CORRESPONDENCE EMAILS: rj.aguiar@gmail.com (USPTO Account) | rj.aguiar.m@gmail.com | reinaldo.aguiar.marcano@isbn9781971481296.com
+EXAMINER: ANDREA BENNETT | OFFICE OF PETITIONS: Charles Steven Brantley
+ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27)
+DATE OF SUBMISSION: October 10, 2026
+CRITICAL EXTENSION CUTOFF: OCTOBER 12, 2026 (ONE-MONTH EXTENSION DEADLINE VIA 37 CFR 1.7(a))
+================================================================================
+
+*** FEE ALLOCATION WATERFALL STRATEGY (RULE R-32 SYNCHRONIZED) ***
+- Official records (Notice to File Missing Parts 2026-07-10 & WFEE) confirm $416.00 in unapplied
+  funds on deposit in this application.
+- 1-Month Extension Fee (Code 2251) is $94.00 (Small Entity).
+- Suspension Processing Fee (Code 2830) is $60.00 (Small Entity) — REMITTED VIA CARD AT CHECKOUT.
+- Priority 1: $94.00 of your $416.00 deposit credit satisfies the 1-month extension in full ($0 cash),
+  securing 100% legal timeliness through October 12, 2026 and leaving $322.00 in deposit credit.
+- Priority 2: The remaining $322.00 deposit credit is applied directly to reduce the pre-exam base fee
+  balance (deferred to a 37 CFR § 1.53(f) deficiency notice).
+- NET OUT-OF-POCKET CASH PAYABLE TODAY AT CHECKOUT: $60.00 (Fee Code 2830).
+================================================================================
+
+1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
+--------------------------------------------------------------------------------
+In the USPTO Patent Center portal (patentcenter.uspto.gov), all documents listed
+below are uploaded together in a SINGLE ELECTRONIC SUBMISSION (one electronic envelope)
+under Application No. 19/560,061.
+
+During the upload workflow:
+- Step 1: Upload all 5 PDF files.
+- Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
+- Step 3: Do NOT check the "Petition(s)" checkbox (leave unchecked to route to OPAP).
+- Step 4: In the Fee Payment section, select Fee Code 2830 ($60.00) and pay via credit card.
+
+
+2. ITEM-BY-ITEM DOCUMENT FILING & BILLING CODE MAPPING
+--------------------------------------------------------------------------------
+
+ITEM 1: Main Response to Notice to File Missing Parts
+  - File: 19560061-RESPONSE-MISSING-PARTS-10102026.pdf
+  - Portal Dropdown Description: "Applicant Response to Pre-Exam Formalities Notice"
+  - USPTO Internal Doc Code: RESP.PRE (or PEFR)
+  - Direct Document Fee: $0.00
+  - Purpose: Formal response curing the July 10, 2026 Notice to File Missing Parts and
+             October 1, 2026 Petition Decision, certifying no new matter under 37 CFR § 1.125(b),
+             reaffirming Small Entity status, directing deposit credits, and incorporating exhibits.
+
+ITEM 2: Compliant Substitute Specification (Double Spaced)
+  - File: 19560061-SUBSTITUTE-SPECIFICATION-10102026.pdf
+  - Portal Dropdown Description: "Specification"
+  - USPTO Internal Doc Code: SPEC
+  - Direct Document Fee: $0.00
+  - Purpose: Clean substitute specification formatted throughout in strict double line spacing
+             complying with 37 CFR § 1.52(b), § 1.121(b)(3), and § 1.125.
+
+ITEM 3: Standalone Replacement Claims (Double Spaced)
+  - File: 19560061-REPLACEMENT-CLAIMS-10102026.pdf
+  - Portal Dropdown Description: "Claims"
+  - USPTO Internal Doc Code: CLM
+  - Direct Document Fee: $0.00 (Claims 1-5)
+  - Purpose: Clean replacement Claims 1-5 commencing on a separate sheet (37 CFR § 1.75(h)),
+             consecutively numbered under 37 CFR § 1.126, double spaced under 1.52(b),
+             pure statutory heading "CLAIMS" / "What is claimed is:".
+
+ITEM 4: Standalone Replacement Abstract (Double Spaced)
+  - File: 19560061-REPLACEMENT-ABSTRACT-10102026.pdf
+  - Portal Dropdown Description: "Abstract"
+  - USPTO Internal Doc Code: ABST
+  - Direct Document Fee: $0.00
+  - Purpose: Clean replacement Abstract commencing on a separate sheet (37 CFR § 1.72(b)),
+             under 150 words, double spaced under 37 CFR § 1.52(b),
+             pure statutory heading "ABSTRACT OF THE DISCLOSURE".
+
+ITEM 5: Petition for One-Month Extension of Time
+  - File: 19560061-EXTENSION-OF-TIME-10102026.pdf
+  - Portal Dropdown Description: "Extension of Time"
+  - USPTO Internal Doc Code: EXT.X
+  - Mandatory Billing / Fee Code: 2251
+  - Fee Description: EXTENSION FOR RESPONSE WITHIN FIRST MONTH, EXCEPT PROVISIONAL APPLICATIONS
+  - Small Entity Fee Amount: $94.00 (EXTENDS STATUTORY DEADLINE TO OCT 12, 2026)
+  - Unapplied Credit Application: $94.00 applied 100% from deposit credit ($322 credit remains).
+  - Net Cart Payment: $0.00 (Do NOT select in fee cart; covered by deposit credit).
+
+ITEM 6: Conditional Request for Suspension of Action under 37 CFR § 1.103(a)
+  - File: 19560061-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf
+  - Portal Dropdown Description: "Letter Requesting Suspension of Action"
+  - USPTO Internal Doc Code: SUSP.REQ
+  - Applicable Billing / Fee Code: 2830
+  - Fee Description: PROCESSING FEE, EXCEPT IN PROVISIONAL APPLICATIONS (37 CFR 1.17(i))
+  - Small Entity Fee Amount: $60.00
+  - Fee Payment: Remitted concurrently herewith via credit card in Patent Center.
+  - Purpose: Formal request to suspend action for 6 months once pre-exam is cleared,
+             based on active federal litigation in SDTX (Case No. 4:26-cv-08794,
+             Judge Kenneth M. Hoyt; Cause: 28:1983 Civil Rights, Nature of Suit: 440).
+
+
+3. FEE SUMMARY, WATERFALL ALLOCATION & CART INSTRUCTIONS
+--------------------------------------------------------------------------------
+
+A. Gross Statutory Small Entity Fees:
+   1. Fee Code 2251 (One-Month Extension of Time, Small Entity):        $94.00
+   2. Fee Code 2830 (Processing Fee / Suspension under 1.17(i)):         $60.00
+   3. Pre-Exam Base Fee Delta ($70 basic + $308 search + $352 exam + $68 surcharge + $172 non-DOCX - $416 credit): $554.00
+   -----------------------------------------------------------------------------
+   GROSS STATUTORY LIABILITY:                                           $708.00
+
+B. Fee Allocation Waterfall (Unapplied Funds on Deposit: $416.00):
+   1. PRIORITY 1: Extension of Time Fee (Code 2251, $94.00):           -$94.00 (100% COVERED BY DEPOSIT)
+   2. SUSPENSION FEE: Paid Concurrently by Credit Card:                  $60.00 (FEE CODE 2830)
+   3. PRIORITY 2: Remaining Deposit Credit Applied to Base Delta:      -$322.00
+   -----------------------------------------------------------------------------
+   NET OUT-OF-POCKET CASH PAYABLE TODAY BY CREDIT CARD:                  $60.00
+   REMAINING BASE DEFICIENCY (Deferred to 1.53(f) Deficiency Notice):   $232.00
+
+C. EXACT PATENT CENTER CART INSTRUCTIONS:
+   * In the fee selection table, select Fee Code 2830 ($60.00).
+   * Do NOT select Fee Code 2251 ($94.00) in the cart.
+   * Proceed to checkout and pay $60.00 by credit card.
+   * The response papers formally request that OPAP debit the $94.00 extension fee
+     directly from your $416.00 deposit credit, and apply the remaining $322.00 credit
+     to reduce the base fee delta.
+   * OPAP will acknowledge the response as 100% timely and issue an administrative
+     Notice of Fee Deficiency under 37 CFR § 1.53(f) for the remaining base balance.
+================================================================================

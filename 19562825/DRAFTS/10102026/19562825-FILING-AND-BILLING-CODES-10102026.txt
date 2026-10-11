@@ -1,0 +1,126 @@
+================================================================================
+USPTO PATENT CENTER ELECTRONIC SUBMISSION GUIDE: FILING & BILLING CODES
+APPLICATION NO.: 19/562,825 | CONFIRMATION NO.: 2233
+TITLE: SYSTEM FOR AN OPTICALLY-NATIVE CENTRAL PROCESSING UNIT
+INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
+CORRESPONDENCE EMAILS: rj.aguiar@gmail.com (USPTO Account) | rj.aguiar.m@gmail.com | reinaldo.aguiar.marcano@isbn9781971481296.com
+EXAMINER: ANDREA BENNETT | OFFICE OF PETITIONS: Charles Steven Brantley
+ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27)
+DATE OF SUBMISSION: October 10, 2026
+CRITICAL EXTENSION CUTOFF: NOVEMBER 9, 2026 (FIVE-MONTH EXTENSION DEADLINE)
+================================================================================
+
+*** STRATEGY 1B: CONCURRENT ELECTRONIC FEE PAYMENT (ZERO ADMINISTRATIVE DEPENDENCY) ***
+To eliminate all administrative ambiguity, cure every defect cited in the USPTO notices,
+and guarantee that Application 19/562,825 advances immediately to Technology Center 2100,
+Applicant is remitting 100% of all required statutory fees via credit card at checkout today:
+- Five-Month Extension of Time (Fee Code 2255, Small Entity): $1,358.00
+- Suspension Processing Fee (Fee Code 2830, Small Entity): $60.00
+- Pre-Examination Base Fees (Basic, Non-DOCX, Search, Exam): $486.00 (net balance) to $902.00 (gross)
+- TOTAL IMMEDIATE CHECKOUT PAYMENT BY CREDIT CARD: $1,904.00 (to $2,320.00).
+- Concurrently, the response papers formally demand a REFUND of $794.00 under 37 CFR § 1.26
+  via Treasury disbursement payable to Applicant at the correspondence address of record:
+  * $416.00 in unapplied deposit funds;
+  * $102.00 surcharge overpayment confirmed by Petitions Officer Brantley (October 8 Decision);
+  * $276.00 prior extension fee from July 31, 2026.
+================================================================================
+
+1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
+--------------------------------------------------------------------------------
+In the USPTO Patent Center portal (patentcenter.uspto.gov), all documents listed
+below are uploaded together in a SINGLE ELECTRONIC SUBMISSION (one electronic envelope)
+under Application No. 19/562,825.
+
+During the upload workflow:
+- Step 1: Upload all 5 PDF files.
+- Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
+- Step 3: Do NOT check the "Petition(s)" checkbox (leave unchecked to route to OPAP).
+- Step 4: In the Fee Payment section, select the exact statutory fee codes listed in Section 3 and pay by credit card.
+
+
+2. ITEM-BY-ITEM DOCUMENT FILING & BILLING CODE MAPPING
+--------------------------------------------------------------------------------
+
+ITEM 1: Main Response to Notice of Incomplete Reply
+  - File: 19562825-RESPONSE-INCOMPLETE-REPLY-10102026.pdf
+  - Portal Dropdown Description: "Applicant Response to Pre-Exam Formalities Notice"
+  - Mandatory Description Standard: Rule R-34 Compliant (Matches uspto-document-descriptions.txt)
+  - Direct Document Fee: $0.00
+  - Purpose: Formal response curing the August 7, 2026 Notice of Incomplete Reply and
+             October 8, 2026 Petition Decision, setting forth item-by-item reconciliation
+             and payment of all base and extension fees, and petitioning for a $794.00 refund.
+
+ITEM 2: Standalone Replacement Claims (Double Spaced)
+  - File: 19562825-REPLACEMENT-CLAIMS-10102026.pdf
+  - Portal Dropdown Description: "Claims"
+  - Mandatory Description Standard: Rule R-34 Compliant (Matches uspto-document-descriptions.txt)
+  - Direct Document Fee: $0.00 (Claims 1-5)
+  - Purpose: Clean replacement Claims 1-5 commencing on a separate sheet (37 CFR § 1.75(h)),
+             consecutively numbered under 37 CFR § 1.126, double spaced under 1.52(b),
+             pure statutory heading "CLAIMS" / "What is claimed is:".
+
+ITEM 3: Standalone Replacement Abstract (Double Spaced)
+  - File: 19562825-REPLACEMENT-ABSTRACT-10102026.pdf
+  - Portal Dropdown Description: "Abstract"
+  - Mandatory Description Standard: Rule R-34 Compliant (Matches uspto-document-descriptions.txt)
+  - Direct Document Fee: $0.00
+  - Purpose: Clean replacement Abstract commencing on a separate sheet (37 CFR § 1.72(b)),
+             under 150 words (104 words), double spaced under 37 CFR § 1.52(b),
+             pure statutory heading "ABSTRACT OF THE DISCLOSURE".
+
+ITEM 4: Petition for Five-Month Extension of Time
+  - File: 19562825-EXTENSION-OF-TIME-10102026.pdf
+  - Portal Dropdown Description: "Extension of Time"
+  - Mandatory Description Standard: Rule R-34 Compliant (Matches uspto-document-descriptions.txt)
+  - Mandatory Billing / Fee Code: 2255
+  - Fee Description: EXTENSION FOR RESPONSE WITHIN FIFTH MONTH, EXCEPT PROVISIONAL APPLICATIONS
+  - Small Entity Fee Amount: $1,358.00 (PAID IN FULL BY CREDIT CARD AT CHECKOUT)
+  - Purpose: Secures 100% legal timeliness through Monday, November 9, 2026.
+
+ITEM 5: Conditional Request for Suspension of Action under 37 CFR § 1.103(a)
+  - File: 19562825-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf
+  - Portal Dropdown Description: "Letter Requesting Suspension of Action"
+  - Mandatory Description Standard: Rule R-34 Compliant (Matches uspto-document-descriptions.txt)
+  - Applicable Billing / Fee Code: 2830
+  - Fee Description: PROCESSING FEE, EXCEPT IN PROVISIONAL APPLICATIONS (37 CFR 1.17(i))
+  - Small Entity Fee Amount: $60.00 (PAID IN FULL BY CREDIT CARD AT CHECKOUT)
+  - Purpose: Formal request to suspend action for 6 months once pre-exam is cleared,
+             based on active federal litigation in SDTX (Case No. 4:26-cv-08794,
+             Judge Kenneth M. Hoyt; Cause: 28:1983 Civil Rights, Nature of Suit: 440).
+
+
+3. EXACT ITEM-BY-ITEM PATENT CENTER CART INSTRUCTIONS (MATCHING USPTO NOTICES)
+--------------------------------------------------------------------------------
+
+In the Patent Center Fee Payment screen, add the following items to your cart:
+
+A. PRE-EXAMINATION BASE FEES (Demanded in Notice of Incomplete Reply 08/07/2026):
+   1. Basic Filing Fee (37 CFR § 1.16(a), Fee Code 4011):               $70.00
+   2. Non-DOCX Format Penalty Fee (37 CFR § 1.16(u), Fee Code 2054):   $172.00
+   3. Application Search Fee (37 CFR § 1.16(k), Fee Code 2111):        $308.00
+   4. Application Examination Fee (37 CFR § 1.16(o), Fee Code 2311):   $352.00
+   -----------------------------------------------------------------------------
+   Gross Pre-Exam Base Fees Total:                                     $902.00
+   * NOTE ON CART SELECTION:
+     - If Patent Center displays the net outstanding base balance ($486.00 after the
+       $416.00 credit previously entered on docket), select the $486.00 balance due.
+     - If Patent Center requires selecting the discrete statutory lines, select the
+       four fee codes above (totaling $902.00).
+
+B. EXTENSION OF TIME FEE (Demanded in Notice of Incomplete Reply & 10/08 PETDEC):
+   * Fee Code 2255: EXTENSION FOR RESPONSE WITHIN FIFTH MONTH:        $1,358.00
+
+C. SUSPENSION PROCESSING FEE (Demanded in 10/08 PETDEC Footnote 1):
+   * Fee Code 2830: PROCESSING FEE, EXCEPT IN PROVISIONAL APPS:          $60.00
+
+--------------------------------------------------------------------------------
+TOTAL CHECKOUT PAYMENT BY CREDIT CARD TODAY:               $1,904.00 (to $2,320.00)
+--------------------------------------------------------------------------------
+
+4. PROCEED TO CHECKOUT:
+   * Pay the total amount by credit card in real-time.
+   * Do NOT use "Pre-Authorization" (Rule R-37 strictly prohibits open-ended pre-authorizations).
+   * Pay the discrete cart total.
+   * This completely clears all formality and financial hurdles, guaranteeing that OPAP
+     advances Application 19/562,825 into Technology Center 2100 with zero delay!
+================================================================================

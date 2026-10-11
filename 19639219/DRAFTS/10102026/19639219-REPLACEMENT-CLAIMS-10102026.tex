@@ -1,0 +1,53 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+
+\geometry{letterpaper, margin=1in}
+\doublespacing
+
+\setlength{\parindent}{0.5in}
+\setlength{\parskip}{0pt}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+    \textbf{\large CLAIMS}
+\end{center}
+
+\vspace{0.4cm}
+\noindent What is claimed is:
+
+\begin{enumerate}[label=\textbf{\arabic*.}, leftmargin=0.5in, itemsep=0.4cm]
+    \item A central processing unit, comprising:
+    \begin{itemize}[leftmargin=0.3in, noitemsep]
+        \item a plurality of parametric registers, wherein each parametric register is configured to store a data structure representing a mathematical expression of a number; and
+        \item a Parametric Logic Unit (PLU) communicatively coupled to the parametric registers, the PLU configured to execute instructions by performing symbolic mathematical operations on the data structures stored in said registers.
+    \end{itemize}
+
+    \item The CPU of claim 1, wherein the data structure represents a number as a sequence of operands and operators.
+
+    \item The CPU of claim 1, wherein the data structure represents a mathematical constant as a native symbol.
+
+    \item The CPU of claim 3, wherein the mathematical constant is Pi or Euler's number.
+
+    \item The CPU of claim 1, wherein the PLU, in executing an arithmetic instruction on a first and a second parametric register, is configured to generate a new data structure representing the symbolic combination of the expressions from the first and second registers.
+
+    \item The CPU of claim 1, further comprising an instruction decoder configured to interpret a specialized instruction set architecture including instructions for loading, storing, and symbolically manipulating the data structures in the parametric registers.
+
+    \item The CPU of claim 6, wherein the instruction set includes an evaluation instruction that causes the PLU to compute a numerical value from a data structure to a specified precision.
+
+    \item A method for computation within a central processing unit, comprising:
+    \begin{itemize}[leftmargin=0.3in, noitemsep]
+        \item storing a first number as a first data structure representing a first mathematical expression in a first parametric register;
+        \item storing a second number as a second data structure representing a second mathematical expression in a second parametric register; and
+        \item executing an instruction by creating a third data structure representing the symbolic mathematical combination of the first and second expressions, and storing said third data structure in a third parametric register.
+    \end{itemize}
+
+    \item The method of claim 8, wherein the execution of the instruction occurs without evaluating the first and second mathematical expressions to fixed-precision numerical values.
+\end{enumerate}
+
+\end{document}

@@ -1,0 +1,157 @@
+================================================================================
+USPTO PATENT CENTER ELECTRONIC SUBMISSION GUIDE: FILING & BILLING CODES
+APPLICATION NO.: 19/560,038 | CONFIRMATION NO.: 2359
+TITLE: OPTICAL COMPUTING ARCHITECTURE AND SYSTEM
+INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
+CORRESPONDENCE EMAILS: rj.aguiar@gmail.com (USPTO Account) | rj.aguiar.m@gmail.com | reinaldo.aguiar.marcano@isbn9781971481296.com
+EXAMINER: ADAM DEMARAY | OFFICE OF PETITIONS: Charles Steven Brantley
+ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27) [Entered 2026-10-09 as SES.REQ.PC]
+DATE OF SUBMISSION: October 10, 2026
+CRITICAL EXTENSION CUTOFF: NOVEMBER 5, 2026 (1-MONTH EXTENSION DEADLINE)
+================================================================================
+
+*** CRITICAL OPERATIONAL ALERT: OCTOBER 10, 2026 PAYMENT SYSTEM OUTAGE ***
+On Saturday, October 10, 2026, the USPTO electronic payment gateway (Financial Manager / 
+Patent Center Fee Engine) is officially offline for scheduled maintenance.
+- ACTION MANDATE: Submit all 7 PDF documents today via Patent Center to establish
+  a timely October 10, 2026 submission date and cure all formalities.
+- If Patent Center allows submitting at $0.00 / "Pay Later" / without processing payment,
+  proceed with the submission. The response papers explicitly request a formal Notice
+  of Fee Deficiency or invoice for the $640.00 Small Entity fees, which you will remit
+  immediately once the USPTO payment gateway is restored.
+- If the portal requires a fee step that is blocked, document the screen with a screenshot
+  and submit the package as soon as the maintenance window concludes.
+================================================================================
+
+1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
+--------------------------------------------------------------------------------
+In the USPTO Patent Center portal (patentcenter.uspto.gov), you do NOT submit
+separate electronic filings for each document. 
+
+All 7 documents listed below are uploaded together in a SINGLE ELECTRONIC SUBMISSION
+(one electronic envelope) under Application No. 19/560,038.
+
+During the upload workflow:
+- Step 1: Upload all 7 PDF files.
+- Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
+- Step 3: Do NOT check the "Petition(s)" checkbox (leave unchecked to route to OPAP).
+- Step 4: Proceed through the workflow. If fee checkout is available or when restored,
+          select Fee Code 2251 ($94.00) and Fee Code 2830 ($60.00).
+
+
+2. ITEM-BY-ITEM DOCUMENT FILING & BILLING CODE MAPPING
+--------------------------------------------------------------------------------
+
+ITEM 1: Main Response to Pre-Exam Notices
+  - File: 19560038-RESPONSE-MISSING-PARTS-10092026.pdf
+  - Portal Dropdown Description: "Applicant Response to Pre-Exam Formalities Notice"
+  - USPTO Internal Doc Code: RESP.PRE
+  - Direct Document Fee: $0.00
+  - Purpose: Formal response curing the August 5, 2026 Notice to File Missing Parts
+             in view of the October 1, 2026 Petition Decision, excising embedded
+             drawings, providing formal notice of the October 10 payment system outage,
+             reaffirming Small Entity status, and detailing all exhibits.
+
+ITEM 2: Substitute Specification (Excision of Embedded Drawings)
+  - File: 19560038-SUBSTITUTE-SPECIFICATION-10092026.pdf
+  - Portal Dropdown Description: "Specification"
+  - USPTO Internal Doc Code: SPEC
+  - Direct Document Fee: $0.00
+  - Purpose: Clean substitute specification under 37 CFR § 1.125 formatted with compliant
+             double line spacing under 37 CFR § 1.52(b), excising embedded drawings
+             under 37 CFR § 1.58(a), with statement of no new matter (1.125(b)).
+
+ITEM 3: Standalone Formal Replacement Drawing Sheets (37 CFR § 1.84)
+  - File: 19560038-REPLACEMENT-DRAWINGS-10092026.pdf
+  - Portal Dropdown Description: "Drawings" or "Drawings - other than black and white line drawings"
+  - USPTO Internal Doc Code: DRW
+  - Direct Document Fee: $0.00
+  - Purpose: Formal standalone drawing sheets (Sheets 1-3 comprising FIG. 1, FIG. 2,
+             and FIG. 3) complying with 37 CFR § 1.84, excising embedded drawings
+             from specification pages 6, 7, and 8, with minimal text (1.84(o)).
+
+ITEM 4: Standalone Replacement Claims
+  - File: 19560038-REPLACEMENT-CLAIMS-10092026.pdf
+  - Portal Dropdown Description: "Claims"
+  - USPTO Internal Doc Code: CLM
+  - Direct Document Fee: $0.00 (Claims 1-10)
+  - Purpose: Replacement Claims 1-10 commencing on a separate sheet (37 CFR § 1.75(h)),
+             consecutively numbered under 37 CFR § 1.126, double spaced under 1.52(b),
+             pure statutory heading "CLAIMS" / "What is claimed is:".
+
+ITEM 5: Standalone Replacement Abstract
+  - File: 19560038-REPLACEMENT-ABSTRACT-10092026.pdf
+  - Portal Dropdown Description: "Abstract"
+  - USPTO Internal Doc Code: ABST
+  - Direct Document Fee: $0.00
+  - Purpose: Replacement Abstract commencing on a separate sheet (37 CFR § 1.72(b)),
+             under 150 words, double spaced under 37 CFR § 1.52(b),
+             pure statutory heading "ABSTRACT OF THE DISCLOSURE".
+
+ITEM 6: Executed Inventor's Declaration (37 CFR § 1.63)
+  - File: 19560038-INVENTOR-DECLARATION-10092026.pdf
+  - Portal Dropdown Description: "Oath or Declaration"
+  - USPTO Internal Doc Code: OATH
+  - Direct Document Fee: $0.00
+  - Purpose: Executed declaration specifying legal residence (26714 Valleyside Dr),
+             mailing address (2302 Britton Ridge Dr), citizenship (USA), and
+             statutory authorization averment under 37 CFR § 1.63(a)(4).
+
+ITEM 7: Petition for One-Month Extension of Time
+  - File: 19560038-EXTENSION-OF-TIME-10092026.pdf
+  - Portal Dropdown Description: "Extension of Time"
+  - USPTO Internal Doc Code: EXT.X
+  - Mandatory Billing / Fee Code: 2251
+  - Fee Description: EXTENSION FOR RESPONSE WITHIN FIRST MONTH, EXCEPT PROVISIONAL APPLICATIONS
+  - Small Entity Fee Amount: $94.00 (MANDATORY TO EXTEND DEADLINE TO NOV 5, 2026)
+  - Outage Note: Outage reservation included; fee committed upon gateway restoration.
+
+ITEM 8: Conditional Request for Suspension of Action under 37 CFR § 1.103(a)
+  - File: 19560038-REQUEST-FOR-SUSPENSION-1103A-10092026.pdf
+  - Portal Dropdown Description: "Letter Requesting Suspension of Action"
+  - USPTO Internal Doc Code: SUSP.REQ
+  - Applicable Billing / Fee Code: 2830
+  - Fee Description: PROCESSING FEE, EXCEPT IN PROVISIONAL APPLICATIONS (37 CFR 1.17(i))
+  - Small Entity Fee Amount: $60.00
+  - Purpose: Formal request to suspend action for 6 months once pre-exam is cleared,
+             based on active federal litigation in SDTX (Civil Action No. 4:26-CV-08794).
+
+
+3. FEE SUMMARY, RULE R-25 WATERFALL ALLOCATION & CART INSTRUCTIONS
+--------------------------------------------------------------------------------
+
+A. Gross Statutory Small Entity Fees:
+   1. Fee Code 2251 (One-Month Extension of Time, Small Entity):        $94.00
+   2. Fee Code 2830 (Processing Fee / Suspension under 1.17(i)):         $60.00
+   3. Pre-Exam Base Fee Delta (Basic $70 + Search $154 + Exam $176 + Non-DOCX $86): $486.00
+   -----------------------------------------------------------------------------
+   GROSS STATUTORY LIABILITY:                                          $640.00
+
+B. Rule R-25 Fee Allocation Waterfall (Unapplied Funds on Deposit: $484.00):
+   1. PRIORITY 1: Extension of Time Fee (Code 2251):                   -$94.00 (100% COVERED)
+   2. PRIORITY 2: Suspension Processing Fee (Code 2830):               -$60.00 (100% COVERED)
+   3. PRIORITY 3-5: Remaining Deposit Credit to Base Delta:            -$330.00
+   -----------------------------------------------------------------------------
+   NET OUT-OF-POCKET CASH REQUIRED TODAY:                                $0.00
+   REMAINING BASE DEFICIENCY (Deferred to 1.53(f) Deficiency Notice):  $156.00
+
+C. EXACT PATENT CENTER CART INSTRUCTION:
+   * DO NOT SELECT OR PAY ANY FEES BY CREDIT CARD TODAY.
+   * Proceed through the portal workflow at $0.00 / "Pay Later".
+   * The response papers provide binding legal instructions under 37 CFR § 1.25(b)
+     and MPEP § 509 to debit the $94.00 extension fee and $60.00 suspension fee directly
+     from your $484.00 deposit credit.
+   * OPAP will debit your deposit, recognize the response as 100% timely, and issue a
+     formal Notice of Fee Deficiency under 37 CFR § 1.53(f) for the remaining $156.00 base delta,
+     buying a fresh 2-month window or held in abeyance during the 6-month suspension.
+
+OUTAGE CONTINGENCY & DEFERRAL STRATEGY:
+Because the USPTO electronic payment engine is offline on October 10, 2026:
+- The substantive papers submitted today secure the legal filing date and cure all formalities.
+- The applicant explicitly requests an official Notice of Fee Deficiency under 37 CFR § 1.53(f)
+  and MPEP § 506.
+- Under USPTO practice, a Notice of Fee Deficiency establishes a formal 2-month statutory reply
+  window, eliminating any operational requirement or premature default risk to pay immediately.
+- Furthermore, if the concurrent 37 CFR § 1.103(a) Request for Suspension is granted,
+  action on the application is formally suspended for 6 months.
+================================================================================
