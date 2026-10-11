@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 64/126,778 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -56,17 +65,30 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-09 (Historical)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">Application 64/126,778 is a newly filed US provisional patent application filed on August 6, 2026, currently undergoing pre-examination processing (Status Code 19) at the USPTO Office of Patent Application Processing (OPAP). No Office Action or pre-examination deficiency notice has been issued. The primary immediate docket management focus is ensuring that entity status was properly recorded: the application paid fee code 2005 ($130.00, corresponding to small entity provisional fee), but the transaction history shows the entity status defaulted to Undiscounted. Counsel should inspect the filed ADS to confirm small entity status was checked to avoid a future Notice to File Missing Parts and deficiency surcharge under 37 CFR 1.16(f). Furthermore, the 12-month statutory deadline under 35 U.S.C. 119(e) to convert or claim benefit in a non-provisional/PCT application must be calendared for August 6, 2027.</p>
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">Application 64/126,778 is a newly filed US provisional patent application filed on August 6, 2026, currently undergoing pre-examination processing (Status Code 19) at the USPTO Office of Patent Application Processing (OPAP). No Office Action or pre-examination deficiency notice has been issued. The primary immediate docket management focus is ensuring that entity status was properly recorded: the application paid fee code 2005 ($130.00, corresponding to small entity provisional fee), but the transaction history shows the entity status defaulted to Undiscounted. Counsel should inspect the filed ADS to confirm small entity status was checked to avoid a future Notice to File Missing Parts and deficiency surcharge under 37 CFR 1.16(f). Furthermore, the 12-month statutory deadline under 35 U.S.C. 119(e) to convert or claim benefit in a non-provisional/PCT application must be calendared for August 6, 2027.</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2027-08-06</td><td>STATUTORY</td><td>12-month statutory deadline under 35 U.S.C. 119(e) and the Paris Convention to file a non-provisional application under 35 U.S.C. 111(a) or an international PCT application claiming benefit/priority to this provisional application.</td><td>UPCOMING</td><td>0 months (Max: 2027-08-06)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2027-08-06</td><td>STATUTORY</td><td>12-month statutory deadline under 35 U.S.C. 119(e) and the Paris Convention to file a non-provisional application under 35 U.S.C. 111(a) or an international PCT application claiming benefit/priority to this provisional application.</td><td>UPCOMING</td><td>0 months (Max: 2027-08-06)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -98,19 +120,25 @@
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> Verify Small Entity Assertion in Filed Application Data Sheet <em>(Deadline: 2026-10-31)</em><br><small>37 CFR 1.27; 37 CFR 1.16(d); MPEP § 509.02 - Verify whether the filed ADS (Document Code ADS, filed 2026-08-06) properly checked the Small Entity box. If the applicant qualifies for small entity status but the box was inadvertently left unchecked, file a corrected ADS or written assertion under 37 CFR 1.27 immediately to avoid receipt of a Notice to File Missing Parts and a surcharge under 37 CFR 1.16(f).</small></li><li><strong>Priority 2:</strong> Docket 12-Month Non-Provisional / PCT Priority Conversion Deadline <em>(Deadline: 2027-08-06)</em><br><small>35 U.S.C. § 119(e); 37 CFR 1.78(a); MPEP § 211.01(a) - Provisional applications are not examined on the merits and automatically expire 12 months after filing. Docket strict statutory non-extendable deadline of August 6, 2027, to prepare and file corresponding regular US utility and/or PCT patent applications.</small></li><li><strong>Priority 3:</strong> Monitor Patent Center for Official Filing Receipt <em>(Deadline: 2026-11-15)</em><br><small>MPEP § 503 - Monitor docket bi-weekly for the issuance of the official Filing Receipt from OPAP to ensure that the provisional filing date (2026-08-06), title, inventor name (Reinaldo Javier Aguiar Marcano), and address information were recorded accurately.</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> Verify Small Entity Assertion in Filed Application Data Sheet <em>(Deadline: 2026-10-31)</em><br><small>37 CFR 1.27; 37 CFR 1.16(d); MPEP § 509.02 - Verify whether the filed ADS (Document Code ADS, filed 2026-08-06) properly checked the Small Entity box. If the applicant qualifies for small entity status but the box was inadvertently left unchecked, file a corrected ADS or written assertion under 37 CFR 1.27 immediately to avoid receipt of a Notice to File Missing Parts and a surcharge under 37 CFR 1.16(f).</small></li><li><strong>Priority 2:</strong> Docket 12-Month Non-Provisional / PCT Priority Conversion Deadline <em>(Deadline: 2027-08-06)</em><br><small>35 U.S.C. § 119(e); 37 CFR 1.78(a); MPEP § 211.01(a) - Provisional applications are not examined on the merits and automatically expire 12 months after filing. Docket strict statutory non-extendable deadline of August 6, 2027, to prepare and file corresponding regular US utility and/or PCT patent applications.</small></li><li><strong>Priority 3:</strong> Monitor Patent Center for Official Filing Receipt <em>(Deadline: 2026-11-15)</em><br><small>MPEP § 503 - Monitor docket bi-weekly for the issuance of the official Filing Receipt from OPAP to ensure that the provisional filing date (2026-08-06), title, inventor name (Reinaldo Javier Aguiar Marcano), and address information were recorded accurately.</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         <p class='text-muted'><em>No communications recorded in local docket.</em></p>
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -120,8 +148,10 @@
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -162,9 +192,10 @@
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>

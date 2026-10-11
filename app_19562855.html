@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 19/562,855 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -33,7 +42,7 @@
             <h4 class="mb-0"><span class="badge bg-secondary me-2">#17</span>19/562,855 (19562855) - SYSTEM FOR A DATA CENTER ARCHITECTURE WITH FUNCTIONALLY SEGREGATED RESOURCE POOLS</h4>
             <div>
                 <a href="19562855/19562855.xml" target="_blank" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
-                <a href="19562855/19562855-application.pdf" target="_blank" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
+                <a href="index.html#19562855%2F19562855-application.pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
         </div>
         <div class="card-body">
@@ -56,12 +65,21 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-10 (v2 - Latest)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">PROSECUTION BRIEF & STATUS AUDIT (APPLICATION 19/562,855) — As of October 10, 2026:
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">PROSECUTION BRIEF & STATUS AUDIT (APPLICATION 19/562,855) — As of October 10, 2026:
 
 1. PROCEDURAL POSTURE: Application 19/562,855 remains in Pre-Examination processing (Status Code 19). On July 9, 2026, the Office issued a Notice to File Missing Parts setting a two-month response deadline (September 9, 2026). On August 2, 2026, Applicant filed an Assertion of Small Entity Status (SES.REQ.PC), a 109-page Petition under 37 CFR 1.183 (PET.OP), a Request for Early Publication (EARLYPUB), and paid a $180 petition fee. On October 1, 2026, the Office of Petitions dismissed the Rule 1.183 petition. On October 7, 2026, the Office issued a Notice of Incomplete Reply (NT.INC.REPLY), entering the small entity assertion and early publication request, but holding the reply incomplete because text formatting deficiencies, basic filing fees, and declaration defects remain uncured.
 
@@ -75,11 +93,15 @@
   (e) Total fee payment of $762.00, comprising $486.00 in net outstanding small entity statutory filing fees ($70 basic filing + $172 non-DOCX + $308 search + $352 examination less $416 unapplied credit) PLUS $276.00 for the two-month extension of time (Fee Code 2252).
 
 4. VERIFIED RESPONSES ON DOCKET: Docket records confirm that Applicant's Small Entity assertion filed on August 2, 2026 was formally entered, successfully reducing gross statutory filing fees from $2,184 to $902 ($486 net balance). Early publication request was also entered. No LaTeX draft response files were found in local storage, so immediate drafting and electronic submission via Patent Center is mandated.</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-danger'><td>2026-09-09</td><td>IMPLIED_CROSS_REFERENCED</td><td>Two-month response deadline to Notice to File Missing Parts (mailed 2026-07-09), reaffirmed by Notice of Incomplete Reply (mailed 2026-10-07) running from original mailing date</td><td>EXTENSION_REQUIRED</td><td>5 months (Max: 2027-02-09)</td></tr><tr class='table-warning'><td>2026-12-01</td><td>EXTENDABLE</td><td>Two-month period to file Request for Reconsideration of Petition Decision Under 37 CFR 1.183 from mailing date of decision</td><td>UPCOMING</td><td>5 months (Max: 2027-05-01)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-danger'><td>2026-09-09</td><td>IMPLIED_CROSS_REFERENCED</td><td>Two-month response deadline to Notice to File Missing Parts (mailed 2026-07-09), reaffirmed by Notice of Incomplete Reply (mailed 2026-10-07) running from original mailing date</td><td>EXTENSION_REQUIRED</td><td>5 months (Max: 2027-02-09)</td></tr><tr class='table-warning'><td>2026-12-01</td><td>EXTENDABLE</td><td>Two-month period to file Request for Reconsideration of Petition Decision Under 37 CFR 1.183 from mailing date of decision</td><td>UPCOMING</td><td>5 months (Max: 2027-05-01)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -123,12 +145,15 @@
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> File Complete Formalities Response with 2-Month Extension of Time under 37 CFR 1.136(a) <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.53(f), 37 CFR 1.135, 37 CFR 1.136(a), Fee Code 2252 - Because the 1-month extension date (2026-10-09) expired yesterday, the reply must include a petition for a 2-month extension of time under 37 CFR 1.136(a) and payment of the small entity extension fee of $276.00 (Fee Code 2252), extending the response window to November 9, 2026.</small></li><li><strong>Priority 2:</strong> Pay Net Outstanding Statutory Filing Fees Balance ($486.00 Small Entity) <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.16(a), 1.16(k), 1.16(m), 1.16(u), 37 CFR 1.27 - Submit payment of $486.00 via USPTO Patent Center: Basic Filing ($70) + Non-DOCX ($172) + Search ($308) + Examination ($352) less unapplied credit ($416). Confirm small entity fee codes are selected.</small></li><li><strong>Priority 3:</strong> Submit Substitute Specification with No-New-Matter Statement under 37 CFR 1.125 <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.52(b), 37 CFR 1.121(b)(3), 37 CFR 1.125 - Prepare a clean substitute specification formatted with 1.5 or double line spacing throughout, accompanied by an express statement that the substitute specification includes no new matter.</small></li><li><strong>Priority 4:</strong> Submit Replacement Claim Listing Commencing on a Separate Sheet <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.75(h), 37 CFR 1.52(b), 37 CFR 1.121 - Prepare replacement claims 1-6 commencing on a separate sheet with 1.5 or double line spacing throughout, numbered consecutively.</small></li><li><strong>Priority 5:</strong> Submit Replacement Abstract Commencing on a Separate Sheet <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.72(b), 37 CFR 1.52(b), 37 CFR 1.121 - Prepare a replacement abstract page commencing on a separate sheet with 1.5 or double line spacing throughout.</small></li><li><strong>Priority 6:</strong> File Fully Compliant Inventor Declaration under 37 CFR 1.63 <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.63, 37 CFR 1.53(f) - Submit a corrected Declaration on Form PTO/AIA/01 identifying Application No. 19/562,855, filing date 2026-03-11, and containing the required authorization statement to avoid pre-examination delay.</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> File Complete Formalities Response with 2-Month Extension of Time under 37 CFR 1.136(a) <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.53(f), 37 CFR 1.135, 37 CFR 1.136(a), Fee Code 2252 - Because the 1-month extension date (2026-10-09) expired yesterday, the reply must include a petition for a 2-month extension of time under 37 CFR 1.136(a) and payment of the small entity extension fee of $276.00 (Fee Code 2252), extending the response window to November 9, 2026.</small></li><li><strong>Priority 2:</strong> Pay Net Outstanding Statutory Filing Fees Balance ($486.00 Small Entity) <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.16(a), 1.16(k), 1.16(m), 1.16(u), 37 CFR 1.27 - Submit payment of $486.00 via USPTO Patent Center: Basic Filing ($70) + Non-DOCX ($172) + Search ($308) + Examination ($352) less unapplied credit ($416). Confirm small entity fee codes are selected.</small></li><li><strong>Priority 3:</strong> Submit Substitute Specification with No-New-Matter Statement under 37 CFR 1.125 <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.52(b), 37 CFR 1.121(b)(3), 37 CFR 1.125 - Prepare a clean substitute specification formatted with 1.5 or double line spacing throughout, accompanied by an express statement that the substitute specification includes no new matter.</small></li><li><strong>Priority 4:</strong> Submit Replacement Claim Listing Commencing on a Separate Sheet <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.75(h), 37 CFR 1.52(b), 37 CFR 1.121 - Prepare replacement claims 1-6 commencing on a separate sheet with 1.5 or double line spacing throughout, numbered consecutively.</small></li><li><strong>Priority 5:</strong> Submit Replacement Abstract Commencing on a Separate Sheet <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.72(b), 37 CFR 1.52(b), 37 CFR 1.121 - Prepare a replacement abstract page commencing on a separate sheet with 1.5 or double line spacing throughout.</small></li><li><strong>Priority 6:</strong> File Fully Compliant Inventor Declaration under 37 CFR 1.63 <em>(Deadline: 2026-11-09)</em><br><small>37 CFR 1.63, 37 CFR 1.53(f) - Submit a corrected Declaration on Form PTO/AIA/01 identifying Application No. 19/562,855, filing date 2026-03-11, and containing the required authorization statement to avoid pre-examination delay.</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         
         <table class="table table-hover table-bordered table-sm">
@@ -146,7 +171,7 @@
             <td><code>2026-10-07</code></td>
             <td><span class="badge bg-warning text-dark">NT.INC.REPLY (PDF)</span></td>
             <td>Notice of Incomplete Reply</td>
-            <td><a href="19562855/19562855_10-07-2026_NT.INC.REPLY.pdf" target="_blank"><code>19562855_10-07-2026_NT.INC.REPLY.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19562855%2F19562855_10-07-2026_NT.INC.REPLY.pdf" class="fw-bold"><code>19562855_10-07-2026_NT.INC.REPLY.pdf</code> (PDF)</a></td>
             <td>184 KB</td>
         </tr><tr>
             <td><code>2026-10-01</code></td>
@@ -158,7 +183,7 @@
             <td><code>2026-07-09</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="19562855/19562855_07-09-2026_NTC.MISS.PRT.pdf" target="_blank"><code>19562855_07-09-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19562855%2F19562855_07-09-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19562855_07-09-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>163 KB</td>
         </tr>
             </tbody>
@@ -166,9 +191,12 @@
         
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -178,8 +206,10 @@
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -220,9 +250,10 @@
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>

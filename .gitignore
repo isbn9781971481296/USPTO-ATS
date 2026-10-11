@@ -5,4 +5,14 @@ examiner_*.*
 examiners.*
 *.md
 **/*.md
+**/DRAFTS/*.*
+**/DRAFTS
+**/DRAFTS/*/*.*
+*.py
+
+**/DRAFTS/**/*/*.aux
+**/DRAFTS/**/*/*.log
+**/DRAFTS/**/*/*.pdf
+**/DRAFTS/**/*/*.tex
+**/DRAFTS/**/*/*.py
 

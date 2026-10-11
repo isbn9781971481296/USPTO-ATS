@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 64/126,778 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -56,12 +65,21 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-10 (v1 - Historical)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">PROSECUTION BRIEF & DOCKET STATUS AUDIT:
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">PROSECUTION BRIEF & DOCKET STATUS AUDIT:
 
 1. CURRENT STATUS & BIBLIOGRAPHIC POSTURE:
 Application No. 64/126,778, entitled 'SYSTEM AND METHOD FOR BIO-MIMETIC NARROW-BAND COMBINATORIAL OPTICAL DATA TRANSMISSION AND HIGH-RADIX GEOMETRIC DIFFRACTION STORAGE DISCS', was filed on 2026-08-06 by inventor Reinaldo Javier Aguiar Marcano (pro se / unrepresented by attorney of record; Customer Number 226458). As of 2026-10-10, the application status is Code 19: 'Application Undergoing Preexam Processing', managed under 'Initial Exam Team nn'. No patent examiner or group art unit has been assigned yet.
@@ -74,11 +92,15 @@ No separate communication XML files or LaTeX response files (.tex) are present i
 
 4. LITIGATION & PROSECUTION RISK ASSESSMENT:
 Counsel notes that the application series number (64/) typically designates provisional filings, whereas bibliographic data classifies the invention subject matter as 'UTL' (Utility). If treated as a non-provisional application under 35 U.S.C. 111(a), the initial fee payment of $130 will trigger a Notice to File Missing Parts requiring search, examination, and non-DOCX surcharge fees, alongside a late surcharge under 37 CFR 1.16(f). Furthermore, entity status defaulted to Undiscounted. It is advised to audit entity status eligibility under 37 CFR 1.27/1.29 and monitor OPAP communications for the issuance of either an official Filing Receipt or a formalities notice.</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -110,19 +132,25 @@ Counsel notes that the application series number (64/) typically designates prov
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> Docket regular status checks to monitor OPAP screening for issuance of an official Filing Receipt or Notice to File Missing Parts. <em>(Deadline: 2026-11-10)</em><br><small>37 CFR 1.53; 37 CFR 1.54; MPEP 506 - Pre-examination processing typically concludes within 60 to 90 days of filing. Any formal deficiencies will be communicated via OPAP notice.</small></li><li><strong>Priority 2:</strong> Audit entity status eligibility and verify full fee requirements against application subject matter and filing type. <em>(Deadline: 2026-10-31)</em><br><small>37 CFR 1.16; 37 CFR 1.27; 37 CFR 1.29 - Verify whether the application was filed under 35 U.S.C. 111(a) (utility) or 111(b) (provisional) given series code 64 and fee code 2005 payment of $130, and prepare entity certification if undiscounted status was assigned in error.</small></li><li><strong>Priority 3:</strong> Prepare executed Inventor Oath/Declaration under 37 CFR 1.63 and formal drawing figures under 37 CFR 1.84 if not submitted with initial filing. <em>(Deadline: 2026-11-15)</em><br><small>37 CFR 1.63; 37 CFR 1.84; 35 U.S.C. 115 - Ensures ready compliance in the event OPAP issues a Notice to File Missing Parts regarding inventor declarations or drawings.</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> Docket regular status checks to monitor OPAP screening for issuance of an official Filing Receipt or Notice to File Missing Parts. <em>(Deadline: 2026-11-10)</em><br><small>37 CFR 1.53; 37 CFR 1.54; MPEP 506 - Pre-examination processing typically concludes within 60 to 90 days of filing. Any formal deficiencies will be communicated via OPAP notice.</small></li><li><strong>Priority 2:</strong> Audit entity status eligibility and verify full fee requirements against application subject matter and filing type. <em>(Deadline: 2026-10-31)</em><br><small>37 CFR 1.16; 37 CFR 1.27; 37 CFR 1.29 - Verify whether the application was filed under 35 U.S.C. 111(a) (utility) or 111(b) (provisional) given series code 64 and fee code 2005 payment of $130, and prepare entity certification if undiscounted status was assigned in error.</small></li><li><strong>Priority 3:</strong> Prepare executed Inventor Oath/Declaration under 37 CFR 1.63 and formal drawing figures under 37 CFR 1.84 if not submitted with initial filing. <em>(Deadline: 2026-11-15)</em><br><small>37 CFR 1.63; 37 CFR 1.84; 35 U.S.C. 115 - Ensures ready compliance in the event OPAP issues a Notice to File Missing Parts regarding inventor declarations or drawings.</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         <p class='text-muted'><em>No communications recorded in local docket.</em></p>
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -132,8 +160,10 @@ Counsel notes that the application series number (64/) typically designates prov
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -174,9 +204,10 @@ Counsel notes that the application series number (64/) typically designates prov
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>

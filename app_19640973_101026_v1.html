@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 19/640,973 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -33,7 +42,7 @@
             <h4 class="mb-0"><span class="badge bg-secondary me-2">#32</span>19/640,973 (19640973) - SECURE PARAMETRIC NETWORK PROTOCOL WITH ROTATING ENCODING MAPS FOR FORWARD SECRECY</h4>
             <div>
                 <a href="19640973/19640973.xml" target="_blank" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
-                <a href="19640973/19640973-application.pdf" target="_blank" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
+                <a href="index.html#19640973%2F19640973-application.pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
         </div>
         <div class="card-body">
@@ -47,7 +56,7 @@
                 <div class="col-md-3"><strong>Urgency Score:</strong> <span class="badge bg-danger fs-6">540.00</span></div>
                 <div class="col-md-3"><strong>Forced Abandonment Risk:</strong> 1000</div>
                 <div class="col-md-3"><strong>Cluster:</strong> The Parametric Encoding and Symbolic Representation Architectures Cluster</div>
-                <div class="col-md-3"><strong>Office of Petitions:</strong> <span class="badge bg-warning text-dark">Charles Steven Brantley</span></div>
+                <div class="col-md-3"><strong>Office of Petitions:</strong> <span class="badge bg-warning text-dark">CB8D7D7</span></div>
             </div>
             <div class="row mt-2">
                 <div class="col-md-12"><strong>Watchlist Posture:</strong> <span class="badge bg-light text-dark border">Standard Portfolio</span></div>
@@ -56,13 +65,22 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-10 (v1 - Historical)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">PROSECUTION BRIEF & STATUS ASSESSMENT:
-Application No. 19/640,973 ('SECURE PARAMETRIC NETWORK PROTOCOL WITH ROTATING ENCODING MAPS FOR FORWARD SECRECY') is currently in Pre-Examination Processing (Status Code 19). The assigned Examiner is ANDREA BENNETT.
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">PROSECUTION BRIEF & STATUS ASSESSMENT:
+Application No. 19/640,973 ('SECURE PARAMETRIC NETWORK PROTOCOL WITH ROTATING ENCODING MAPS FOR FORWARD SECRECY') is currently in Pre-Examination Processing (Status Code 19). The assigned Examiner is AB5413A.
 
 CRITICAL DEADLINE & FORMALITY POSTURE:
 On August 6, 2026, the USPTO issued a Notice to File Missing Parts (NTC.MISS.PRT) identifying two formal defects: (1) the abstract submitted on April 7, 2026 does not commence on a separate sheet in violation of 37 CFR 1.72(b) and 37 CFR 1.121; and (2) an outstanding fee balance of $486 is due under small entity rates (comprising $70 basic filing fee, $308 search fee, $352 examination fee, and $172 non-DOCX penalty fee under 37 CFR 1.16(u), partially offset by a $416 prior unapplied payment).
@@ -70,15 +88,19 @@ On August 6, 2026, the USPTO issued a Notice to File Missing Parts (NTC.MISS.PRT
 The unextended two-month period for reply set in the August 6, 2026 Notice expired on October 6, 2026. Because today is October 10, 2026, the application is currently in an EXTENSION_REQUIRED posture. Applicant must obtain an extension of time under 37 CFR 1.136(a). A one-month extension will extend the response deadline to November 6, 2026.
 
 PETITION DISMISSAL:
-On August 2, 2026, Applicant filed a 109-page petition under 37 CFR 1.183 seeking a six-month suspension of action under 37 CFR 1.103(a), waiver of pre-examination deadlines, and refund of fees. On October 1, 2026, the Office of Petitions (Attorney Advisor Charles Steven Brantley) dismissed the petition, ruling that pre-examination response windows cannot be waived under Rule 1.183 and that deferral of examination does not toll pre-examination formalities. While Applicant has two months from October 1, 2026 (until December 1, 2026) to file a renewed petition, the decision explicitly notes this period is non-extendable and reiterates that a pending petition does not toll response deadlines.
+On August 2, 2026, Applicant filed a 109-page petition under 37 CFR 1.183 seeking a six-month suspension of action under 37 CFR 1.103(a), waiver of pre-examination deadlines, and refund of fees. On October 1, 2026, the Office of Petitions (Attorney Advisor CB8D7D7) dismissed the petition, ruling that pre-examination response windows cannot be waived under Rule 1.183 and that deferral of examination does not toll pre-examination formalities. While Applicant has two months from October 1, 2026 (until December 1, 2026) to file a renewed petition, the decision explicitly notes this period is non-extendable and reiterates that a pending petition does not toll response deadlines.
 
 RECOMMENDED STRATEGY:
 Applicant must immediately submit an 'Applicant response to Pre-Exam Formalities Notice' enclosing a conforming separate-sheet abstract, paying the $486 fee balance, and including a petition and fee for a one-month extension of time under 37 CFR 1.136(a) ($112 small entity) on or before November 6, 2026, to prevent unavoidable abandonment.</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-danger'><td>2026-10-06</td><td>EXTENDABLE</td><td>Two-month statutory/regulatory deadline to respond to Notice to File Missing Parts (NTC.MISS.PRT) mailed August 6, 2026.</td><td>EXTENSION_REQUIRED</td><td>4 months (Max: 2027-02-06)</td></tr><tr class='table-warning'><td>2026-11-06</td><td>EXTENDABLE</td><td>1-month extended deadline under 37 CFR 1.136(a) to respond to Notice to File Missing Parts with 1-month extension fee.</td><td>UPCOMING</td><td>3 months (Max: 2027-02-06)</td></tr><tr class='table-warning'><td>2026-12-01</td><td>STATUTORY</td><td>Two-month non-extendable deadline to file a renewed petition under 37 CFR 1.181/1.183 following dismissal by Office of Petitions on October 1, 2026.</td><td>UPCOMING</td><td>0 months (Max: 2026-12-01)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-danger'><td>2026-10-06</td><td>EXTENDABLE</td><td>Two-month statutory/regulatory deadline to respond to Notice to File Missing Parts (NTC.MISS.PRT) mailed August 6, 2026.</td><td>EXTENSION_REQUIRED</td><td>4 months (Max: 2027-02-06)</td></tr><tr class='table-warning'><td>2026-11-06</td><td>EXTENDABLE</td><td>1-month extended deadline under 37 CFR 1.136(a) to respond to Notice to File Missing Parts with 1-month extension fee.</td><td>UPCOMING</td><td>3 months (Max: 2027-02-06)</td></tr><tr class='table-warning'><td>2026-12-01</td><td>STATUTORY</td><td>Two-month non-extendable deadline to file a renewed petition under 37 CFR 1.181/1.183 following dismissal by Office of Petitions on October 1, 2026.</td><td>UPCOMING</td><td>0 months (Max: 2026-12-01)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -122,12 +144,15 @@ Applicant must immediately submit an 'Applicant response to Pre-Exam Formalities
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> File Formal Response to Notice to File Missing Parts with Petition for 1-Month Extension of Time <em>(Deadline: 2026-11-06)</em><br><small>37 CFR 1.53(b), 37 CFR 1.72(b), 37 CFR 1.121, 37 CFR 1.136(a), 37 CFR 1.17(a)(1) - Prepare a document entitled 'Applicant response to Pre-Exam Formalities Notice' containing: (1) Replacement abstract on a separate sheet complying with 37 CFR 1.72(b) and 1.121; (2) Payment of $486 outstanding fee balance; and (3) Petition for one-month extension of time under 37 CFR 1.136(a) accompanied by the small entity extension fee ($112). File via Patent Center immediately.</small></li><li><strong>Priority 2:</strong> Do Not Rely on Petition for Relief from Missing Parts Deadlines <em>(Deadline: 2026-10-15)</em><br><small>37 CFR 1.183, MPEP 506, MPEP 710.06 - The Office of Petitions affirmed that pre-examination missing parts deadlines and statutory fee obligations cannot be deferred or waived under Rule 1.183. Renewing the petition will not stay the running of the missing parts deadline. Prosecution must be regularized by submitting the missing parts directly.</small></li><li><strong>Priority 3:</strong> Monitor Total Page Count for Application Size Fee Liabilities <em>(Deadline: 2026-11-06)</em><br><small>37 CFR 1.16(s), 37 CFR 1.52(f) - Ensure that the addition of a separate abstract sheet does not cause the total specification, claims, and drawing pages to exceed 100 pages, which would trigger an application size fee under 37 CFR 1.16(s).</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> File Formal Response to Notice to File Missing Parts with Petition for 1-Month Extension of Time <em>(Deadline: 2026-11-06)</em><br><small>37 CFR 1.53(b), 37 CFR 1.72(b), 37 CFR 1.121, 37 CFR 1.136(a), 37 CFR 1.17(a)(1) - Prepare a document entitled 'Applicant response to Pre-Exam Formalities Notice' containing: (1) Replacement abstract on a separate sheet complying with 37 CFR 1.72(b) and 1.121; (2) Payment of $486 outstanding fee balance; and (3) Petition for one-month extension of time under 37 CFR 1.136(a) accompanied by the small entity extension fee ($112). File via Patent Center immediately.</small></li><li><strong>Priority 2:</strong> Do Not Rely on Petition for Relief from Missing Parts Deadlines <em>(Deadline: 2026-10-15)</em><br><small>37 CFR 1.183, MPEP 506, MPEP 710.06 - The Office of Petitions affirmed that pre-examination missing parts deadlines and statutory fee obligations cannot be deferred or waived under Rule 1.183. Renewing the petition will not stay the running of the missing parts deadline. Prosecution must be regularized by submitting the missing parts directly.</small></li><li><strong>Priority 3:</strong> Monitor Total Page Count for Application Size Fee Liabilities <em>(Deadline: 2026-11-06)</em><br><small>37 CFR 1.16(s), 37 CFR 1.52(f) - Ensure that the addition of a separate abstract sheet does not cause the total specification, claims, and drawing pages to exceed 100 pages, which would trigger an application size fee under 37 CFR 1.16(s).</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         
         <table class="table table-hover table-bordered table-sm">
@@ -151,7 +176,7 @@ Applicant must immediately submit an 'Applicant response to Pre-Exam Formalities
             <td><code>2026-08-06</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="19640973/19640973_08-06-2026_NTC.MISS.PRT.pdf" target="_blank"><code>19640973_08-06-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19640973%2F19640973_08-06-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19640973_08-06-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>94 KB</td>
         </tr>
             </tbody>
@@ -159,9 +184,12 @@ Applicant must immediately submit an 'Applicant response to Pre-Exam Formalities
         
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -171,8 +199,10 @@ Applicant must immediately submit an 'Applicant response to Pre-Exam Formalities
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -213,9 +243,10 @@ Applicant must immediately submit an 'Applicant response to Pre-Exam Formalities
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>

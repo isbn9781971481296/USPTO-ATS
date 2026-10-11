@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 19/658,572 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -33,7 +42,7 @@
             <h4 class="mb-0"><span class="badge bg-secondary me-2">#29</span>19/658,572 (19658572) - SYSTEM AND METHOD FOR ENCRYPTED KEYBOARD EVENTS</h4>
             <div>
                 <a href="19658572/19658572.xml" target="_blank" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
-                <a href="19658572/19658572-application.pdf" target="_blank" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
+                <a href="index.html#19658572%2F19658572-application.pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
         </div>
         <div class="card-body">
@@ -56,17 +65,30 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-09 (Historical)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">Application 19658572 remains in pre-examination processing (Status Code 19). Following an initial Notice to File Missing Parts mailed June 3, 2026, Applicant submitted an oath/declaration on July 21, 2026 and claims, abstract, and formalities response on July 31, 2026. The Office deemed this reply incomplete and mailed a Notice of Incomplete Reply along with a Fee Worksheet on August 11, 2026. The unextended response period expires on October 13, 2026 (adjusted from Sunday October 11 and federal holiday Monday October 12 under 35 U.S.C. 21 / 37 CFR 1.7). With today being October 9, 2026, immediate action is necessary within 4 days to file the complete response or secure an extension of time under 37 CFR 1.136(a).</p>
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">Application 19658572 remains in pre-examination processing (Status Code 19). Following an initial Notice to File Missing Parts mailed June 3, 2026, Applicant submitted an oath/declaration on July 21, 2026 and claims, abstract, and formalities response on July 31, 2026. The Office deemed this reply incomplete and mailed a Notice of Incomplete Reply along with a Fee Worksheet on August 11, 2026. The unextended response period expires on October 13, 2026 (adjusted from Sunday October 11 and federal holiday Monday October 12 under 35 U.S.C. 21 / 37 CFR 1.7). With today being October 9, 2026, immediate action is necessary within 4 days to file the complete response or secure an extension of time under 37 CFR 1.136(a).</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-10-13</td><td>FORMALITIES</td><td>Two-month response deadline to the Notice of Incomplete Reply mailed on August 11, 2026. The 2-month period nominally expired on October 11, 2026 (Sunday), and Monday, October 12, 2026 is Columbus Day (federal holiday), extending the unextended deadline to Tuesday, October 13, 2026 pursuant to 35 U.S.C. 21 and 37 CFR 1.7.</td><td>UPCOMING</td><td>5 months (Max: 2027-01-04)</td></tr><tr class='table-danger'><td>2026-08-03</td><td>IMPLIED_CROSS_REFERENCED</td><td>Original two-month deadline set in the Notice to File Missing Parts mailed June 3, 2026 under 37 CFR 1.53(f).</td><td>EXTENSION_REQUIRED</td><td>5 months (Max: 2027-01-04)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-10-13</td><td>FORMALITIES</td><td>Two-month response deadline to the Notice of Incomplete Reply mailed on August 11, 2026. The 2-month period nominally expired on October 11, 2026 (Sunday), and Monday, October 12, 2026 is Columbus Day (federal holiday), extending the unextended deadline to Tuesday, October 13, 2026 pursuant to 35 U.S.C. 21 and 37 CFR 1.7.</td><td>UPCOMING</td><td>5 months (Max: 2027-01-04)</td></tr><tr class='table-danger'><td>2026-08-03</td><td>IMPLIED_CROSS_REFERENCED</td><td>Original two-month deadline set in the Notice to File Missing Parts mailed June 3, 2026 under 37 CFR 1.53(f).</td><td>EXTENSION_REQUIRED</td><td>5 months (Max: 2027-01-04)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -110,12 +132,15 @@
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> Immediately review the Notice of Incomplete Reply and Fee Worksheet mailed on August 11, 2026, and file a fully compliant response before October 13, 2026. <em>(Deadline: 2026-10-13)</em><br><small>37 CFR 1.53(f), 37 CFR 1.135, and MPEP 506 / 714.03 - Because today is October 9, 2026, the 2-month period from the August 11, 2026 notice expires in 4 calendar days (October 13, 2026 due to the weekend and Columbus Day holiday). If filed after October 13, 2026, an extension of time petition with appropriate extension fees under 37 CFR 1.136(a) will be mandatory to avoid abandonment.</small></li><li><strong>Priority 2:</strong> Verify fee accounting and ensure micro entity eligibility certifications are properly recorded and matched to all fee calculations. <em>(Deadline: 2026-10-13)</em><br><small>37 CFR 1.27, 37 CFR 1.28, 37 CFR 1.29, and 37 CFR 1.16 - The application originally had an undiscounted entity code at filing, and micro entity certifications were submitted on August 7, 2026. Ensure any fee differentials, surcharges for late filing (37 CFR 1.16(f)), or non-DOCX fees are completely paid as flagged in the Fee Worksheet (SB06).</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> Immediately review the Notice of Incomplete Reply and Fee Worksheet mailed on August 11, 2026, and file a fully compliant response before October 13, 2026. <em>(Deadline: 2026-10-13)</em><br><small>37 CFR 1.53(f), 37 CFR 1.135, and MPEP 506 / 714.03 - Because today is October 9, 2026, the 2-month period from the August 11, 2026 notice expires in 4 calendar days (October 13, 2026 due to the weekend and Columbus Day holiday). If filed after October 13, 2026, an extension of time petition with appropriate extension fees under 37 CFR 1.136(a) will be mandatory to avoid abandonment.</small></li><li><strong>Priority 2:</strong> Verify fee accounting and ensure micro entity eligibility certifications are properly recorded and matched to all fee calculations. <em>(Deadline: 2026-10-13)</em><br><small>37 CFR 1.27, 37 CFR 1.28, 37 CFR 1.29, and 37 CFR 1.16 - The application originally had an undiscounted entity code at filing, and micro entity certifications were submitted on August 7, 2026. Ensure any fee differentials, surcharges for late filing (37 CFR 1.16(f)), or non-DOCX fees are completely paid as flagged in the Fee Worksheet (SB06).</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         
         <table class="table table-hover table-bordered table-sm">
@@ -133,13 +158,13 @@
             <td><code>2026-08-11</code></td>
             <td><span class="badge bg-warning text-dark">NT.INC.REPLY (PDF)</span></td>
             <td>Notice of Incomplete Reply</td>
-            <td><a href="19658572/19658572_08-11-2026_NT.INC.REPLY.pdf" target="_blank"><code>19658572_08-11-2026_NT.INC.REPLY.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19658572%2F19658572_08-11-2026_NT.INC.REPLY.pdf" class="fw-bold"><code>19658572_08-11-2026_NT.INC.REPLY.pdf</code> (PDF)</a></td>
             <td>128 KB</td>
         </tr><tr>
             <td><code>2026-06-03</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="19658572/19658572_06-03-2026_NTC.MISS.PRT.pdf" target="_blank"><code>19658572_06-03-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19658572%2F19658572_06-03-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19658572_06-03-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>157 KB</td>
         </tr>
             </tbody>
@@ -147,9 +172,12 @@
         
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -159,8 +187,10 @@
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -201,9 +231,10 @@
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>

@@ -44,7 +44,7 @@ ITEM 2: Compliant Inventor's Declaration
   - Purpose: Formal declaration under 37 CFR § 1.63 explicitly providing the inventor's
              legal name, citizenship, mailing address (2302 Britton Ridge Dr), AND
              legal residence address (26714 Valleyside Dr), curing the defect noted
-             by Cliff Congo in the October 1, 2026 Petition Decision.
+             by CCA168C in the October 1, 2026 Petition Decision.
 
 ITEM 3: Replacement Abstract (Standalone)
   - File: 19559705-REPLACEMENT-ABSTRACT-10092026.pdf

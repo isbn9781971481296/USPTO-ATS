@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 19/638,466 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -33,7 +42,7 @@
             <h4 class="mb-0"><span class="badge bg-secondary me-2">#93</span>19/638,466 (19638466) - SYSTEM FOR SECURE COMMUNICATION USING COVERT SIDE-CHANNELS EMBEDDED IN A HIGH-CARDINALITY PARALLEL DATA STREAM</h4>
             <div>
                 <a href="19638466/19638466.xml" target="_blank" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
-                <a href="19638466/19638466-application.pdf" target="_blank" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
+                <a href="index.html#19638466%2F19638466-application.pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
         </div>
         <div class="card-body">
@@ -56,14 +65,23 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-10 (v2 - Latest)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">PROSECUTION BRIEF & FORMALITIES STATUS REPORT:
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">PROSECUTION BRIEF & FORMALITIES STATUS REPORT:
 
-1. Bibliographic & Entity Posture: Application 19/638,466 was filed on 2026-04-03 naming Reinaldo Javier Aguiar Marcano as sole inventor. Examining Attorney Andrea Bennett is designated in the docket record. While initially assigned undiscounted status upon filing, Applicant filed a verified Statement of Small Entity Status under 37 CFR 1.27 on 2026-05-13, which is confirmed active on the docket and recognized in subsequent USPTO notices.
+1. Bibliographic & Entity Posture: Application 19/638,466 was filed on 2026-04-03 naming Reinaldo Javier Aguiar Marcano as sole inventor. Examining Attorney AB5413A is designated in the docket record. While initially assigned undiscounted status upon filing, Applicant filed a verified Statement of Small Entity Status under 37 CFR 1.27 on 2026-05-13, which is confirmed active on the docket and recognized in subsequent USPTO notices.
 
 2. Formalities Deficiencies & Procedural History:
 - On 2026-05-14, the Office of Data Management mailed a Notice to File Missing Parts (NTC.MISS.PRT) identifying drawing informalities (Figure 2 on non-white paper), embedded drawings in the specification (37 CFR 1.58(a)), claims and abstract not commencing on separate sheets (37 CFR 1.75(h), 1.72(b)), missing inventor declaration, and unpaid basic filing, search, examination, and non-DOCX fees.
@@ -75,11 +93,15 @@ On 2026-08-14, Applicant submitted an extensive 123-page 'Applicant Response to 
 
 4. Critical Audit Directive & Urgent Contingency:
 Although the 2026-08-14 PEFR is docket-verified, the docket does not record a companion Fee Payment Receipt (N417.PYMT) on that date. Consequently, the $452.00 fee balance may remain unpaid in the USPTO accounting ledger. Today is 2026-10-10. If the Office treats the response as incomplete for lack of fee payment, the period for reply under 37 CFR 1.136(a) reaches the 3-month extension threshold on October 14, 2026 (2026-10-14). Counsel must immediately contact the Application Assistance Unit at (571) 272-4000 to confirm whether the fee balance was cleared. If unpaid, counsel must file a Petition for Extension of Time (3 months, Fee Code 2253, $636.00 Small Entity) along with the $452.00 balance on or before October 14, 2026, to ensure against unintentional abandonment.</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-success'><td>2026-07-14</td><td>FORMALITIES</td><td>Initial 2-month statutory response window for Notice to File Missing Parts (mailed 2026-05-14)</td><td>SATISFIED</td><td>5 months (Max: 2026-12-14)</td></tr><tr class='table-success'><td>2026-08-14</td><td>IMPLIED_CROSS_REFERENCED</td><td>One-month extended deadline for Notice of Incomplete Reply running from 2026-05-14 Notice to File Missing Parts</td><td>SATISFIED</td><td>5 months (Max: 2026-12-14)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-success'><td>2026-07-14</td><td>FORMALITIES</td><td>Initial 2-month statutory response window for Notice to File Missing Parts (mailed 2026-05-14)</td><td>SATISFIED</td><td>5 months (Max: 2026-12-14)</td></tr><tr class='table-success'><td>2026-08-14</td><td>IMPLIED_CROSS_REFERENCED</td><td>One-month extended deadline for Notice of Incomplete Reply running from 2026-05-14 Notice to File Missing Parts</td><td>SATISFIED</td><td>5 months (Max: 2026-12-14)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -123,12 +145,15 @@ Although the 2026-08-14 PEFR is docket-verified, the docket does not record a co
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> Verify Application of $452.00 Fee Balance with Office of Data Management / AAU <em>(Deadline: 2026-10-12)</em><br><small>37 CFR 1.16, 37 CFR 1.27 - Contact the Application Assistance Unit at (571) 272-4000 to verify whether the $452.00 balance ($352 examination fee + $172 non-DOCX fee - $72 credit) was processed with the 2026-08-14 submission, or if a supplemental Fee Transmittal (Form PTO/SB/17) must be filed immediately.</small></li><li><strong>Priority 2:</strong> Submit Precautionary 3-Month Extension of Time and Fee Transmittal If Fee Was Omitted <em>(Deadline: 2026-10-14)</em><br><small>37 CFR 1.136(a), 37 CFR 1.17(a) - If the USPTO did not receive the required $452.00 fee with the 2026-08-14 filing, the reply remains incomplete. The 3-month extension deadline from the original 2026-07-14 due date is 2026-10-14. Counsel should file a Petition for Extension of Time with a $636.00 Small Entity fee (Code 2253) and remit the $452.00 balance on or before 2026-10-14.</small></li><li><strong>Priority 3:</strong> Request Written Confirmation of Small Entity Status and Corrected Filing Receipt <em>(Deadline: 2026-10-24)</em><br><small>37 CFR 1.27, 37 CFR 1.54 - Confirm that the Small Entity assertion filed on 2026-05-13 is fully reflected on the official Filing Receipt and Fee Worksheet to prevent any recurrence of undiscounted fee assessments.</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> Verify Application of $452.00 Fee Balance with Office of Data Management / AAU <em>(Deadline: 2026-10-12)</em><br><small>37 CFR 1.16, 37 CFR 1.27 - Contact the Application Assistance Unit at (571) 272-4000 to verify whether the $452.00 balance ($352 examination fee + $172 non-DOCX fee - $72 credit) was processed with the 2026-08-14 submission, or if a supplemental Fee Transmittal (Form PTO/SB/17) must be filed immediately.</small></li><li><strong>Priority 2:</strong> Submit Precautionary 3-Month Extension of Time and Fee Transmittal If Fee Was Omitted <em>(Deadline: 2026-10-14)</em><br><small>37 CFR 1.136(a), 37 CFR 1.17(a) - If the USPTO did not receive the required $452.00 fee with the 2026-08-14 filing, the reply remains incomplete. The 3-month extension deadline from the original 2026-07-14 due date is 2026-10-14. Counsel should file a Petition for Extension of Time with a $636.00 Small Entity fee (Code 2253) and remit the $452.00 balance on or before 2026-10-14.</small></li><li><strong>Priority 3:</strong> Request Written Confirmation of Small Entity Status and Corrected Filing Receipt <em>(Deadline: 2026-10-24)</em><br><small>37 CFR 1.27, 37 CFR 1.54 - Confirm that the Small Entity assertion filed on 2026-05-13 is fully reflected on the official Filing Receipt and Fee Worksheet to prevent any recurrence of undiscounted fee assessments.</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         
         <table class="table table-hover table-bordered table-sm">
@@ -146,13 +171,13 @@ Although the 2026-08-14 PEFR is docket-verified, the docket does not record a co
             <td><code>2026-08-12</code></td>
             <td><span class="badge bg-warning text-dark">NT.INC.REPLY (PDF)</span></td>
             <td>Notice of Incomplete Reply</td>
-            <td><a href="19638466/19638466_08-12-2026_NT.INC.REPLY.pdf" target="_blank"><code>19638466_08-12-2026_NT.INC.REPLY.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19638466%2F19638466_08-12-2026_NT.INC.REPLY.pdf" class="fw-bold"><code>19638466_08-12-2026_NT.INC.REPLY.pdf</code> (PDF)</a></td>
             <td>139 KB</td>
         </tr><tr>
             <td><code>2026-05-14</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="19638466/19638466_05-14-2026_NTC.MISS.PRT.pdf" target="_blank"><code>19638466_05-14-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19638466%2F19638466_05-14-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19638466_05-14-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>152 KB</td>
         </tr>
             </tbody>
@@ -160,9 +185,12 @@ Although the 2026-08-14 PEFR is docket-verified, the docket does not record a co
         
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -172,8 +200,10 @@ Although the 2026-08-14 PEFR is docket-verified, the docket does not record a co
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -214,9 +244,10 @@ Although the 2026-08-14 PEFR is docket-verified, the docket does not record a co
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>

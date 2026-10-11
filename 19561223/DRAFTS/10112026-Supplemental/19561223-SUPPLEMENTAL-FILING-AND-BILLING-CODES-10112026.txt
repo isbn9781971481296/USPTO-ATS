@@ -4,16 +4,16 @@ APPLICATION NO.: 19/561,223 | CONFIRMATION NO.: 1850
 TITLE: SYSTEM AND METHOD FOR N-GRAM PARALLEL DATA ENCODING
 INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
 CORRESPONDENCE EMAILS: rj.aguiar@gmail.com (USPTO Account) | rj.aguiar.m@gmail.com | reinaldo.aguiar.marcano@isbn9781971481296.com
-EXAMINER: ANDREA BENNETT | OFFICE OF PETITIONS: Alesia M. Brown
+EXAMINER: AB5413A | OFFICE OF PETITIONS: AB304EF
 ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27)
 DATE OF SUBMISSION: October 11, 2026
 CRITICAL EXTENSION CUTOFF: NOVEMBER 9, 2026 (FIVE-MONTH EXTENSION DEADLINE)
 ================================================================================
 
 *** SUPERSEDING AND SUPPLEMENTAL SUBMISSION (ZERO RISK ON TUESDAY INTAKE) ***
-To eliminate any potential clerical confusion, fee shortfall, or declaration informality,
-Applicant is submitting a complete 4-document package and remitting 100% of all required
-statutory fees via credit card at checkout:
+To eliminate any potential clerical confusion, fee shortfall, claim indefiniteness,
+or declaration informality, Applicant is submitting a complete 6-document package
+and remitting 100% of all required statutory fees via credit card at checkout:
 - Five-Month Extension of Time (Fee Code 2255, Small Entity): $1,358.00
 - Suspension Processing Fee (Fee Code 2830, Small Entity): $60.00
 - Pre-Examination Base Fees (Basic, Non-DOCX, Search, Exam): $486.00 (net balance) to $902.00 (gross)
@@ -26,10 +26,10 @@ statutory fees via credit card at checkout:
 
 1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
 --------------------------------------------------------------------------------
-In the USPTO Patent Center portal (patentcenter.uspto.gov), upload all 4 PDF files
+In the USPTO Patent Center portal (patentcenter.uspto.gov), upload all 6 PDF files
 below together in a SINGLE SUPPLEMENTAL SUBMISSION under Application No. 19/561,223:
 
-- Step 1: Upload all 4 PDF files:
+- Step 1: Upload all 6 PDF files:
     1. 19561223-SUPPLEMENTAL-RESPONSE-10112026.pdf
        --> Description: "Applicant Response to Pre-Exam Formalities Notice"
     2. 19561223-SUPPLEMENTAL-EXTENSION-OF-TIME-10112026.pdf
@@ -38,6 +38,10 @@ below together in a SINGLE SUPPLEMENTAL SUBMISSION under Application No. 19/561,
        --> Description: "Letter Requesting Suspension of Action"
     4. 19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf
        --> Description: "Oath or Declaration filed"
+    5. 19561223-SUPPLEMENTAL-REPLACEMENT-CLAIMS-10112026.pdf
+       --> Description: "Claims"
+    6. 19561223-SUPPLEMENTAL-REPLACEMENT-ABSTRACT-10112026.pdf
+       --> Description: "Abstract"
 - Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
 - Step 3: Do NOT check the "Petition(s)" checkbox (leave unchecked to route to OPAP).
 - Step 4: In the Fee Payment section, select the exact statutory fee codes listed in Section 2 and pay by credit card.
@@ -69,6 +73,9 @@ C. SUSPENSION PROCESSING FEE:
 
 D. INVENTOR DECLARATION (Rule R-38 Compliant):
    * Document Fee:                                                        $0.00
+
+E. REPLACEMENT CLAIMS & ABSTRACT (37 CFR § 1.121 Compliant):
+   * Claims 1--6 (Total 6, Indep 1 -- No excess claim fees):              $0.00
 
 --------------------------------------------------------------------------------
 TOTAL CHECKOUT PAYMENT BY CREDIT CARD:                     $1,904.00 (to $2,320.00)

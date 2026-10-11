@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 19/801,598 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -56,17 +65,30 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-09 (Historical)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">Application 19801598 was filed on September 9, 2026, and is currently in pre-examination processing (Status Code 19). The Office of Patent Application Processing (OPAP) issued a Filing Receipt and a Notice to File Missing Parts (NTC.MISS.PRT) on September 30, 2026, due to unpaid basic filing, search, examination fees, or missing declarations. The primary regulatory deadline to respond without extension fees is November 30, 2026. The period is extendable up to an additional five months under 37 CFR 1.136(a) (up to April 30, 2027). Examiner Andrea Bennett is designated in the primary docket bibliographic data. Counsel should confirm entity status entitlement (undiscounted vs. small/micro entity) and submit the required fees, surcharge under 37 CFR 1.16(f), and executed formalities before November 30, 2026, to advance the application to substantive examination.</p>
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">Application 19801598 was filed on September 9, 2026, and is currently in pre-examination processing (Status Code 19). The Office of Patent Application Processing (OPAP) issued a Filing Receipt and a Notice to File Missing Parts (NTC.MISS.PRT) on September 30, 2026, due to unpaid basic filing, search, examination fees, or missing declarations. The primary regulatory deadline to respond without extension fees is November 30, 2026. The period is extendable up to an additional five months under 37 CFR 1.136(a) (up to April 30, 2027). Examiner AB5413A is designated in the primary docket bibliographic data. Counsel should confirm entity status entitlement (undiscounted vs. small/micro entity) and submit the required fees, surcharge under 37 CFR 1.16(f), and executed formalities before November 30, 2026, to advance the application to substantive examination.</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-11-30</td><td>FORMALITIES</td><td>Two-month regulatory deadline to respond to the Notice to File Missing Parts under 37 CFR 1.53(f) without an extension fee.</td><td>UPCOMING</td><td>5 months (Max: 2027-04-30)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-11-30</td><td>FORMALITIES</td><td>Two-month regulatory deadline to respond to the Notice to File Missing Parts under 37 CFR 1.53(f) without an extension fee.</td><td>UPCOMING</td><td>5 months (Max: 2027-04-30)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -98,12 +120,15 @@
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> File timely Applicant Response to Pre-Exam Formalities Notice along with payment of missing filing, search, examination fees, and the late surcharge. <em>(Deadline: 2026-11-30)</em><br><small>37 CFR 1.53(f), 37 CFR 1.16(f), MPEP § 506, MPEP § 601.01 - The two-month regulatory period expires November 30, 2026. Payment should be accompanied by PTO/SB/17 fee transmittal to avoid abandonment under 37 CFR 1.53(f).</small></li><li><strong>Priority 2:</strong> Review entity status qualification and certify Small or Micro Entity Status if eligible under 37 CFR 1.27 / 1.29. <em>(Deadline: 2026-11-30)</em><br><small>37 CFR 1.27, 37 CFR 1.29, MPEP § 509.02 - The docket reflects that entity status is currently set to Undiscounted. If the solo inventor qualifies for small entity (60% discount) or micro entity (80% discount) status, filing the appropriate certification prior to or concurrently with fee payment will significantly reduce statutory costs.</small></li><li><strong>Priority 3:</strong> Verify execution and filing of the Inventor Oath or Declaration under 35 U.S.C. 115 and 37 CFR 1.63. <em>(Deadline: 2026-11-30)</em><br><small>35 U.S.C. 115, 37 CFR 1.63, 37 CFR 1.64, MPEP § 602 - Although under the AIA an executed declaration may technically be postponed until payment of the issue fee if an ADS was filed naming the inventor, submitting form PTO/AIA/01 now ensures seamless progression to substantive examination.</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> File timely Applicant Response to Pre-Exam Formalities Notice along with payment of missing filing, search, examination fees, and the late surcharge. <em>(Deadline: 2026-11-30)</em><br><small>37 CFR 1.53(f), 37 CFR 1.16(f), MPEP § 506, MPEP § 601.01 - The two-month regulatory period expires November 30, 2026. Payment should be accompanied by PTO/SB/17 fee transmittal to avoid abandonment under 37 CFR 1.53(f).</small></li><li><strong>Priority 2:</strong> Review entity status qualification and certify Small or Micro Entity Status if eligible under 37 CFR 1.27 / 1.29. <em>(Deadline: 2026-11-30)</em><br><small>37 CFR 1.27, 37 CFR 1.29, MPEP § 509.02 - The docket reflects that entity status is currently set to Undiscounted. If the solo inventor qualifies for small entity (60% discount) or micro entity (80% discount) status, filing the appropriate certification prior to or concurrently with fee payment will significantly reduce statutory costs.</small></li><li><strong>Priority 3:</strong> Verify execution and filing of the Inventor Oath or Declaration under 35 U.S.C. 115 and 37 CFR 1.63. <em>(Deadline: 2026-11-30)</em><br><small>35 U.S.C. 115, 37 CFR 1.63, 37 CFR 1.64, MPEP § 602 - Although under the AIA an executed declaration may technically be postponed until payment of the issue fee if an ADS was filed naming the inventor, submitting form PTO/AIA/01 now ensures seamless progression to substantive examination.</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         
         <table class="table table-hover table-bordered table-sm">
@@ -121,7 +146,7 @@
             <td><code>2026-09-30</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="19801598/19801598_09-30-2026_NTC.MISS.PRT.pdf" target="_blank"><code>19801598_09-30-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19801598%2F19801598_09-30-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19801598_09-30-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>142 KB</td>
         </tr>
             </tbody>
@@ -129,9 +154,12 @@
         
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -141,8 +169,10 @@
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -183,9 +213,10 @@
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>

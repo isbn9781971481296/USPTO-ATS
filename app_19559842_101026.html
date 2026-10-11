@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 19/559,842 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -33,7 +42,7 @@
             <h4 class="mb-0"><span class="badge bg-secondary me-2">#86</span>19/559,842 (19559842) - SYSTEM AND METHOD FOR IMAGING AN INTERIOR SPACE USING A PAIR OF COORDINATED MOBILE TRANSCEIVER UNITS</h4>
             <div>
                 <a href="19559842/19559842.xml" target="_blank" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
-                <a href="19559842/19559842-application.pdf" target="_blank" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
+                <a href="index.html#19559842%2F19559842-application.pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
         </div>
         <div class="card-body">
@@ -56,14 +65,23 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#filed-documents" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Filed Documents</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a><a href="#verified-responses" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Verified Responses</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-10 (v2 - Historical)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">EXPERT PROSECUTION BRIEF & DOCKET STATUS AUDIT:
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">EXPERT PROSECUTION BRIEF & DOCKET STATUS AUDIT:
 
-1. CURRENT STATUS & EXAMINER ASSIGNMENT: Application 19/559,842 is currently in Pre-Examination Processing (Status Code 19). The docket XML designates Andrea Bennett as the assigned Examiner. No applicant responses have been filed since the pre-examination notice was issued.
+1. CURRENT STATUS & EXAMINER ASSIGNMENT: Application 19/559,842 is currently in Pre-Examination Processing (Status Code 19). The docket XML designates AB5413A as the assigned Examiner. No applicant responses have been filed since the pre-examination notice was issued.
 
 2. OUTSTANDING FORMALITIES NOTICE & UPCOMING DEADLINE: The USPTO mailed a Notice to File Missing Parts (NTC.MISS.PRT) on August 21, 2026. Under 37 CFR 1.53(b), applicant was accorded a two-month period to reply, expiring on Wednesday, October 21, 2026. As of today's date (October 10, 2026), exactly eleven (11) calendar days remain. The response is currently UPCOMING and no extension of time fee is required if filed on or before October 21, 2026.
 
@@ -72,11 +90,15 @@
 4. TECHNICAL & FORMAL DEFICIENCIES TO CURE: In addition to fee payment, the applicant must file clean replacement claims that commence on a separate sheet in compliance with 37 CFR 1.75(h), 1.121, and 1.126. An inventor declaration (OATH) was previously recorded on July 26, 2026, satisfying 37 CFR 1.63 requirements.
 
 5. IMMEDIATE ACTION PLAN: Prepare and electronically file via Patent Center: (i) 'Applicant response to Pre-Exam Formalities Notice' [PEFR] containing replacement claims commencing on a separate sheet; (ii) Written Assertion of Small Entity Status (37 CFR 1.27); and (iii) Fee payment of $520.00 on or before October 21, 2026.</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-10-21</td><td>FORMALITIES</td><td>Two-month regulatory deadline to reply to Notice to File Missing Parts mailed 2026-08-21 without extension fees</td><td>UPCOMING</td><td>5 months (Max: 2027-03-22)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-10-21</td><td>FORMALITIES</td><td>Two-month regulatory deadline to reply to Notice to File Missing Parts mailed 2026-08-21 without extension fees</td><td>UPCOMING</td><td>5 months (Max: 2027-03-22)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -120,12 +142,15 @@
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> Execute and file Written Assertion of Small Entity Status under 37 CFR 1.27 (Form PTO/SB/09). <em>(Deadline: 2026-10-21)</em><br><small>37 CFR 1.27; MPEP 509.02 - Corrects the current Undiscounted entity setting to Small Entity, immediately reducing the USPTO's fee demand from $2,080.00 to $520.00 net balance due.</small></li><li><strong>Priority 2:</strong> File Replacement Claims commencing on a separate sheet complying with 37 CFR 1.75(h), 1.121, and 1.126. <em>(Deadline: 2026-10-21)</em><br><small>37 CFR 1.75(h); 37 CFR 1.121; 37 CFR 1.126; MPEP 608.01(i) - Must be labeled 'Applicant Response to Pre-Exam Formalities Notice' [PEFR] and filed via Patent Center before the two-month deadline of October 21, 2026.</small></li><li><strong>Priority 3:</strong> Pay the Small Entity pre-examination fee balance of $520.00 via Fee Transmittal. <em>(Deadline: 2026-10-21)</em><br><small>37 CFR 1.16(a), (f), (k), (m), (u); 37 CFR 1.27 - Itemize Small Entity fees: Basic Filing ($140), Search ($308), Examination ($352), Late Surcharge ($68), Non-DOCX ($172) totaling $1,040, deducting the $520 unapplied credit.</small></li><li><strong>Priority 4:</strong> Audit prior fee payments from filing date (2026-03-06) regarding $960 size fee payment (Fee Code 3201). <em>(Deadline: 2026-11-21)</em><br><small>37 CFR 1.28; MPEP 509.03 - If the $960 size fee payment was made in error or overpaid, assess filing a petition for refund under 37 CFR 1.28 within the applicable regulatory timeframe.</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> Execute and file Written Assertion of Small Entity Status under 37 CFR 1.27 (Form PTO/SB/09). <em>(Deadline: 2026-10-21)</em><br><small>37 CFR 1.27; MPEP 509.02 - Corrects the current Undiscounted entity setting to Small Entity, immediately reducing the USPTO's fee demand from $2,080.00 to $520.00 net balance due.</small></li><li><strong>Priority 2:</strong> File Replacement Claims commencing on a separate sheet complying with 37 CFR 1.75(h), 1.121, and 1.126. <em>(Deadline: 2026-10-21)</em><br><small>37 CFR 1.75(h); 37 CFR 1.121; 37 CFR 1.126; MPEP 608.01(i) - Must be labeled 'Applicant Response to Pre-Exam Formalities Notice' [PEFR] and filed via Patent Center before the two-month deadline of October 21, 2026.</small></li><li><strong>Priority 3:</strong> Pay the Small Entity pre-examination fee balance of $520.00 via Fee Transmittal. <em>(Deadline: 2026-10-21)</em><br><small>37 CFR 1.16(a), (f), (k), (m), (u); 37 CFR 1.27 - Itemize Small Entity fees: Basic Filing ($140), Search ($308), Examination ($352), Late Surcharge ($68), Non-DOCX ($172) totaling $1,040, deducting the $520 unapplied credit.</small></li><li><strong>Priority 4:</strong> Audit prior fee payments from filing date (2026-03-06) regarding $960 size fee payment (Fee Code 3201). <em>(Deadline: 2026-11-21)</em><br><small>37 CFR 1.28; MPEP 509.03 - If the $960 size fee payment was made in error or overpaid, assess filing a petition for refund under 37 CFR 1.28 within the applicable regulatory timeframe.</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         
         <table class="table table-hover table-bordered table-sm">
@@ -143,13 +168,13 @@
             <td><code>2026-08-21</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="19559842/19559842_08-21-2026_NTC.MISS.PRT.pdf" target="_blank"><code>19559842_08-21-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19559842%2F19559842_08-21-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19559842_08-21-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>138 KB</td>
         </tr><tr>
             <td><code>2026-08-21</code></td>
             <td><span class="badge bg-info text-dark">WFEE (PDF)</span></td>
             <td>Fee Worksheet (SB06)</td>
-            <td><a href="19559842/226458_19559842_08-21-2026_WFEE.PDF" target="_blank"><code>226458_19559842_08-21-2026_WFEE.PDF</code> (PDF)</a></td>
+            <td><a href="index.html#19559842%2F226458_19559842_08-21-2026_WFEE.PDF" class="fw-bold"><code>226458_19559842_08-21-2026_WFEE.PDF</code> (PDF)</a></td>
             <td>36 KB</td>
         </tr>
             </tbody>
@@ -157,9 +182,12 @@
         
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -181,41 +209,43 @@
                 <tr>
                 <td><span class="badge bg-success-subtle text-success border border-success fs-6">2026-10-10</span></td>
                 <td><strong class="text-dark">Filed Document Submission</strong></td>
-                <td><a href="19559842/FILED/19559842-REPLACEMENT-CLAIMS-10102026.pdf" target="_blank" class="fw-bold text-decoration-none"><code>19559842-REPLACEMENT-CLAIMS-10102026.pdf</code></a></td>
+                <td><a href="index.html#19559842%2FFILED%2F19559842-REPLACEMENT-CLAIMS-10102026.pdf" class="fw-bold text-decoration-none"><code>19559842-REPLACEMENT-CLAIMS-10102026.pdf</code></a></td>
                 <td><span class="badge bg-secondary">1 pgs</span></td>
-                <td><a href="19559842/RECEIPTS/N417-12.pdf" target="_blank" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
+                <td><a href="index.html#19559842%2FRECEIPTS%2FN417-12.pdf" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
             </tr><tr>
                 <td><span class="badge bg-success-subtle text-success border border-success fs-6">2026-10-10</span></td>
                 <td><strong class="text-dark">Applicant Response to Pre-Exam Formalities Notice</strong></td>
-                <td><a href="19559842/FILED/19559842-RESPONSE-MISSING-PARTS-10102026.pdf" target="_blank" class="fw-bold text-decoration-none"><code>19559842-RESPONSE-MISSING-PARTS-10102026.pdf</code></a></td>
+                <td><a href="index.html#19559842%2FFILED%2F19559842-RESPONSE-MISSING-PARTS-10102026.pdf" class="fw-bold text-decoration-none"><code>19559842-RESPONSE-MISSING-PARTS-10102026.pdf</code></a></td>
                 <td><span class="badge bg-secondary">4 pgs</span></td>
-                <td><a href="19559842/RECEIPTS/N417-12.pdf" target="_blank" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
+                <td><a href="index.html#19559842%2FRECEIPTS%2FN417-12.pdf" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
             </tr><tr>
                 <td><span class="badge bg-success-subtle text-success border border-success fs-6">2026-10-10</span></td>
                 <td><strong class="text-dark">Abstract</strong></td>
-                <td><a href="19559842/FILED/19559842-REPLACEMENT-ABSTRACT-10102026.pdf" target="_blank" class="fw-bold text-decoration-none"><code>19559842-REPLACEMENT-ABSTRACT-10102026.pdf</code></a></td>
+                <td><a href="index.html#19559842%2FFILED%2F19559842-REPLACEMENT-ABSTRACT-10102026.pdf" class="fw-bold text-decoration-none"><code>19559842-REPLACEMENT-ABSTRACT-10102026.pdf</code></a></td>
                 <td><span class="badge bg-secondary">1 pgs</span></td>
-                <td><a href="19559842/RECEIPTS/N417-12.pdf" target="_blank" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
+                <td><a href="index.html#19559842%2FRECEIPTS%2FN417-12.pdf" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
             </tr><tr>
                 <td><span class="badge bg-success-subtle text-success border border-success fs-6">2026-10-10</span></td>
                 <td><strong class="text-dark">Extension of Time</strong></td>
-                <td><a href="19559842/FILED/19559842-CONDITIONAL-EXTENSION-OF-TIME-10102026.pdf" target="_blank" class="fw-bold text-decoration-none"><code>19559842-CONDITIONAL-EXTENSION-OF-TIME-10102026.pdf</code></a></td>
+                <td><a href="index.html#19559842%2FFILED%2F19559842-CONDITIONAL-EXTENSION-OF-TIME-10102026.pdf" class="fw-bold text-decoration-none"><code>19559842-CONDITIONAL-EXTENSION-OF-TIME-10102026.pdf</code></a></td>
                 <td><span class="badge bg-secondary">2 pgs</span></td>
-                <td><a href="19559842/RECEIPTS/N417-12.pdf" target="_blank" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
+                <td><a href="index.html#19559842%2FRECEIPTS%2FN417-12.pdf" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
             </tr><tr>
                 <td><span class="badge bg-success-subtle text-success border border-success fs-6">2026-10-10</span></td>
                 <td><strong class="text-dark">Letter Requesting Suspension of Action</strong></td>
-                <td><a href="19559842/FILED/19559842-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf" target="_blank" class="fw-bold text-decoration-none"><code>19559842-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf</code></a></td>
+                <td><a href="index.html#19559842%2FFILED%2F19559842-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf" class="fw-bold text-decoration-none"><code>19559842-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf</code></a></td>
                 <td><span class="badge bg-secondary">2 pgs</span></td>
-                <td><a href="19559842/RECEIPTS/N417-12.pdf" target="_blank" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
+                <td><a href="index.html#19559842%2FRECEIPTS%2FN417-12.pdf" class="btn btn-sm btn-outline-success py-0">📄 N417-12.pdf</a></td>
             </tr>
             </tbody>
         </table>
         
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -268,9 +298,10 @@
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         
         <table class="table table-hover table-bordered table-sm mt-2">
@@ -287,7 +318,7 @@
             <td><code>2026-10-10</code></td>
             <td><strong>Response to Notice to File Missing Parts & Suspension Request</strong><br><small class='text-muted'>Submitted response pending USPTO docket entry.</small></td>
             <td><span class="badge bg-success">Verified Filing (Official USPTO Receipt on File)</span></td>
-            <td><ul class='list-unstyled mb-0'><li>📄 <a href='19559842/DRAFTS/10102026/19559842-CONDITIONAL-EXTENSION-OF-TIME-10102026.pdf' target='_blank'><code>19559842-CONDITIONAL-EXTENSION-OF-TIME-10102026.pdf</code></a> <span class='text-muted'>(84 KB)</span></li><li>📄 <a href='19559842/DRAFTS/10102026/19559842-REPLACEMENT-ABSTRACT-10102026.pdf' target='_blank'><code>19559842-REPLACEMENT-ABSTRACT-10102026.pdf</code></a> <span class='text-muted'>(28 KB)</span></li><li>📄 <a href='19559842/DRAFTS/10102026/19559842-REPLACEMENT-CLAIMS-10102026.pdf' target='_blank'><code>19559842-REPLACEMENT-CLAIMS-10102026.pdf</code></a> <span class='text-muted'>(40 KB)</span></li><li>📄 <a href='19559842/DRAFTS/10102026/19559842-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf' target='_blank'><code>19559842-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf</code></a> <span class='text-muted'>(76 KB)</span></li><li>📄 <a href='19559842/DRAFTS/10102026/19559842-RESPONSE-MISSING-PARTS-10102026.pdf' target='_blank'><code>19559842-RESPONSE-MISSING-PARTS-10102026.pdf</code></a> <span class='text-muted'>(101 KB)</span></li></ul></td>
+            <td><ul class='list-unstyled mb-0'><li>📄 <a href="index.html#19559842%2FDRAFTS%2F10102026%2F19559842-CONDITIONAL-EXTENSION-OF-TIME-10102026.pdf" class="fw-semibold"><code>19559842-CONDITIONAL-EXTENSION-OF-TIME-10102026.pdf</code></a> <span class='text-muted'>(84 KB)</span></li><li>📄 <a href="index.html#19559842%2FDRAFTS%2F10102026%2F19559842-REPLACEMENT-ABSTRACT-10102026.pdf" class="fw-semibold"><code>19559842-REPLACEMENT-ABSTRACT-10102026.pdf</code></a> <span class='text-muted'>(28 KB)</span></li><li>📄 <a href="index.html#19559842%2FDRAFTS%2F10102026%2F19559842-REPLACEMENT-CLAIMS-10102026.pdf" class="fw-semibold"><code>19559842-REPLACEMENT-CLAIMS-10102026.pdf</code></a> <span class='text-muted'>(40 KB)</span></li><li>📄 <a href="index.html#19559842%2FDRAFTS%2F10102026%2F19559842-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf" class="fw-semibold"><code>19559842-REQUEST-FOR-SUSPENSION-1103A-10102026.pdf</code></a> <span class='text-muted'>(76 KB)</span></li><li>📄 <a href="index.html#19559842%2FDRAFTS%2F10102026%2F19559842-RESPONSE-MISSING-PARTS-10102026.pdf" class="fw-semibold"><code>19559842-RESPONSE-MISSING-PARTS-10102026.pdf</code></a> <span class='text-muted'>(101 KB)</span></li></ul></td>
         </tr>
             </tbody>
         </table>

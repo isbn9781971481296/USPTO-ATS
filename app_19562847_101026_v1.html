@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 19/562,847 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -33,7 +42,7 @@
             <h4 class="mb-0"><span class="badge bg-secondary me-2">#81</span>19/562,847 (19562847) - APPARATUS FOR AN OPTICAL DATA FABRIC SWITCH</h4>
             <div>
                 <a href="19562847/19562847.xml" target="_blank" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
-                <a href="19562847/19562847-application.pdf" target="_blank" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
+                <a href="index.html#19562847%2F19562847-application.pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
         </div>
         <div class="card-body">
@@ -56,15 +65,24 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-10 (v1 - Historical)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">PROSECUTION BRIEF & STATUS ANALYSIS:
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">PROSECUTION BRIEF & STATUS ANALYSIS:
 
 1. CURRENT DOCKET POSTURE:
-Application 19/562,847 is currently undergoing Pre-Exam Processing in the USPTO Office of Patent Application Processing (OPAP). The assigned primary examiner is ANDREA BENNETT.
+Application 19/562,847 is currently undergoing Pre-Exam Processing in the USPTO Office of Patent Application Processing (OPAP). The assigned primary examiner is AB5413A.
 
 2. RECENT FILINGS & POST-VERIFICATION OF DOCKET:
 Applicant previously responded on August 10, 2026 (docket code PEFR) following an initial Notice to File Missing Parts (July 9, 2026) and Notice of Incomplete Reply (August 10, 2026). The August 10 submission successfully established Small Entity Status on the docket (SES.REQ.PC), which reduced the gross statutory fee schedule from undiscounted ($2,150 balance) down to small entity rates ($520 balance after applying $450 in prior unapplied payments). The August 10 submission also provided standalone claim and abstract pages.
@@ -79,11 +97,15 @@ On September 14, 2026, OPAP issued a new Notice to File Missing Parts (NTC.MISS.
 
 4. ACTION PLAN:
 No unfiled LaTeX drafts were identified in the docket directory. Counsel should immediately prepare and submit: (1) a substitute specification formatted with 1.5/double spacing and no new matter statement; (2) a replacement claim listing with 1.5/double spacing; (3) a replacement abstract with 1.5/double spacing; (4) a compliant 37 CFR 1.63 declaration; and (5) payment of $520.00 before November 16, 2026 to avoid petition and extension-of-time fees under 37 CFR 1.136(a).</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-11-16</td><td>EXTENDABLE</td><td>Two-month deadline from September 14, 2026 Notice to File Missing Parts to submit compliant substitute specification, claim listing, replacement abstract, and fee balance of $520 (November 14, 2026 falls on a Saturday, extending to Monday, November 16, 2026 under 35 U.S.C. 21(b) and 37 CFR 1.7).</td><td>UPCOMING</td><td>4 months (Max: 2027-03-15)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-11-16</td><td>EXTENDABLE</td><td>Two-month deadline from September 14, 2026 Notice to File Missing Parts to submit compliant substitute specification, claim listing, replacement abstract, and fee balance of $520 (November 14, 2026 falls on a Saturday, extending to Monday, November 16, 2026 under 35 U.S.C. 21(b) and 37 CFR 1.7).</td><td>UPCOMING</td><td>4 months (Max: 2027-03-15)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -127,12 +149,15 @@ No unfiled LaTeX drafts were identified in the docket directory. Counsel should 
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> Prepare and file a compliant Substitute Specification under 37 CFR 1.121(b)(3) and 37 CFR 1.125 formatted with 1.5 or double line spacing throughout, accompanied by the mandatory signed statement that the substitute specification contains no new matter. <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.52(b), 37 CFR 1.125 - Ensure margins are at least 1 inch top/left and 0.75 inch right/bottom, and all line spacing is strictly 1.5 or double spaced to satisfy Pre-Exam standards.</small></li><li><strong>Priority 2:</strong> Prepare and file Replacement Claims commencing on a separate sheet under 37 CFR 1.75(h) and 1.121, formatted with 1.5 or double line spacing throughout under 37 CFR 1.52(b). <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.52(b), 37 CFR 1.75(h), 37 CFR 1.121 - Ensure claims are consecutively numbered 1-5 and each claim is properly double or 1.5-line spaced.</small></li><li><strong>Priority 3:</strong> Prepare and file a Replacement Abstract commencing on a separate sheet under 37 CFR 1.72(b) and 1.121, formatted with 1.5 or double line spacing throughout under 37 CFR 1.52(b). <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.52(b), 37 CFR 1.72(b), 37 CFR 1.121 - Must be a single paragraph of 150 words or fewer on its own page.</small></li><li><strong>Priority 4:</strong> Remit the outstanding fee balance of $520.00 via USPTO Patent Center (covering $70 filing fee, $308 search fee, $352 exam fee, $68 surcharge under 37 CFR 1.16(f), and $172 non-DOCX fee under 37 CFR 1.16(u), net of $450 unapplied credit). Alternatively, if qualifying for micro entity status, file Form PTO/SB/15A concurrently. <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.16, 37 CFR 1.27, 37 CFR 1.29 - If micro entity certification is submitted, recomputed fees would further decrease the balance.</small></li><li><strong>Priority 5:</strong> Submit a corrected Inventor Declaration under 37 CFR 1.63 that includes the required statement that the application was made or authorized to be made by the inventor Reinaldo Javier Aguiar Marcano. <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.63, 37 CFR 1.53(f) - Submitting this now cures the deficiency noted in the August 10, 2026 Notice of Incomplete Reply and prevents examination delays upon application clearance to the art unit.</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> Prepare and file a compliant Substitute Specification under 37 CFR 1.121(b)(3) and 37 CFR 1.125 formatted with 1.5 or double line spacing throughout, accompanied by the mandatory signed statement that the substitute specification contains no new matter. <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.52(b), 37 CFR 1.125 - Ensure margins are at least 1 inch top/left and 0.75 inch right/bottom, and all line spacing is strictly 1.5 or double spaced to satisfy Pre-Exam standards.</small></li><li><strong>Priority 2:</strong> Prepare and file Replacement Claims commencing on a separate sheet under 37 CFR 1.75(h) and 1.121, formatted with 1.5 or double line spacing throughout under 37 CFR 1.52(b). <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.52(b), 37 CFR 1.75(h), 37 CFR 1.121 - Ensure claims are consecutively numbered 1-5 and each claim is properly double or 1.5-line spaced.</small></li><li><strong>Priority 3:</strong> Prepare and file a Replacement Abstract commencing on a separate sheet under 37 CFR 1.72(b) and 1.121, formatted with 1.5 or double line spacing throughout under 37 CFR 1.52(b). <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.52(b), 37 CFR 1.72(b), 37 CFR 1.121 - Must be a single paragraph of 150 words or fewer on its own page.</small></li><li><strong>Priority 4:</strong> Remit the outstanding fee balance of $520.00 via USPTO Patent Center (covering $70 filing fee, $308 search fee, $352 exam fee, $68 surcharge under 37 CFR 1.16(f), and $172 non-DOCX fee under 37 CFR 1.16(u), net of $450 unapplied credit). Alternatively, if qualifying for micro entity status, file Form PTO/SB/15A concurrently. <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.16, 37 CFR 1.27, 37 CFR 1.29 - If micro entity certification is submitted, recomputed fees would further decrease the balance.</small></li><li><strong>Priority 5:</strong> Submit a corrected Inventor Declaration under 37 CFR 1.63 that includes the required statement that the application was made or authorized to be made by the inventor Reinaldo Javier Aguiar Marcano. <em>(Deadline: 2026-11-16)</em><br><small>37 CFR 1.63, 37 CFR 1.53(f) - Submitting this now cures the deficiency noted in the August 10, 2026 Notice of Incomplete Reply and prevents examination delays upon application clearance to the art unit.</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         
         <table class="table table-hover table-bordered table-sm">
@@ -150,13 +175,13 @@ No unfiled LaTeX drafts were identified in the docket directory. Counsel should 
             <td><code>2026-09-14</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="19562847/19562847_09-14-2026_NTC.MISS.PRT.pdf" target="_blank"><code>19562847_09-14-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19562847%2F19562847_09-14-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19562847_09-14-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>115 KB</td>
         </tr><tr>
             <td><code>2026-08-10</code></td>
             <td><span class="badge bg-warning text-dark">NT.INC.REPLY (PDF)</span></td>
             <td>Notice of Incomplete Reply</td>
-            <td><a href="19562847/19562847_08-10-2026_NT.INC.REPLY.pdf" target="_blank"><code>19562847_08-10-2026_NT.INC.REPLY.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19562847%2F19562847_08-10-2026_NT.INC.REPLY.pdf" class="fw-bold"><code>19562847_08-10-2026_NT.INC.REPLY.pdf</code> (PDF)</a></td>
             <td>155 KB</td>
         </tr>
             </tbody>
@@ -164,9 +189,12 @@ No unfiled LaTeX drafts were identified in the docket directory. Counsel should 
         
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -176,8 +204,10 @@ No unfiled LaTeX drafts were identified in the docket directory. Counsel should 
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -218,9 +248,10 @@ No unfiled LaTeX drafts were identified in the docket directory. Counsel should 
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>

@@ -4,13 +4,22 @@
     <meta charset="UTF-8">
     <title>USPTO ATS - 19/560,042 - Aguiar Marcano IP Portfolio</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a.ats-logo, a.ats-logo:hover, a.ats-logo:visited, a.ats-logo:active, a.ats-logo:focus {
+            color: #212529 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
 </head>
 <body>
 <div class="container py-4">
     <!-- ATS Logo & Header Bar with Download Portfolio link -->
     <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
         <div>
-            <span class="fs-4 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
+            <a href="https://uspto-ats.isbn9781971481296.com/" class="ats-logo fs-4 fw-bold text-dark">USPTO ATS</a> <span class="fs-6 text-muted">(Application Tracking System)</span> &mdash;
             <span class="text-secondary"><strong>Aguiar Marcano IP Portfolio</strong> (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-186.html" target="_blank" rel="noopener noreferrer">SCOTUS Cause No. 26-186</a>)</span>
         </div>
         <div class="d-flex align-items-center gap-2">
@@ -33,7 +42,7 @@
             <h4 class="mb-0"><span class="badge bg-secondary me-2">#48</span>19/560,042 (19560042) - METHOD AND SYSTEM FOR HIGH-BANDWIDTH, FREE-SPACE OPTICAL DATA EXCHANGE BETWEEN MOBILE DEVICES</h4>
             <div>
                 <a href="19560042/19560042.xml" target="_blank" class="btn btn-sm btn-outline-warning text-white me-2 fw-bold">📄 View Docket State XML</a>
-                <a href="19560042/19560042-application.pdf" target="_blank" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
+                <a href="index.html#19560042%2F19560042-application.pdf" class="btn btn-sm btn-primary fw-bold">📑 View Application PDF</a>
             </div>
         </div>
         <div class="card-body">
@@ -56,12 +65,21 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+        </div>
+    </div>
+    
+    
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> 2026-10-10 (v2 - Latest)
     </div>
     
-    <h5>Attorney Summary</h5>
-    <p class="border p-3 bg-light">PROSECUTION BRIEF & FORMALITIES AUDIT:
+    <div id="attorney-summary" class="mb-4">
+        <h5>Attorney Summary</h5>
+        <p class="border p-3 bg-light">PROSECUTION BRIEF & FORMALITIES AUDIT:
 Application 19560042 is currently undergoing pre-examination processing. On August 18, 2026, the USPTO mailed a Notice to File Missing Parts (NTC.MISS.PRT) setting a 2-month period for reply expiring on Sunday, October 18, 2026, which rolls forward to Monday, October 19, 2026 pursuant to 35 U.S.C. 21 and 37 CFR 1.7. As of today's date (October 10, 2026), the deadline is UPCOMING and no extension of time is required.
 
 DEFICIENCIES IDENTIFIED IN NOTICE:
@@ -76,11 +94,15 @@ Notice to File Missing Parts dated August 18, 2026 credits $(364) in previous un
 
 ACTION PLAN:
 File by October 19, 2026: (1) Applicant Response to Pre-Exam Formalities Notice; (2) Written Assertion of Small Entity Status (37 CFR 1.27); (3) Replacement Claims commencing on a separate sheet (37 CFR 1.75(h)); (4) Replacement Abstract commencing on a separate sheet (37 CFR 1.72(b)); and (5) Fee transmittal remitting $504.00.</p>
+    </div>
     
-    <h5>Deadlines</h5>
-    <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-10-19</td><td>FORMALITIES</td><td>Two-month regulatory deadline to reply to Notice to File Missing Parts mailed August 18, 2026 (two-month date October 18, 2026 rolls to Monday, October 19, 2026 pursuant to 37 CFR 1.7)</td><td>UPCOMING</td><td>5 months (Max: 2027-02-18)</td></tr></tbody></table>
+    <div id="deadlines" class="mb-4">
+        <h5>Deadlines</h5>
+        <table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-warning'><td>2026-10-19</td><td>FORMALITIES</td><td>Two-month regulatory deadline to reply to Notice to File Missing Parts mailed August 18, 2026 (two-month date October 18, 2026 rolls to Monday, October 19, 2026 pursuant to 37 CFR 1.7)</td><td>UPCOMING</td><td>5 months (Max: 2027-02-18)</td></tr></tbody></table>
+    </div>
     
-    
+    <div id="extension-fees" class="mb-4">
+        
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>
@@ -124,12 +146,15 @@ File by October 19, 2026: (1) Applicant Response to Pre-Exam Formalities Notice;
         </div>
     </div>
     
+    </div>
     
-    <h5>Recommendations</h5>
-    <ul><li><strong>Priority 1:</strong> File Written Assertion of Small Entity Status under 37 CFR 1.27 <em>(Deadline: 2026-10-19)</em><br><small>37 CFR 1.27; MPEP 509.02 - Affirmative client intent mandates correcting the erroneous Undiscounted status to Small Entity. Do not pursue micro entity status. Asserting small entity status immediately reduces the total filing fees and surcharge by 60%.</small></li><li><strong>Priority 2:</strong> File Replacement Claims and Replacement Abstract on Separate Sheets <em>(Deadline: 2026-10-19)</em><br><small>37 CFR 1.72(b), 37 CFR 1.75(h), 37 CFR 1.121 - Prepare and submit replacement claims and replacement abstract, each commencing on an independent separate sheet, marked up and titled in strict compliance with 37 CFR 1.121.</small></li><li><strong>Priority 3:</strong> Pay Net Small Entity Balance Due of $504.00 <em>(Deadline: 2026-10-19)</em><br><small>37 CFR 1.16(a), (k), (o), (f); 37 CFR 1.27 - Submit fee transmittal applying small entity rates ($140 basic filing + $308 search + $352 examination + $68 surcharge = $868 total) less $(364) unapplied funds credit, leaving $504.00 balance due. Note potential accounting discrepancy regarding $52 paid on March 7, 2026 not reflected in the unapplied credit.</small></li><li><strong>Priority 4:</strong> Request Clarification/Reconciliation of Unapplied Payment Credit from Application Assistance Unit <em>(Deadline: 2026-10-19)</em><br><small>37 CFR 1.26; MPEP 509 - Docket fee ledger indicates applicant paid $416 on March 7, 2026 (Fee Codes 3054: $86, 3111: $154, 3311: $176), whereas the Notice to File Missing Parts credits only $364 unapplied payment, omitting $52. Point out this discrepancy in the response transmittal.</small></li></ul>
+    <div id="recommendations" class="mb-4">
+        <h5>Recommendations</h5>
+        <ul><li><strong>Priority 1:</strong> File Written Assertion of Small Entity Status under 37 CFR 1.27 <em>(Deadline: 2026-10-19)</em><br><small>37 CFR 1.27; MPEP 509.02 - Affirmative client intent mandates correcting the erroneous Undiscounted status to Small Entity. Do not pursue micro entity status. Asserting small entity status immediately reduces the total filing fees and surcharge by 60%.</small></li><li><strong>Priority 2:</strong> File Replacement Claims and Replacement Abstract on Separate Sheets <em>(Deadline: 2026-10-19)</em><br><small>37 CFR 1.72(b), 37 CFR 1.75(h), 37 CFR 1.121 - Prepare and submit replacement claims and replacement abstract, each commencing on an independent separate sheet, marked up and titled in strict compliance with 37 CFR 1.121.</small></li><li><strong>Priority 3:</strong> Pay Net Small Entity Balance Due of $504.00 <em>(Deadline: 2026-10-19)</em><br><small>37 CFR 1.16(a), (k), (o), (f); 37 CFR 1.27 - Submit fee transmittal applying small entity rates ($140 basic filing + $308 search + $352 examination + $68 surcharge = $868 total) less $(364) unapplied funds credit, leaving $504.00 balance due. Note potential accounting discrepancy regarding $52 paid on March 7, 2026 not reflected in the unapplied credit.</small></li><li><strong>Priority 4:</strong> Request Clarification/Reconciliation of Unapplied Payment Credit from Application Assistance Unit <em>(Deadline: 2026-10-19)</em><br><small>37 CFR 1.26; MPEP 509 - Docket fee ledger indicates applicant paid $416 on March 7, 2026 (Fee Codes 3054: $86, 3111: $154, 3311: $176), whereas the Notice to File Missing Parts credits only $364 unapplied payment, omitting $52. Point out this discrepancy in the response transmittal.</small></li></ul>
+    </div>
     
     <hr>
-    <div class="mt-4">
+    <div id="communications" class="mt-4 mb-4">
         <h5>Communications Received from USPTO</h5>
         
         <table class="table table-hover table-bordered table-sm">
@@ -147,7 +172,7 @@ File by October 19, 2026: (1) Applicant Response to Pre-Exam Formalities Notice;
             <td><code>2026-08-18</code></td>
             <td><span class="badge bg-warning text-dark">NTC.MISS.PRT (PDF)</span></td>
             <td>Notice to File Missing Parts</td>
-            <td><a href="19560042/19560042_08-18-2026_NTC.MISS.PRT.pdf" target="_blank"><code>19560042_08-18-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
+            <td><a href="index.html#19560042%2F19560042_08-18-2026_NTC.MISS.PRT.pdf" class="fw-bold"><code>19560042_08-18-2026_NTC.MISS.PRT.pdf</code> (PDF)</a></td>
             <td>121 KB</td>
         </tr>
             </tbody>
@@ -155,9 +180,12 @@ File by October 19, 2026: (1) Applicant Response to Pre-Exam Formalities Notice;
         
     </div>
 
-    
+    <div id="oath-audit">
+        
+    </div>
 
-    
+    <div id="filed-documents">
+        
     <hr>
     <div class="mt-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -167,8 +195,10 @@ File by October 19, 2026: (1) Applicant Response to Pre-Exam Formalities Notice;
         <p class='text-muted'><em>No local electronic acknowledgement receipts or filed draft submissions recorded.</em></p>
     </div>
     
+    </div>
 
-    
+    <div id="state-progression">
+        
         <hr>
         <div class="mt-4">
             <div class="d-flex justify-content-between align-items-center">
@@ -209,9 +239,10 @@ File by October 19, 2026: (1) Applicant Response to Pre-Exam Formalities Notice;
             </table>
         </div>
         
+    </div>
 
     <hr>
-    <div class="mt-4">
+    <div id="verified-responses" class="mt-4 mb-4">
         <h5>Docket-Verified Responses & Submitted Filings</h5>
         <p class='text-muted'><em>No submitted responses recorded for this application.</em></p>
     </div>
