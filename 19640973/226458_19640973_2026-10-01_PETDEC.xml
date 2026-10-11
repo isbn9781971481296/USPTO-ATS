@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uspat:OutgoingDocument
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:uspat="urn:us:gov:doc:uspto:patent"
+    xmlns="urn:us:gov:doc:uspto:patent"
+    xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:uscom="urn:us:gov:doc:uspto:common"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    uscom:formParagraphMinMatchPercent="78.5"
+    xsi:schemaLocation="urn:us:gov:doc:uspto:patent ..\PE2E\V7_1\Schema\USPatent\Document\OutgoingDocument_V7_1.xsd"
+    com:documentFileName="O.P. Petition Decision.docx" com:id="ID_1" uscom:vendorName="OA2XML" uscom:createDateTime="2026-09-30T14:06:12"
+    com:st96Version="V2_1" com:ipoVersion="US_V7_1">
+
+    <uspat:DocumentMetadata com:id="id-002">
+        <uscom:DocumentCode>OPPT</uscom:DocumentCode>
+        <uscom:ApplicationNumberText uscom:electronicText="19640973">19/640,973</uscom:ApplicationNumberText>
+        <uscom:DocumentSourceIdentifier>PETDEC</uscom:DocumentSourceIdentifier>
+        <com:PartyIdentifier>77190</com:PartyIdentifier>
+        <uscom:GroupArtUnitNumber></uscom:GroupArtUnitNumber>
+        <uscom:DefaultFont uscom:fontMeasureUnitCode="Pt" uscom:fontFamilyName="Times New Roman" uscom:fontSizeNumber="12.00"/>
+    </uspat:DocumentMetadata>
+
+<uscom:P com:pNumber="1" com:id="p-001"><?PageStart number='1'?><uscom:BoundaryDataReference com:idref="bd-001" />United States Patent and Trademark Office</uscom:P>
+<uscom:P com:pNumber="4" com:id="p-004" uscom:alignmentCategory="center">    <uscom:DataTable uscom:border="1">
+        <uscom:DataTableBody>
+            <uscom:TableRow>
+                <uscom:TableDataCell uscom:horizontalAlign="center" uscom:customStyleText="width:468pt;height:.6pt;background-color:#a0a0a0;">                </uscom:TableDataCell>
+            </uscom:TableRow>
+        </uscom:DataTableBody>
+    </uscom:DataTable>
+</uscom:P>
+<uscom:P com:pNumber="5" com:id="p-005" uscom:alignmentCategory="right"><uscom:Font uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">Commissioner for Patents</uscom:Font></uscom:P>
+<uscom:P com:pNumber="6" com:id="p-006" uscom:alignmentCategory="right"><uscom:Font uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">United States Patent and Trademark Office</uscom:Font></uscom:P>
+<uscom:P com:pNumber="7" com:id="p-007" uscom:alignmentCategory="right"><uscom:Font uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">P.O. Box </uscom:Font><uscom:Font uscom:fontSizeNumber="7.00" uscom:fontMeasureUnitCode="Pt">1450</uscom:Font></uscom:P>
+<uscom:P com:pNumber="8" com:id="p-008" uscom:alignmentCategory="right"><uscom:Font uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">Alexandria, VA </uscom:Font><uscom:Font uscom:fontSizeNumber="7.00" uscom:fontMeasureUnitCode="Pt">22313-1450</uscom:Font></uscom:P>
+<uscom:P com:pNumber="9" com:id="p-009" uscom:alignmentCategory="right"><uscom:Font uscom:fontSizeNumber="7.00" uscom:fontMeasureUnitCode="Pt">www.uspto.gov</uscom:Font><uscom:Font uscom:fontSizeNumber="6.00" uscom:fontMeasureUnitCode="Pt"> </uscom:Font></uscom:P>
+<uscom:P com:pNumber="10" com:id="p-010" uscom:alignmentCategory="right"></uscom:P>
+<uscom:P com:pNumber="11" com:id="p-011"></uscom:P>
+<uscom:P com:pNumber="12" com:id="p-012"></uscom:P>
+<uscom:P com:pNumber="13" com:id="p-013"></uscom:P>
+<uscom:P com:pNumber="14" com:id="p-014"></uscom:P>
+<uscom:P com:pNumber="15" com:id="p-015"></uscom:P>
+<uscom:P com:pNumber="16" com:id="p-016"></uscom:P>
+<uscom:P com:pNumber="17" com:id="p-017"></uscom:P>
+<uscom:P com:pNumber="18" com:id="p-018">Inventor: Reinaldo Javier Aguiar Marcano		:</uscom:P>
+<uscom:P com:pNumber="19" com:id="p-019">Application No. 19/640,945				:		Decision on Petition</uscom:P>
+<uscom:P com:pNumber="20" com:id="p-020">Filing Date: April 7, 2026				:				</uscom:P>
+<uscom:P com:pNumber="21" com:id="p-021">Title: 	Method for Asynchronous Secure 		:</uscom:P>
+<uscom:P com:pNumber="22" com:id="p-022">	Communication with Post-Hoc Key		:</uscom:P>
+<uscom:P com:pNumber="23" com:id="p-023">	Derivation					:</uscom:P>
+<uscom:P com:pNumber="24" com:id="p-024"></uscom:P>
+<uscom:P com:pNumber="25" com:id="p-025"></uscom:P>
+<uscom:P com:pNumber="26" com:id="p-026">This is a decision on a petition under 37 C.F.R. § 1.183 filed August 2, 2026.</uscom:P>
+<uscom:P com:pNumber="27" com:id="p-027"></uscom:P>
+<uscom:P com:pNumber="28" com:id="p-028">The petition is <com:B>dismissed</com:B>.</uscom:P>
+<uscom:P com:pNumber="29" com:id="p-029"></uscom:P>
+<uscom:P com:pNumber="30" com:id="p-030">Any renewed petition must be filed within TWO (2) MONTHS of the issue date of the instant decision.  Extensions of the two-month time period may <com:B>NOT</com:B> be obtained under 37 C.F.R. </uscom:P>
+<uscom:P com:pNumber="31" com:id="p-031">§ 1.136(a).  This is <com:B>not</com:B> a final agency action within the meaning of 5 U.S.C. § 704.</uscom:P>
+<uscom:P com:pNumber="32" com:id="p-032"></uscom:P>
+<uscom:P com:pNumber="33" com:id="p-033" uscom:alignmentCategory="center"><com:B><com:U>Background</com:U></com:B></uscom:P>
+<uscom:P com:pNumber="34" com:id="p-034"></uscom:P>
+<uscom:P com:pNumber="35" com:id="p-035">The application was filed on April 7, 2026.</uscom:P>
+<uscom:P com:pNumber="36" com:id="p-036"></uscom:P>
+<uscom:P com:pNumber="37" com:id="p-037">The petition was filed with a petition fee of $180 on August 1, 2026.  </uscom:P>
+<uscom:P com:pNumber="38" com:id="p-038"></uscom:P>
+<uscom:P com:pNumber="39" com:id="p-039">The petition requests the United States Patent and Trademark Office (“Office”) take the following actions:</uscom:P>
+<uscom:P com:pNumber="40" com:id="p-040"></uscom:P>
+<uscom:P com:pNumber="41" com:id="p-041" uscom:indentationMeasureUnitCode="Pt" uscom:firstLineIndentationNumber="36.00">(1)	Waive any deadlines set forth in any outstanding pre-examination notices,</uscom:P>
+<uscom:P com:pNumber="42" com:id="p-042" uscom:indentationLevelNumber="L2" uscom:indentationMeasureUnitCode="Pt" uscom:hangingIndentationNumber="36.00">(2)	Waive a requirement in 37 C.F.R. § 1.103(a) and suspend action on the application for six months pursuant to 37 C.F.R. § 1.103(a),</uscom:P>
+<uscom:P com:pNumber="43" com:id="p-043" uscom:indentationMeasureUnitCode="Pt" uscom:firstLineIndentationNumber="36.00">(3)	Refund any previously submitted extension fees or late filing fees, and</uscom:P>
+<uscom:P com:pNumber="44" com:id="p-044" uscom:indentationMeasureUnitCode="Pt" uscom:firstLineIndentationNumber="36.00">(4)	Refund the petition fee for the petition under 37 C.F.R. § 1.183.</uscom:P>
+<uscom:P com:pNumber="45" com:id="p-045"></uscom:P>
+<uscom:P com:pNumber="46" com:id="p-046">The Office issued a Notice to File Missing Parts of Nonprovisional Application (“NMP”) on The NMP sets an extendable two-month period for reply.  The NMP requires the submission of $520.</uscom:P>
+<uscom:P com:pNumber="47" com:id="p-047" uscom:alignmentCategory="center"></uscom:P>
+<uscom:P com:pNumber="48" com:id="p-048" uscom:alignmentCategory="center"><com:B><com:U>Time Period to Reply to the NMP</com:U></com:B></uscom:P>
+<uscom:P com:pNumber="49" com:id="p-049"></uscom:P>
+<uscom:P com:pNumber="50" com:id="p-050">The petition requests the Office “[w]aive the strict response deadlines for any outstanding </uscom:P>
+<uscom:P com:pNumber="51" com:id="p-051">pre-exam notifications, including the Notice to File Missing Parts.”</uscom:P>
+<uscom:P com:pNumber="52" com:id="p-052"></uscom:P>
+<uscom:P com:pNumber="53" com:id="p-053"><?PageStart number='2'?><uscom:BoundaryDataReference com:idref="bd-002" />37 C.F.R. § 1.183 provides the Office the authority to waive “any requirement of the regulations,” which are not a requirement of a statute, if certain criteria are satisfied. The </uscom:P>
+<uscom:P com:pNumber="56" com:id="p-056">two-month time limit set forth in the NMP is not a requirement set forth in a regulation.  Therefore, the time limit in the NMP cannot be waived pursuant to 37 C.F.R. § 1.183.  </uscom:P>
+<uscom:P com:pNumber="57" com:id="p-057"></uscom:P>
+<uscom:P com:pNumber="58" com:id="p-058" uscom:alignmentCategory="center"><com:B><com:U>Suspension of Action</com:U></com:B></uscom:P>
+<uscom:P com:pNumber="59" com:id="p-059"></uscom:P>
+<uscom:P com:pNumber="60" com:id="p-060">The petition requests the Office waive the requirement in 37 C.F.R. § 1.103(a) for an Office action not to be outstanding and suspend action on the application for six months under 37 C.F.R. § 1.103(a).</uscom:P>
+<uscom:P com:pNumber="61" com:id="p-061"></uscom:P>
+<uscom:P com:pNumber="62" com:id="p-062">37 C.F.R. § 1.103 provides two main avenues an applicant may use to delay an examiner taking “action” on a new application.</uscom:P>
+<uscom:P com:pNumber="63" com:id="p-063"></uscom:P>
+<uscom:P com:pNumber="64" com:id="p-064">Pursuant to 37 C.F.R. § 1.103(d), an applicant may request examination be deferred for period not extending beyond three years after the earliest filing date for which benefit is claimed under 35 U.S.C. §§ 119(a)-(d), (e), (f), 120, 121, 365, or 386.  A request for deferral of examination under 37 C.F.R. § 1.103(d) must be filed prior to the issuance of an Office action under </uscom:P>
+<uscom:P com:pNumber="65" com:id="p-065">35 U.S.C. § 132 or a notice of allowance.  If a request under 37 C.F.R. § 1.103(d) is granted, the examiner will not take the application up for action until the deferral period ends.  The deferral of examination will not have any impact on the pre-examination processing of an application.</uscom:P>
+<uscom:P com:pNumber="66" com:id="p-066"></uscom:P>
+<uscom:P com:pNumber="67" com:id="p-067">Pursuant to 37 C.F.R. § 1.103(a), an applicant may request a suspension of action for up to six months.  The requirements under 37 C.F.R. § 1.103(a) are stricter than the requirements under   37 C.F.R. § 1.103(d).  However, action may be suspended under 37 C.F.R. § 1.103(a) after an Office action has been issued (if a reply has been filed) and it is possible for the six-month time period to include dates that fall after the date three years after the earliest filing date for which benefit is claimed.  A request under 37 C.F.R. § 1.103(a) is generally handled by an examiner.</uscom:P>
+<uscom:P com:pNumber="68" com:id="p-068">Once a request under 37 C.F.R. § 1.103(a) is granted, any future requests will be handled by a supervisory patent examiner.  A suspension of action by an examiner will have any impact on the pre-examination processing of an application.</uscom:P>
+<uscom:P com:pNumber="69" com:id="p-069"></uscom:P>
+<uscom:P com:pNumber="70" com:id="p-070">The following requirements must be satisfied in order for a party to obtain a suspension of action under 37 C.F.R. § 1.103(a):</uscom:P>
+<uscom:P com:pNumber="71" com:id="p-071"></uscom:P>
+<uscom:P com:pNumber="72" com:id="p-072">	(1)	An Office action must not be outstanding;</uscom:P>
+<uscom:P com:pNumber="73" com:id="p-073" uscom:indentationLevelNumber="L2" uscom:indentationMeasureUnitCode="Pt" uscom:hangingIndentationNumber="36.00">(2)	The applicant must submit the fee set forth in 37 C.F.R. § 1.17(b) unless the cause is the fault of the Office; and</uscom:P>
+<uscom:P com:pNumber="74" com:id="p-074" uscom:indentationLevelNumber="L2" uscom:indentationMeasureUnitCode="Pt" uscom:hangingIndentationNumber="36.00">(3)	The applicant must provide a showing of good and sufficient cause for the suspension.</uscom:P>
+<uscom:P com:pNumber="75" com:id="p-075"></uscom:P>
+<uscom:P com:pNumber="76" com:id="p-076">Applicant requests the Office waive the requirement in 37 C.F.R. § 1.103(a) for an Office action not to be outstanding.  However, waiver of the requirement is not necessary because an Office action has not been issued.  Instead, a NMP has been issued.</uscom:P>
+<uscom:P com:pNumber="77" com:id="p-077"></uscom:P>
+<uscom:P com:pNumber="78" com:id="p-078"></uscom:P>
+<uscom:P com:pNumber="79" com:id="p-079"><?PageStart number='3'?><uscom:BoundaryDataReference com:idref="bd-003" />37 C.F.R. § 1.183 states, with emphasis added:</uscom:P>
+<uscom:P com:pNumber="82" com:id="p-082"></uscom:P>
+<uscom:P com:pNumber="83" com:id="p-083" uscom:indentationLevelNumber="L1">In an <com:B>extraordinary situation</com:B>, <com:B>when justice requires</com:B>, any requirement of the regulations in this part which is not a requirement of the statutes may be suspended or waived by the Director or the Director&apos;s designee, <com:I>sua sponte</com:I>, or on petition of the interested party, subject to such other requirements as may be imposed. Any petition under this section must be accompanied by the petition fee set forth in § 1.17(f).</uscom:P>
+<uscom:P com:pNumber="84" com:id="p-084"></uscom:P>
+<uscom:P com:pNumber="85" com:id="p-085">Even if 37 C.F.R. § 1.103(a) required a NMP not to be outstanding, an extraordinary situation where justice requires waiver of a requirement of a regulation would not exist in this case because the applicant would be able to avoid the need for the requirement to be waived by simply filing a proper and complete reply to the NMP.</uscom:P>
+<uscom:P com:pNumber="86" com:id="p-086"></uscom:P>
+<uscom:P com:pNumber="87" com:id="p-087">The Office notes, even if a suspension of action could impact the pre-examination processing of an application and prevent the Office from issuing a new NMP, a suspension of action would not suspend the time period for an applicant to respond to a NMP that has already been issued by the Office.</uscom:P>
+<uscom:P com:pNumber="88" com:id="p-088"></uscom:P>
+<uscom:P com:pNumber="89" com:id="p-089">Although an Office action is not outstanding, the request under 37 C.F.R. § 1.103(a) will not be granted because fee set forth in 37 C.F.R. § 1.17(b) has not been submitted.<com:CrossReference com:crossReferenceCategory="Footnote" com:idrefs="IDF1-1"><com:Sup>1</com:Sup></com:CrossReference>  </uscom:P>
+<uscom:P com:pNumber="91" com:id="p-091"></uscom:P>
+<uscom:P com:pNumber="92" com:id="p-092">Applicant may wish consider taking the actions necessary to complete the pre-examination processing of the application, and after the processing is complete, filing a request for deferral of examination (up to three years) under 37 C.F.R. § 1.103(d).  </uscom:P>
+<uscom:P com:pNumber="93" com:id="p-093"></uscom:P>
+<uscom:P com:pNumber="94" com:id="p-094" uscom:alignmentCategory="center"><com:B><com:U>Request for a Refund of Fees</com:U></com:B></uscom:P>
+<uscom:P com:pNumber="95" com:id="p-095"></uscom:P>
+<uscom:P com:pNumber="96" com:id="p-096">The petition requests a refund of any extension of time fees.  Applicant submitted $47 for a </uscom:P>
+<uscom:P com:pNumber="97" com:id="p-097">one-month extension of time on July 30, 2026.  However, the fee was not necessary because the Office had not issued a notice setting a time period for reply.  The request for a refund of the extension fee does not involve the waiver of any requirement in a regulation.  Therefore, a request for a refund of the fee should be filed as a separate paper rather than as part of a petition requesting wavier of a requirement in 37 C.F.R. § 1.103(a).  <com:I>See</com:I> 37 C.F.R. § 1.4(c).</uscom:P>
+<uscom:P com:pNumber="98" com:id="p-098"></uscom:P>
+<uscom:P com:pNumber="99" com:id="p-099">Applicant may file a separate request for a refund of the $47 fee via Patent Center, mail, or facsimile transmission.<com:CrossReference com:crossReferenceCategory="Footnote" com:idrefs="IDF2-1"><com:Sup>2</com:Sup></com:CrossReference>  A copy of this decision must be submitted with the refund request.</uscom:P>
+<uscom:P com:pNumber="101" com:id="p-101"></uscom:P>
+<uscom:P com:pNumber="102" com:id="p-102">The petition requests a refund of the petition fee.  The petition fee is necessary for consideration of the petition, the Office has considered the merits of the petition.  Therefore, the petition fee will not be refunded. </uscom:P>
+<uscom:P com:pNumber="103" com:id="p-103" uscom:alignmentCategory="center"><?PageStart number='4'?><uscom:BoundaryDataReference com:idref="bd-004" /><com:B><com:U>Status of the Application</com:U></com:B></uscom:P>
+<uscom:P com:pNumber="106" com:id="p-106"></uscom:P>
+<uscom:P com:pNumber="107" com:id="p-107">As a courtesy, the Office notes the application will become abandoned if $520 is not timely filed in response to the NMP issued on August 18, 2026.  </uscom:P>
+<uscom:P com:pNumber="108" com:id="p-108"></uscom:P>
+<uscom:P com:pNumber="109" com:id="p-109" uscom:alignmentCategory="center"><com:B><com:U>Conclusion</com:U></com:B></uscom:P>
+<uscom:P com:pNumber="110" com:id="p-110"></uscom:P>
+<uscom:P com:pNumber="111" com:id="p-111">In view of the prior discussion, the petition is dismissed.</uscom:P>
+<uscom:P com:pNumber="112" com:id="p-112"></uscom:P>
+<uscom:P com:pNumber="113" com:id="p-113">Further correspondence with respect to this matter may be filed through the Patent Electronic System at: https://patentcenter.uspto.gov.  Other methods for filing correspondence with respect to this matter may be found at: https://www.uspto.gov/patents/apply/petitions/02-where-file-petitions-requests-and-related-inquiries-office.</uscom:P>
+<uscom:P com:pNumber="114" com:id="p-114"></uscom:P>
+<uscom:P com:pNumber="115" com:id="p-115">Telephone inquiries concerning this decision should be directed to Charles Steven Brantley at (571) 272-3203.  All other inquiries concerning the examination of this application should be directed to the assigned Technology Center.</uscom:P>
+<uscom:P com:pNumber="116" com:id="p-116"></uscom:P>
+<uscom:P com:pNumber="117" com:id="p-117">Information regarding the status of published or unpublished applications and the contents of file wrappers associated with the applications may be obtained by authorized registered users from Patent Center at https://patentcenter.uspto.gov or using the “Explore File Wrapper” link at https://data.uspto.gov/home.</uscom:P>
+<uscom:P com:pNumber="118" com:id="p-118"></uscom:P>
+<uscom:P com:pNumber="119" com:id="p-119">/Charles Steven Brantley/</uscom:P>
+<uscom:P com:pNumber="120" com:id="p-120"></uscom:P>
+<uscom:P com:pNumber="121" com:id="p-121">Charles Steven Brantley</uscom:P>
+<uscom:P com:pNumber="122" com:id="p-122">Attorney Advisor</uscom:P>
+<uscom:P com:pNumber="123" com:id="p-123">Office of Petitions</uscom:P>
+<uscom:P com:pNumber="124" com:id="p-124"></uscom:P>
+
+
+    <uscom:BoundaryDataBag>
+        <uscom:BoundaryData com:id="bd-001">
+            <uscom:SpannedBoundaryData>
+<uscom:HeaderText uscom:alignmentCategory="left"><uscom:Font uscom:fontSizeNumber="9.00" uscom:fontMeasureUnitCode="Pt">Application No. 19/640,973		Page 1</uscom:Font></uscom:HeaderText>
+            </uscom:SpannedBoundaryData>
+            <uscom:SpannedBoundaryData>
+<uscom:FooterText uscom:alignmentCategory="left"></uscom:FooterText>
+            </uscom:SpannedBoundaryData>
+        </uscom:BoundaryData>
+        <uscom:BoundaryData com:id="bd-002">
+            <uscom:SpannedBoundaryData>
+<uscom:HeaderText uscom:alignmentCategory="left"><uscom:Font uscom:fontSizeNumber="9.00" uscom:fontMeasureUnitCode="Pt">Application No. 19/640,973		Page 2</uscom:Font></uscom:HeaderText>
+            </uscom:SpannedBoundaryData>
+            <uscom:SpannedBoundaryData>
+<uscom:FooterText uscom:alignmentCategory="left"></uscom:FooterText>
+            </uscom:SpannedBoundaryData>
+        </uscom:BoundaryData>
+        <uscom:BoundaryData com:id="bd-003">
+            <uscom:SpannedBoundaryData>
+<uscom:HeaderText uscom:alignmentCategory="left"><uscom:Font uscom:fontSizeNumber="9.00" uscom:fontMeasureUnitCode="Pt">Application No. 19/640,973		Page 3</uscom:Font></uscom:HeaderText>
+            </uscom:SpannedBoundaryData>
+            <uscom:SpannedBoundaryData>
+<uscom:FooterText uscom:alignmentCategory="left"></uscom:FooterText>
+            </uscom:SpannedBoundaryData>
+        </uscom:BoundaryData>
+        <uscom:BoundaryData com:id="bd-004">
+            <uscom:SpannedBoundaryData>
+<uscom:HeaderText uscom:alignmentCategory="left"><uscom:Font uscom:fontSizeNumber="9.00" uscom:fontMeasureUnitCode="Pt">Application No. 19/640,973		Page 4</uscom:Font></uscom:HeaderText>
+            </uscom:SpannedBoundaryData>
+            <uscom:SpannedBoundaryData>
+<uscom:FooterText uscom:alignmentCategory="left"></uscom:FooterText>
+            </uscom:SpannedBoundaryData>
+        </uscom:BoundaryData>
+    </uscom:BoundaryDataBag>
+
+    <uscom:FootnoteBag>
+        <uscom:Footnote com:id="IDF1-1" uscom:footnoteNumber="1"><com:Sup>1</com:Sup> Since the fee has not been paid, it is unnecessary for the Office to determine if the applicant has provided the required showing of good and sufficient cause to obtain a suspension of action under 37 C.F.R. § 1.103(a).</uscom:Footnote>
+        <uscom:Footnote com:id="IDF2-1" uscom:footnoteNumber="2"><com:Sup>2</com:Sup> The facsimile number for the Refund Branch of the Office of Finance is 571-273-6500, and the mailing address is Mail Stop 16, Commissioner for Patents, P.O. Box 1450, Alexandria, VA 22313-1450.  Additional information concerning refund requests can be found at the following address on the Office’s website: https://www.uspto.gov/about-us/organizational-offices/office-chief-financial-officer/office-finance/receipts-accounting-1.</uscom:Footnote>
+    </uscom:FootnoteBag>
+</uspat:OutgoingDocument>

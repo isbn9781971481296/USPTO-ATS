@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PatentApplicationData>
+    <FileHeader>
+        <FileCreationTimeStamp>2026-10-08</FileCreationTimeStamp>
+    </FileHeader>
+    <CorrespondenceInfo>
+        <CorrespondenceAddresses>
+            <CorrespondenceAddress>
+                <NameLine1>Reinaldo Javier Aguiar Marcano</NameLine1>
+                <AddressLine1>2302 Britton Ridge Drive</AddressLine1>
+                <City>Katy</City>
+                <GeographicRegion>
+                    <GeographicRegionCode>TX</GeographicRegionCode>
+                    <GeographicRegionName>TEXAS</GeographicRegionName>
+                </GeographicRegion>
+                <PostalCode>77494</PostalCode>
+                <CountryCode>US</CountryCode>
+                <CountryName>UNITED STATES</CountryName>
+            </CorrespondenceAddress>
+        </CorrespondenceAddresses>
+        <CorrespondenceInfo>
+            <Attorneys/>
+        </CorrespondenceInfo>
+    </CorrespondenceInfo>
+    <ApplicationBibliographicData>
+        <ApplicationNumber>19559972</ApplicationNumber>
+        <ApplicationStatusCode>19</ApplicationStatusCode>
+        <ApplicationStatusText>Application Undergoing Preexam Processing</ApplicationStatusText>
+        <ApplicationStatusDate>2026-03-07</ApplicationStatusDate>
+        <ConfirmationNumber>8162</ConfirmationNumber>
+        <CustomerNumber>226458</CustomerNumber>
+        <FilingDate>2026-03-07</FilingDate>
+        <ExaminerName>
+            <FirstName>ANDREA</FirstName>
+            <LastName>BENNETT</LastName>
+        </ExaminerName>
+        <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
+        <InventionTitle>Method and System for Communication via Passive Reflection from Non-Cooperative Orbiting Objects</InventionTitle>
+        <IsPublic>false</IsPublic>
+    </ApplicationBibliographicData>
+    <Inventors>
+        <Inventor>
+            <InventorName>
+                <FirstName>Reinaldo</FirstName>
+                <MiddleName>Javier</MiddleName>
+                <LastName>Aguiar Marcano</LastName>
+            </InventorName>
+            <InventorAddresses>
+                <InventorAddress>
+                    <City>Katy</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>TX</GeographicRegionCode>
+                        <GeographicRegionName>TEXAS</GeographicRegionName>
+                    </GeographicRegion>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+                <InventorAddress>
+                    <City>Katy</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>TX</GeographicRegionCode>
+                        <GeographicRegionName>TEXAS</GeographicRegionName>
+                    </GeographicRegion>
+                    <PostalCode>77494</PostalCode>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+            </InventorAddresses>
+        </Inventor>
+    </Inventors>
+    <Applicants/>
+    <FileContentHistories>
+        <FileContentHistory>
+            <TransactionDate>2026-09-29</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-09-29</TransactionDate>
+            <TransactionDescription>Mail O.P. Petition Decision</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-09-28</TransactionDate>
+            <TransactionDescription>Mail-Petition Decision - Dismissed</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-09-25</TransactionDate>
+            <TransactionDescription>Petition Decision - Dismissed</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-09-25</TransactionDate>
+            <TransactionDescription>O.P. Petition Decision</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-02</TransactionDate>
+            <TransactionDescription>Petition Entered</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-18</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-17</TransactionDate>
+            <TransactionDescription>Application ready for PDX access by participating foreign offices</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-03-07</TransactionDate>
+            <TransactionDescription>Applicants have given acceptable permission for participating foreign</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-03-07</TransactionDate>
+            <TransactionDescription>PTO/SB/69-Authorize EPO Access to Search Results</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-18</TransactionDate>
+            <TransactionDescription>Notice Mailed--Application Incomplete--Filing Date Assigned</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-18</TransactionDate>
+            <TransactionDescription>Filing Receipt</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-03-07</TransactionDate>
+            <TransactionDescription>Applicants have given acceptable permission for participating foreign</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-18</TransactionDate>
+            <TransactionDescription>Mail Pre-Exam Notice</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-18</TransactionDate>
+            <TransactionDescription>Filing Receipt</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-18</TransactionDate>
+            <TransactionDescription>Mail Pre-Exam Notice</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-03-07</TransactionDate>
+            <TransactionDescription>PGPubs early publication request</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-02</TransactionDate>
+            <TransactionDescription>Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-07-26</TransactionDate>
+            <TransactionDescription>Information Disclosure Statement (IDS) Filed</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-03-07</TransactionDate>
+            <TransactionDescription>Entity Status Set To Undiscounted (Initial Default Setting or Status Change)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-03-07</TransactionDate>
+            <TransactionDescription>Initial Exam Team nn</TransactionDescription>
+            <StatusNumber>19</StatusNumber>
+            <StatusDescription>Application Undergoing Preexam Processing</StatusDescription>
+        </FileContentHistory>
+    </FileContentHistories>
+    <ImageFileWrapperList>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Electronic Fee Payment</DocumentDescription>
+            <FileWrapperDocumentCode>N417.PYMT</FileWrapperDocumentCode>
+            <MailRoomDate>2026-03-07</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Application Data Sheet</DocumentDescription>
+            <FileWrapperDocumentCode>ADS</FileWrapperDocumentCode>
+            <MailRoomDate>2026-03-07</MailRoomDate>
+            <PageQuantity>5</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2026-03-07</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Specification</DocumentDescription>
+            <FileWrapperDocumentCode>SPEC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-03-07</MailRoomDate>
+            <PageQuantity>21</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Oath or Declaration filed</DocumentDescription>
+            <FileWrapperDocumentCode>OATH</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>​Letter specifying the conditions for filing under 37 CFR 1.97​</DocumentDescription>
+            <FileWrapperDocumentCode>IDS.R197.REL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>4</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Non Patent Literature</DocumentDescription>
+            <FileWrapperDocumentCode>NPL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>646</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Non Patent Literature</DocumentDescription>
+            <FileWrapperDocumentCode>NPL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>20</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Non Patent Literature</DocumentDescription>
+            <FileWrapperDocumentCode>NPL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>31</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Non Patent Literature</DocumentDescription>
+            <FileWrapperDocumentCode>NPL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>123</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Non Patent Literature</DocumentDescription>
+            <FileWrapperDocumentCode>NPL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>151</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Non Patent Literature</DocumentDescription>
+            <FileWrapperDocumentCode>NPL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>419</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Non Patent Literature</DocumentDescription>
+            <FileWrapperDocumentCode>NPL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>479</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>3</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Electronic Fee Payment</DocumentDescription>
+            <FileWrapperDocumentCode>N417.PYMT</FileWrapperDocumentCode>
+            <MailRoomDate>2026-07-26</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Assertion of entitlement to small entity status via PC</DocumentDescription>
+            <FileWrapperDocumentCode>SES.REQ.PC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-02</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Petition for review by the Office of Petitions</DocumentDescription>
+            <FileWrapperDocumentCode>PET.OP</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-02</MailRoomDate>
+            <PageQuantity>111</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Request for Early Publication</DocumentDescription>
+            <FileWrapperDocumentCode>EARLYPUB</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-02</MailRoomDate>
+            <PageQuantity>4</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-02</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Electronic Fee Payment</DocumentDescription>
+            <FileWrapperDocumentCode>N417.PYMT</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-02</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Specification</DocumentDescription>
+            <FileWrapperDocumentCode>SPEC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-03-07</MailRoomDate>
+            <PageQuantity>5</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Appendix to the specification</DocumentDescription>
+            <FileWrapperDocumentCode>APPENDIX</FileWrapperDocumentCode>
+            <MailRoomDate>2026-03-07</MailRoomDate>
+            <PageQuantity>10</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2026-03-07</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Drawings-only black and white line drawings</DocumentDescription>
+            <FileWrapperDocumentCode>DRW</FileWrapperDocumentCode>
+            <MailRoomDate>2026-03-07</MailRoomDate>
+            <PageQuantity>4</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Notice to File Missing Parts</DocumentDescription>
+            <FileWrapperDocumentCode>NTC.MISS.PRT</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-18</MailRoomDate>
+            <PageQuantity>4</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>2</DocumentCategory>
+            <DocumentDescription>Fee Worksheet (SB06)</DocumentDescription>
+            <FileWrapperDocumentCode>WFEE</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-18</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Filing Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>APP.FILE.REC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-18</MailRoomDate>
+            <PageQuantity>3</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Welcome Letter from USPTO Director and Deputy Director</DocumentDescription>
+            <FileWrapperDocumentCode>WELCOME.LET</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-18</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-18</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Petition Decision</DocumentDescription>
+            <FileWrapperDocumentCode>PETDEC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-09-29</MailRoomDate>
+            <PageQuantity>5</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-09-29</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+    </ImageFileWrapperList>
+    <ForeignPriorities/>
+    <SupplementalContents>
+        <SupplementalContent>
+            <SupplementalContentCategory>Appendix</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>CertificateOfCorrection</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>CertifiedColor</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ChemicalFormulas</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ComputerProgramListing</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>DesignDrawings</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>InterimCopy</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>MathematicalFormulas</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ProteinCrystals</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>SearchResults</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>SequenceListing</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>Tables</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>USPatentColor</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+    </SupplementalContents>
+    <InternationalRegistrationNumbers/>
+    <Fees>
+        <Fee>
+            <AccountingDate>2026-08-03</AccountingDate>
+            <FeeCode>2462</FeeCode>
+            <FeeAmount>180</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>180</TotalAmount>
+            <MailroomDate>2026-08-02</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-07-27</AccountingDate>
+            <FeeCode>3051</FeeCode>
+            <FeeAmount>34</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>34</TotalAmount>
+            <MailroomDate>2026-07-26</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-07-27</AccountingDate>
+            <FeeCode>3806</FeeCode>
+            <FeeAmount>56</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>56</TotalAmount>
+            <MailroomDate>2026-07-26</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-03-09</AccountingDate>
+            <FeeCode>3311</FeeCode>
+            <FeeAmount>176</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>176</TotalAmount>
+            <MailroomDate>2026-03-07</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-03-09</AccountingDate>
+            <FeeCode>3054</FeeCode>
+            <FeeAmount>86</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>86</TotalAmount>
+            <MailroomDate>2026-03-07</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-03-09</AccountingDate>
+            <FeeCode>3111</FeeCode>
+            <FeeAmount>154</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>154</TotalAmount>
+            <MailroomDate>2026-03-07</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+    </Fees>
+</PatentApplicationData>

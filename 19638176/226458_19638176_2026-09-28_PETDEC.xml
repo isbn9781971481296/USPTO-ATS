@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uspat:OutgoingDocument
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:uspat="urn:us:gov:doc:uspto:patent"
+    xmlns="urn:us:gov:doc:uspto:patent"
+    xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:uscom="urn:us:gov:doc:uspto:common"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    uscom:formParagraphMinMatchPercent="78.5"
+    xsi:schemaLocation="urn:us:gov:doc:uspto:patent ..\PE2E\V7_1\Schema\USPatent\Document\OutgoingDocument_V7_1.xsd"
+    com:documentFileName="O.P. Petition Decision.docx" com:id="ID_1" uscom:vendorName="OA2XML" uscom:createDateTime="2026-09-25T15:36:06"
+    com:st96Version="V2_1" com:ipoVersion="US_V7_1">
+
+    <uspat:DocumentMetadata com:id="id-002">
+        <uscom:DocumentCode>OPPT</uscom:DocumentCode>
+        <uscom:ApplicationNumberText uscom:electronicText="19638176">19/638,176</uscom:ApplicationNumberText>
+        <uscom:DocumentSourceIdentifier>PETDEC</uscom:DocumentSourceIdentifier>
+        <com:PartyIdentifier>78622</com:PartyIdentifier>
+        <uscom:GroupArtUnitNumber></uscom:GroupArtUnitNumber>
+        <uscom:DefaultFont uscom:fontMeasureUnitCode="Pt" uscom:fontFamilyName="Times New Roman" uscom:fontSizeNumber="12.00"/>
+    </uspat:DocumentMetadata>
+
+<uscom:P com:pNumber="1" com:id="p-001"><?PageStart number='1'?><uscom:BoundaryDataReference com:idref="bd-001" /><com:Image com:id="image-19438">
+    <com:ImageFormatCategory>PNG</com:ImageFormatCategory>
+    <com:FileName>media_image1.png</com:FileName>
+    <com:HeightMeasure com:measureUnitCode="Px">172</com:HeightMeasure>
+    <com:WidthMeasure com:measureUnitCode="Px">172</com:WidthMeasure>
+    <com:Alt>media_image1.png</com:Alt>
+    <com:ColourModeCategory>Greyscale</com:ColourModeCategory>
+</com:Image><uscom:Font uscom:fontFamilyName="EngravrsRoman BT">United States Patent and Trademark Office</uscom:Font>    <uscom:DataTable uscom:border="1">
+        <uscom:DataTableBody>
+            <uscom:TableRow>
+                <uscom:TableDataCell uscom:horizontalAlign="right" uscom:customStyleText="width:404.75pt;height:1pt;background-color:gray;">                </uscom:TableDataCell>
+            </uscom:TableRow>
+        </uscom:DataTableBody>
+    </uscom:DataTable>
+</uscom:P>
+<uscom:P com:pNumber="2" com:id="p-002" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">Commissioner for Patents</uscom:Font></uscom:P>
+<uscom:P com:pNumber="3" com:id="p-003" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">United States Patent and Trademark Office</uscom:Font></uscom:P>
+<uscom:P com:pNumber="4" com:id="p-004" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">P.O. Box </uscom:Font><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="7.00" uscom:fontMeasureUnitCode="Pt">1450</uscom:Font></uscom:P>
+<uscom:P com:pNumber="5" com:id="p-005" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">Alexandria, VA </uscom:Font><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="7.00" uscom:fontMeasureUnitCode="Pt">22313-1450</uscom:Font></uscom:P>
+<uscom:P com:pNumber="6" com:id="p-006" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="AvantGarde Bk BT" uscom:fontSizeNumber="6.00" uscom:fontMeasureUnitCode="Pt">www.uspto.gov</uscom:Font></uscom:P>
+<uscom:P com:pNumber="7" com:id="p-007"></uscom:P>
+<uscom:P com:pNumber="8" com:id="p-008"></uscom:P>
+<uscom:P com:pNumber="9" com:id="p-009"></uscom:P>
+<uscom:P com:pNumber="10" com:id="p-010"></uscom:P>
+<uscom:P com:pNumber="11" com:id="p-011">In re Application of </uscom:P>
+<uscom:P com:pNumber="12" com:id="p-012">Reinaldo Javier Aguiar Marcano</uscom:P>
+<uscom:P com:pNumber="13" com:id="p-013">Application No. 19/638,176</uscom:P>
+<uscom:P com:pNumber="14" com:id="p-014">Filed: 3 Apr 2026</uscom:P>
+<uscom:P com:pNumber="15" com:id="p-015">For: METHOD AND APPARATUS FOR HIGH-RADIX NUMBER REPRESENTATION USING PARAMETRIC SERIES</uscom:P>
+<uscom:P com:pNumber="16" com:id="p-016">:</uscom:P>
+<uscom:P com:pNumber="17" com:id="p-017">:</uscom:P>
+<uscom:P com:pNumber="18" com:id="p-018">:</uscom:P>
+<uscom:P com:pNumber="19" com:id="p-019">:	DECISION ON PETITION</uscom:P>
+<uscom:P com:pNumber="20" com:id="p-020">:</uscom:P>
+<uscom:P com:pNumber="21" com:id="p-021">:</uscom:P>
+<uscom:P com:pNumber="22" com:id="p-022">:</uscom:P>
+<uscom:P com:pNumber="23" com:id="p-023"></uscom:P>
+<uscom:P com:pNumber="24" com:id="p-024"></uscom:P>
+<uscom:P com:pNumber="25" com:id="p-025">This is a decision on the “PETITION TO THE DIRECTOR UNDER 37 CFR § 1.183 TO SUSPEND PROSECUTION ON CONSTITUTIONAL DUE PROCESS AND NATIONAL DEFENSE GROUNDS [REQUEST FOR EXPEDITED ADMINISTRATIVE PROCESSING]”, filed August 2, 2026.</uscom:P>
+<uscom:P com:pNumber="26" com:id="p-026"></uscom:P>
+<uscom:P com:pNumber="27" com:id="p-027">The petition under 37 CFR 1.183 is <com:B>DISMISSED</com:B>.</uscom:P>
+<uscom:P com:pNumber="28" com:id="p-028"></uscom:P>
+<uscom:P com:pNumber="29" com:id="p-029">Any request for reconsideration of this decision must be submitted within <com:B>two (2) months</com:B> from the mail date of this decision. Extensions of time under 37 CFR 1.136(a) are <com:B>NOT</com:B> available. </uscom:P>
+<uscom:P com:pNumber="30" com:id="p-030"></uscom:P>
+<uscom:P com:pNumber="31" com:id="p-031">On April 3, 2026, Applicant filed the instant application. On July 24, 2026, the Office mailed a Notice to File Missing Parts of Nonprovisional Application. This Notice set an extendable period for reply of two months for Applicant to submit replacement claims and a replacement abstract (because Applicant’s claims and abstract did not commence on a separate sheet), and the statutory basic filing fee, search fee, examination fee, surcharge for their late filing, and non-DOCX fee (Applicant paid the search fee, examination fee, and non-DOCX fee at the micro entity rate, but did not file a Certification of Micro Entity Status form). </uscom:P>
+<uscom:P com:pNumber="32" com:id="p-032"></uscom:P>
+<uscom:P com:pNumber="33" com:id="p-033">On August 2, 2026, Applicant has filed the instant petition, requesting the Office suspend prosecution of the application because he is “currently legally and physical incapacitated from prosecuting this application or safely retaining patent counsel.” Specifically, Applicant requests suspension of 37 CFR 1.103(a)’s requirement that there be no outstanding Office action before the Office may grant a suspension of action. </uscom:P>
+<uscom:P com:pNumber="34" com:id="p-034"></uscom:P>
+<uscom:P com:pNumber="35" com:id="p-035">37 CFR 1.183 states:</uscom:P>
+<uscom:P com:pNumber="36" com:id="p-036"></uscom:P>
+<uscom:P com:pNumber="37" com:id="p-037">	In an extraordinary situation, when justice requires, any requirement of the regulations in 	this part which is not a requirement of the statutes may be suspended or waived by the 	Director or the Director’s designee, sua sponte, or on petition of the interested party, 	subject to such other requirements as may be imposed. Any petition seeking a decision 	under this section must be accompanied by the petition fee set forth in § 1.17(f).</uscom:P>
+<uscom:P com:pNumber="38" com:id="p-038"></uscom:P>
+<uscom:P com:pNumber="39" com:id="p-039">Applicant has not shown that this is an extraordinary situation such that justice requires suspension or waiver of the rules. There is no need for a petition under 37 CFR 1.183 to suspend or waive any rules because Applicant can purchase extensions of time to response to the Notice to File Missing Parts. The last day Applicant can respond to the Notice to File Missing Parts, with the maximum five month extension of time, is February 24, 2027. Here, Applicant has failed to explain why the available extensions of time are not sufficient to address his requested relief. Moreover, Applicant has failed to explain why his ongoing litigation activities prevent him from filing a response to the Notice to File Missing Parts and then requesting suspension of action under 37 CFR 1.103.  </uscom:P>
+<uscom:P com:pNumber="40" com:id="p-040"></uscom:P>
+<uscom:P com:pNumber="41" com:id="p-041">The period for responding to the Notice to File Missing Parts mailed July 24, 2026 continues to run from the mail date of that Notice.</uscom:P>
+<uscom:P com:pNumber="42" com:id="p-042"></uscom:P>
+<uscom:P com:pNumber="43" com:id="p-043">Further correspondence with respect to this matter may be filed through the Patent Electronic System at: https://patentcenter.uspto.gov/.<com:CrossReference com:crossReferenceCategory="Footnote" com:idrefs="IDF1-1 IDF1-2"><com:Sup>1</com:Sup></com:CrossReference> </uscom:P>
+<uscom:P com:pNumber="46" com:id="p-046"></uscom:P>
+<uscom:P com:pNumber="47" com:id="p-047">Other methods for filing correspondence with respect to this matter may be found at: https://www.uspto.gov/patents/apply/petitions/02-where-file-petitions-requests-and-related-inquiries-office.</uscom:P>
+<uscom:P com:pNumber="48" com:id="p-048"></uscom:P>
+<uscom:P com:pNumber="49" com:id="p-049">Any questions concerning this matter may be directed to the undersigned at (571)270-1337.</uscom:P>
+<uscom:P com:pNumber="50" com:id="p-050"></uscom:P>
+<uscom:P com:pNumber="51" com:id="p-051">/Cliff Congo/</uscom:P>
+<uscom:P com:pNumber="52" com:id="p-052"></uscom:P>
+<uscom:P com:pNumber="53" com:id="p-053">Cliff Congo</uscom:P>
+<uscom:P com:pNumber="54" com:id="p-054">Attorney Advisor- Office of Petitions</uscom:P>
+<uscom:P com:pNumber="55" com:id="p-055"></uscom:P>
+<uscom:P com:pNumber="56" com:id="p-056"></uscom:P>
+<uscom:P com:pNumber="57" com:id="p-057"></uscom:P>
+
+
+    <uscom:BoundaryDataBag>
+        <uscom:BoundaryData com:id="bd-001">
+            <uscom:SpannedBoundaryData>
+            <uscom:HeaderText/>
+            </uscom:SpannedBoundaryData>
+        </uscom:BoundaryData>
+    </uscom:BoundaryDataBag>
+
+    <uscom:FootnoteBag>
+        <uscom:Footnote com:id="IDF1-1" uscom:footnoteNumber="1"><com:Sup>1</com:Sup> <uscom:Font uscom:fontSizeNumber="10.00" uscom:fontMeasureUnitCode="Pt">Patent Center offers a single user interface for electronic filing and management of patent applications. Through the use of submission and payment receipts, Patent Center permits users to clearly confirm the status of submitted documents and successful payments. Patent Center also allows users to view documents in their patent applications and provides the option to enroll in the e-Office Action program, which notifies applicants, via e-mail, when a new Office communication is available for viewing and downloading. If you are not already a Patent Center user, you can easily become a registered eFiler by creating a USPTO.gov account and verifying your identity using ID.me. This process usually takes around thirty minutes to complete. After verification, you will be able to self-enroll in Patent Center. Additional details regarding this process may be found at: https://www.uspto.gov/patents/apply/applying-online/getting-started-new-users. Full technical support for Patent Center is available through the Patent Electronic Business Center (EBC) at 866-217-9197 (toll-free) or 571-272-4100 from 9 a.m. to 8 p.m. ET, Monday - Friday. </uscom:Font></uscom:Footnote>
+        <uscom:Footnote com:id="IDF1-2" uscom:footnoteNumber="1"></uscom:Footnote>
+    </uscom:FootnoteBag>
+</uspat:OutgoingDocument>

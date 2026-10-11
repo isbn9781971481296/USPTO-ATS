@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>USPTO ATS - Examiner Profile: /QTRAN/</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        a { text-decoration: none; }
+    </style>
+</head>
+<body>
+<div class="container-fluid py-4">
+    <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-4">
+        <div>
+            <span class="fs-2 fw-bold text-dark">USPTO ATS</span> <span class="fs-6 text-muted">(Application Tracking System)</span>
+            <div class="fs-5 text-secondary">
+                <strong>Examiner Profile: /QTRAN/</strong>
+            </div>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+            <a href="examiners.html" class="btn btn-outline-secondary btn-sm fw-bold">&larr; Back to Examiners Log</a>
+            <a href="index.html" class="btn btn-primary btn-sm fw-bold text-white shadow-sm">ATS Dashboard</a>
+            <a href="https://www.isbn9781971481296.com/" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm fw-bold text-white shadow-sm">⬇ Download Portfolio</a>
+            <button class="btn btn-primary btn-sm fw-bold text-white shadow-sm" onclick="shareCurrentPage(this)">🔗 Share</button>
+        </div>
+    </div>
+
+    <nav class="nav nav-pills mb-4">
+        <a class="nav-link" href="index.html">ATS Dashboard</a>
+        <a class="nav-link" href="examiners.html">Examiner Change-Request Log & Accumulative Rules</a>
+        <a class="nav-link active" href="examiner_qtran.html">/QTRAN/ (Active Profile)</a>
+    </nav>
+
+    <div class="row mb-4">
+        <div class="col-md-4">
+            <div class="card bg-light">
+                <div class="card-body">
+                    <h6>Examiner Name</h6>
+                    <h3 class="text-primary mt-1">/QTRAN/</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bg-light">
+                <div class="card-body">
+                    <h6>Portfolio Applications Assigned</h6>
+                    <h3 class="text-dark mt-1">0</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bg-light">
+                <div class="card-body">
+                    <h6>Change Requests / Objections Issued</h6>
+                    <h3 class="text-danger mt-1">4</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Section 1: Change Requests Issued by Examiner -->
+    <div class="card mb-4">
+        <div class="card-header bg-dark text-white">
+            <h5 class="mb-0">Formality Objections & Change Requests Issued by /QTRAN/</h5>
+        </div>
+        <div class="card-body">
+            <table class="table table-hover table-bordered table-sm">
+                <thead class="table-light">
+                    <tr>
+                        <th>Date</th>
+                        <th>Application</th>
+                        <th>Notice Type</th>
+                        <th>Rule Cited</th>
+                        <th>Document</th>
+                        <th>Deficiency & Specific Directive</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                <td><code>2026-08-05</code></td>
+                <td><a href="app_19560038.html"><strong>19560038</strong></a></td>
+                <td><span class="badge bg-warning text-dark">NTC.MISS.PRT</span></td>
+                <td><strong><code>37 CFR 1.63</code></strong></td>
+                <td><span class="badge bg-secondary">Declaration</span></td>
+                <td><strong>Inventor oath or declaration missing</strong><br><small class="text-muted">Submit executed inventor oath or declaration under 37 CFR 1.63</small></td>
+            </tr><tr>
+                <td><code>2026-08-05</code></td>
+                <td><a href="app_19560038.html"><strong>19560038</strong></a></td>
+                <td><span class="badge bg-warning text-dark">NTC.MISS.PRT</span></td>
+                <td><strong><code>37 CFR 1.58(a)</code></strong><span class="badge bg-danger ms-1">Unanticipated</span></td>
+                <td><span class="badge bg-secondary">Specification/Drawings</span></td>
+                <td><strong>Specification contains embedded drawings or flow diagrams on pages 6, 7 & 8</strong><br><small class="text-muted">Drawings/flow diagrams cannot be embedded in specification; must be removed and filed separately under 37 CFR 1.84</small></td>
+            </tr><tr>
+                <td><code>2026-08-05</code></td>
+                <td><a href="app_19560038.html"><strong>19560038</strong></a></td>
+                <td><span class="badge bg-warning text-dark">NTC.MISS.PRT</span></td>
+                <td><strong><code>37 CFR 1.29</code></strong></td>
+                <td><span class="badge bg-secondary">Entity Status</span></td>
+                <td><strong>Certification of micro entity status missing</strong><br><small class="text-muted">Submit Form PTO/SB/15A or 15B to establish micro entity discount</small></td>
+            </tr><tr>
+                <td><code>2026-08-05</code></td>
+                <td><a href="app_19560038.html"><strong>19560038</strong></a></td>
+                <td><span class="badge bg-warning text-dark">NTC.MISS.PRT</span></td>
+                <td><strong><code>37 CFR 1.16(u)</code></strong></td>
+                <td><span class="badge bg-secondary">Fees/Specification</span></td>
+                <td><strong>Specification not submitted in DOCX format ($430 penalty fee)</strong><br><small class="text-muted">Submit $430 non-DOCX surcharge or auxiliary PDF under USPTO DOCX rules</small></td>
+            </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Section 2: Assigned Applications -->
+    <div class="card mb-4">
+        <div class="card-header bg-dark text-white">
+            <h5 class="mb-0">Applications Assigned to /QTRAN/ in Portfolio</h5>
+        </div>
+        <div class="card-body">
+            <table class="table table-hover table-bordered table-sm">
+                <thead class="table-light">
+                    <tr>
+                        <th>App Number</th>
+                        <th>Title</th>
+                        <th>Cluster</th>
+                        <th>Status</th>
+                        <th>Urgency Score</th>
+                        <th>Risk Score</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script>
+    function shareCurrentPage(btn) {
+        const url = window.location.href;
+        if (navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(url).then(() => showCopiedFeedback(btn)).catch(() => fallbackCopy(url, btn));
+        } else {
+            fallbackCopy(url, btn);
+        }
+    }
+
+    function fallbackCopy(url, btn) {
+        const ta = document.createElement('textarea');
+        ta.value = url;
+        ta.style.position = 'fixed';
+        ta.style.left = '-9999px';
+        document.body.appendChild(ta);
+        ta.focus();
+        ta.select();
+        try {
+            document.execCommand('copy');
+            showCopiedFeedback(btn);
+        } catch (e) {
+            prompt('Copy shareable link:', url);
+        }
+        ta.remove();
+    }
+
+    function showCopiedFeedback(btn) {
+        if (!btn) return;
+        const orig = btn.innerHTML;
+        btn.innerHTML = '✓ Link Copied!';
+        btn.classList.remove('btn-primary');
+        btn.classList.add('btn-success');
+        setTimeout(() => {
+            btn.innerHTML = orig;
+            btn.classList.remove('btn-success');
+            btn.classList.add('btn-primary');
+        }, 2000);
+    }
+</script>
+</body>
+</html>

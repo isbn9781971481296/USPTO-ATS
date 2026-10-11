@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uspat:OutgoingDocument
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:uspat="urn:us:gov:doc:uspto:patent"
+    xmlns="urn:us:gov:doc:uspto:patent"
+    xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:uscom="urn:us:gov:doc:uspto:common"
+    xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    uscom:formParagraphMinMatchPercent="78.5"
+    xsi:schemaLocation="urn:us:gov:doc:uspto:patent ..\PE2E\V7_1\Schema\USPatent\Document\OutgoingDocument_V7_1.xsd"
+    com:documentFileName="O.P. Petition Decision.docx" com:id="ID_1" uscom:vendorName="OA2XML" uscom:createDateTime="2026-09-30T17:11:37"
+    com:st96Version="V2_1" com:ipoVersion="US_V7_1">
+
+    <uspat:DocumentMetadata com:id="id-002">
+        <uscom:DocumentCode>OPPT</uscom:DocumentCode>
+        <uscom:ApplicationNumberText uscom:electronicText="19562838">19/562,838</uscom:ApplicationNumberText>
+        <uscom:DocumentSourceIdentifier>PETDEC</uscom:DocumentSourceIdentifier>
+        <com:PartyIdentifier>77970</com:PartyIdentifier>
+        <uscom:GroupArtUnitNumber></uscom:GroupArtUnitNumber>
+        <uscom:DefaultFont uscom:fontMeasureUnitCode="Pt" uscom:fontFamilyName="Times New Roman" uscom:fontSizeNumber="12.00"/>
+    </uspat:DocumentMetadata>
+
+<uscom:P com:pNumber="1" com:id="p-001"><?PageStart number='1'?><uscom:BoundaryDataReference com:idref="bd-001" /><com:Image com:id="image-26787">
+    <com:ImageFormatCategory>PNG</com:ImageFormatCategory>
+    <com:FileName>media_image1.png</com:FileName>
+    <com:HeightMeasure com:measureUnitCode="Px">172</com:HeightMeasure>
+    <com:WidthMeasure com:measureUnitCode="Px">172</com:WidthMeasure>
+    <com:Alt>media_image1.png</com:Alt>
+    <com:ColourModeCategory>Greyscale</com:ColourModeCategory>
+</com:Image><uscom:Font uscom:fontFamilyName="EngravrsRoman BT">United States Patent and Trademark Office</uscom:Font>    <uscom:DataTable uscom:border="1">
+        <uscom:DataTableBody>
+            <uscom:TableRow>
+                <uscom:TableDataCell uscom:horizontalAlign="right" uscom:customStyleText="width:404.75pt;height:1pt;background-color:gray;">                </uscom:TableDataCell>
+            </uscom:TableRow>
+        </uscom:DataTableBody>
+    </uscom:DataTable>
+</uscom:P>
+<uscom:P com:pNumber="2" com:id="p-002" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">Commissioner for Patents</uscom:Font></uscom:P>
+<uscom:P com:pNumber="3" com:id="p-003" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">United States Patent and Trademark Office</uscom:Font></uscom:P>
+<uscom:P com:pNumber="4" com:id="p-004" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">P.O. Box </uscom:Font><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="7.00" uscom:fontMeasureUnitCode="Pt">1450</uscom:Font></uscom:P>
+<uscom:P com:pNumber="5" com:id="p-005" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt">Alexandria, VA </uscom:Font><uscom:Font uscom:fontFamilyName="EngraversGothic BT" uscom:fontSizeNumber="7.00" uscom:fontMeasureUnitCode="Pt">22313-1450</uscom:Font></uscom:P>
+<uscom:P com:pNumber="6" com:id="p-006" uscom:alignmentCategory="right"><uscom:Font uscom:fontFamilyName="AvantGarde Bk BT" uscom:fontSizeNumber="6.00" uscom:fontMeasureUnitCode="Pt">www.uspto.gov</uscom:Font></uscom:P>
+<uscom:P com:pNumber="7" com:id="p-007"></uscom:P>
+<uscom:P com:pNumber="8" com:id="p-008"></uscom:P>
+<uscom:P com:pNumber="9" com:id="p-009"></uscom:P>
+<uscom:P com:pNumber="10" com:id="p-010"></uscom:P>
+<uscom:P com:pNumber="11" com:id="p-011">In re Application of </uscom:P>
+<uscom:P com:pNumber="12" com:id="p-012">Aguiar Marcano, Reinaldo Javier</uscom:P>
+<uscom:P com:pNumber="13" com:id="p-013">Application No. 19/562,838</uscom:P>
+<uscom:P com:pNumber="14" com:id="p-014">Filed: March 11, 2026</uscom:P>
+<uscom:P com:pNumber="15" com:id="p-015">For: METHOD FOR ENERGY-EFFICIENT COMPUTING VIA CLOCK SPEED REDUCTION</uscom:P>
+<uscom:P com:pNumber="16" com:id="p-016">:</uscom:P>
+<uscom:P com:pNumber="17" com:id="p-017">:</uscom:P>
+<uscom:P com:pNumber="18" com:id="p-018">:</uscom:P>
+<uscom:P com:pNumber="19" com:id="p-019">:	DECISION ON PETITION</uscom:P>
+<uscom:P com:pNumber="20" com:id="p-020">:</uscom:P>
+<uscom:P com:pNumber="21" com:id="p-021">:</uscom:P>
+<uscom:P com:pNumber="22" com:id="p-022">:</uscom:P>
+<uscom:P com:pNumber="23" com:id="p-023"></uscom:P>
+<uscom:P com:pNumber="24" com:id="p-024"></uscom:P>
+<uscom:P com:pNumber="25" com:id="p-025"></uscom:P>
+<uscom:P com:pNumber="26" com:id="p-026"></uscom:P>
+<uscom:P com:pNumber="27" com:id="p-027">This decision is in response to the “PETITION TO THE DIRECTOR UNDER 37 CFR § 1.183 TO SUSPEND PROSECUTION ON CONSTITUTIONAL DUE PROCESS AND NATIONAL DEFENSE GROUNDS [REQUEST FOR EXPEDITED ADMINISTRATIVE PROCESSING],” filed August 1, 2026.</uscom:P>
+<uscom:P com:pNumber="28" com:id="p-028"></uscom:P>
+<uscom:P com:pNumber="29" com:id="p-029">The petition under 37 CFR 1.183 is DISMISSED.</uscom:P>
+<uscom:P com:pNumber="30" com:id="p-030"></uscom:P>
+<uscom:P com:pNumber="31" com:id="p-031">Petitioner is given TWO MONTHS from the mailing date of this decision to reply. Any reply should be entitled &quot;Request for Reconsideration of Petition Decision Under 37 CFR 1.183.&quot; Any extensions of time will be governed by 37 CFR 1.136(a). This is not a final agency decision within the meaning of 5 U.S.C. § 704. No additional petition fee under 37 CFR 1.17(f) is required.</uscom:P>
+<uscom:P com:pNumber="32" com:id="p-032"></uscom:P>
+<uscom:P com:pNumber="33" com:id="p-033">37 CFR 1.183 states:</uscom:P>
+<uscom:P com:pNumber="34" com:id="p-034"></uscom:P>
+<uscom:P com:pNumber="35" com:id="p-035" uscom:indentationLevelNumber="L1">In an extraordinary situation, when justice requires, any requirement of the regulations in this part which is not a requirement of the statutes may be suspended or waived by the Director or the Director’s designee, sua sponte, or on petition of the interested party, subject to such other requirements as may be imposed. Any petition under this section must be accompanied by the petition fee set forth in § 1.17(f).</uscom:P>
+<uscom:P com:pNumber="36" com:id="p-036"></uscom:P>
+<uscom:P com:pNumber="37" com:id="p-037">The Office acknowledges receipt of the required petition fee set forth at 37 CFR 1.17(f). Submission of the required petition fee is a prerequisite for treatment on the merits of the instant petition. Accordingly, the required petition fee is not subject to refund.</uscom:P>
+<uscom:P com:pNumber="38" com:id="p-038"></uscom:P>
+<uscom:P com:pNumber="39" com:id="p-039"><?PageStart number='2'?><uscom:BoundaryDataReference com:idref="bd-002" />Petitioner fails to identify a specific rule for which waiver under 37 CFR 1.183 is sought. In this regard, petitioner herein requests that the USPTO Director:</uscom:P>
+<uscom:P com:pNumber="40" com:id="p-040"></uscom:P>
+<uscom:P com:pNumber="41" com:id="p-041" uscom:indentationLevelNumber="L1" uscom:indentationMeasureUnitCode="Pt" uscom:hangingIndentationNumber="18.00"><uscom:OL><uscom:LI com:liNumber="1.">Find that an extraordinary situation exists under 37 CFR § 1.183 where the interests of justice and the constitutional protections of the Fifth Amendment require the waiver of non-statutory administrative rules;</uscom:LI></uscom:OL></uscom:P>
+<uscom:P com:pNumber="42" com:id="p-042"></uscom:P>
+<uscom:P com:pNumber="43" com:id="p-043" uscom:indentationLevelNumber="L1" uscom:indentationMeasureUnitCode="Pt" uscom:hangingIndentationNumber="18.00"><uscom:OL><uscom:LI com:liNumber="2.">Grant immediate expedited processing of this Petition on National Defense and Aerospace procurement grounds;</uscom:LI></uscom:OL></uscom:P>
+<uscom:P com:pNumber="44" com:id="p-044"></uscom:P>
+<uscom:P com:pNumber="45" com:id="p-045" uscom:indentationLevelNumber="L1" uscom:indentationMeasureUnitCode="Pt" uscom:hangingIndentationNumber="18.00"><uscom:OL><uscom:LI com:liNumber="3.">Waive the strict response deadlines for any outstanding pre-exam notifications, including the Notice to File Missing Parts;</uscom:LI></uscom:OL></uscom:P>
+<uscom:P com:pNumber="46" com:id="p-046"></uscom:P>
+<uscom:P com:pNumber="47" com:id="p-047" uscom:indentationLevelNumber="L1" uscom:indentationMeasureUnitCode="Pt" uscom:hangingIndentationNumber="18.00"><uscom:OL><uscom:LI com:liNumber="4.">Order a six-month administrative suspension of all prosecution under 37 CFR § 1.103(a), to be renewed upon request if necessary, to protect this application from procedural dismissal or abandonment; and</uscom:LI></uscom:OL></uscom:P>
+<uscom:P com:pNumber="48" com:id="p-048"></uscom:P>
+<uscom:P com:pNumber="49" com:id="p-049" uscom:indentationLevelNumber="L1" uscom:indentationMeasureUnitCode="Pt" uscom:hangingIndentationNumber="18.00"><uscom:OL><uscom:LI com:liNumber="5.">Direct that all electronic notifications and correspondence in this application be routed to Applicant and Petitioner&apos;s secure registered email address (reinaldo.aguiar.marcano, isbn9781971481296.com) to bypass the physical mail block.</uscom:LI></uscom:OL></uscom:P>
+<uscom:P com:pNumber="50" com:id="p-050"></uscom:P>
+<uscom:P com:pNumber="51" com:id="p-051">With respect to 1., the petition is dismissed. Petitioner fails to identify any specific “non-statutory administrative rules” for which waiver is sought or establish the existence of an “extraordinary situation” within the meaning of 37 CFR 1.183 that prevents applicant from complying with any “non-statutory administrative rules” for which waiver is sought.</uscom:P>
+<uscom:P com:pNumber="52" com:id="p-052"></uscom:P>
+<uscom:P com:pNumber="53" com:id="p-053">With respect to 2., the petition is dismissed. Petitioner has failed to seek relief pursuant to 37 CFR 1.182 with respect to expedited treatment of the instant petition. Petitions filed before the Office of Petitions are, in general, treated in the order in which filed. Expedited treatment of a petition requires a petition and fee pursuant to 37 CFR 1.182. A petition to expedite under 37 CFR 1.182 will only be considered at the courtesy of the Office of Petitions when and if deemed advisable. </uscom:P>
+<uscom:P com:pNumber="54" com:id="p-054"></uscom:P>
+<uscom:P com:pNumber="55" com:id="p-055">With respect to 3., the petition is dismissed. The petition generally requests that the time periods set for reply to any preexamination Notice issued by the USPTO be waived in the instant application. This request is general in nature and does not identify a specific rule for which waiver is sought. Moreover, to avoid abandonment of the application, the applicant is required to strictly adhere to any and all time periods set for reply to an Office communication. <com:U>See</com:U>, 37 CFR 1.53(f).</uscom:P>
+<uscom:P com:pNumber="56" com:id="p-056"></uscom:P>
+<uscom:P com:pNumber="57" com:id="p-057">Failure to submit a proper reply timely and any requisite extensions of time fees in response to any outstanding Office communication will result in the abandonment of the application. Be further advised that the submission of a petition does not stay the time period for reply to an outstanding communication. <com:U>See</com:U>, 37 CFR 1.181(f).</uscom:P>
+<uscom:P com:pNumber="58" com:id="p-058"></uscom:P>
+<uscom:P com:pNumber="59" com:id="p-059">With respect to 4., the petition is dismissed. Wherein petitioner requests a six-month suspension of prosecution pursuant to 37 CFR 1.103(a), the application is not currently under prosecution as the application remains under pre-examination. Therefore, the provisions of 37 CFR 1.103(a) are not applicable at this time. To the extent that applicant seeks deferral of examination, petitioner’s attention is directed to 37 CFR 1.103(d).</uscom:P>
+<uscom:P com:pNumber="60" com:id="p-060"></uscom:P>
+<uscom:P com:pNumber="61" com:id="p-061">With respect to 5., be advised that correspondence concerning this application is properly directed to the correspondence address designated by applicant on filing. To the extent that applicant wishes to update their correspondence address, applicant is required to comply with the procedures for so doing that can be found at MPEP 601.03.</uscom:P>
+<uscom:P com:pNumber="62" com:id="p-062"></uscom:P>
+<uscom:P com:pNumber="63" com:id="p-063">Wherein petitioner seemingly seeks to have correspondence transmitted to applicant electronically rather than via USPS, applicant is required to avail themselves to the eOffice Action Program. For further information, petitioner’s attention is direction to the following:</uscom:P>
+<uscom:P com:pNumber="64" com:id="p-064"></uscom:P>
+<uscom:P com:pNumber="65" com:id="p-065">https://www.uspto.gov/patents/apply/checking-application-status/e-office-action-program</uscom:P>
+<uscom:P com:pNumber="66" com:id="p-066"></uscom:P>
+<uscom:P com:pNumber="67" com:id="p-067">Be advised that all future communications concerning this application will continue to be directed to the correspondence address of record until such time as proper instruction to the contrary is received.</uscom:P>
+<uscom:P com:pNumber="68" com:id="p-068"></uscom:P>
+<uscom:P com:pNumber="69" com:id="p-069">Further correspondence with respect to this matter should be addressed as follows:</uscom:P>
+<uscom:P com:pNumber="70" com:id="p-070"></uscom:P>
+<uscom:P com:pNumber="71" com:id="p-071">By mail:		Mail Stop PETITION</uscom:P>
+<uscom:P com:pNumber="72" com:id="p-072">			Commissioner for Patents</uscom:P>
+<uscom:P com:pNumber="73" com:id="p-073" uscom:indentationLevelNumber="L2" uscom:indentationMeasureUnitCode="Pt" uscom:firstLineIndentationNumber="36.00">Post Office Box 1450			</uscom:P>
+<uscom:P com:pNumber="74" com:id="p-074">			Alexandria, VA 22313-1450</uscom:P>
+<uscom:P com:pNumber="75" com:id="p-075"></uscom:P>
+<uscom:P com:pNumber="76" com:id="p-076">By hand:		United States Patent and Trademark Office</uscom:P>
+<uscom:P com:pNumber="77" com:id="p-077" uscom:indentationLevelNumber="L3">Customer Service Window, Mail Stop Petition</uscom:P>
+<uscom:P com:pNumber="78" com:id="p-078" uscom:indentationLevelNumber="L3">Knox Building, Room 1D80</uscom:P>
+<uscom:P com:pNumber="79" com:id="p-079" uscom:indentationLevelNumber="L3">501 Dulany Street </uscom:P>
+<uscom:P com:pNumber="80" com:id="p-080" uscom:indentationLevelNumber="L3">Alexandria, VA 22314</uscom:P>
+<uscom:P com:pNumber="81" com:id="p-081"></uscom:P>
+<uscom:P com:pNumber="82" com:id="p-082">By fax:			(571) 273-8300</uscom:P>
+<uscom:P com:pNumber="83" com:id="p-083"><?PageStart number='3'?><uscom:BoundaryDataReference com:idref="bd-003" />			ATTN: Office of Petitions</uscom:P>
+<uscom:P com:pNumber="84" com:id="p-084"></uscom:P>
+<uscom:P com:pNumber="85" com:id="p-085">By internet:		Patent Center<com:CrossReference com:crossReferenceCategory="Footnote" com:idrefs="IDF1-1 IDF1-2"><com:Sup>1</com:Sup></com:CrossReference> </uscom:P>
+<uscom:P com:pNumber="88" com:id="p-088"></uscom:P>
+<uscom:P com:pNumber="89" com:id="p-089">Information regarding the status of published or unpublished applications may be obtained by authorized registered users from Patent Center at: https://patentcenter.uspto.gov. In addition, information regarding published applications and applications open to public inspection may be obtained from the Patent File Wrapper (PFW) system at:  https://data.uspto.gov/patent-file-wrapper. </uscom:P>
+<uscom:P com:pNumber="90" com:id="p-090"></uscom:P>
+<uscom:P com:pNumber="91" com:id="p-091">Telephone inquiries regarding this decision should be directed to the undersigned at (571) 272-3205.</uscom:P>
+<uscom:P com:pNumber="92" com:id="p-092"> </uscom:P>
+<uscom:P com:pNumber="93" com:id="p-093">All other inquiries concerning the processing of this application as a patent should be directed to the Office of Data Management at (571) 272-4200, or via e-mail at <com:U>PubsCustomerService@uspto.gov</com:U>.</uscom:P>
+<uscom:P com:pNumber="94" com:id="p-094"></uscom:P>
+<uscom:P com:pNumber="95" com:id="p-095">The application is being directed to the Office of Patent Application Processing for further processing.</uscom:P>
+<uscom:P com:pNumber="96" com:id="p-096"></uscom:P>
+<uscom:P com:pNumber="97" com:id="p-097"> </uscom:P>
+<uscom:P com:pNumber="98" com:id="p-098"></uscom:P>
+<uscom:P com:pNumber="99" com:id="p-099">/ALESIA M BROWN/Attorney Advisor, OPET                                                                                                                                                                                                        </uscom:P>
+<uscom:P com:pNumber="100" com:id="p-100"></uscom:P>
+<uscom:P com:pNumber="101" com:id="p-101"></uscom:P>
+<uscom:P com:pNumber="102" com:id="p-102"></uscom:P>
+<uscom:P com:pNumber="103" com:id="p-103"></uscom:P>
+<uscom:P com:pNumber="104" com:id="p-104"></uscom:P>
+
+
+    <uscom:BoundaryDataBag>
+        <uscom:BoundaryData com:id="bd-001">
+            <uscom:SpannedBoundaryData>
+            <uscom:HeaderText/>
+            </uscom:SpannedBoundaryData>
+        </uscom:BoundaryData>
+        <uscom:BoundaryData com:id="bd-002">
+            <uscom:SpannedBoundaryData>
+            <uscom:HeaderText/>
+            </uscom:SpannedBoundaryData>
+        </uscom:BoundaryData>
+        <uscom:BoundaryData com:id="bd-003">
+            <uscom:SpannedBoundaryData>
+            <uscom:HeaderText/>
+            </uscom:SpannedBoundaryData>
+        </uscom:BoundaryData>
+    </uscom:BoundaryDataBag>
+
+    <uscom:FootnoteBag>
+        <uscom:Footnote com:id="IDF1-1" uscom:footnoteNumber="1"><com:Sup>1</com:Sup><uscom:Font uscom:fontSizeNumber="8.00" uscom:fontMeasureUnitCode="Pt"> </uscom:Font><uscom:Font uscom:fontSizeNumber="10.00" uscom:fontMeasureUnitCode="Pt">https://patentcenter.uspto.gov. (For help using Patent Center call the Patent Electronic Business Center at (866) 217-9197.)</uscom:Font></uscom:Footnote>
+        <uscom:Footnote com:id="IDF1-2" uscom:footnoteNumber="1"></uscom:Footnote>
+    </uscom:FootnoteBag>
+</uspat:OutgoingDocument>

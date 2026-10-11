@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PatentApplicationData>
+    <FileHeader>
+        <FileCreationTimeStamp>2026-10-08</FileCreationTimeStamp>
+    </FileHeader>
+    <CorrespondenceInfo>
+        <CorrespondenceAddresses>
+            <CorrespondenceAddress>
+                <NameLine1>Reinaldo Javier Aguiar Marcano</NameLine1>
+                <AddressLine1>2302 Britton Ridge Drive</AddressLine1>
+                <City>Katy</City>
+                <GeographicRegion>
+                    <GeographicRegionCode>TX</GeographicRegionCode>
+                    <GeographicRegionName>TEXAS</GeographicRegionName>
+                </GeographicRegion>
+                <PostalCode>77494</PostalCode>
+                <CountryCode>US</CountryCode>
+                <CountryName>UNITED STATES</CountryName>
+            </CorrespondenceAddress>
+        </CorrespondenceAddresses>
+        <CorrespondenceInfo>
+            <Attorneys/>
+        </CorrespondenceInfo>
+    </CorrespondenceInfo>
+    <ApplicationBibliographicData>
+        <ApplicationNumber>64126418</ApplicationNumber>
+        <ApplicationStatusCode>20</ApplicationStatusCode>
+        <ApplicationStatusText>Application Dispatched from Preexam, Not Yet Docketed</ApplicationStatusText>
+        <ApplicationStatusDate>2026-09-17</ApplicationStatusDate>
+        <ConfirmationNumber>1201</ConfirmationNumber>
+        <CustomerNumber>226458</CustomerNumber>
+        <FilingDate>2026-08-05</FilingDate>
+        <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
+        <InventionTitle>DISTRIBUTED OPTICAL READ/WRITE FILE SYSTEM AND STATEFUL PRINTHEAD</InventionTitle>
+        <IsPublic>false</IsPublic>
+    </ApplicationBibliographicData>
+    <Inventors>
+        <Inventor>
+            <InventorName>
+                <FirstName>Reinaldo</FirstName>
+                <MiddleName>Javier</MiddleName>
+                <LastName>AGUIAR MARCANO</LastName>
+            </InventorName>
+            <InventorAddresses>
+                <InventorAddress>
+                    <City>Katy</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>TX</GeographicRegionCode>
+                        <GeographicRegionName>TEXAS</GeographicRegionName>
+                    </GeographicRegion>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+                <InventorAddress>
+                    <City>Katy</City>
+                    <GeographicRegion>
+                        <GeographicRegionCode>TX</GeographicRegionCode>
+                        <GeographicRegionName>TEXAS</GeographicRegionName>
+                    </GeographicRegion>
+                    <PostalCode>77494</PostalCode>
+                    <CountryCode>US</CountryCode>
+                    <CountryName>UNITED STATES</CountryName>
+                </InventorAddress>
+            </InventorAddresses>
+        </Inventor>
+    </Inventors>
+    <Applicants/>
+    <FileContentHistories>
+        <FileContentHistory>
+            <TransactionDate>2026-09-18</TransactionDate>
+            <TransactionDescription>Email Notification</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-05</TransactionDate>
+            <TransactionDescription>Applicants have given acceptable permission for participating foreign</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-05</TransactionDate>
+            <TransactionDescription>PTO/SB/69-Authorize EPO Access to Search Results</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-09-17</TransactionDate>
+            <TransactionDescription>Application Dispatched from OIPE</TransactionDescription>
+            <StatusNumber>20</StatusNumber>
+            <StatusDescription>Application Dispatched from Preexam, Not Yet Docketed</StatusDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-09-18</TransactionDate>
+            <TransactionDescription>Application Is Now Complete</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-09-18</TransactionDate>
+            <TransactionDescription>Filing Receipt</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-09-16</TransactionDate>
+            <TransactionDescription>Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-05</TransactionDate>
+            <TransactionDescription>Entity Status Set To Undiscounted (Initial Default Setting or Status Change)</TransactionDescription>
+        </FileContentHistory>
+        <FileContentHistory>
+            <TransactionDate>2026-08-05</TransactionDate>
+            <TransactionDescription>Initial Exam Team nn</TransactionDescription>
+            <StatusNumber>19</StatusNumber>
+            <StatusDescription>Application Undergoing Preexam Processing</StatusDescription>
+        </FileContentHistory>
+    </FileContentHistories>
+    <ImageFileWrapperList>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Application Data Sheet</DocumentDescription>
+            <FileWrapperDocumentCode>ADS</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-05</MailRoomDate>
+            <PageQuantity>5</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Specification</DocumentDescription>
+            <FileWrapperDocumentCode>SPEC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-05</MailRoomDate>
+            <PageQuantity>6</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-05</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Electronic Fee Payment</DocumentDescription>
+            <FileWrapperDocumentCode>N417.PYMT</FileWrapperDocumentCode>
+            <MailRoomDate>2026-08-05</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Filing Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>APP.FILE.REC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-09-18</MailRoomDate>
+            <PageQuantity>3</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Welcome Letter from USPTO Director and Deputy Director</DocumentDescription>
+            <FileWrapperDocumentCode>WELCOME.LET</FileWrapperDocumentCode>
+            <MailRoomDate>2026-09-18</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Email Notification</DocumentDescription>
+            <FileWrapperDocumentCode>OA.EMAIL</FileWrapperDocumentCode>
+            <MailRoomDate>2026-09-18</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+    </ImageFileWrapperList>
+    <ForeignPriorities/>
+    <SupplementalContents>
+        <SupplementalContent>
+            <SupplementalContentCategory>Appendix</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>CertificateOfCorrection</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>CertifiedColor</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ChemicalFormulas</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ComputerProgramListing</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>DesignDrawings</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>InterimCopy</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>MathematicalFormulas</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>ProteinCrystals</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>SearchResults</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>SequenceListing</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>Tables</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+        <SupplementalContent>
+            <SupplementalContentCategory>USPatentColor</SupplementalContentCategory>
+            <SupplementalContentQuantity>0</SupplementalContentQuantity>
+        </SupplementalContent>
+    </SupplementalContents>
+    <InternationalRegistrationNumbers/>
+    <Fees>
+        <Fee>
+            <AccountingDate>2026-08-05</AccountingDate>
+            <FeeCode>2005</FeeCode>
+            <FeeAmount>130</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>130</TotalAmount>
+            <MailroomDate>2026-08-05</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+    </Fees>
+</PatentApplicationData>
