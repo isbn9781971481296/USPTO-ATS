@@ -10,9 +10,17 @@ examiners.*
 **/DRAFTS/*/*.*
 *.py
 
+**/DRAFTS/**/*.aux
+**/DRAFTS/**/*.log
+**/DRAFTS/**/*.pdf
+**/DRAFTS/**/*.tex
+**/DRAFTS/**/*.py
+**/DRAFTS/**/*.txt
+
 **/DRAFTS/**/*/*.aux
 **/DRAFTS/**/*/*.log
 **/DRAFTS/**/*/*.pdf
 **/DRAFTS/**/*/*.tex
 **/DRAFTS/**/*/*.py
+
 
