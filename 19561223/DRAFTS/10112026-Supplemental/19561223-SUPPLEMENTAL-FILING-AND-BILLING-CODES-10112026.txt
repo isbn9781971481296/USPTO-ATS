@@ -1,0 +1,86 @@
+================================================================================
+USPTO PATENT CENTER ELECTRONIC SUBMISSION GUIDE: FILING & BILLING CODES
+APPLICATION NO.: 19/561,223 | CONFIRMATION NO.: 1850
+TITLE: SYSTEM AND METHOD FOR N-GRAM PARALLEL DATA ENCODING
+INVENTOR / PRO SE APPLICANT: Reinaldo Javier Aguiar Marcano
+CORRESPONDENCE EMAILS: rj.aguiar@gmail.com (USPTO Account) | rj.aguiar.m@gmail.com | reinaldo.aguiar.marcano@isbn9781971481296.com
+EXAMINER: ANDREA BENNETT | OFFICE OF PETITIONS: Alesia M. Brown
+ENTITY STATUS: SMALL ENTITY (37 CFR § 1.27)
+DATE OF SUBMISSION: October 11, 2026
+CRITICAL EXTENSION CUTOFF: NOVEMBER 9, 2026 (FIVE-MONTH EXTENSION DEADLINE)
+================================================================================
+
+*** SUPERSEDING AND SUPPLEMENTAL SUBMISSION (ZERO RISK ON TUESDAY INTAKE) ***
+To eliminate any potential clerical confusion, fee shortfall, or declaration informality,
+Applicant is submitting a complete 4-document package and remitting 100% of all required
+statutory fees via credit card at checkout:
+- Five-Month Extension of Time (Fee Code 2255, Small Entity): $1,358.00
+- Suspension Processing Fee (Fee Code 2830, Small Entity): $60.00
+- Pre-Examination Base Fees (Basic, Non-DOCX, Search, Exam): $486.00 (net balance) to $902.00 (gross)
+- TOTAL IMMEDIATE CHECKOUT PAYMENT BY CREDIT CARD: $1,904.00 (to $2,320.00).
+- Concurrently, the response papers respectfully request a REFUND of $692.00 under 37 CFR § 1.26
+  via Treasury disbursement payable to Applicant at the correspondence address of record:
+  * $416.00 in unapplied deposit funds;
+  * $276.00 prior extension fee from July 31, 2026.
+================================================================================
+
+1. SUBMISSION STRUCTURE (SINGLE ELECTRONIC ENVELOPE)
+--------------------------------------------------------------------------------
+In the USPTO Patent Center portal (patentcenter.uspto.gov), upload all 4 PDF files
+below together in a SINGLE SUPPLEMENTAL SUBMISSION under Application No. 19/561,223:
+
+- Step 1: Upload all 4 PDF files:
+    1. 19561223-SUPPLEMENTAL-RESPONSE-10112026.pdf
+       --> Description: "Applicant Response to Pre-Exam Formalities Notice"
+    2. 19561223-SUPPLEMENTAL-EXTENSION-OF-TIME-10112026.pdf
+       --> Description: "Extension of Time"
+    3. 19561223-SUPPLEMENTAL-REQUEST-FOR-SUSPENSION-10112026.pdf
+       --> Description: "Letter Requesting Suspension of Action"
+    4. 19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf
+       --> Description: "Oath or Declaration filed"
+- Step 2: Assign the exact "Document Description" from the portal dropdown for each file.
+- Step 3: Do NOT check the "Petition(s)" checkbox (leave unchecked to route to OPAP).
+- Step 4: In the Fee Payment section, select the exact statutory fee codes listed in Section 2 and pay by credit card.
+
+
+2. EXACT ITEM-BY-ITEM PATENT CENTER CART INSTRUCTIONS (MATCHING LIVE PORTAL)
+--------------------------------------------------------------------------------
+
+In the Patent Center Fee Payment screen, add the following items to your cart:
+
+A. PRE-EXAMINATION BASE FEES (Itemized in Notice of Incomplete Reply 08/05/2026):
+   1. Basic Filing Fee (37 CFR § 1.16(a), Fee Code 4011):               $70.00
+   2. Non-DOCX Format Penalty Fee (37 CFR § 1.16(u), Fee Code 2054):   $172.00
+   3. Application Search Fee (37 CFR § 1.16(k), Fee Code 2111):        $308.00
+   4. Application Examination Fee (37 CFR § 1.16(o), Fee Code 2311):   $352.00
+   -----------------------------------------------------------------------------
+   Gross Pre-Exam Base Fees Total:                                     $902.00
+   * NOTE ON CART SELECTION:
+     - If Patent Center displays the net outstanding base balance ($486.00 after the
+       $416.00 credit previously entered on docket), select the $486.00 balance due.
+     - If Patent Center requires selecting the discrete statutory lines, select the
+       four fee codes above (totaling $902.00).
+
+B. EXTENSION OF TIME FEE (Itemized in Notice of Incomplete Reply):
+   * Fee Code 2255: EXTENSION FOR RESPONSE WITHIN FIFTH MONTH:        $1,358.00
+
+C. SUSPENSION PROCESSING FEE:
+   * Fee Code 2830: PROCESSING FEE, EXCEPT IN PROVISIONAL APPS:          $60.00
+
+D. INVENTOR DECLARATION (Rule R-38 Compliant):
+   * Document Fee:                                                        $0.00
+
+--------------------------------------------------------------------------------
+TOTAL CHECKOUT PAYMENT BY CREDIT CARD:                     $1,904.00 (to $2,320.00)
+--------------------------------------------------------------------------------
+
+3. PROCEED TO CHECKOUT:
+   * Pay the total amount by credit card in real-time.
+   * Do NOT use "Pre-Authorization" (Rule R-37 strictly prohibits open-ended pre-authorizations).
+   * Pay the discrete cart total.
+   * When the intake clerk opens the Image File Wrapper on Tuesday morning (following the
+     Monday Columbus Day holiday), this October 11 instrument will supersede the October 10
+     fee transmittal, and every requirement (fees, technical sheets, and AIA declaration)
+     will be 100% funded, cured, and satisfied.
+   * The application will immediately be stamped COMPLETE and advanced to Technology Center 2100!
+================================================================================
