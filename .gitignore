@@ -3,3 +3,6 @@
 **/*.tex
 examiner_*.*
 examiners.*
+*.md
+**/*.md
+
