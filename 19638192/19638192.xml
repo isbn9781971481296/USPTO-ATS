@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PatentApplicationData>
     <FileHeader>
-        <FileCreationTimeStamp>2026-10-08</FileCreationTimeStamp>
+        <FileCreationTimeStamp>2026-10-12</FileCreationTimeStamp>
     </FileHeader>
     <CorrespondenceInfo>
         <CorrespondenceAddresses>
@@ -31,8 +31,8 @@
         <CustomerNumber>226458</CustomerNumber>
         <FilingDate>2026-04-03</FilingDate>
         <ExaminerName>
-            <FirstName>ANDREA</FirstName>
-            <LastName>BENNETT</LastName>
+            <FirstName>ADAM</FirstName>
+            <LastName>DEMARAY</LastName>
         </ExaminerName>
         <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
         <InventionTitle>APPARATUS AND METHOD FOR AN ULTRA-WIDE DATA BUS ARCHITECTURE VIA PARAMETRIC ENCODING</InventionTitle>
@@ -511,63 +511,63 @@
     <Fees>
         <Fee>
             <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2054</FeeCode>
-            <FeeAmount>172</FeeAmount>
+            <FeeCode>3111</FeeCode>
+            <TotalAmount>-154</TotalAmount>
+            <MailroomDate>2026-04-03</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-08-25</AccountingDate>
+            <FeeCode>2622</FeeCode>
+            <FeeAmount>120</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>34</TotalAmount>
+            <TotalAmount>120</TotalAmount>
             <MailroomDate>2026-08-02</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2054</FeeCode>
-            <FeeAmount>172</FeeAmount>
+            <FeeCode>2622</FeeCode>
+            <FeeAmount>120</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>34</TotalAmount>
+            <TotalAmount>120</TotalAmount>
             <MailroomDate>2026-08-02</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2054</FeeCode>
-            <FeeAmount>172</FeeAmount>
+            <FeeCode>2622</FeeCode>
+            <FeeAmount>120</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>34</TotalAmount>
+            <TotalAmount>120</TotalAmount>
             <MailroomDate>2026-08-02</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2054</FeeCode>
-            <FeeAmount>172</FeeAmount>
+            <FeeCode>4011</FeeCode>
+            <FeeAmount>70</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>24</TotalAmount>
+            <TotalAmount>70</TotalAmount>
             <MailroomDate>2026-08-02</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2054</FeeCode>
-            <FeeAmount>172</FeeAmount>
+            <FeeCode>4011</FeeCode>
+            <FeeAmount>70</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>24</TotalAmount>
+            <TotalAmount>70</TotalAmount>
             <MailroomDate>2026-08-02</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2054</FeeCode>
-            <FeeAmount>172</FeeAmount>
+            <FeeCode>4011</FeeCode>
+            <FeeAmount>70</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>24</TotalAmount>
+            <TotalAmount>70</TotalAmount>
             <MailroomDate>2026-08-02</MailroomDate>
-            <PaymentMethod>CC</PaymentMethod>
-        </Fee>
-        <Fee>
-            <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2251</FeeCode>
-            <TotalAmount>-94</TotalAmount>
-            <MailroomDate>2026-07-30</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
@@ -579,33 +579,6 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2622</FeeCode>
-            <FeeAmount>120</FeeAmount>
-            <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>120</TotalAmount>
-            <MailroomDate>2026-08-02</MailroomDate>
-            <PaymentMethod>CC</PaymentMethod>
-        </Fee>
-        <Fee>
-            <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2622</FeeCode>
-            <FeeAmount>120</FeeAmount>
-            <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>120</TotalAmount>
-            <MailroomDate>2026-08-02</MailroomDate>
-            <PaymentMethod>CC</PaymentMethod>
-        </Fee>
-        <Fee>
-            <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>2622</FeeCode>
-            <FeeAmount>120</FeeAmount>
-            <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>120</TotalAmount>
-            <MailroomDate>2026-08-02</MailroomDate>
-            <PaymentMethod>CC</PaymentMethod>
-        </Fee>
-        <Fee>
-            <AccountingDate>2026-08-25</AccountingDate>
             <FeeCode>3051</FeeCode>
             <TotalAmount>-34</TotalAmount>
             <MailroomDate>2026-07-24</MailroomDate>
@@ -613,9 +586,9 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>3111</FeeCode>
-            <TotalAmount>-154</TotalAmount>
-            <MailroomDate>2026-04-03</MailroomDate>
+            <FeeCode>2251</FeeCode>
+            <TotalAmount>-94</TotalAmount>
+            <MailroomDate>2026-07-30</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
@@ -642,33 +615,6 @@
             <FeeAmount>182</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
             <TotalAmount>182</TotalAmount>
-            <MailroomDate>2026-08-02</MailroomDate>
-            <PaymentMethod>CC</PaymentMethod>
-        </Fee>
-        <Fee>
-            <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>4011</FeeCode>
-            <FeeAmount>70</FeeAmount>
-            <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>70</TotalAmount>
-            <MailroomDate>2026-08-02</MailroomDate>
-            <PaymentMethod>CC</PaymentMethod>
-        </Fee>
-        <Fee>
-            <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>4011</FeeCode>
-            <FeeAmount>70</FeeAmount>
-            <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>70</TotalAmount>
-            <MailroomDate>2026-08-02</MailroomDate>
-            <PaymentMethod>CC</PaymentMethod>
-        </Fee>
-        <Fee>
-            <AccountingDate>2026-08-25</AccountingDate>
-            <FeeCode>4011</FeeCode>
-            <FeeAmount>70</FeeAmount>
-            <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>70</TotalAmount>
             <MailroomDate>2026-08-02</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
@@ -707,6 +653,60 @@
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
+            <AccountingDate>2026-08-25</AccountingDate>
+            <FeeCode>2054</FeeCode>
+            <FeeAmount>172</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>24</TotalAmount>
+            <MailroomDate>2026-08-02</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-08-25</AccountingDate>
+            <FeeCode>2054</FeeCode>
+            <FeeAmount>172</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>24</TotalAmount>
+            <MailroomDate>2026-08-02</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-08-25</AccountingDate>
+            <FeeCode>2054</FeeCode>
+            <FeeAmount>172</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>24</TotalAmount>
+            <MailroomDate>2026-08-02</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-08-25</AccountingDate>
+            <FeeCode>2054</FeeCode>
+            <FeeAmount>172</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>34</TotalAmount>
+            <MailroomDate>2026-08-02</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-08-25</AccountingDate>
+            <FeeCode>2054</FeeCode>
+            <FeeAmount>172</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>34</TotalAmount>
+            <MailroomDate>2026-08-02</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-08-25</AccountingDate>
+            <FeeCode>2054</FeeCode>
+            <FeeAmount>172</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>34</TotalAmount>
+            <MailroomDate>2026-08-02</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
             <AccountingDate>2026-08-03</AccountingDate>
             <FeeCode>2462</FeeCode>
             <FeeAmount>180</FeeAmount>
@@ -717,19 +717,19 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-07-31</AccountingDate>
-            <FeeCode>2051</FeeCode>
-            <FeeAmount>68</FeeAmount>
+            <FeeCode>2251</FeeCode>
+            <FeeAmount>94</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>68</TotalAmount>
+            <TotalAmount>94</TotalAmount>
             <MailroomDate>2026-07-31</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-07-31</AccountingDate>
-            <FeeCode>2251</FeeCode>
-            <FeeAmount>94</FeeAmount>
+            <FeeCode>2051</FeeCode>
+            <FeeAmount>68</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>94</TotalAmount>
+            <TotalAmount>68</TotalAmount>
             <MailroomDate>2026-07-31</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
@@ -762,10 +762,10 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-04-03</AccountingDate>
-            <FeeCode>3054</FeeCode>
-            <FeeAmount>86</FeeAmount>
+            <FeeCode>3111</FeeCode>
+            <FeeAmount>154</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>86</TotalAmount>
+            <TotalAmount>154</TotalAmount>
             <MailroomDate>2026-04-03</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
@@ -780,10 +780,10 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-04-03</AccountingDate>
-            <FeeCode>3111</FeeCode>
-            <FeeAmount>154</FeeAmount>
+            <FeeCode>3054</FeeCode>
+            <FeeAmount>86</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>154</TotalAmount>
+            <TotalAmount>86</TotalAmount>
             <MailroomDate>2026-04-03</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
