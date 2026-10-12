@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d6efd"/>
+      <stop offset="50%" stop-color="#0b2b52"/>
+      <stop offset="100%" stop-color="#071930"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fcd34d"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <!-- Rounded Base Badge -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#bgGrad)" stroke="#38bdf8" stroke-width="1.5" filter="url(#shadow)"/>
+  <!-- Inner Shield Trim -->
+  <rect x="5" y="5" width="54" height="54" rx="11" fill="none" stroke="url(#goldGrad)" stroke-width="1" stroke-opacity="0.6"/>
+  <!-- Top Scales of Justice Emblem -->
+  <path d="M32 9 L32 23 M22 15 L42 15" stroke="url(#goldGrad)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="32" cy="10" r="2.2" fill="url(#goldGrad)"/>
+  <path d="M22 15 L19 20 L25 20 Z" fill="url(#goldGrad)" stroke="url(#goldGrad)" stroke-width="0.5"/>
+  <path d="M42 15 L39 20 L45 20 Z" fill="url(#goldGrad)" stroke="url(#goldGrad)" stroke-width="0.5"/>
+  <!-- Center Typography: ATS -->
+  <text x="32" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">ATS</text>
+  <!-- Bottom USPTO Subtitle & Node Accents -->
+  <circle cx="23" cy="46" r="1.5" fill="#38bdf8"/>
+  <text x="32" y="48.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="6.5" font-weight="700" fill="#38bdf8" text-anchor="middle" letter-spacing="1.5">USPTO</text>
+  <circle cx="41" cy="46" r="1.5" fill="#38bdf8"/>
+  <!-- Tech Accent Bar -->
+  <rect x="18" y="52" width="28" height="2" rx="1" fill="url(#goldGrad)"/>
+</svg>
