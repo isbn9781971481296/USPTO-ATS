@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PatentApplicationData>
     <FileHeader>
-        <FileCreationTimeStamp>2026-10-08</FileCreationTimeStamp>
+        <FileCreationTimeStamp>2026-10-13</FileCreationTimeStamp>
     </FileHeader>
     <CorrespondenceInfo>
         <CorrespondenceAddresses>
@@ -31,11 +31,15 @@
         <CustomerNumber>226458</CustomerNumber>
         <FilingDate>2026-03-09</FilingDate>
         <ExaminerName>
-            <FirstName>ANDREA</FirstName>
-            <LastName>BENNETT</LastName>
+            <FirstName>HANSRAJ</FirstName>
+            <MiddleName>WINAYAK</MiddleName>
+            <LastName>KARIKAR</LastName>
         </ExaminerName>
+        <GroupArtUnit>2482</GroupArtUnit>
         <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
         <InventionTitle>PROTOCOL FOR PHYSICAL AND DATA-LINK LAYER ENCODING NEGOTIATION</InventionTitle>
+        <PatentClass>375</PatentClass>
+        <PatentSubclass>240120</PatentSubclass>
         <Publications>
             <Publication/>
         </Publications>
@@ -395,6 +399,62 @@
             <MailRoomDate>2026-10-06</MailRoomDate>
             <PageQuantity>1</PageQuantity>
         </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Drawings-only black and white line drawings</DocumentDescription>
+            <FileWrapperDocumentCode>DRW</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Letter Requesting Suspension of Action</DocumentDescription>
+            <FileWrapperDocumentCode>M856</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Abstract</DocumentDescription>
+            <FileWrapperDocumentCode>ABST</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Applicant Response to Pre-Exam Formalities Notice</DocumentDescription>
+            <FileWrapperDocumentCode>PEFR</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>4</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Extension of Time</DocumentDescription>
+            <FileWrapperDocumentCode>XT/</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Electronic Fee Payment</DocumentDescription>
+            <FileWrapperDocumentCode>N417.PYMT</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
     </ImageFileWrapperList>
     <ForeignPriorities/>
     <SupplementalContents>
@@ -454,10 +514,19 @@
     <InternationalRegistrationNumbers/>
     <Fees>
         <Fee>
+            <AccountingDate>2026-10-13</AccountingDate>
+            <FeeCode>2830</FeeCode>
+            <FeeAmount>60</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>60</TotalAmount>
+            <MailroomDate>2026-10-10</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
             <AccountingDate>2026-10-02</AccountingDate>
-            <FeeCode>3051</FeeCode>
-            <TotalAmount>-34</TotalAmount>
-            <MailroomDate>2026-07-24</MailroomDate>
+            <FeeCode>3111</FeeCode>
+            <TotalAmount>-154</TotalAmount>
+            <MailroomDate>2026-03-09</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
@@ -487,26 +556,26 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-10-02</AccountingDate>
-            <FeeCode>3111</FeeCode>
-            <TotalAmount>-154</TotalAmount>
-            <MailroomDate>2026-03-09</MailroomDate>
+            <FeeCode>3051</FeeCode>
+            <TotalAmount>-34</TotalAmount>
+            <MailroomDate>2026-07-24</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-10-02</AccountingDate>
-            <FeeCode>4011</FeeCode>
-            <FeeAmount>70</FeeAmount>
+            <FeeCode>2111</FeeCode>
+            <FeeAmount>308</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>34</TotalAmount>
+            <TotalAmount>308</TotalAmount>
             <MailroomDate>2026-07-31</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-10-02</AccountingDate>
-            <FeeCode>4011</FeeCode>
-            <FeeAmount>70</FeeAmount>
+            <FeeCode>2111</FeeCode>
+            <FeeAmount>308</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>34</TotalAmount>
+            <TotalAmount>308</TotalAmount>
             <MailroomDate>2026-07-31</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
@@ -537,19 +606,19 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-10-02</AccountingDate>
-            <FeeCode>2111</FeeCode>
-            <FeeAmount>308</FeeAmount>
+            <FeeCode>4011</FeeCode>
+            <FeeAmount>70</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>308</TotalAmount>
+            <TotalAmount>34</TotalAmount>
             <MailroomDate>2026-07-31</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-10-02</AccountingDate>
-            <FeeCode>2111</FeeCode>
-            <FeeAmount>308</FeeAmount>
+            <FeeCode>4011</FeeCode>
+            <FeeAmount>70</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>308</TotalAmount>
+            <TotalAmount>34</TotalAmount>
             <MailroomDate>2026-07-31</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PatentApplicationData>
     <FileHeader>
-        <FileCreationTimeStamp>2026-10-08</FileCreationTimeStamp>
+        <FileCreationTimeStamp>2026-10-13</FileCreationTimeStamp>
     </FileHeader>
     <CorrespondenceInfo>
         <CorrespondenceAddresses>
@@ -31,8 +31,9 @@
         <CustomerNumber>226458</CustomerNumber>
         <FilingDate>2026-03-29</FilingDate>
         <ExaminerName>
-            <FirstName>ANDREA</FirstName>
-            <LastName>BENNETT</LastName>
+            <FirstName>HANSRAJ</FirstName>
+            <MiddleName>WINAYAK</MiddleName>
+            <LastName>KARIKAR</LastName>
         </ExaminerName>
         <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
         <InventionTitle>SYSTEM AND METHOD FOR ATTRIBUTED CONTROL AGGREGATION AND INFLUENCE DETECTION</InventionTitle>
@@ -70,6 +71,10 @@
     </Inventors>
     <Applicants/>
     <FileContentHistories>
+        <FileContentHistory>
+            <TransactionDate>2026-10-10</TransactionDate>
+            <TransactionDescription>Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27</TransactionDescription>
+        </FileContentHistory>
         <FileContentHistory>
             <TransactionDate>2026-08-14</TransactionDate>
             <TransactionDescription>Email Notification</TransactionDescription>
@@ -289,6 +294,13 @@
             <MailRoomDate>2026-08-14</MailRoomDate>
             <PageQuantity>2</PageQuantity>
         </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Assertion of entitlement to small entity status via PC</DocumentDescription>
+            <FileWrapperDocumentCode>SES.REQ.PC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
     </ImageFileWrapperList>
     <ForeignPriorities/>
     <SupplementalContents>
@@ -349,15 +361,6 @@
     <Fees>
         <Fee>
             <AccountingDate>2026-07-27</AccountingDate>
-            <FeeCode>3806</FeeCode>
-            <FeeAmount>56</FeeAmount>
-            <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>56</TotalAmount>
-            <MailroomDate>2026-07-26</MailroomDate>
-            <PaymentMethod>CC</PaymentMethod>
-        </Fee>
-        <Fee>
-            <AccountingDate>2026-07-27</AccountingDate>
             <FeeCode>3051</FeeCode>
             <FeeAmount>34</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
@@ -366,11 +369,20 @@
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
-            <AccountingDate>2026-03-30</AccountingDate>
-            <FeeCode>3311</FeeCode>
-            <FeeAmount>176</FeeAmount>
+            <AccountingDate>2026-07-27</AccountingDate>
+            <FeeCode>3806</FeeCode>
+            <FeeAmount>56</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>176</TotalAmount>
+            <TotalAmount>56</TotalAmount>
+            <MailroomDate>2026-07-26</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
+            <AccountingDate>2026-03-30</AccountingDate>
+            <FeeCode>3111</FeeCode>
+            <FeeAmount>154</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>154</TotalAmount>
             <MailroomDate>2026-03-29</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
@@ -385,10 +397,10 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-03-30</AccountingDate>
-            <FeeCode>3111</FeeCode>
-            <FeeAmount>154</FeeAmount>
+            <FeeCode>3311</FeeCode>
+            <FeeAmount>176</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>154</TotalAmount>
+            <TotalAmount>176</TotalAmount>
             <MailroomDate>2026-03-29</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
