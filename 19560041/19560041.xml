@@ -253,6 +253,83 @@
             <MailRoomDate>2026-10-10</MailRoomDate>
             <PageQuantity>1</PageQuantity>
         </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Specification</DocumentDescription>
+            <FileWrapperDocumentCode>SPEC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>6</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Oath or Declaration filed</DocumentDescription>
+            <FileWrapperDocumentCode>OATH</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Drawings-only black and white line drawings</DocumentDescription>
+            <FileWrapperDocumentCode>DRW</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>3</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Claims</DocumentDescription>
+            <FileWrapperDocumentCode>CLM</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Letter Requesting Suspension of Action</DocumentDescription>
+            <FileWrapperDocumentCode>M856</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Extension of Time</DocumentDescription>
+            <FileWrapperDocumentCode>XT/</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Specification</DocumentDescription>
+            <FileWrapperDocumentCode>SPEC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>3</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Abstract</DocumentDescription>
+            <FileWrapperDocumentCode>ABST</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Applicant Response to Pre-Exam Formalities Notice</DocumentDescription>
+            <FileWrapperDocumentCode>PEFR</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>5</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Electronic Fee Payment</DocumentDescription>
+            <FileWrapperDocumentCode>N417.PYMT</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>2</PageQuantity>
+        </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>1</DocumentCategory>
+            <DocumentDescription>Electronic Filing System Acknowledgment Receipt</DocumentDescription>
+            <FileWrapperDocumentCode>N417</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-12</MailRoomDate>
+            <PageQuantity>3</PageQuantity>
+        </ImageFileWrapperDocument>
     </ImageFileWrapperList>
     <ForeignPriorities/>
     <SupplementalContents>
@@ -312,6 +389,15 @@
     <InternationalRegistrationNumbers/>
     <Fees>
         <Fee>
+            <AccountingDate>2026-10-13</AccountingDate>
+            <FeeCode>2830</FeeCode>
+            <FeeAmount>60</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>60</TotalAmount>
+            <MailroomDate>2026-10-12</MailroomDate>
+            <PaymentMethod>CC</PaymentMethod>
+        </Fee>
+        <Fee>
             <AccountingDate>2026-07-27</AccountingDate>
             <FeeCode>3806</FeeCode>
             <FeeAmount>56</FeeAmount>
@@ -340,19 +426,19 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-03-09</AccountingDate>
-            <FeeCode>3111</FeeCode>
-            <FeeAmount>154</FeeAmount>
+            <FeeCode>3054</FeeCode>
+            <FeeAmount>86</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>154</TotalAmount>
+            <TotalAmount>86</TotalAmount>
             <MailroomDate>2026-03-07</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-03-09</AccountingDate>
-            <FeeCode>3054</FeeCode>
-            <FeeAmount>86</FeeAmount>
+            <FeeCode>3111</FeeCode>
+            <FeeAmount>154</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>86</TotalAmount>
+            <TotalAmount>154</TotalAmount>
             <MailroomDate>2026-03-07</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
