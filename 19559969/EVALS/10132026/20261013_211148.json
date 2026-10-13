@@ -1,0 +1,240 @@
+{
+  "application_number": "19559969",
+  "evaluation_timestamp": "20261013_211148",
+  "date": "10132026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19559969-SUPPLEMENTAL-RESP-10132026.tex",
+      "01__19559969-SUPPLEMENTAL-RESP-PRE-10132026.tex",
+      "01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex",
+      "01__19559969-SUPPLEMENTAL-RESPONSE-10132026.tex",
+      "01__19559969-SUPPLEMENTAL-TRANSMITTAL-10132026.tex"
+    ],
+    "winner": "01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #3 is the most likely to succeed because it strictly adheres to the formal requirements of 37 CFR \u00a7 1.52(b), which mandates that all papers becoming part of the permanent USPTO record be 1.5 or double-spaced. By utilizing the '\\doublespacing' command globally, it avoids the very formatting objections that triggered the pre-examination notices in the first place. Furthermore, the document is exceptionally well-structured, addressing the Commissioner for Patents directly, and explicitly citing the controlling statutes and regulations (e.g., 35 U.S.C. \u00a7 133, 37 CFR \u00a7 1.136(a)(2), 37 CFR \u00a7 1.125(b), and MPEP \u00a7 608.01(q)). The applicant's strategic maneuver to direct the $450 unapplied balance strictly to the Extension of Time fee (Priority 1) to prevent irrevocable abandonment, while intentionally leaving the base filing fees deficient to trigger a fresh 2-month window via a Notice of Fee Deficiency under 37 CFR \u00a7 1.53(f), is a highly sophisticated and legally valid procedural tactic. This explicit fee allocation waterfall binds the Office of Finance under 37 CFR \u00a7 1.22(b) and preserves the applicant's rights to petition if the automated systems misallocate the funds.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "The candidates correctly identify and address the critical points in the ATS Pipeline assessment: the imminent abandonment risk, the need for a 5-month extension, the reaffirmation of Small Entity status, and the submission of a substitute specification with a 'no new matter' certification. While the ATS brief recommended remitting the net $590.00 balance immediately, all candidates employ an advanced prosecution strategy: they instruct the USPTO to apply the existing $450.00 credit entirely to the critical extension fee to secure statutory timeliness, and explicitly request a 1.53(f) Notice of Fee Deficiency for the remaining base fees. This deviation is a calculated and valid legal maneuver to manage cash flow across a large portfolio while safely avoiding abandonment.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex",
+        "rank": 1,
+        "score": 95.0,
+        "cleanliness_and_arguments": "Exceptionally clean and authoritative. The use of global double-spacing ensures strict compliance with 37 CFR 1.52(b). The arguments for fee allocation are precise, hierarchical, and well-supported by CFR and MPEP citations.",
+        "risks_and_liabilities": "Low risk. The explicit written instructions for fee allocation protect the applicant from automated misapplication of funds by the USPTO's financial systems, ensuring the extension of time is prioritized to prevent abandonment.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESPONSE-10132026.tex",
+        "rank": 2,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Very strong candidate. The inclusion of exact PDF filenames for the enclosures is highly practical for electronic filing reconciliation. However, it lacks the strict double-spacing formatting of Candidate #3.",
+        "risks_and_liabilities": "Low risk. The fee allocation waterfall is clearly articulated, though the formatting is slightly less compliant with permanent record spacing rules.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP-10132026.tex",
+        "rank": 3,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Good structure with a dedicated signature block for the 'no new matter' certification, which is a nice touch. However, the overall formatting is a bit disjointed and single-spaced in critical areas.",
+        "risks_and_liabilities": "Moderate risk. The dual signature blocks might cause slight confusion during rapid processing by formalities clerks, though legally sound.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-TRANSMITTAL-10132026.tex",
+        "rank": 4,
+        "score": 80.0,
+        "cleanliness_and_arguments": "Standard transmittal format. It covers all necessary bases but lacks the authoritative depth and precise statutory citations found in the higher-ranked candidates.",
+        "risks_and_liabilities": "Low risk, but less persuasive in its macro portfolio equity arguments compared to Candidates 3 and 4.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP-PRE-10132026.tex",
+        "rank": 5,
+        "score": 75.0,
+        "cleanliness_and_arguments": "The formatting is overly compressed and lacks the visual hierarchy needed for a complex multi-part response. The arguments are present but less elegantly framed.",
+        "risks_and_liabilities": "Moderate risk. The compressed text might lead to formalities clerks missing the explicit fee allocation instructions, potentially resulting in an improper notice of abandonment.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19559969-SUPPLEMENTAL-OATH-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19559969-SUPPLEMENTAL-OATH-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/04__19559969-SUPPLEMENTAL-OATH-10132026.pdf",
+          "score": 92.06896551724138,
+          "diff_chars": 326,
+          "deviations": 14,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "04__19559969-SUPPLEMENTAL-DECLARATION-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/04__19559969-SUPPLEMENTAL-DECLARATION-10132026.pdf",
+          "score": 90.66067104808025,
+          "diff_chars": 415,
+          "deviations": 15,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 2
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application.pdf",
+      "winner": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-10132026.pdf",
+          "score": 99.4701849158529,
+          "diff_chars": 263,
+          "deviations": 69,
+          "punct_deviations": 50,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "05__19559969-SUPPLEMENTAL-SPECIFICATION-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/05__19559969-SUPPLEMENTAL-SPECIFICATION-10132026.pdf",
+          "score": 99.41902687000727,
+          "diff_chars": 260,
+          "deviations": 66,
+          "punct_deviations": 56,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "05__19559969-SUPPLEMENTAL-SPEC-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/05__19559969-SUPPLEMENTAL-SPEC-10132026.pdf",
+          "score": 99.36741677901068,
+          "diff_chars": 266,
+          "deviations": 69,
+          "punct_deviations": 50,
+          "status": "High Match",
+          "rank": 3
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application.pdf",
+      "winner": "06__19559969-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19559969-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/06__19559969-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+          "score": 99.09452599807929,
+          "diff_chars": 520,
+          "deviations": 109,
+          "punct_deviations": 81,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "06__19559969-SUPPLEMENTAL-SPEC-MARKED-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/06__19559969-SUPPLEMENTAL-SPEC-MARKED-10132026.pdf",
+          "score": 97.60629718046326,
+          "diff_chars": 724,
+          "deviations": 123,
+          "punct_deviations": 97,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "06__19559969-SUPPLEMENTAL-SPECIFICATION-MARKED-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/06__19559969-SUPPLEMENTAL-SPECIFICATION-MARKED-10132026.pdf",
+          "score": 95.17970676008824,
+          "diff_chars": 949,
+          "deviations": 102,
+          "punct_deviations": 73,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "06__19559969-SUPPLEMENTAL-MARKUP-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/06__19559969-SUPPLEMENTAL-MARKUP-10132026.pdf",
+          "score": 95.09070810845958,
+          "diff_chars": 965,
+          "deviations": 115,
+          "punct_deviations": 90,
+          "status": "High Match",
+          "rank": 4
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19559969-SUPPLEMENTAL-CLM-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19559969-SUPPLEMENTAL-CLM-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/08__19559969-SUPPLEMENTAL-CLM-10132026.pdf",
+          "score": 98.83310719131615,
+          "diff_chars": 224,
+          "deviations": 41,
+          "punct_deviations": 38,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "08__19559969-SUPPLEMENTAL-CLAIMS-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/08__19559969-SUPPLEMENTAL-CLAIMS-10132026.pdf",
+          "score": 98.78869448183042,
+          "diff_chars": 198,
+          "deviations": 33,
+          "punct_deviations": 30,
+          "status": "High Match",
+          "rank": 2
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19559969-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19559969-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/09__19559969-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+          "score": 97.29083665338646,
+          "diff_chars": 165,
+          "deviations": 8,
+          "punct_deviations": 7,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "09__19559969-SUPPLEMENTAL-ABST-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10132026-Supplemental/09__19559969-SUPPLEMENTAL-ABST-10132026.pdf",
+          "score": 97.28651237031126,
+          "diff_chars": 165,
+          "deviations": 8,
+          "punct_deviations": 7,
+          "status": "High Match",
+          "rank": 2
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex",
+    "02__": "02__19559969-SUPPLEMENTAL-EXT-10132026.pdf",
+    "03__": "03__19559969-SUPPLEMENTAL-SUSP-10132026.pdf",
+    "04__": "04__19559969-SUPPLEMENTAL-OATH-10132026.pdf",
+    "05__": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-10132026.pdf",
+    "06__": "06__19559969-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+    "07__": "07__19559969-SUPPLEMENTAL-DRW-10132026.pdf",
+    "08__": "08__19559969-SUPPLEMENTAL-CLM-10132026.pdf",
+    "09__": "09__19559969-SUPPLEMENTAL-ABSTRACT-10132026.pdf"
+  }
+}

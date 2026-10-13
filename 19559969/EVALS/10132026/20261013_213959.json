@@ -1,0 +1,242 @@
+{
+  "application_number": "19559969",
+  "evaluation_timestamp": "20261013_213959",
+  "date": "10132026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19559969-SUPPLEMENTAL-RESP-10132026.tex",
+      "01__19559969-SUPPLEMENTAL-RESP-PRE-10132026.tex",
+      "01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex",
+      "01__19559969-SUPPLEMENTAL-RESPONSE-10132026.tex",
+      "01__19559969-SUPPLEMENTAL-TRANSMITTAL-10132026.tex"
+    ],
+    "winner": "01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate 3 (01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex) is the most likely to succeed because it adheres most closely to formal USPTO correspondence standards. It correctly addresses the Commissioner for Patents (MPEP 501), utilizes a highly professional header block that clearly identifies the entity status and examiner, and employs double-spacing which is preferred for USPTO readability. Furthermore, it provides a clear, logical itemization of the enclosed documents using numerical prefixes, which aids the formalities clerk in verifying the contents of the submission. The legal arguments are well-supported with precise citations to 35 U.S.C. \u00a7 133, 37 CFR \u00a7 1.125(b), and MPEP \u00a7 608.01(q). While the strategy to request a Notice of Fee Deficiency under 37 CFR \u00a7 1.53(f) instead of paying the full extension fee upfront carries a significant risk, Candidate 3 presents this aggressive fee allocation waterfall in the most legally articulate and persuasive manner among the choices.",
+    "unlikely_to_succeed_reasons": "While Candidate 3 is the best drafted, the underlying strategy employed across all candidates\u2014attempting to partially pay a 5-month extension of time fee with a $450 unapplied credit and requesting a Notice of Fee Deficiency for the balance\u2014is highly risky. 37 CFR \u00a7 1.136(a) generally requires the full extension fee to be paid for the petition to be granted. If the Office declines to grant the extension based on a partial payment, the application will go irrevocably abandoned on November 3, 2026, contrary to the ATS brief's Emergency Action Plan which explicitly recommends remitting the full net balance.",
+    "ats_alignment_assessment": "All candidates correctly identify the critical deadlines, the need to reaffirm Small Entity status, and the requirement to submit a substitute specification with a no-new-matter certification to cure the defects cited in the Notice to File Missing Parts and Notice of Incomplete Reply. However, all candidates deviate from the ATS brief's 'Emergency Action Plan' by failing to remit the full $1,358 extension fee and the $590 filing fee balance, instead opting for a risky fee allocation strategy to force a deficiency notice.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP-10132026.tex",
+        "rank": 4,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Good structure and clear itemization, but lacks the formal address to the Commissioner and uses slightly less precise legal citations compared to the winner.",
+        "risks_and_liabilities": "High risk of abandonment due to partial payment of the extension of time fee.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP-PRE-10132026.tex",
+        "rank": 5,
+        "score": 80.0,
+        "cleanliness_and_arguments": "Formatting is a bit too compact and lacks the explicit itemization of PDF filenames or logical prefixes, making it harder for a clerk to process.",
+        "risks_and_liabilities": "High risk of abandonment due to partial payment of the extension of time fee.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex",
+        "rank": 1,
+        "score": 95.0,
+        "cleanliness_and_arguments": "Excellent, professional formatting with double-spacing, proper address to the Commissioner, and robust legal citations (MPEP 608.01(q), 35 U.S.C. 133).",
+        "risks_and_liabilities": "High risk of abandonment due to partial payment of the extension of time fee, though mitigated slightly by strong legal argumentation.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESPONSE-10132026.tex",
+        "rank": 2,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Very clean formatting and highly precise listing of exact PDF filenames, which is excellent for Patent Center electronic filing reconciliation.",
+        "risks_and_liabilities": "High risk of abandonment due to partial payment of the extension of time fee.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-TRANSMITTAL-10132026.tex",
+        "rank": 3,
+        "score": 88.0,
+        "cleanliness_and_arguments": "Solid transmittal document with exact filenames, but the header and overall presentation are slightly less formal than Candidate 3.",
+        "risks_and_liabilities": "High risk of abandonment due to partial payment of the extension of time fee.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19559969-SUPPLEMENTAL-OATH-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19559969-SUPPLEMENTAL-OATH-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/04__19559969-SUPPLEMENTAL-OATH-10132026.pdf",
+          "score": 92.06896551724138,
+          "diff_chars": 326,
+          "deviations": 14,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "04__19559969-SUPPLEMENTAL-DECLARATION-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/04__19559969-SUPPLEMENTAL-DECLARATION-10132026.pdf",
+          "score": 90.66067104808025,
+          "diff_chars": 415,
+          "deviations": 15,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 2
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application.pdf",
+      "winner": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-10132026.pdf",
+          "score": 99.4701849158529,
+          "diff_chars": 263,
+          "deviations": 69,
+          "punct_deviations": 50,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "05__19559969-SUPPLEMENTAL-SPECIFICATION-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/05__19559969-SUPPLEMENTAL-SPECIFICATION-10132026.pdf",
+          "score": 99.41902687000727,
+          "diff_chars": 260,
+          "deviations": 66,
+          "punct_deviations": 56,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "05__19559969-SUPPLEMENTAL-SPEC-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/05__19559969-SUPPLEMENTAL-SPEC-10132026.pdf",
+          "score": 99.36741677901068,
+          "diff_chars": 266,
+          "deviations": 69,
+          "punct_deviations": 50,
+          "status": "High Match",
+          "rank": 3
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application.pdf",
+      "winner": "06__19559969-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19559969-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/06__19559969-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+          "score": 99.09452599807929,
+          "diff_chars": 520,
+          "deviations": 109,
+          "punct_deviations": 81,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "06__19559969-SUPPLEMENTAL-SPEC-MARKED-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/06__19559969-SUPPLEMENTAL-SPEC-MARKED-10132026.pdf",
+          "score": 97.60629718046326,
+          "diff_chars": 724,
+          "deviations": 123,
+          "punct_deviations": 97,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "06__19559969-SUPPLEMENTAL-SPECIFICATION-MARKED-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/06__19559969-SUPPLEMENTAL-SPECIFICATION-MARKED-10132026.pdf",
+          "score": 95.17970676008824,
+          "diff_chars": 949,
+          "deviations": 102,
+          "punct_deviations": 73,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "06__19559969-SUPPLEMENTAL-MARKUP-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/06__19559969-SUPPLEMENTAL-MARKUP-10132026.pdf",
+          "score": 95.09070810845958,
+          "diff_chars": 965,
+          "deviations": 115,
+          "punct_deviations": 90,
+          "status": "High Match",
+          "rank": 4
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19559969-SUPPLEMENTAL-CLM-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19559969-SUPPLEMENTAL-CLM-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/08__19559969-SUPPLEMENTAL-CLM-10132026.pdf",
+          "score": 98.83310719131615,
+          "diff_chars": 224,
+          "deviations": 41,
+          "punct_deviations": 38,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "08__19559969-SUPPLEMENTAL-CLAIMS-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/08__19559969-SUPPLEMENTAL-CLAIMS-10132026.pdf",
+          "score": 98.78869448183042,
+          "diff_chars": 198,
+          "deviations": 33,
+          "punct_deviations": 30,
+          "status": "High Match",
+          "rank": 2
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19559969-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19559969-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/09__19559969-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+          "score": 97.29083665338646,
+          "diff_chars": 165,
+          "deviations": 8,
+          "punct_deviations": 7,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "09__19559969-SUPPLEMENTAL-ABST-10132026.pdf",
+          "path": "/media/user/t1/ASSETS/USPTO/Dockets/19559969/DRAFTS/10132026-Supplemental/09__19559969-SUPPLEMENTAL-ABST-10132026.pdf",
+          "score": 97.28651237031126,
+          "diff_chars": 165,
+          "deviations": 8,
+          "punct_deviations": 7,
+          "status": "High Match",
+          "rank": 2
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19559969-SUPPLEMENTAL-RESP.PRE-10132026.tex",
+    "02__": "02__19559969-SUPPLEMENTAL-EXT-10132026.pdf",
+    "03__": "03__19559969-SUPPLEMENTAL-SUSP-10132026.pdf",
+    "04__": "04__19559969-SUPPLEMENTAL-OATH-10132026.pdf",
+    "05__": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-10132026.pdf",
+    "06__": "06__19559969-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+    "07__": "07__19559969-SUPPLEMENTAL-DRW-10132026.pdf",
+    "08__": "08__19559969-SUPPLEMENTAL-CLM-10132026.pdf",
+    "09__": "09__19559969-SUPPLEMENTAL-ABSTRACT-10132026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559969/EVALS/10132026/20261013_213959.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559969/EVALS/10132026/20261013_213959.html"
+}
