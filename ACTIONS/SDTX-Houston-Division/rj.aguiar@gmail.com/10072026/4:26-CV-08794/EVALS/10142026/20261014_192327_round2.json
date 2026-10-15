@@ -1,0 +1,16 @@
+{
+  "analysis_timestamp": "20261014_192327",
+  "application_number": "4:26-CV-08794",
+  "mode": "ROUND2_TOURNAMENT_FINAL",
+  "winners": {
+    "01__": "01__mock-RESPONSE-R2.tex"
+  },
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Federal Court Responsive Pleading",
+    "winner": "01__mock-RESPONSE-R2.tex",
+    "collective_statement_most_likely_to_succeed": "Excellent surgical refinement.",
+    "candidate_scores": []
+  },
+  "non_substantive_evaluations": {}
+}
