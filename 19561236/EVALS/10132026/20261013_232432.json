@@ -1,0 +1,136 @@
+{
+  "application_number": "19561236",
+  "evaluation_timestamp": "20261013_232432",
+  "date": "10132026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19561236-SUPPLEMENTAL-RESPONSE-10132026.tex"
+    ],
+    "winner": "01__19561236-SUPPLEMENTAL-RESPONSE-10132026.tex",
+    "collective_statement_most_likely_to_succeed": "As the sole candidate provided, this document is the default selection; however, it is fundamentally flawed and highly unlikely to succeed in preventing abandonment. While the document successfully addresses the formal defects (providing replacement drawings, claims, abstract, and a perfected declaration) and correctly calculates the complex extension of time fees, it employs a fatal legal strategy regarding the outstanding base fees. By requesting to defer the $452.00 base fee to a future 'Notice of Fee Deficiency' rather than paying it, the applicant ignores that the current response period (expiring November 9, 2026, with maximum extensions) is the final statutory window to cure the deficiencies raised in the original Notice to File Missing Parts. The USPTO lacks the statutory authority to extend this period further or issue a new notice to reset the clock for basic filing fees. Consequently, this strategy will result in forced abandonment.",
+    "unlikely_to_succeed_reasons": "The candidate explicitly refuses to pay the outstanding $452.00 pre-examination base fees, instead requesting they be 'formally deferred to a Notice of Fee Deficiency under 37 CFR 1.53(f)'. The applicant is already responding to a Notice to File Missing Parts (which serves as the notice under 1.53(f)) and a Notice of Incomplete Reply. The statutory maximum response period, including a 5-month extension, expires on November 9, 2026. Failing to pay the required fees by this absolute deadline will result in the abandonment of the application by operation of law. The USPTO will not issue a subsequent notice to indefinitely defer basic filing fees past the statutory maximum period.",
+    "ats_alignment_assessment": "The candidate aligns with the ATS brief regarding the extension of time fee calculations and the submission of curative documents (drawings, claims, abstract, declaration). However, it directly violates Priority 3 of the ATS recommendations by failing to remit the $452.00 base fee, opting instead for an invalid legal strategy of deferral that guarantees abandonment.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19561236-SUPPLEMENTAL-RESPONSE-10132026.tex",
+        "rank": 1,
+        "score": 40.0,
+        "cleanliness_and_arguments": "The document is well-formatted, clearly itemizes the enclosures, and the fee allocation waterfall is articulated with precision. However, the legal argument to defer the base fee to a future Notice of Fee Deficiency is fundamentally flawed, demonstrating a critical misunderstanding of statutory deadlines and USPTO procedure.",
+        "risks_and_liabilities": "HIGH RISK OF ABANDONMENT. By intentionally withholding the $452.00 base fee and requesting a deferral that the USPTO cannot legally grant past the 7-month statutory maximum (2 months + 5 months extension), the application will go abandoned after November 9, 2026.",
+        "ats_points_addressed": false
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19561236-SUPPLEMENTAL-DECLARATION-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19561236-SUPPLEMENTAL-DECLARATION-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19561236-10132026-Supplemental/04__19561236-SUPPLEMENTAL-DECLARATION-10132026.pdf",
+          "score": 94.69343850842597,
+          "diff_chars": 273,
+          "deviations": 11,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "04__19561236-SUPPLEMENTAL-INVENTOR-DECLARATION-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19561236-10132026-Supplemental/04__19561236-SUPPLEMENTAL-INVENTOR-DECLARATION-10132026.pdf",
+          "score": 94.58587307278594,
+          "diff_chars": 279,
+          "deviations": 12,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 2
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application-Lower-Layer-Encoding-Negotiation.pdf",
+      "winner": "05__19561236-SUPPLEMENTAL-SPECIFICATION-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19561236-SUPPLEMENTAL-SPECIFICATION-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19561236-10132026-Supplemental/05__19561236-SUPPLEMENTAL-SPECIFICATION-10132026.pdf",
+          "score": 99.12325941206808,
+          "diff_chars": 1257,
+          "deviations": 23,
+          "punct_deviations": 13,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application-Lower-Layer-Encoding-Negotiation.pdf",
+      "winner": "06__19561236-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19561236-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19561236-10132026-Supplemental/06__19561236-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+          "score": 99.26436781609196,
+          "diff_chars": 90,
+          "deviations": 44,
+          "punct_deviations": 24,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application-Lower-Layer-Encoding-Negotiation.pdf",
+      "winner": "08__19561236-SUPPLEMENTAL-CLAIMS-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19561236-SUPPLEMENTAL-CLAIMS-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19561236-10132026-Supplemental/08__19561236-SUPPLEMENTAL-CLAIMS-10132026.pdf",
+          "score": 99.24033149171271,
+          "diff_chars": 124,
+          "deviations": 8,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application-Lower-Layer-Encoding-Negotiation.pdf",
+      "winner": "09__19561236-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19561236-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19561236-10132026-Supplemental/09__19561236-SUPPLEMENTAL-ABSTRACT-10132026.pdf",
+          "score": 96.52551574375678,
+          "diff_chars": 162,
+          "deviations": 7,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19561236-SUPPLEMENTAL-RESPONSE-10132026.tex",
+    "02__": "02__19561236-SUPPLEMENTAL-EXTENSION-OF-TIME-10132026.pdf",
+    "03__": "03__19561236-SUPPLEMENTAL-SUSPENSION-10132026.pdf",
+    "04__": "04__19561236-SUPPLEMENTAL-DECLARATION-10132026.pdf",
+    "05__": "05__19561236-SUPPLEMENTAL-SPECIFICATION-10132026.pdf",
+    "06__": "06__19561236-SUPPLEMENTAL-MARKED-UP-SPEC-10132026.pdf",
+    "07__": "07__19561236-SUPPLEMENTAL-DRAWINGS-10132026.pdf",
+    "08__": "08__19561236-SUPPLEMENTAL-CLAIMS-10132026.pdf",
+    "09__": "09__19561236-SUPPLEMENTAL-ABSTRACT-10132026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19561236/EVALS/10132026/20261013_232432.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19561236/EVALS/10132026/20261013_232432.html"
+}

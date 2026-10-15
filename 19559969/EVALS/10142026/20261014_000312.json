@@ -1,0 +1,19 @@
+{
+  "application_number": "19559969",
+  "evaluation_timestamp": "20261014_000312",
+  "date": "10142026",
+  "substantive_evaluations": {
+    "documents": [
+      {
+        "filename": "01__test.tex",
+        "content": "doc"
+      }
+    ]
+  },
+  "non_substantive_evaluations": {},
+  "winners": {
+    "01__": "01__test.tex"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559969/EVALS/10142026/20261014_000312.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559969/EVALS/10142026/20261014_000312.html"
+}

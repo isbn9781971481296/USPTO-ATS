@@ -1,0 +1,403 @@
+4/17/26, 11:58 AM
+
+Gmail - Receipt: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.700…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT
+INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT
+IRREGULARITIES CONCERNING PERPETUALLY LICENSED TECHNOLOGIES (Delivery
+Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Fri, Apr 17, 2026 at 11:54 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+michael.schmidt@us.af.mil
+
+Delivered and
+Opened
+
+kevin.j.oconnor@lmco.com
+
+craig.martell@lmco.com
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+04/17/2026
+HTTP02:15:01 PM
+IP:139.241.236.129
+(UTC)
+
+04/17/2026
+02:15:01 PM
+
+04/17/2026
+02:15:31 PM
+
+Delivered and
+Opened
+
+04/17/2026
+HTTP-IP:3.32.29.56 02:15:02 PM
+(UTC)
+
+04/17/2026
+02:15:02 PM
+
+04/17/2026
+02:15:24 PM
+
+Delivery Failed
+
+550 5.1.1 ... User
+Unknown or Invalid
+Recipient Address
+
+***
+
+***
+
+valerie.browning@lmco.com Delivery Failed
+
+550 5.1.1 ... User
+Unknown or Invalid
+Recipient Address
+
+***
+
+***
+
+emil.michael@osd.mil
+
+Delivery Failed
+
+5.4.4 (unable to
+route: no mail hosts ***
+for domain)
+
+***
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.80.2
+
+04/17/2026
+02:23:43 PM
+(UTC)
+
+04/17/2026
+02:23:43 PM
+
+04/17/2026
+03:03:08 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+[Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT
+UNDER DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT IRREGULARITIES
+CONCERNING PERPETUALLY LICENSED TECHNOLOGIES
+
+To:
+
+<michael.schmidt@us.af.mil> <kevin.j.oconnor@lmco.com> <craig.martell@lmco.com>
+<valerie.browning@lmco.com> <emil.michael@osd.mil>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862737451442715455&simpl=msg-f:1862737451442715455
+
+1/5
+
+4/17/26, 11:58 AM
+
+Gmail - Receipt: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.700…
+
+Network ID:
+
+33b11b3b-5ef8-4d94-a01e-42526ce38342@SM26
+
+Received by RMail System:
+
+04/17/2026 02:14:56 PM (UTC), 04/17/2026 02:14:56 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+77D821347FDBA15F9F2D60EB2BB3F7803F631719
+
+Message Size:
+
+3359
+
+Features Used:
+File Size:
+
+File Name:
+
+146472
+
+01_DFARS_227.7004_Lockheed-Martin.pdf
+
+78769029
+
+02__ISBN-9781971481296__Portfolio-of-Patent-Applications_and_Declaration-D132.pdf
+
+645171
+
+03__DEFENSIVE-PUBLICATION-EMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_tvilela@epo.org.pdf
+
+95518
+
+04__DOWNLOAD-RECEIPT_jeff.bezos@amazon.com__Tier-0.pdf
+
+976947
+
+05__Department-of-Defense__The-Heidi-Shyu-License-Grant_Administered-by-EmilMichael.pdf
+
+.
+
+Delivery Audit Trail
+4/17/2026 2:14:58 PM starting us.af.mil/{default} 4/17/2026 2:14:58 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-usa
+f-eemsg.eemsg.mail.mil (156.112.250.196) 4/17/2026 2:14:58 PM connected from 192.168.10.11:38675 4/17/2026 2:14:58 PM
+>>> 220 UEUR19PA39.eemsg.mail.mil ESMTP 4/17/2026 2:14:58 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 2:14:58 PM >
+>> 250-UEUR19PA39.eemsg.mail.mil 4/17/2026 2:14:58 PM >>> 250-8BITMIME 4/17/2026 2:14:58 PM >>> 250-SIZE 72351
+744 4/17/2026 2:14:58 PM >>> 250 STARTTLS 4/17/2026 2:14:58 PM <<< STARTTLS 4/17/2026 2:14:59 PM >>> 220 Go ah
+ead with TLS 4/17/2026 2:14:59 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 2:14:5
+9 PM tls:Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=
+US/O=IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 2:14:59 PM <
+<< EHLO mta21.r1.rpost.net 4/17/2026 2:14:59 PM >>> 250-UEUR19PA39.eemsg.mail.mil 4/17/2026 2:14:59 PM >>> 250-8B
+ITMIME 4/17/2026 2:14:59 PM >>> 250 SIZE 72351744 4/17/2026 2:14:59 PM <<< MAIL FROM: BODY=8BITMIME 4/17/20
+26 2:15:00 PM >>> 250 sender ok 4/17/2026 2:15:00 PM <<< RCPT TO: 4/17/2026 2:15:00 PM >>> 250 recipient ok 4/17/20
+26 2:15:00 PM <<< DATA 4/17/2026 2:15:00 PM >>> 354 go ahead 4/17/2026 2:15:00 PM <<< . 4/17/2026 2:15:01 PM >>> 2
+50 ok: Message 140727934 accepted 4/17/2026 2:15:01 PM <<< QUIT 4/17/2026 2:15:01 PM >>> 221 UEUR19PA39.eemsg.
+mail.mil 4/17/2026 2:15:01 PM closed pri-usaf-eemsg.eemsg.mail.mil (156.112.250.196) in=409 out=19604 4/17/2026 2:15:01
+PM done us.af.mil/{default}
+4/17/2026 2:14:57 PM starting lmco.com/{default} 4/17/2026 2:14:57 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mailfi
+03.lmco.com (192.30.247.11) 4/17/2026 2:14:57 PM connected from 192.168.10.11:56473 4/17/2026 2:14:59 PM >>> 220 mail
+fi03.lmco.com ESMTP Fri, 17 Apr 2026 14:15:49 GMT 4/17/2026 2:14:59 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 2:14:59
+PM >>> 250-mailfi03.lmco.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/17/2026 2:14:59 PM >>> 250-E
+NHANCEDSTATUSCODES 4/17/2026 2:14:59 PM >>> 250-PIPELINING 4/17/2026 2:14:59 PM >>> 250-8BITMIME 4/17/202
+6 2:14:59 PM >>> 250-SIZE 4/17/2026 2:14:59 PM >>> 250-DSN 4/17/2026 2:14:59 PM >>> 250-STARTTLS 4/17/2026 2:14:
+59 PM >>> 250-DELIVERBY 4/17/2026 2:14:59 PM >>> 250 HELP 4/17/2026 2:14:59 PM <<< STARTTLS 4/17/2026 2:14:59
+PM >>> 220 2.0.0 Ready to start TLS 4/17/2026 2:14:59 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCMSHA384 4/17/2026 2:14:59 PM tls:Cert: /C=US/ST=Maryland/L=Bethesda/O=Lockheed Martin Corporation/CN=mailfi03.lmco.
+com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/17/2026 2:14:59 PM <
+<< EHLO mta21.r1.rpost.net 4/17/2026 2:14:59 PM >>> 250-mailfi03.lmco.com Hello mta21.r1.rpost.net [52.58.131.9], please
+d to meet you 4/17/2026 2:14:59 PM >>> 250-ENHANCEDSTATUSCODES 4/17/2026 2:14:59 PM >>> 250-PIPELINING 4/1
+7/2026 2:14:59 PM >>> 250-8BITMIME 4/17/2026 2:14:59 PM >>> 250-SIZE 4/17/2026 2:14:59 PM >>> 250-DSN 4/17/2026
+2:14:59 PM >>> 250-DELIVERBY 4/17/2026 2:14:59 PM >>> 250 HELP 4/17/2026 2:14:59 PM <<< MAIL FROM: BODY=8BI
+TMIME RET=FULL 4/17/2026 2:14:59 PM >>> 250 2.1.0 ... Sender ok 4/17/2026 2:14:59 PM <<< RCPT TO: NOTIFY=SUCC
+ESS,FAILURE,DELAY 4/17/2026 2:15:00 PM >>> 250 2.1.5 ... Recipient ok 4/17/2026 2:15:00 PM <<< DATA 4/17/2026 2:15:
+00 PM >>> 354 Enter mail, end with "." on a line by itself 4/17/2026 2:15:00 PM <<< . 4/17/2026 2:15:02 PM >>> 250 2.0.0 6
+3HEFnuA006822 Message accepted for delivery 4/17/2026 2:15:02 PM <<< QUIT 4/17/2026 2:15:02 PM >>> 221 2.0.0 mailfi
+03.lmco.com closing connection 4/17/2026 2:15:02 PM closed mailfi03.lmco.com (192.30.247.11) in=763 out=19639 4/17/202
+6 2:15:02 PM done lmco.com/{default}
+4/17/2026 2:14:57 PM starting lmco.com/{default} 4/17/2026 2:14:57 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mailfi
+01.lmco.com (192.30.247.9) 4/17/2026 2:14:57 PM connected from 192.168.10.11:48262 4/17/2026 2:14:58 PM >>> 220 mailfi
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862737451442715455&simpl=msg-f:1862737451442715455
+
+2/5
+
+4/17/26, 11:58 AM
+
+Gmail - Receipt: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.700…
+
+01.lmco.com ESMTP Fri, 17 Apr 2026 14:13:37 GMT 4/17/2026 2:14:58 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 2:14:59
+PM >>> 250-mailfi01.lmco.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/17/2026 2:14:59 PM >>> 250-E
+NHANCEDSTATUSCODES 4/17/2026 2:14:59 PM >>> 250-PIPELINING 4/17/2026 2:14:59 PM >>> 250-8BITMIME 4/17/202
+6 2:14:59 PM >>> 250-SIZE 4/17/2026 2:14:59 PM >>> 250-DSN 4/17/2026 2:14:59 PM >>> 250-STARTTLS 4/17/2026 2:14:
+59 PM >>> 250-DELIVERBY 4/17/2026 2:14:59 PM >>> 250 HELP 4/17/2026 2:14:59 PM <<< STARTTLS 4/17/2026 2:14:59
+PM >>> 220 2.0.0 Ready to start TLS 4/17/2026 2:14:59 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCMSHA384 4/17/2026 2:14:59 PM tls:Cert: /C=US/ST=Maryland/L=Bethesda/O=Lockheed Martin Corporation/CN=mailfi01.lmco.
+com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/17/2026 2:14:59 PM <
+<< EHLO mta21.r1.rpost.net 4/17/2026 2:14:59 PM >>> 250-mailfi01.lmco.com Hello mta21.r1.rpost.net [52.58.131.9], please
+d to meet you 4/17/2026 2:14:59 PM >>> 250-ENHANCEDSTATUSCODES 4/17/2026 2:14:59 PM >>> 250-PIPELINING 4/1
+7/2026 2:14:59 PM >>> 250-8BITMIME 4/17/2026 2:14:59 PM >>> 250-SIZE 4/17/2026 2:14:59 PM >>> 250-DSN 4/17/2026
+2:14:59 PM >>> 250-DELIVERBY 4/17/2026 2:14:59 PM >>> 250 HELP 4/17/2026 2:14:59 PM <<< MAIL FROM: BODY=8BI
+TMIME RET=FULL 4/17/2026 2:14:59 PM >>> 250 2.1.0 ... Sender ok 4/17/2026 2:14:59 PM <<< RCPT TO: NOTIFY=SUCC
+ESS,FAILURE,DELAY 4/17/2026 2:14:59 PM >>> 550 5.1.1 ... User Unknown or Invalid Recipient Address 4/17/2026 2:14:59
+PM <<< QUIT 4/17/2026 2:15:00 PM >>> 221 2.0.0 mailfi01.lmco.com closing connection 4/17/2026 2:15:00 PM closed mailfi
+01.lmco.com (192.30.247.9) in=684 out=227 4/17/2026 2:15:00 PM done lmco.com/{default}
+4/17/2026 2:14:57 PM starting lmco.com/{default} 4/17/2026 2:14:57 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mailfi
+02.lmco.com (192.30.247.10) 4/17/2026 2:14:57 PM connected from 192.168.10.11:60664 4/17/2026 2:14:59 PM >>> 220 mail
+fi02.lmco.com ESMTP Fri, 17 Apr 2026 14:14:08 GMT 4/17/2026 2:14:59 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 2:14:59
+PM >>> 250-mailfi02.lmco.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/17/2026 2:14:59 PM >>> 250-E
+NHANCEDSTATUSCODES 4/17/2026 2:14:59 PM >>> 250-PIPELINING 4/17/2026 2:14:59 PM >>> 250-8BITMIME 4/17/202
+6 2:14:59 PM >>> 250-SIZE 4/17/2026 2:14:59 PM >>> 250-DSN 4/17/2026 2:14:59 PM >>> 250-STARTTLS 4/17/2026 2:14:
+59 PM >>> 250-DELIVERBY 4/17/2026 2:14:59 PM >>> 250 HELP 4/17/2026 2:14:59 PM <<< STARTTLS 4/17/2026 2:14:59
+PM >>> 220 2.0.0 Ready to start TLS 4/17/2026 2:14:59 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCMSHA384 4/17/2026 2:14:59 PM tls:Cert: /C=US/ST=Maryland/L=Bethesda/O=Lockheed Martin Corporation/CN=mailfi02.lmco.
+com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/17/2026 2:14:59 PM <
+<< EHLO mta21.r1.rpost.net 4/17/2026 2:14:59 PM >>> 250-mailfi02.lmco.com Hello mta21.r1.rpost.net [52.58.131.9], please
+d to meet you 4/17/2026 2:14:59 PM >>> 250-ENHANCEDSTATUSCODES 4/17/2026 2:14:59 PM >>> 250-PIPELINING 4/1
+7/2026 2:14:59 PM >>> 250-8BITMIME 4/17/2026 2:14:59 PM >>> 250-SIZE 4/17/2026 2:14:59 PM >>> 250-DSN 4/17/2026
+2:14:59 PM >>> 250-DELIVERBY 4/17/2026 2:14:59 PM >>> 250 HELP 4/17/2026 2:14:59 PM <<< MAIL FROM: BODY=8BI
+TMIME RET=FULL 4/17/2026 2:15:00 PM >>> 250 2.1.0 ... Sender ok 4/17/2026 2:15:00 PM <<< RCPT TO: NOTIFY=SUCC
+ESS,FAILURE,DELAY 4/17/2026 2:15:00 PM >>> 550 5.1.1 ... User Unknown or Invalid Recipient Address 4/17/2026 2:15:00
+PM <<< QUIT 4/17/2026 2:15:00 PM >>> 221 2.0.0 mailfi02.lmco.com closing connection 4/17/2026 2:15:00 PM closed mailfi
+02.lmco.com (192.30.247.10) in=687 out=230 4/17/2026 2:15:00 PM done lmco.com/{default}
+4/17/2026 2:23:43 PM starting gmail.com/{default} 4/17/2026 2:23:43 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.27) 4/17/2026 2:23:43 PM connected from 192.168.10.11:39156 4/17/2026 2:23:43 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43fe4c9fa68si3152430f8f.31 - gsmtp 4/17/2026 2:23:43 PM <<< EHLO mta21.r
+1.rpost.net 4/17/2026 2:23:43 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:23:43 PM >>> 250-SIZ
+E 157286400 4/17/2026 2:23:43 PM >>> 250-8BITMIME 4/17/2026 2:23:43 PM >>> 250-STARTTLS 4/17/2026 2:23:43 PM >
+>> 250-ENHANCEDSTATUSCODES 4/17/2026 2:23:43 PM >>> 250-PIPELINING 4/17/2026 2:23:43 PM >>> 250-CHUNKIN
+G 4/17/2026 2:23:43 PM >>> 250 SMTPUTF8 4/17/2026 2:23:43 PM <<< STARTTLS 4/17/2026 2:23:43 PM >>> 220 2.0.0 R
+eady to start TLS 4/17/2026 2:23:43 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/17/2026 2:23:43 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/17/2026 2:23:43 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 2:23:43 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/17/2026 2:23:43 PM >>> 250-SIZE 157286400 4/17/2026 2:23:43 PM >>> 250-8BITMIME 4/17/2026 2:23:43 PM >>>
+250-ENHANCEDSTATUSCODES 4/17/2026 2:23:43 PM >>> 250-PIPELINING 4/17/2026 2:23:43 PM >>> 250-CHUNKING 4/
+17/2026 2:23:43 PM >>> 250 SMTPUTF8 4/17/2026 2:23:43 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 2:23:43 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43fe4c9fa68si3152430f8f.31 - gsmtp 4/17/2026 2:23:43 PM <<< RCPT TO: 4/17/2026 2:23:
+43 PM >>> 250 2.1.5 OK ffacd0b85a97d-43fe4c9fa68si3152430f8f.31 - gsmtp 4/17/2026 2:23:43 PM <<< DATA 4/17/2026 2:2
+3:43 PM >>> 354 Go ahead ffacd0b85a97d-43fe4c9fa68si3152430f8f.31 - gsmtp 4/17/2026 2:23:43 PM <<< . 4/17/2026 2:23:
+43 PM >>> 250 2.0.0 OK 1776435823 ffacd0b85a97d-43fe4c9fa68si3152430f8f.31 - gsmtp 4/17/2026 2:23:43 PM <<< QUIT
+4/17/2026 2:23:43 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43fe4c9fa68si3152430f8f.31 - gsmtp 4/17/2026 2:23:4
+3 PM closed gmail-smtp-in.l.google.com (142.251.127.27) in=767 out=19631 4/17/2026 2:23:51 PM done gmail.com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer pri-usaf-eemsg.eemsg.mail.mil (156.112.250.196)
+[IP Address: 139.241.236.129] [Time Opened: 4/17/2026 2:15:31 PM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socr
+mail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/cbCh0rv0SvPZ7zgdWMWMQw9Phs1DVmKZ0zIZsETDMjEw.gif] HTTP_ACCEP
+T:*/* HTTP_ACCEPT_ENCODING:gzip, deflate HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Window
+s NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0 HTTP_X_FORWARDED_FOR:139.241.236.129 HTTP_X_FOR
+WARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e24083-7e5f34da5d8d60
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862737451442715455&simpl=msg-f:1862737451442715455
+
+3/5
+
+4/17/26, 11:58 AM
+
+Gmail - Receipt: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.700…
+
+6d7c9b3c04 Accept: */* Accept-Encoding: gzip, deflate Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0;
+Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0 X-Forwarded-For: 139.241.236.129 X-Forwarded-Proto: https X-ForwardedPort: 443 X-Amzn-Trace-Id: Root=1-69e24083-7e5f34da5d8d606d7c9b3c04 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN
+=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/cbCh0rv0SvPZ7zgd
+WMWMQw9Phs1DVmKZ0zIZsETDMjEw.gif 192.168.10.122 192.168.10.122 42854 GET /oatv_v2/cbCh0rv0SvPZ7zgdWMWM
+Qw9Phs1DVmKZ0zIZsETDMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/cbCh0rv0SvPZ7zgdW
+MWMQw9Phs1DVmKZ0zIZsETDMjEw.gif */* gzip, deflate socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64; r
+v:87.0) Gecko/20100101 Firefox/87.0 139.241.236.129 https 443 Root=1-69e24083-7e5f34da5d8d606d7c9b3c04
+From:postmaster@lmco.onmicrosoft.us:Your message has been delivered to the following recipients: kevin.j.oconnor@lmco.c
+om Subject: EXTERNAL: Registered: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT
+UNDER DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT IRREGULARITIES CONCERNING PERPETUALLY LIC
+ENSED TECHNOLOGIES
+[IP Address: 3.32.29.56] [Time Opened: 4/17/2026 2:15:24 PM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/gU4gDua0DQqjggLi0cVoBd1Zkbt1CRJgL5qtyp1oMjEw.gif] HTTP_CACHE_CONTROL:
+no-cache HTTP_PRAGMA:no-cache HTTP_ACCEPT:image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 H
+TTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.60
+99.224 Safari/537.36 HTTP_X_FORWARDED_FOR:3.32.29.56 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDE
+D_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e2407c-4c63dbc166e996c12e375efb HTTP_SEC_CH_UA:" Not A;Bran
+d";v="99", "Chromium";v="120", "Google Chrome";v="120" HTTP_SEC_CH_UA_MOBILE:?0 HTTP_SEC_CH_UA_PLATFOR
+M:"Windows" HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image C
+ache-Control: no-cache Pragma: no-cache Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Acce
+pt-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows
+NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.224 Safari/537.36 X-Forwarded-For: 3.32.
+29.56 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69e2407c-4c63dbc166e996c12e375efb secch-ua: " Not A;Brand";v="99", "Chromium";v="120", "Google Chrome";v="120" sec-ch-ua-mobile: ?0 sec-ch-ua-platform: "Wind
+ows" sec-fetch-site: cross-site sec-fetch-mode: no-cors sec-fetch-dest: image /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1
+CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/gU4gDua0DQqjgg
+Li0cVoBd1Zkbt1CRJgL5qtyp1oMjEw.gif 192.168.10.122 192.168.10.122 5486 GET /oatv_v2/gU4gDua0DQqjggLi0cVoBd1Zkbt
+1CRJgL5qtyp1oMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/gU4gDua0DQqjggLi0cVoBd1Zkbt1
+CRJgL5qtyp1oMjEw.gif no-cache no-cache image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate,
+br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
+Chrome/120.0.6099.224 Safari/537.36 3.32.29.56 https 443 Root=1-69e2407c-4c63dbc166e996c12e375efb " Not A;Brand";v
+="99", "Chromium";v="120", "Google Chrome";v="120" ?0 "Windows" cross-site no-cors image
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.2] [Time Opened: 4/17/2026 3:03:08 PM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/SxQWbuwx8MjgPVRDTqOXzenbBdt5sefKcaK32dfRMjEw.gif] HTTP_ACCEPT_ENCO
+DING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko
+Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.2 HTTP_X_FORWARDED_PROTO:
+https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e24bac-1835012959a20bdf4aa15d04 Accept
+-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.2 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Tr
+ace-Id: Root=1-69e24bac-1835012959a20bdf4aa15d04 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.
+devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.11
+2 /oatv_v2/SxQWbuwx8MjgPVRDTqOXzenbBdt5sefKcaK32dfRMjEw.gif 192.168.10.122 192.168.10.122 52248 GET /oatv_v
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862737451442715455&simpl=msg-f:1862737451442715455
+
+4/5
+
+4/17/26, 11:58 AM
+
+Gmail - Receipt: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.700…
+
+2/SxQWbuwx8MjgPVRDTqOXzenbBdt5sefKcaK32dfRMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_
+v2/SxQWbuwx8MjgPVRDTqOXzenbBdt5sefKcaK32dfRMjEw.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows N
+T 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.2 https 443 Root=1-69e24bac-1835012959a2
+0bdf4aa15d04
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+27K
+HtmlReceipt.htm
+174K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862737451442715455&simpl=msg-f:1862737451442715455
+
+5/5
+
+
