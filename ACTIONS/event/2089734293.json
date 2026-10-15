@@ -1,0 +1,74 @@
+{
+  "summary_of_pdf": "This document is an RMail secure file share download receipt serving as evidentiary proof that Todd Hartman of Best Buy received and downloaded a formal notice of proprietary rights and actual knowledge of pending patent claims under 35 U.S.C. \u00a7 154(d). The downloaded files include an SEC Tips, Complaints, and Referrals (TCR) submission, a portfolio of USPTO patent applications, an EPO defensive publication referencing USPTO App. No. 19/640,945, and a Department of Defense license grant involving Heidi Shyu.",
+  "attorneys_comments": "From an evidentiary standpoint, this RMail receipt is highly probative for establishing 'actual notice' under 35 U.S.C. \u00a7 154(d), which is a strict statutory prerequisite for obtaining reasonable royalty damages for pre-issuance patent infringement. The timestamped download logs (April 13, 2026) defeat any plausible deniability by the recipient regarding the receipt of the patent portfolio and associated claims. The inclusion of an SEC TCR suggests parallel securities implications, potentially triggering material risk disclosure duties for the target entity. Furthermore, the DoD license grant indicates potential 28 U.S.C. \u00a7 1498(a) implications or DFARS data rights complexities. Procedurally, this document should be authenticated and preserved under Fed. R. Evid. 901(b)(9) as a system record establishing definitive receipt and knowledge.",
+  "recommended_next_steps": "1. Preserve this RMail receipt and its associated metadata in a secure, tamper-evident repository for future authentication under FRE 901. 2. Monitor the referenced USPTO applications (e.g., 19/640,945) for publication and allowance to perfect the 35 U.S.C. \u00a7 154(d) provisional rights. 3. Draft and serve a formal litigation hold notice to Best Buy referencing this specific download event to prevent the spoliation of the downloaded files and any internal communications regarding them. 4. Assess the SEC TCR for potential whistleblower protections or parallel administrative actions that may impact civil discovery.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "DFARS 227.7004",
+    "Fed. R. Evid. 901",
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Pre-Issuance Royalties",
+    "Patent Infringement",
+    "SEC Material Risk Disclosure",
+    "Administrative Claim",
+    "Formal Demand Letter"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Todd Hartman",
+      "Heidi Shyu"
+    ],
+    "companies": [
+      "Best Buy",
+      "RMail",
+      "RPost"
+    ],
+    "technologies": [
+      "Retail Surveillance Countermeasures",
+      "Dual-Purpose Logistics",
+      "Agentic AI Architectures"
+    ],
+    "products": [
+      "RMail FileShare",
+      "Secure service"
+    ],
+    "government_offices": [
+      "USPTO",
+      "SEC",
+      "Department of Defense",
+      "EPO"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [
+    "19/640,945"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "2089734293",
+  "basefilename": "DOWNLOAD-RECEIPT-todd.hartman@bestbuy.com",
+  "original_filename": "DOWNLOAD-RECEIPT-todd.hartman@bestbuy.com.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "todd.hartman@bestbuy.com",
+  "primary_recipient_an": "Todd Hartman (Best Buy Co., Inc.)",
+  "all_recipients": [
+    "todd.hartman@bestbuy.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "todd.hartman@bestbuy.com": "Todd Hartman (Best Buy Co., Inc.)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

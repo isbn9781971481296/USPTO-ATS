@@ -58,6 +58,7 @@
     <nav class="nav nav-pills flex-wrap gap-2 mb-3">
         <a class="nav-link active" href="/">&larr; Back to Dashboard</a>
         <a class="nav-link" href="examiners.html">Examiner Change-Request Log & Accumulative Rules</a>
+        <a class="nav-link" href="entities.html">Entity Directory & Legal Service Ledger</a>
     </nav>
     <div class="alert alert-danger fw-bold mb-3">🚨 PRE-EXAM FORMALITIES CLERK NOTICE PENDING: Notice to File Missing Parts (NTC.MISS.PRT) requires filing replacement documents/fees to pass pre-exam processing.</div><div class="alert alert-warning fw-bold mb-3">⚠️ PRE-EXAM FORMALITIES CLERK NOTICE PENDING: Notice of Incomplete Reply (NT.INC.REPLY) requires filing supplemental response to prevent abandonment.</div>
     
@@ -92,7 +93,7 @@
     <div class="card mb-4 bg-light border-0 shadow-sm">
         <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
             <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
-            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
+            <a href="#attorney-summary" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Attorney Summary</a><a href="#actions-in-other-ledgers" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Actions in other ledgers (82)</a><a href="#deadlines" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Deadlines</a><a href="#recommendations" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Recommendations</a><a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a><a href="#state-progression" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">State Progression</a>
         </div>
     </div>
     
@@ -110,6 +111,184 @@
             </div>
         </div>
         <p class="border p-3 bg-light">APPLICATION POSTURE & STATUS: Application 19/639,265 is currently in pre-examination processing (Status Code 19). The application faces imminent abandonment unless immediate corrective action is taken. The USPTO issued a Notice to File Missing Parts on April 23, 2026, setting a 2-month period for reply. Applicant filed an incomplete response on July 22, 2026 (submitting a specification, declaration, and $34 surcharge). On August 2, 2026, Applicant filed a petition under 37 CFR 1.181/1.183 requesting a deadline reset to July 30, 2026, suspension of action for 6 months, and fee refunds. On September 22, 2026, the Office mailed a Notice of Incomplete Reply (NT.INC.REPLY) holding that the reply was non-compliant and expressly confirming that the period for reply continues to run from the original April 23, 2026 notice date. On October 1, 2026, the Office of Petitions (decision issued by CB8D7D7) dismissed Applicant's petitions under 37 CFR 1.181 and 1.183 in full, declining to reset pre-exam dates or suspend proceedings. CRITICAL DEADLINE ALERT: Because the clock continues from April 23, 2026, Applicant is currently operating within the 4-month extension window under 37 CFR 1.136(a), which expires on October 23, 2026 (extension fee: $998 small entity). The final, absolute 5-month maximum extension drop-dead date is November 23, 2026 (extension fee: $1,358 small entity). Failure to file a complete response and fee payments by November 23, 2026, will result in abandonment by operation of law. UNMET FORMALITY REQUIREMENTS & DEFICIENCIES: To cure the incomplete reply, Applicant must simultaneously submit: (1) replacement claims commencing on a separate sheet (37 CFR 1.75(h), 1.121); (2) a replacement abstract commencing on a separate sheet (37 CFR 1.72(b), 1.121); (3) payment of the $520 outstanding balance for filing, search, exam, non-DOCX, and late surcharge fees; and (4) petition and payment for extension of time under 37 CFR 1.136(a). A renewed petition under 37 CFR 1.181 may optionally be filed by December 1, 2026 (2 months from October 1, 2026, non-extendable), but doing so does not toll or stay the November 23, 2026 abandonment deadline.</p>
+    </div>
+    
+    <div id="actions-in-other-ledgers" class="mb-4">
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="mb-0">Actions in other ledgers</h5>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('actions-in-other-ledgers', this)" title="Copy permalink to Actions in other ledgers">🔗 Permalink</button>
+            </div>
+        </div>
+        
+        <style>
+        .hover-info-container { position: relative; display: inline-block; cursor: help; }
+        .hover-info-bubble { 
+            display: none; position: absolute; z-index: 1050; 
+            bottom: 120%; left: 50%; transform: translateX(-50%); 
+            width: 350px; background: white; border: 1px solid #dee2e6; 
+            padding: 12px; border-radius: 6px; 
+            font-size: 0.85rem; text-align: left; color: #212529; white-space: normal;
+        }
+        .hover-info-bubble::after {
+            content: ''; position: absolute; top: 100%; left: 50%; margin-left: -5px;
+            border-width: 5px; border-style: solid; border-color: white transparent transparent transparent;
+        }
+        .hover-info-container:hover .hover-info-bubble { display: block; }
+        </style>
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered table-sm mt-2">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Date</th>
+                        <th>Action ID</th>
+                        <th>Entities</th>
+                        <th>Ledger</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+            <tr>
+                <td class="align-middle"><span class="badge bg-light text-dark border">04/09/2026</span></td>
+                <td class="align-middle"><a href="index.html#evt-1898370904" data-event-key="1898370904" class="fw-semibold text-primary">EMAIL-TO-maxar.com_HIGH-LIABILITY</a> 
+            <span class="hover-info-container ms-1">
+                <span class="badge bg-light text-primary border rounded-circle" style="cursor: help;">i</span>
+                <div class="hover-info-bubble shadow-lg">
+                    <strong class="text-primary mb-1 d-block">Document Summary</strong>
+                    <div class="mb-2 text-muted" style="font-size: 0.8rem; line-height: 1.3;">Formal notice of defensive publication and technical disclosure delivered via RPost by Reinaldo J. Aguiar Marcano to executives and outside counsel at major aerospace and satellite imaging corporations (Maxar, Airbus, Planet, BlackSky, Satellogic). The instrument asserts the establishment of definitive prior art in satellite vision systems and optical communications through a published 721-page portfolio of five USPTO patent applications. It further notices a perpetual, no-fee license granted to the U.S. Federal Government and includes highly adversarial attachments alleging criminal wire fraud and whistleblower retaliation.</div>
+                    <strong class="text-primary mb-1 d-block">Tags</strong>
+                    <div><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 102 (Prior Art)</span><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 284 (Willful Infringement)</span><span class='badge bg-secondary me-1 mb-1'>28 U.S.C. § 1498 (Eminent Domain over Patents)</span><span class='badge bg-secondary me-1 mb-1'>DFARS 227.7004</span><span class='badge bg-secondary me-1 mb-1'>FRCP Rule 26 (Duty to Disclose)</span><span class='badge bg-secondary me-1 mb-1'>Defensive Publication</span><span class='badge bg-secondary me-1 mb-1'>Evidentiary Proof of Delivery</span><span class='badge bg-secondary me-1 mb-1'>Patent Infringement Notice</span><span class='badge bg-secondary me-1 mb-1'>Whistleblower Retaliation</span><span class='badge bg-secondary me-1 mb-1'>Interstate Wire Fraud</span><span class='badge bg-secondary me-1 mb-1'>SEC Material Risk Disclosure</span><span class='badge bg-secondary me-1 mb-1'>ABA Model Rule 8.3</span></div>
+                </div>
+            </span>
+            </td>
+                <td class="align-middle" style="font-size: 0.9rem;">Michael Schoellhorn (Airbus SE)</td>
+                <td class="align-middle"><span class="badge bg-info text-dark">EMAIL</span></td>
+            </tr>
+            
+            <tr>
+                <td class="align-middle"><span class="badge bg-light text-dark border">04/08/2026</span></td>
+                <td class="align-middle"><a href="index.html#evt-1021340863" data-event-key="1021340863" class="fw-semibold text-primary">READ-RECEIPT-t-Mobile__HIGH-LIABILITY</a> 
+            <span class="hover-info-container ms-1">
+                <span class="badge bg-light text-primary border rounded-circle" style="cursor: help;">i</span>
+                <div class="hover-info-bubble shadow-lg">
+                    <strong class="text-primary mb-1 d-block">Document Summary</strong>
+                    <div class="mb-2 text-muted" style="font-size: 0.8rem; line-height: 1.3;">The provided document is a cryptographic RPost Registered Email receipt serving as evidentiary proof of delivery for an &#x27;Urgent Legal Notice&#x27; transmitted by Reinaldo J. Aguiar Marcano on April 8, 2026. The notice was successfully delivered to and opened by senior executives at T-Mobile and their outside litigation counsel at WilmerHale, Alston &amp; Bird, and Holland &amp; Knight. The communication asserts claims of material technological obsolescence, demands mandatory SEC disclosures, and provides formal actual notice of a portfolio of pending USPTO patent applications pertaining to high-radix and parametric cellular and satellite communication systems. The transmission includes voluminous attachments alleging interstate wire fraud, formal criminal referrals, and a Department of Defense license grant, establishing a foundation for willful infringement and provisional damages.</div>
+                    <strong class="text-primary mb-1 d-block">Tags</strong>
+                    <div><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 154(d)</span><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 284</span><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 287</span><span class='badge bg-secondary me-1 mb-1'>Fed. R. Evid. 803(6)</span><span class='badge bg-secondary me-1 mb-1'>Fed. R. Evid. 901</span><span class='badge bg-secondary me-1 mb-1'>Patent Infringement</span><span class='badge bg-secondary me-1 mb-1'>Willful Infringement</span><span class='badge bg-secondary me-1 mb-1'>SEC Material Risk Disclosure</span><span class='badge bg-secondary me-1 mb-1'>Evidentiary Proof of Delivery</span><span class='badge bg-secondary me-1 mb-1'>Formal Demand Letter</span><span class='badge bg-secondary me-1 mb-1'>Interstate Wire Fraud</span><span class='badge bg-secondary me-1 mb-1'>Whistleblower Claim</span><span class='badge bg-secondary me-1 mb-1'>Administrative Claim</span></div>
+                </div>
+            </span>
+            </td>
+                <td class="align-middle" style="font-size: 0.9rem;">David Frist (Alston)</td>
+                <td class="align-middle"><span class="badge bg-info text-dark">EMAIL</span></td>
+            </tr>
+            
+            <tr>
+                <td class="align-middle"><span class="badge bg-light text-dark border">04/08/2026</span></td>
+                <td class="align-middle"><a href="index.html#evt-2859430354" data-event-key="2859430354" class="fw-semibold text-primary">READ-RECEIPT-ATT</a> 
+            <span class="hover-info-container ms-1">
+                <span class="badge bg-light text-primary border rounded-circle" style="cursor: help;">i</span>
+                <div class="hover-info-bubble shadow-lg">
+                    <strong class="text-primary mb-1 d-block">Document Summary</strong>
+                    <div class="mb-2 text-muted" style="font-size: 0.8rem; line-height: 1.3;">This document is a certified RPost Registered Email receipt serving as evidentiary proof of delivery and actual notice of a formal demand letter sent by Reinaldo J. Aguiar Marcano to AT&amp;T executives and their outside counsel. The underlying communication asserts material technological obsolescence of AT&amp;T&#x27;s infrastructure based on a portfolio of pending USPTO patent applications related to high-radix and parametric cellular and satellite communication systems. The transmission further alleges interstate wire fraud, demands mandatory SEC material risk disclosures, and references a Department of Defense license grant involving Under Secretary Heidi Shyu, establishing a foundation for potential claims under 35 U.S.C. § 154(d) and 28 U.S.C. § 1498.</div>
+                    <strong class="text-primary mb-1 d-block">Tags</strong>
+                    <div><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 154(d)</span><span class='badge bg-secondary me-1 mb-1'>28 U.S.C. § 1498</span><span class='badge bg-secondary me-1 mb-1'>DFARS 227.7004</span><span class='badge bg-secondary me-1 mb-1'>FRCP 9(b)</span><span class='badge bg-secondary me-1 mb-1'>FRCP 12(b)(6)</span><span class='badge bg-secondary me-1 mb-1'>Patent Infringement</span><span class='badge bg-secondary me-1 mb-1'>Provisional Rights Notice</span><span class='badge bg-secondary me-1 mb-1'>SEC Material Risk Disclosure</span><span class='badge bg-secondary me-1 mb-1'>Evidentiary Proof of Delivery</span><span class='badge bg-secondary me-1 mb-1'>Formal Demand Letter</span><span class='badge bg-secondary me-1 mb-1'>Interstate Wire Fraud</span><span class='badge bg-secondary me-1 mb-1'>Whistleblower Claim</span><span class='badge bg-secondary me-1 mb-1'>DoD Technology Licensing</span></div>
+                </div>
+            </span>
+            </td>
+                <td class="align-middle" style="font-size: 0.9rem;">David Benyacar (arnoldporter.com)</td>
+                <td class="align-middle"><span class="badge bg-info text-dark">EMAIL</span></td>
+            </tr>
+            
+            <tr>
+                <td class="align-middle"><span class="badge bg-light text-dark border">04/08/2026</span></td>
+                <td class="align-middle"><a href="index.html#evt-2664986897" data-event-key="2664986897" class="fw-semibold text-primary">EMAIL-TO-Verizon</a> 
+            <span class="hover-info-container ms-1">
+                <span class="badge bg-light text-primary border rounded-circle" style="cursor: help;">i</span>
+                <div class="hover-info-bubble shadow-lg">
+                    <strong class="text-primary mb-1 d-block">Document Summary</strong>
+                    <div class="mb-2 text-muted" style="font-size: 0.8rem; line-height: 1.3;">The document is an RPost registered email receipt serving as evidentiary proof of delivery for an &#x27;URGENT LEGAL NOTICE&#x27; sent by RJ Aguiar to Verizon executives, investor relations, and outside counsel at multiple top-tier law firms. The notice asserts material technological obsolescence and demands mandatory SEC disclosures based on a portfolio of USPTO patent applications concerning high-radix cellular and satellite communication systems. The transmission includes highly aggressive attachments alleging interstate wire fraud, formal criminal referrals, and a purported Department of Defense license grant.</div>
+                    <strong class="text-primary mb-1 d-block">Tags</strong>
+                    <div><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 284</span><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 154(d)</span><span class='badge bg-secondary me-1 mb-1'>28 U.S.C. § 1498</span><span class='badge bg-secondary me-1 mb-1'>SEC Material Risk Disclosure</span><span class='badge bg-secondary me-1 mb-1'>Patent Infringement</span><span class='badge bg-secondary me-1 mb-1'>Willful Infringement</span><span class='badge bg-secondary me-1 mb-1'>Evidentiary Proof of Delivery</span><span class='badge bg-secondary me-1 mb-1'>Formal Demand Letter</span><span class='badge bg-secondary me-1 mb-1'>Interstate Wire Fraud</span><span class='badge bg-secondary me-1 mb-1'>Whistleblower Claim</span><span class='badge bg-secondary me-1 mb-1'>FRCP Rule 4</span><span class='badge bg-secondary me-1 mb-1'>FRCP Rule 5</span></div>
+                </div>
+            </span>
+            </td>
+                <td class="align-middle" style="font-size: 0.9rem;">David Frist (Alston)</td>
+                <td class="align-middle"><span class="badge bg-info text-dark">EMAIL</span></td>
+            </tr>
+            
+            <tr>
+                <td class="align-middle"><span class="badge bg-light text-dark border">04/08/2026</span></td>
+                <td class="align-middle"><a href="index.html#evt-1631649913" data-event-key="1631649913" class="fw-semibold text-primary">READ-RECEIPT-sanjeev.mehta@verizon.com</a> 
+            <span class="hover-info-container ms-1">
+                <span class="badge bg-light text-primary border rounded-circle" style="cursor: help;">i</span>
+                <div class="hover-info-bubble shadow-lg">
+                    <strong class="text-primary mb-1 d-block">Document Summary</strong>
+                    <div class="mb-2 text-muted" style="font-size: 0.8rem; line-height: 1.3;">This document is a certified RMail delivery and read receipt serving as evidentiary proof that an &#x27;Urgent Legal Notice&#x27; was successfully delivered to and opened by Sanjeev Mehta at Verizon on April 8, 2026. The underlying notice asserts claims of &#x27;Material Technological Obsolescence&#x27; and demands &#x27;Mandatory SEC Disclosure&#x27; in connection with five specified USPTO patent applications, establishing a foundation for actual notice and potential willful infringement.</div>
+                    <strong class="text-primary mb-1 d-block">Tags</strong>
+                    <div><span class='badge bg-secondary me-1 mb-1'>Evidentiary Proof of Delivery</span><span class='badge bg-secondary me-1 mb-1'>Actual Notice</span><span class='badge bg-secondary me-1 mb-1'>Pre-Litigation Demand</span><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 154(d)</span><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 284</span><span class='badge bg-secondary me-1 mb-1'>Willful Infringement</span><span class='badge bg-secondary me-1 mb-1'>SEC Material Risk Disclosure</span><span class='badge bg-secondary me-1 mb-1'>Federal Rules of Evidence 901</span><span class='badge bg-secondary me-1 mb-1'>Corporate Governance</span><span class='badge bg-secondary me-1 mb-1'>Patent Prosecution</span></div>
+                </div>
+            </span>
+            </td>
+                <td class="align-middle" style="font-size: 0.9rem;">Sanjeev Mehta (Verizon Communications)</td>
+                <td class="align-middle"><span class="badge bg-info text-dark">EMAIL</span></td>
+            </tr>
+            
+            <tr>
+                <td class="align-middle"><span class="badge bg-light text-dark border">04/07/2026</span></td>
+                <td class="align-middle"><a href="index.html#evt-4095117591" data-event-key="4095117591" class="fw-semibold text-primary">EMAIL-TO_The-Nuclear-Engergy-Team_sthau@orrick.com_elizabeth.hanigan@morganlewis.com_jeremy.sanders@fisherbroyles.com_ranjini.acharya@pillsburylaw.com_lhines@cov.com_seth.traxler@kirkland.com_timothy.matthews@morganlewis.com</a> 
+            <span class="hover-info-container ms-1">
+                <span class="badge bg-light text-primary border rounded-circle" style="cursor: help;">i</span>
+                <div class="hover-info-bubble shadow-lg">
+                    <strong class="text-primary mb-1 d-block">Document Summary</strong>
+                    <div class="mb-2 text-muted" style="font-size: 0.8rem; line-height: 1.3;">A formal Request for Proposals (RFP) transmitted via RPost Registered Email by a pro se inventor and former Google/Goldman Sachs engineer to multiple top-tier law firms. The sender seeks aggressive intellectual property litigation counsel to protect and monetize a 47-patent application portfolio concerning High-Radix architectures and Parametric Encoding. The communication asserts ongoing misappropriation by a state-backed adversary, notes a royalty-free license granted to the US Department of Defense (DoD), and highlights parallel SEC whistleblower disclosures and formal DOJ criminal referrals for wire fraud and retaliation.</div>
+                    <strong class="text-primary mb-1 d-block">Tags</strong>
+                    <div><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 154(d)</span><span class='badge bg-secondary me-1 mb-1'>28 U.S.C. § 1498</span><span class='badge bg-secondary me-1 mb-1'>DFARS 227.7004</span><span class='badge bg-secondary me-1 mb-1'>15 U.S.C. § 78u-6</span><span class='badge bg-secondary me-1 mb-1'>Patent Infringement</span><span class='badge bg-secondary me-1 mb-1'>Trade Secret Misappropriation</span><span class='badge bg-secondary me-1 mb-1'>Procurement Fraud</span><span class='badge bg-secondary me-1 mb-1'>Evidentiary Proof of Delivery</span><span class='badge bg-secondary me-1 mb-1'>Formal Demand Letter</span><span class='badge bg-secondary me-1 mb-1'>Administrative Claim</span><span class='badge bg-secondary me-1 mb-1'>SEC Material Risk Disclosure</span><span class='badge bg-secondary me-1 mb-1'>ABA Model Rule 1.18</span><span class='badge bg-secondary me-1 mb-1'>Whistleblower Retaliation</span><span class='badge bg-secondary me-1 mb-1'>F-35 TR-3 Upgrade</span><span class='badge bg-secondary me-1 mb-1'>ITAR/EAR Export Controls</span></div>
+                </div>
+            </span>
+            </td>
+                <td class="align-middle" style="font-size: 0.9rem;">The Nuclear Engergy Team Sthau (Abuse)</td>
+                <td class="align-middle"><span class="badge bg-info text-dark">EMAIL</span></td>
+            </tr>
+            
+            <tr>
+                <td class="align-middle"><span class="badge bg-light text-dark border">04/07/2026</span></td>
+                <td class="align-middle"><a href="index.html#evt-3034922143" data-event-key="3034922143" class="fw-semibold text-primary">EMAIL-TO-jdmahle@vorys.com</a> 
+            <span class="hover-info-container ms-1">
+                <span class="badge bg-light text-primary border rounded-circle" style="cursor: help;">i</span>
+                <div class="hover-info-bubble shadow-lg">
+                    <strong class="text-primary mb-1 d-block">Document Summary</strong>
+                    <div class="mb-2 text-muted" style="font-size: 0.8rem; line-height: 1.3;">This document is a formal inquiry for legal representation transmitted via RPost registered email by prospective client Reinaldo J. Aguiar Marcano to attorney J.D. Mahle. The sender seeks aggressive intellectual property litigation counsel to protect a portfolio of 47 pending USPTO patent applications concerning High-Radix architectures and Parametric Encoding. The communication asserts ongoing misappropriation by a highly resourced enterprise, discloses a perpetual, no-fee license granted to the U.S. Department of Defense, and provides evidentiary notice of parallel federal whistleblower disclosures and formal criminal referrals submitted to the DOJ and SEC regarding alleged systemic IP theft and interstate wire fraud.</div>
+                    <strong class="text-primary mb-1 d-block">Tags</strong>
+                    <div><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 154(d)</span><span class='badge bg-secondary me-1 mb-1'>28 U.S.C. § 1498</span><span class='badge bg-secondary me-1 mb-1'>DFARS 227.7004</span><span class='badge bg-secondary me-1 mb-1'>FRCP Rule 11</span><span class='badge bg-secondary me-1 mb-1'>Patent Infringement</span><span class='badge bg-secondary me-1 mb-1'>Trade Secret Misappropriation</span><span class='badge bg-secondary me-1 mb-1'>Interstate Wire Fraud</span><span class='badge bg-secondary me-1 mb-1'>Whistleblower Retaliation</span><span class='badge bg-secondary me-1 mb-1'>SEC Material Risk Disclosure</span><span class='badge bg-secondary me-1 mb-1'>Formal Demand Letter</span><span class='badge bg-secondary me-1 mb-1'>Evidentiary Proof of Delivery</span><span class='badge bg-secondary me-1 mb-1'>Administrative Claim</span><span class='badge bg-secondary me-1 mb-1'>DOJ Criminal Referral</span><span class='badge bg-secondary me-1 mb-1'>High-Radix Architecture</span><span class='badge bg-secondary me-1 mb-1'>Parametric Encoding</span></div>
+                </div>
+            </span>
+            </td>
+                <td class="align-middle" style="font-size: 0.9rem;">Jdmahle (Vorys)</td>
+                <td class="align-middle"><span class="badge bg-info text-dark">EMAIL</span></td>
+            </tr>
+            
+            <tr>
+                <td class="align-middle"><span class="badge bg-light text-dark border">04/07/2026</span></td>
+                <td class="align-middle"><a href="index.html#evt-940073668" data-event-key="940073668" class="fw-semibold text-primary">EMAIL-TO-brian.cordery@bristows.com</a> 
+            <span class="hover-info-container ms-1">
+                <span class="badge bg-light text-primary border rounded-circle" style="cursor: help;">i</span>
+                <div class="hover-info-bubble shadow-lg">
+                    <strong class="text-primary mb-1 d-block">Document Summary</strong>
+                    <div class="mb-2 text-muted" style="font-size: 0.8rem; line-height: 1.3;">The document is a formal solicitation for legal representation sent via RPost Registered Email by Reinaldo J. Aguiar Marcano, a former Google engineer and Goldman Sachs Managing Director. The sender seeks an IP litigation team to protect a portfolio of 47 pending USPTO patent applications concerning High-Radix architectures and Parametric Encoding. The sender alleges active misappropriation by a state-level adversary, notes a perpetual, no-fee license granted to the US Department of Defense (via Hon. Heidi Shyu), and highlights parallel whistleblower and criminal referrals submitted to the DOJ and SEC regarding the alleged IP theft.</div>
+                    <strong class="text-primary mb-1 d-block">Tags</strong>
+                    <div><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 154(d)</span><span class='badge bg-secondary me-1 mb-1'>28 U.S.C. § 1498</span><span class='badge bg-secondary me-1 mb-1'>35 U.S.C. § 271</span><span class='badge bg-secondary me-1 mb-1'>DFARS 227.7004</span><span class='badge bg-secondary me-1 mb-1'>Patent Infringement</span><span class='badge bg-secondary me-1 mb-1'>Trade Secret Misappropriation</span><span class='badge bg-secondary me-1 mb-1'>Whistleblower Retaliation</span><span class='badge bg-secondary me-1 mb-1'>SEC Material Risk Disclosure</span><span class='badge bg-secondary me-1 mb-1'>DOJ Criminal Referral</span><span class='badge bg-secondary me-1 mb-1'>Formal Demand Letter</span><span class='badge bg-secondary me-1 mb-1'>Evidentiary Proof of Delivery</span><span class='badge bg-secondary me-1 mb-1'>Pro Se Solicitation</span><span class='badge bg-secondary me-1 mb-1'>Government License Grant</span></div>
+                </div>
+            </span>
+            </td>
+                <td class="align-middle" style="font-size: 0.9rem;">Brian Cordery (Bristows)</td>
+                <td class="align-middle"><span class="badge bg-info text-dark">EMAIL</span></td>
+            </tr>
+            
+                </tbody>
+            </table>
+        </div>
+        
     </div>
     
     <div id="deadlines" class="mb-4">

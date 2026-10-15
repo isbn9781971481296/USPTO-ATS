@@ -1,0 +1,42 @@
+{
+  "serving_key": "3405786681",
+  "canonical_key": "john.saw@tmobile.com",
+  "display_name": "John Saw (T-Mobile US, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "T-Mobile US, Inc.",
+  "full_name": "John Saw",
+  "pronouns": null,
+  "title": "Executive Vice President and Chief Technology Officer",
+  "organization": "T-Mobile US, Inc.",
+  "domain": "tmobile.com",
+  "addresses": {
+    "mailing_address": "12920 SE 38th Street, Bellevue, WA 98006",
+    "business_address": "12920 SE 38th Street, Bellevue, WA 98006",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "john.saw@tmobile.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-425-378-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2794518471",
+      "canonical_key": "mark.nelson@tmobile.com",
+      "display_name": "Mark Nelson",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

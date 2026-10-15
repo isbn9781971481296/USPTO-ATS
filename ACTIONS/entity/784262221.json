@@ -1,0 +1,37 @@
+{
+  "serving_key": "784262221",
+  "canonical_key": "kgoldberg@orrick.com",
+  "display_name": "K. Goldberg (Orrick, Herrington & Sutcliffe LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Orrick, Herrington & Sutcliffe LLP",
+  "full_name": "K. Goldberg",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Orrick, Herrington & Sutcliffe LLP",
+  "domain": "orrick.com",
+  "addresses": {
+    "mailing_address": "405 Howard Street, San Francisco, CA 94105",
+    "business_address": "405 Howard Street, San Francisco, CA 94105",
+    "legal_service_address": "CT Corporation System, 330 N Brand Blvd, Suite 700, Glendale, CA 91203"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "330 N Brand Blvd, Suite 700, Glendale, CA 91203",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "kgoldberg@orrick.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 415-773-5700"
+    ],
+    "faxes": [
+      "+1 415-773-5759"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

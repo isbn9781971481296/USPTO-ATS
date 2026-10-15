@@ -1,0 +1,35 @@
+{
+  "serving_key": "1435244237",
+  "canonical_key": "john.harrison@airbus.com",
+  "display_name": "John Harrison (Airbus SE)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Airbus SE",
+  "full_name": "John Harrison",
+  "pronouns": null,
+  "title": "General Counsel and Corporate Secretary",
+  "organization": "Airbus SE",
+  "domain": "airbus.com",
+  "addresses": {
+    "mailing_address": "2 rond-point Emile Dewoitine, 31700 Blagnac, France",
+    "business_address": "2 rond-point Emile Dewoitine, 31700 Blagnac, France",
+    "legal_service_address": "Mendelweg 30, 2333 CS Leiden, The Netherlands"
+  },
+  "registered_agent": {
+    "name": "Airbus SE (Registered Office)",
+    "address": "Mendelweg 30, 2333 CS Leiden, The Netherlands",
+    "jurisdiction": "The Netherlands"
+  },
+  "contact": {
+    "primary_email": "john.harrison@airbus.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 5 61 93 33 33"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

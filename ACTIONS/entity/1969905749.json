@@ -1,0 +1,37 @@
+{
+  "serving_key": "1969905749",
+  "canonical_key": "600660@fuyaogroup.com",
+  "display_name": "Investor Relations (Fuyao Glass Industry Group Co., Ltd.)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Fuyao Glass Industry Group Co., Ltd.",
+  "full_name": "Investor Relations",
+  "pronouns": null,
+  "title": "Investor Relations / Company Secretary",
+  "organization": "Fuyao Glass Industry Group Co., Ltd.",
+  "domain": "fuyaogroup.com",
+  "addresses": {
+    "mailing_address": "Fuyao Industrial Zone, Rongqiao Economic & Technological Development Zone, Fuqing City, Fujian Province, 350301, China",
+    "business_address": "Fuyao Industrial Zone, Rongqiao Economic & Technological Development Zone, Fuqing City, Fujian Province, 350301, China",
+    "legal_service_address": "Fuyao Industrial Zone, Rongqiao Economic & Technological Development Zone, Fuqing City, Fujian Province, 350301, China"
+  },
+  "registered_agent": {
+    "name": "Cho Tak Wong (Legal Representative)",
+    "address": "Fuyao Industrial Zone, Rongqiao Economic & Technological Development Zone, Fuqing City, Fujian Province, 350301, China",
+    "jurisdiction": "Fujian, China"
+  },
+  "contact": {
+    "primary_email": "600660@fuyaogroup.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+86 591 8538 3777"
+    ],
+    "faxes": [
+      "+86 591 8536 3983"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

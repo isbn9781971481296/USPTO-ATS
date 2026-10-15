@@ -1,0 +1,37 @@
+{
+  "serving_key": "2389435187",
+  "canonical_key": "emar@fbm.com",
+  "display_name": "Eugene Mar (Farella Braun + Martel LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Farella Braun + Martel LLP",
+  "full_name": "Eugene Mar",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Farella Braun + Martel LLP",
+  "domain": "fbm.com",
+  "addresses": {
+    "mailing_address": "One Bush Street, Suite 900, San Francisco, CA 94104",
+    "business_address": "One Bush Street, Suite 900, San Francisco, CA 94104",
+    "legal_service_address": "One Bush Street, Suite 900, San Francisco, CA 94104"
+  },
+  "registered_agent": {
+    "name": "Farella Braun + Martel LLP",
+    "address": "One Bush Street, Suite 900, San Francisco, CA 94104",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "emar@fbm.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 415-954-4400"
+    ],
+    "faxes": [
+      "+1 415-954-4480"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

@@ -1,0 +1,37 @@
+{
+  "serving_key": "3649322317",
+  "canonical_key": "gschnell@constantinecannon.com",
+  "display_name": "Gordon Schnell (Constantine Cannon LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Constantine Cannon LLP",
+  "full_name": "Gordon Schnell",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Constantine Cannon LLP",
+  "domain": "constantinecannon.com",
+  "addresses": {
+    "mailing_address": "335 Madison Avenue, 9th Floor, New York, NY 10017",
+    "business_address": "335 Madison Avenue, 9th Floor, New York, NY 10017",
+    "legal_service_address": "335 Madison Avenue, 9th Floor, New York, NY 10017"
+  },
+  "registered_agent": {
+    "name": "Secretary of State of New York",
+    "address": "99 Washington Ave, Albany, NY 12231",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "gschnell@constantinecannon.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 212-350-2700"
+    ],
+    "faxes": [
+      "+1 212-350-2701"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

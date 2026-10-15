@@ -1,0 +1,24 @@
+{
+  "index": 141,
+  "header": "# Enclosure #141: EMAIL-TO-tpatterson-pattersonsheridan-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/EMAIL-TO-tpatterson@pattersonsheridan.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-email-to-tpatterson@pattersonsherid-1bdc315aa2.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "tpatterson@pattersonsheridan.com",
+  "primary_recipient_an": "Tpatterson (pattersonsheridan.com)",
+  "all_recipients": [
+    "tpatterson@pattersonsheridan.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "tpatterson@pattersonsheridan.com": "Tpatterson (pattersonsheridan.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "EMAIL-TO-tpatterson@pattersonsheridan.com.pdf",
+  "patent_applications_mentioned": []
+}

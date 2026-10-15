@@ -1,0 +1,27 @@
+{
+  "index": 114,
+  "header": "# Enclosure #114: Notice-to-Microsoft.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/notices/__Legal-Notices-Sent-on-May-7-2026/__Attachments/Notice_to_Microsoft.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-notices-legal-notices-sent-on-may-7-2026-attachments-notice-to-microsoft.pdf-20994adb12.pdf",
+  "pdf_exists": true,
+  "category": "letter",
+  "prefix_hint": "LETTER",
+  "subtype": "letter",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "buscond@microsoft.com",
+  "primary_recipient_an": "Buscond (Microsoft Corporation)",
+  "all_recipients": [
+    "buscond@microsoft.com"
+  ],
+  "all_recipients_an": {
+    "buscond@microsoft.com": "Buscond (Microsoft Corporation)"
+  },
+  "date": "05072026",
+  "original_filename": "Notice_to_Microsoft.pdf",
+  "patent_applications_mentioned": [
+    "19/560,038",
+    "19/562,845",
+    "19/658,570",
+    "19/559,849"
+  ]
+}

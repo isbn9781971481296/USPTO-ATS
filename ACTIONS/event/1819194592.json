@@ -1,0 +1,99 @@
+{
+  "summary_of_pdf": "This document is an RMail File Share Download Notice serving as evidentiary proof of delivery and receipt. It confirms that on April 17, 2026, the legal compliance department of ServiceNow downloaded a formal notice of proprietary rights and a demand for due diligence. The underlying notice asserts intellectual property rights concerning cloud virtualization, enterprise workflow modeling, and disaggregated infrastructure, explicitly initiating a provisional rights period under 35 U.S.C. \u00a7 154(d).",
+  "attorneys_comments": "From a tactical litigation perspective, this RMail receipt is a highly valuable evidentiary artifact. It establishes irrefutable actual notice to the target entity (ServiceNow) as of April 17, 2026. This satisfies the stringent notice requirements for accruing provisional reasonable royalty damages under 35 U.S.C. \u00a7 154(d) upon the issuance of the pending patent applications. Furthermore, the documented receipt of the 'IP_LIABILITY-3L-AGG.pdf' and the portfolio declaration lays the groundwork for enhanced damages under 35 U.S.C. \u00a7 284 by establishing a baseline for willful infringement should the target continue unauthorized use of the claimed technologies. The inclusion of receipts involving Amazon and the European Patent Office (EPO) indicates a coordinated, multi-jurisdictional enforcement posture. Counsel should authenticate this receipt under FRE 901 and FRE 902 for future summary judgment or trial proceedings.",
+  "recommended_next_steps": "1. Securely archive the native RMail receipt and associated cryptographic proofs to ensure admissibility under the Federal Rules of Evidence. 2. Docket April 17, 2026, as the date of actual notice for provisional rights calculations. 3. Monitor the prosecution of the referenced patent portfolio at the USPTO; upon issuance, immediately evaluate the target's intervening products for infringement. 4. Prepare a litigation hold notice anticipating formal proceedings in the appropriate federal district court, potentially the SDTX, given the established notice.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "35 U.S.C. \u00a7 284",
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Provisional Rights",
+    "Willful Infringement",
+    "Patent Infringement",
+    "Pre-Litigation Demand",
+    "FRE 901",
+    "FRE 902"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Jeff Bezos",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "ServiceNow",
+      "VMWare",
+      "Bradcom",
+      "Amazon",
+      "RMail",
+      "RPost"
+    ],
+    "technologies": [
+      "Cloud Virtualization",
+      "Enterprise Workflow Modeling",
+      "Disaggregated Infrastructure"
+    ],
+    "products": [
+      "RMail FileShare"
+    ],
+    "government_offices": [
+      "European Patent Office (EPO)"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "1819194592",
+  "basefilename": "DOWNLOAD-RECEIPT_legal_compliance@servicenow.com",
+  "original_filename": "DOWNLOAD-RECEIPT_legal_compliance@servicenow.com.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04162026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jeff.bezos@amazon.com",
+  "primary_recipient_an": "Jeff Bezos (Amazon.com, Inc.)",
+  "all_recipients": [
+    "jeff.bezos@amazon.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "compliance@servicenow.com",
+    "rmenidjel@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "legal_compliance@servicenow.com",
+    "04__download-receipt_jeff.bezos@amazon.com",
+    "03__defensive-publication-email-with-receiptepo_gphilpott@epo.org",
+    "org_srowan@epo.org",
+    "_rmenidjel@epo.org",
+    "_ymeniere@epo.org"
+  ],
+  "all_recipients_an": {
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "srowan@epo.org": "Local (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Local (European Patent Office)",
+    "compliance@servicenow.com": "Compliance (ServiceNow)",
+    "rmenidjel@epo.org": "Local (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "legal_compliance@servicenow.com": "Legal Compliance (ServiceNow)",
+    "04__download-receipt_jeff.bezos@amazon.com": "Download Receipt Jeff Bezos (Amazon.com, Inc.)",
+    "03__defensive-publication-email-with-receiptepo_gphilpott@epo.org": "Defensive Publication Email With Receiptepo Gphilpott (European Patent Office)",
+    "org_srowan@epo.org": "Local (European Patent Office)",
+    "_rmenidjel@epo.org": "Local (European Patent Office)",
+    "_ymeniere@epo.org": "Local (European Patent Office)"
+  },
+  "patent_applications": []
+}

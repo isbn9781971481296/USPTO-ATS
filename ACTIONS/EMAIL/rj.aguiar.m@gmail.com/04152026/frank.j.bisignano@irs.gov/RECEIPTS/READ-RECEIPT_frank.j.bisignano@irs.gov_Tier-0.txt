@@ -1,0 +1,379 @@
+4/15/26, 4:36 AM
+
+Gmail - Receipt: LEGAL NOTICE: SYSTEMIC PRIVACY BREACH RE: TIN XXX-XX-2502; REF. 42,695 VIOLATIONS RULING
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: LEGAL NOTICE: SYSTEMIC PRIVACY BREACH RE: TIN XXX-XX-2502; REF.
+42,695 VIOLATIONS RULING
+2 messages
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Tue, Apr 14, 2026 at 11:21 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+frank.j.bisignano@irs.gov
+
+04/15/2026
+Delivered to Mail relayed;emge.irs.gov
+02:21:24 AM
+Server
+(152.216.7.167)
+(UTC)
+
+04/15/2026
+02:21:24 AM
+
+rj.aguiar.m+legal@gmail.com
+
+Delivered and
+Opened
+
+04/15/2026
+02:21:59 AM
+(UTC)
+
+04/15/2026
+02:21:59 AM
+
+HTTPIP:66.249.80.4
+
+Delivered (UTC*) Delivered (local)
+
+Opened (local)
+
+04/15/2026
+02:31:27 AM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR. <rj.aguiar.m+legal@gmail.com>
+
+Subject:
+
+LEGAL NOTICE: SYSTEMIC PRIVACY BREACH RE: TIN XXX-XX-2502; REF. 42,695
+VIOLATIONS RULING
+
+To:
+
+<frank.j.bisignano@irs.gov>
+
+Cc:
+
+<rj.aguiar.m+legal@gmail.com>
+
+Bcc:
+Network ID:
+
+d1ca7ec1-cf86-41e3-8671-c31d799a4802@SM25
+
+Received by RMail System:
+
+04/15/2026 02:21:15 AM (UTC), 04/15/2026 02:21:15 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+F78DDD6A23D63C77E2E44526CAF3E7B3AB2915E1
+
+Message Size:
+
+3815052
+
+Features Used:
+File Size:
+
+File Name:
+
+2785889
+
+REPLY-TO-IRS_CP14_of-April-13-2026_by_Reinaldo_J_Aguiar_Marcano.pdf
+
+.
+
+Delivery Audit Trail
+4/15/2026 2:21:16 AM starting irs.gov/{default} 4/15/2026 2:21:16 AM connecting from mta21.r1.rpost.net (0.0.0.0) to emge.irs.
+gov (152.216.7.167) 4/15/2026 2:21:16 AM connected from 192.168.10.11:60263 4/15/2026 2:21:16 AM >>> 220 EMG3.irs.gov
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862508878279817316&simpl=msg-f:186250887827981731…
+
+1/5
+
+4/15/26, 4:36 AM
+
+Gmail - Receipt: LEGAL NOTICE: SYSTEMIC PRIVACY BREACH RE: TIN XXX-XX-2502; REF. 42,695 VIOLATIONS RULING
+
+ESMTP 4/15/2026 2:21:16 AM <<< EHLO mta21.r1.rpost.net 4/15/2026 2:21:17 AM >>> 250-EMG3.irs.gov 4/15/2026 2:21:17
+AM >>> 250-8BITMIME 4/15/2026 2:21:17 AM >>> 250-SIZE 20971520 4/15/2026 2:21:17 AM >>> 250 STARTTLS 4/15/202
+6 2:21:17 AM <<< STARTTLS 4/15/2026 2:21:17 AM >>> 220 Go ahead with TLS 4/15/2026 2:21:17 AM tls:TLSv1.2 connect
+ed with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/15/2026 2:21:17 AM tls:Cert: /C=US/ST=District of Columbia/O=Depart
+ment of Treasury/CN=irs.gov; issuer=/C=CA/O=Entrust Limited/CN=Entrust OV TLS Issuing RSA CA 2; verified=no 4/15/2026
+2:21:17 AM <<< EHLO mta21.r1.rpost.net 4/15/2026 2:21:18 AM >>> 250-EMG3.irs.gov 4/15/2026 2:21:18 AM >>> 250-8BIT
+MIME 4/15/2026 2:21:18 AM >>> 250 SIZE 20971520 4/15/2026 2:21:18 AM <<< MAIL FROM: BODY=8BITMIME 4/15/2026
+2:21:18 AM >>> 250 sender ok 4/15/2026 2:21:18 AM <<< RCPT TO: 4/15/2026 2:21:18 AM >>> 250 recipient ok 4/15/2026
+2:21:18 AM <<< DATA 4/15/2026 2:21:18 AM >>> 354 go ahead 4/15/2026 2:21:23 AM <<< . 4/15/2026 2:21:24 AM >>> 250
+ok: Message 182472416 accepted 4/15/2026 2:21:24 AM <<< QUIT 4/15/2026 2:21:24 AM >>> 221 EMG3.irs.gov 4/15/2026
+2:21:24 AM closed emge.irs.gov (152.216.7.167) in=357 out=3825267 4/15/2026 2:21:24 AM done irs.gov/{default}
+4/15/2026 2:21:56 AM starting gmail.com/{default} 4/15/2026 2:21:56 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.27) 4/15/2026 2:21:56 AM connected from 192.168.10.11:33704 4/15/2026 2:21:56 AM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43ead3dbbfcsi590792f8f.223 - gsmtp 4/15/2026 2:21:56 AM <<< EHLO mta21.r
+1.rpost.net 4/15/2026 2:21:56 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/15/2026 2:21:56 AM >>> 250-SIZE
+157286400 4/15/2026 2:21:56 AM >>> 250-8BITMIME 4/15/2026 2:21:56 AM >>> 250-STARTTLS 4/15/2026 2:21:56 AM >>>
+250-ENHANCEDSTATUSCODES 4/15/2026 2:21:56 AM >>> 250-PIPELINING 4/15/2026 2:21:56 AM >>> 250-CHUNKING 4/
+15/2026 2:21:56 AM >>> 250 SMTPUTF8 4/15/2026 2:21:56 AM <<< STARTTLS 4/15/2026 2:21:56 AM >>> 220 2.0.0 Ready
+to start TLS 4/15/2026 2:21:56 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reuse
+d) 4/15/2026 2:21:56 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/15/2
+026 2:21:56 AM <<< EHLO mta21.r1.rpost.net 4/15/2026 2:21:56 AM >>> 250-mx.google.com at your service, [52.58.131.9]
+4/15/2026 2:21:56 AM >>> 250-SIZE 157286400 4/15/2026 2:21:56 AM >>> 250-8BITMIME 4/15/2026 2:21:56 AM >>> 250-E
+NHANCEDSTATUSCODES 4/15/2026 2:21:56 AM >>> 250-PIPELINING 4/15/2026 2:21:56 AM >>> 250-CHUNKING 4/15/202
+6 2:21:56 AM >>> 250 SMTPUTF8 4/15/2026 2:21:56 AM <<< MAIL FROM: BODY=8BITMIME 4/15/2026 2:21:56 AM >>> 25
+0 2.1.0 OK ffacd0b85a97d-43ead3dbbfcsi590792f8f.223 - gsmtp 4/15/2026 2:21:56 AM <<< RCPT TO: 4/15/2026 2:21:56 AM
+>>> 250 2.1.5 OK ffacd0b85a97d-43ead3dbbfcsi590792f8f.223 - gsmtp 4/15/2026 2:21:56 AM <<< DATA 4/15/2026 2:21:56 A
+M >>> 354 Go ahead ffacd0b85a97d-43ead3dbbfcsi590792f8f.223 - gsmtp 4/15/2026 2:21:57 AM <<< . 4/15/2026 2:21:59 AM
+>>> 250 2.0.0 OK 1776219719 ffacd0b85a97d-43ead3dbbfcsi590792f8f.223 - gsmtp 4/15/2026 2:21:59 AM <<< QUIT 4/15/20
+26 2:21:59 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43ead3dbbfcsi590792f8f.223 - gsmtp 4/15/2026 2:21:59 AM c
+losed gmail-smtp-in.l.google.com (142.251.127.27) in=767 out=3825273 4/15/2026 2:21:59 AM done gmail.com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer emge.irs.gov (152.216.7.167)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.4] [Time Opened: 4/15/2026 2:31:27 AM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/eH8dTuKipdHjFSGrMgVxS5bpY32URotNd3IYucsbMDIx.gif] HTTP_ACCEPT_ENCODI
+NG:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fir
+efox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.4 HTTP_X_FORWARDED_PROTO:htt
+ps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69def87f-0b0dc4a507c8293a65050ef2 Accept-En
+coding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via
+ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.4 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-TraceId: Root=1-69def87f-0b0dc4a507c8293a65050ef2 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.
+rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oat
+v_v2/eH8dTuKipdHjFSGrMgVxS5bpY32URotNd3IYucsbMDIx.gif 192.168.20.36 192.168.20.36 54900 GET /oatv_v2/eH8dTuKi
+pdHjFSGrMgVxS5bpY32URotNd3IYucsbMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/eH8dTuKi
+pdHjFSGrMgVxS5bpY32URotNd3IYucsbMDIx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0)
+Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.4 https 443 Root=1-69def87f-0b0dc4a507c8293a65050ef2
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862508878279817316&simpl=msg-f:186250887827981731…
+
+2/5
+
+4/15/26, 4:36 AM
+
+Gmail - Receipt: LEGAL NOTICE: SYSTEMIC PRIVACY BREACH RE: TIN XXX-XX-2502; REF. 42,695 VIOLATIONS RULING
+
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+10K
+HtmlReceipt.htm
+5047K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Tue, Apr 14, 2026 at 11:23 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*) Delivered (local)
+
+dottie.romo@irs.gov
+
+04/15/2026
+Delivered to Mail relayed;emgc.irs.gov
+02:23:57 AM
+Server
+(152.216.11.139)
+(UTC)
+
+04/15/2026
+02:23:57 AM
+
+rj.aguiar.m+legal@gmail.com
+
+relayed;gmail-smtpDelivered to Mail
+in.l.google.com
+Server
+(142.251.127.27)
+
+04/15/2026
+02:32:08 AM
+
+04/15/2026
+02:32:08 AM
+(UTC)
+
+Opened (local)
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR. <rj.aguiar.m+legal@gmail.com>
+
+Subject:
+
+LEGAL NOTICE: SYSTEMIC PRIVACY BREACH RE: TIN XXX-XX-2502; REF. 42,695
+VIOLATIONS RULING
+
+To:
+
+<dottie.romo@irs.gov>
+
+Cc:
+
+<rj.aguiar.m+legal@gmail.com>
+
+Bcc:
+Network ID:
+
+cec48b1e-f2f3-4628-8a1b-9d45006013d3@SM25
+
+Received by RMail System:
+
+04/15/2026 02:23:45 AM (UTC), 04/15/2026 02:23:45 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+CDAC6F6F3486B4D9B386F1B14744C33B2EB87BE7
+
+Message Size:
+
+3814953
+
+Features Used:
+File Size:
+
+File Name:
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862508878279817316&simpl=msg-f:186250887827981731…
+
+3/5
+
+4/15/26, 4:36 AM
+
+Gmail - Receipt: LEGAL NOTICE: SYSTEMIC PRIVACY BREACH RE: TIN XXX-XX-2502; REF. 42,695 VIOLATIONS RULING
+
+2785889
+
+REPLY-TO-IRS_CP14_of-April-13-2026_by_Reinaldo_J_Aguiar_Marcano.pdf
+
+.
+
+Delivery Audit Trail
+4/15/2026 2:23:46 AM starting irs.gov/{default} 4/15/2026 2:23:46 AM connecting from mta21.r1.rpost.net (0.0.0.0) to emgc.irs.
+gov (152.216.11.139) 4/15/2026 2:23:46 AM connected from 192.168.10.11:35140 4/15/2026 2:23:47 AM >>> 220 EMG4.irs.go
+v ESMTP 4/15/2026 2:23:47 AM <<< EHLO mta21.r1.rpost.net 4/15/2026 2:23:47 AM >>> 250-EMG4.irs.gov 4/15/2026 2:23:
+47 AM >>> 250-8BITMIME 4/15/2026 2:23:47 AM >>> 250-SIZE 20971520 4/15/2026 2:23:47 AM >>> 250 STARTTLS 4/15/2
+026 2:23:47 AM <<< STARTTLS 4/15/2026 2:23:48 AM >>> 220 Go ahead with TLS 4/15/2026 2:23:48 AM tls:TLSv1.2 conne
+cted with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/15/2026 2:23:48 AM tls:Cert: /C=US/ST=District of Columbia/O=Depa
+rtment of Treasury/CN=irs.gov; issuer=/C=CA/O=Entrust Limited/CN=Entrust OV TLS Issuing RSA CA 2; verified=no 4/15/20
+26 2:23:48 AM <<< EHLO mta21.r1.rpost.net 4/15/2026 2:23:48 AM >>> 250-EMG4.irs.gov 4/15/2026 2:23:48 AM >>> 250-8
+BITMIME 4/15/2026 2:23:48 AM >>> 250 SIZE 20971520 4/15/2026 2:23:48 AM <<< MAIL FROM: BODY=8BITMIME 4/15/2
+026 2:23:49 AM >>> 250 sender ok 4/15/2026 2:23:49 AM <<< RCPT TO: 4/15/2026 2:23:49 AM >>> 250 recipient ok 4/15/20
+26 2:23:49 AM <<< DATA 4/15/2026 2:23:49 AM >>> 354 go ahead 4/15/2026 2:23:56 AM <<< . 4/15/2026 2:23:57 AM >>> 2
+50 ok: Message 855950690 accepted 4/15/2026 2:23:57 AM <<< QUIT 4/15/2026 2:23:57 AM >>> 221 EMG4.irs.gov 4/15/20
+26 2:23:57 AM closed emgc.irs.gov (152.216.11.139) in=351 out=3825074 4/15/2026 2:23:57 AM done irs.gov/{default}
+4/15/2026 2:32:05 AM starting gmail.com/{default} 4/15/2026 2:32:05 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.27) 4/15/2026 2:32:05 AM connected from 192.168.10.11:35174 4/15/2026 2:32:05 AM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43ead41eb5esi580358f8f.414 - gsmtp 4/15/2026 2:32:05 AM <<< EHLO mta21.r
+1.rpost.net 4/15/2026 2:32:05 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/15/2026 2:32:05 AM >>> 250-SIZE
+157286400 4/15/2026 2:32:05 AM >>> 250-8BITMIME 4/15/2026 2:32:05 AM >>> 250-STARTTLS 4/15/2026 2:32:05 AM >>>
+250-ENHANCEDSTATUSCODES 4/15/2026 2:32:05 AM >>> 250-PIPELINING 4/15/2026 2:32:05 AM >>> 250-CHUNKING 4/
+15/2026 2:32:05 AM >>> 250 SMTPUTF8 4/15/2026 2:32:05 AM <<< STARTTLS 4/15/2026 2:32:05 AM >>> 220 2.0.0 Ready
+to start TLS 4/15/2026 2:32:05 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reuse
+d) 4/15/2026 2:32:05 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/15/2
+026 2:32:05 AM <<< EHLO mta21.r1.rpost.net 4/15/2026 2:32:05 AM >>> 250-mx.google.com at your service, [52.58.131.9]
+4/15/2026 2:32:05 AM >>> 250-SIZE 157286400 4/15/2026 2:32:05 AM >>> 250-8BITMIME 4/15/2026 2:32:05 AM >>> 250-E
+NHANCEDSTATUSCODES 4/15/2026 2:32:05 AM >>> 250-PIPELINING 4/15/2026 2:32:05 AM >>> 250-CHUNKING 4/15/202
+6 2:32:05 AM >>> 250 SMTPUTF8 4/15/2026 2:32:05 AM <<< MAIL FROM: BODY=8BITMIME 4/15/2026 2:32:05 AM >>> 25
+0 2.1.0 OK ffacd0b85a97d-43ead41eb5esi580358f8f.414 - gsmtp 4/15/2026 2:32:05 AM <<< RCPT TO: 4/15/2026 2:32:05 AM
+>>> 250 2.1.5 OK ffacd0b85a97d-43ead41eb5esi580358f8f.414 - gsmtp 4/15/2026 2:32:05 AM <<< DATA 4/15/2026 2:32:05 A
+M >>> 354 Go ahead ffacd0b85a97d-43ead41eb5esi580358f8f.414 - gsmtp 4/15/2026 2:32:06 AM <<< . 4/15/2026 2:32:08 AM
+>>> 250 2.0.0 OK 1776220328 ffacd0b85a97d-43ead41eb5esi580358f8f.414 - gsmtp 4/15/2026 2:32:08 AM <<< QUIT 4/15/20
+26 2:32:08 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43ead41eb5esi580358f8f.414 - gsmtp 4/15/2026 2:32:08 AM
+closed gmail-smtp-in.l.google.com (142.251.127.27) in=767 out=3825098 4/15/2026 2:32:08 AM done gmail.com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer emgc.irs.gov (152.216.11.139)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+[Quoted text hidden]
+
+2 attachments
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862508878279817316&simpl=msg-f:186250887827981731…
+
+4/5
+
+4/15/26, 4:36 AM
+
+Gmail - Receipt: LEGAL NOTICE: SYSTEMIC PRIVACY BREACH RE: TIN XXX-XX-2502; REF. 42,695 VIOLATIONS RULING
+
+DeliveryReceipt.xml
+8K
+HtmlReceipt.htm
+5039K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862508878279817316&simpl=msg-f:186250887827981731…
+
+5/5
+
+

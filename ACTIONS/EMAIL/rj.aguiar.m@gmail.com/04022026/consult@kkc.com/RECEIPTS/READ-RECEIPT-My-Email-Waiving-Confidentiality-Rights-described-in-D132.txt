@@ -1,0 +1,94 @@
+4/6/26, 1:36 PM
+
+Gmail - Delivered and Opened: RE: Response to KKC Confidential Submission #46044 PRIVILEGED AND CONFIDENTIAL
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: RE: Response to KKC Confidential Submission #46044
+PRIVILEGED AND CONFIDENTIAL
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Mon, Apr 6, 2026 at 11:12 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+RE: Response to KKC Confidential Submission #46044 PRIVILEGED AND
+CONFIDENTIAL
+
+To:
+
+<consult@kkc.com>
+
+Time Sent:
+
+04/02/2026 09:30:43 PM (UTC), 04/02/2026 09:30:43 PM (Local)
+
+Time Opened:
+
+04/06/2026 04:06:58 PM (UTC), 04/06/2026 04:06:58 PM (Local)
+
+Tracking Number:
+
+74F493F879E23962701CBEB9F7CF31B994E2E061
+
+Network ID:
+
+49539315-211e-4fd4-a648-33a89a171d87@SM25
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 208.77.171.65] [Time Opened: 4/6/2026 4:06:58 PM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/LrX2vJn59o99TFacwbjyk81gy6vLCV0Lz5E4gpUVMTAy.gif] HTTP_ACCEPT:image/we
+bp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 HT
+TP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpos
+t.net HTTP_USER_AGENT:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) HT
+TP_X_FORWARDED_FOR:208.77.171.65 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_
+X_AMZN_TRACE_ID:Root=1-69d3da22-7a0f68f534834a6710a879da HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_
+SITE:cross-site HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,image/avif,image/jxl,imag
+e/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate,
+br, zstd Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10
+_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) X-Forwarded-For: 208.77.171.65 X-Forwarded-Proto: https X-Forwarded-P
+ort: 443 X-Amzn-Trace-Id: Root=1-69d3da22-7a0f68f534834a6710a879da sec-fetch-dest: image sec-fetch-site: cross-site secfetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=A
+DMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/LrX2vJn59o99TFacwbjyk81gy6vLCV0Lz5E4gpUVMTAy.gif 1
+92.168.10.14 192.168.10.14 42612 GET /oatv_v2/LrX2vJn59o99TFacwbjyk81gy6vLCV0Lz5E4gpUVMTAy.gif socrmail.r1.rpos
+t.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/LrX2vJn59o99TFacwbjyk81gy6vLCV0Lz5E4gpUVMTAy.gif image/webp,ima
+ge/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, defla
+te, br, zstd en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KH
+TML, like Gecko) 208.77.171.65 https 443 Root=1-69d3da22-7a0f68f534834a6710a879da image cross-site no-cors u=5, i
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861738225080119951&simpl=msg-f:1861738225080119951
+
+1/2
+
+4/6/26, 1:36 PM
+
+Gmail - Delivered and Opened: RE: Response to KKC Confidential Submission #46044 PRIVILEGED AND CONFIDENTIAL
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+36K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861738225080119951&simpl=msg-f:1861738225080119951
+
+2/2
+
+

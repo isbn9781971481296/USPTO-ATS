@@ -1,0 +1,104 @@
+{
+  "summary_of_pdf": "The document is a formal solicitation for legal representation sent via RPost Registered Email by Reinaldo J. Aguiar Marcano, a former Google engineer and Goldman Sachs Managing Director. The sender seeks an IP litigation team to protect a portfolio of 47 pending USPTO patent applications concerning High-Radix architectures and Parametric Encoding. The sender alleges active misappropriation by a state-level adversary, notes a perpetual, no-fee license granted to the US Department of Defense (via Hon. Heidi Shyu), and highlights parallel whistleblower and criminal referrals submitted to the DOJ and SEC regarding the alleged IP theft.",
+  "attorneys_comments": "This communication presents significant tactical and evidentiary red flags typical of pro se or highly adversarial mass-solicitations. Procedurally, the sender is asserting rights based on pending patent applications (19/ series), which currently afford no enforceable injunctive relief or damages under 35 U.S.C. \u00a7 271 until issuance, though provisional rights under 35 U.S.C. \u00a7 154(d) may accrue if the applications publish and actual notice is perfected. The unilateral grant of a perpetual, no-fee license to the DoD severely complicates any potential 28 U.S.C. \u00a7 1498(a) claims against government contractors such as Lockheed Martin, as the government has already been granted authorization and consent. Furthermore, the entanglement of this IP portfolio with SEC whistleblower complaints (TCR 17742-648-351-976) and DOJ criminal referrals introduces massive liability and discovery complexities. The use of registered email to track receipt is a calculated move to establish a record of notice. Extreme caution is advised.",
+  "recommended_next_steps": "Immediately issue a formal, written non-engagement letter to the sender to explicitly disclaim any attorney-client relationship and avoid any implied duties of confidentiality or action. Do not download or review the attached technical files to prevent potential contamination or willful infringement allegations against existing firm clients. If representation is genuinely considered, conduct exhaustive due diligence on USPTO Patent Center to verify the actual status of the 19/ series applications and perform a comprehensive conflict check regarding Lockheed Martin, SpaceX, Viasat, and Eutelsat OneWeb.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "35 U.S.C. \u00a7 271",
+    "DFARS 227.7004",
+    "Patent Infringement",
+    "Trade Secret Misappropriation",
+    "Whistleblower Retaliation",
+    "SEC Material Risk Disclosure",
+    "DOJ Criminal Referral",
+    "Formal Demand Letter",
+    "Evidentiary Proof of Delivery",
+    "Pro Se Solicitation",
+    "Government License Grant"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo J. Aguiar Marcano",
+      "RJ Aguiar",
+      "Brian Cordery",
+      "Heidi Shyu",
+      "Colin McDonald",
+      "Cody Matthew Herche",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "Lockheed Martin",
+      "Lokheed Martin",
+      "Google",
+      "Goldman Sachs",
+      "Eutelsat OneWeb",
+      "SpaceX",
+      "Viasat",
+      "Bristows",
+      "Foley",
+      "Government Accountability Project",
+      "KKC",
+      "RPost"
+    ],
+    "technologies": [
+      "High-Radix architectures",
+      "Parametric Encoding",
+      "CPU",
+      "AI",
+      "InfiniBand networking infrastructures",
+      "Satellite Communication System",
+      "Cellular Communication System",
+      "Symbolic Computation"
+    ],
+    "products": [],
+    "government_offices": [
+      "US Department of Defense",
+      "DoD",
+      "USPTO",
+      "DOJ",
+      "National Fraud Enforcement Division",
+      "Trade Fraud Task Force",
+      "SEC"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Bristows",
+      "Foley"
+    ],
+    "attorneys": [
+      "Brian Cordery",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,265",
+    "19/639,219",
+    "19/639,255"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "940073668",
+  "basefilename": "EMAIL-TO-brian.cordery@bristows.com",
+  "original_filename": "EMAIL-TO-brian.cordery@bristows.com.pdf",
+  "category": "email",
+  "subtype": "sent_email",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "brian.cordery@bristows.com",
+  "primary_recipient_an": "Brian Cordery (Bristows)",
+  "all_recipients": [
+    "brian.cordery@bristows.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "brian.cordery@bristows.com": "Brian Cordery (Bristows)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "19/639,265"
+  ]
+}

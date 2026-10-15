@@ -1,0 +1,308 @@
+4/6/26, 1:04 PM
+
+Gmail - Receipt: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Receipt: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal
+Disclosures
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Mon, Apr 6, 2026 at 11:00 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+ccain@foley.com
+
+Delivered to Mail
+Server
+
+relayed;mxb001a3f01.gslb.
+pphosted.com
+(67.231.153.116)
+
+04/06/2026
+02:00:01 PM
+(UTC)
+
+04/06/2026
+02:00:01 PM
+
+ntsao@foley.com
+
+Delivered and
+Opened
+
+HTTPIP:72.152.84.204
+
+04/06/2026
+02:00:01 PM
+(UTC)
+
+04/06/2026
+02:00:01 PM
+
+04/06/2026
+02:00:29 PM
+
+tmiller@foley.com
+
+Delivered and
+Opened
+
+MUA+HTTPIP:72.152.84.33
+
+04/06/2026
+02:00:04 PM
+(UTC)
+
+04/06/2026
+02:00:04 PM
+
+04/06/2026
+02:00:13 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<ccain@foley.com> <ntsao@foley.com> <tmiller@foley.com>
+
+Cc:
+Bcc:
+Network ID:
+
+7e7872b2-03bc-4ef6-bdfe-3525bea9c6b8@SM26
+
+Received by RMail System:
+
+04/06/2026 01:59:57 PM (UTC), 04/06/2026 01:59:57 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+D61E06D86F8F0C50A5A2F4891AE45D5A2EFD6BA5
+
+Message Size:
+
+3913
+
+Features Used:
+File Size:
+
+File Name:
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861737466123470673&simpl=msg-f:1861737466123470673
+
+1/4
+
+4/6/26, 1:04 PM
+
+Gmail - Receipt: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+.
+
+Delivery Audit Trail
+4/6/2026 1:59:58 PM starting foley.com/{default} 4/6/2026 1:59:58 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxa-001
+a3f01.gslb.pphosted.com (67.231.153.116) 4/6/2026 1:59:58 PM connected from 192.168.10.11:34393 4/6/2026 1:59:58 PM >
+>> 220 mx0b-001a3f01.pphosted.com ESMTP mfa-m0177714 4/6/2026 1:59:58 PM <<< EHLO mta21.r1.rpost.net 4/6/2026 1:
+59:58 PM >>> 250-mx0b-001a3f01.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/6/2026 1:59:5
+8 PM >>> 250-ENHANCEDSTATUSCODES 4/6/2026 1:59:58 PM >>> 250-PIPELINING 4/6/2026 1:59:58 PM >>> 250-8BIT
+MIME 4/6/2026 1:59:58 PM >>> 250-SIZE 157286400 4/6/2026 1:59:58 PM >>> 250 STARTTLS 4/6/2026 1:59:58 PM <<< S
+TARTTLS 4/6/2026 1:59:59 PM >>> 220 2.0.0 Ready to start TLS 4/6/2026 1:59:59 PM tls:TLSv1.2 connected with 256-bit E
+CDHE-RSA-AES256-GCM-SHA384 4/6/2026 1:59:59 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.pphosted.co
+m; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/6/2026 1:59:59 PM
+<<< EHLO mta21.r1.rpost.net 4/6/2026 1:59:59 PM >>> 250-mx0b-001a3f01.pphosted.com Hello mta21.r1.rpost.net [52.58.13
+1.9], pleased to meet you 4/6/2026 1:59:59 PM >>> 250-ENHANCEDSTATUSCODES 4/6/2026 1:59:59 PM >>> 250-PIPELIN
+ING 4/6/2026 1:59:59 PM >>> 250-8BITMIME 4/6/2026 1:59:59 PM >>> 250 SIZE 157286400 4/6/2026 1:59:59 PM <<< MAI
+L FROM: BODY=8BITMIME 4/6/2026 1:59:59 PM >>> 250 2.1.0 Sender ok 4/6/2026 1:59:59 PM <<< RCPT TO: 4/6/2026 1:
+59:59 PM >>> 250 2.1.5 Recipient ok 4/6/2026 1:59:59 PM <<< DATA 4/6/2026 2:00:00 PM >>> 354 Enter mail, end with "."
+on a line by itself 4/6/2026 2:00:00 PM <<< . 4/6/2026 2:00:00 PM >>> 250 2.0.0 4dayeru8cm-1 Message accepted for deliver
+y 4/6/2026 2:00:00 PM <<< QUIT 4/6/2026 2:00:01 PM >>> 221 2.0.0 mx0b-001a3f01.pphosted.com Closing connection 4/6/2
+026 2:00:01 PM closed mxa-001a3f01.gslb.pphosted.com (67.231.153.116) in=635 out=22067 4/6/2026 2:00:01 PM done fole
+y.com/{default}
+4/6/2026 1:59:58 PM starting foley.com/{default} 4/6/2026 2:00:01 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxb-001
+a3f01.gslb.pphosted.com (67.231.153.116) 4/6/2026 2:00:01 PM connected from 192.168.10.11:55160 4/6/2026 2:00:01 PM >
+>> 220 mx0b-001a3f01.pphosted.com ESMTP mfa-m0177714 4/6/2026 2:00:01 PM <<< EHLO mta21.r1.rpost.net 4/6/2026 2:
+00:01 PM >>> 250-mx0b-001a3f01.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/6/2026 2:00:0
+1 PM >>> 250-ENHANCEDSTATUSCODES 4/6/2026 2:00:01 PM >>> 250-PIPELINING 4/6/2026 2:00:01 PM >>> 250-8BIT
+MIME 4/6/2026 2:00:01 PM >>> 250-SIZE 157286400 4/6/2026 2:00:01 PM >>> 250 STARTTLS 4/6/2026 2:00:01 PM <<< S
+TARTTLS 4/6/2026 2:00:01 PM >>> 220 2.0.0 Ready to start TLS 4/6/2026 2:00:02 PM tls:TLSv1.2 connected with 256-bit E
+CDHE-RSA-AES256-GCM-SHA384 4/6/2026 2:00:02 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.pphosted.co
+m; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/6/2026 2:00:02 PM
+<<< EHLO mta21.r1.rpost.net 4/6/2026 2:00:02 PM >>> 250-mx0b-001a3f01.pphosted.com Hello mta21.r1.rpost.net [52.58.13
+1.9], pleased to meet you 4/6/2026 2:00:02 PM >>> 250-ENHANCEDSTATUSCODES 4/6/2026 2:00:02 PM >>> 250-PIPELIN
+ING 4/6/2026 2:00:02 PM >>> 250-8BITMIME 4/6/2026 2:00:02 PM >>> 250 SIZE 157286400 4/6/2026 2:00:02 PM <<< MAI
+L FROM: BODY=8BITMIME 4/6/2026 2:00:02 PM >>> 250 2.1.0 Sender ok 4/6/2026 2:00:02 PM <<< RCPT TO: 4/6/2026 2:
+00:02 PM >>> 250 2.1.5 Recipient ok 4/6/2026 2:00:02 PM <<< DATA 4/6/2026 2:00:02 PM >>> 354 Enter mail, end with "."
+on a line by itself 4/6/2026 2:00:02 PM <<< . 4/6/2026 2:00:04 PM >>> 250 2.0.0 4dayeru8cq-1 Message accepted for deliver
+y 4/6/2026 2:00:04 PM <<< QUIT 4/6/2026 2:00:04 PM >>> 221 2.0.0 mx0b-001a3f01.pphosted.com Closing connection 4/6/2
+026 2:00:04 PM closed mxb-001a3f01.gslb.pphosted.com (67.231.153.116) in=635 out=22073 4/6/2026 2:00:04 PM done fole
+y.com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-001a3f01.gslb.pphosted.com (67.231.153.116)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxa-001a3f01.gslb.pphosted.com (67.231.153.116)
+[IP Address: 72.152.84.204] [Time Opened: 4/6/2026 2:00:29 PM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v3/mVXFH4cxoghy4AuhfLnapqfrHrdW5y52eSJwVahSMTAy.gif] HTTP_ACCEPT:image/a
+vif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACC
+EPT_LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=3GZvbjsjwaEzFJtJ3np8TeB4I8Pdh6IIbVZ99ybPkw+LTmdg7
+NS4dlzOn+3bTAZyAIrFAlLNEhzd9TyWlGrau4rUEhtAfn5+GJK63xI+mK0MloJA6/LgZVq50ARVqz/I9hf9IgTJ3eeLbjP3KODO4bk
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861737466123470673&simpl=msg-f:1861737466123470673
+
+2/4
+
+4/6/26, 1:04 PM
+
+Gmail - Receipt: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+NnkiknbcbTwa3iiGvuo23; AWSALBTGCORS=3GZvbjsjwaEzFJtJ3np8TeB4I8Pdh6IIbVZ99ybPkw+LTmdg7NS4dlzOn+3bTAZy
+AIrFAlLNEhzd9TyWlGrau4rUEhtAfn5+GJK63xI+mK0MloJA6/LgZVq50ARVqz/I9hf9IgTJ3eeLbjP3KODO4bkNnkiknbcbTwa3iiG
+vuo23; AWSALB=dsqIXypUgVQEKtSGC9D0SvBpXuMMaZnQOrAfjx5ZRmP4IFjIoVyVhPejHYgnwmVrwcKKsotladhPy7hQQE
+WZxZCKOqTQUqcyixXhMWlU7lrFo2GFtOW9CTeKp6nD; AWSALBCORS=dsqIXypUgVQEKtSGC9D0SvBpXuMMaZnQOrAfjx
+5ZRmP4IFjIoVyVhPejHYgnwmVrwcKKsotladhPy7hQQEWZxZCKOqTQUqcyixXhMWlU7lrFo2GFtOW9CTeKp6nD HTTP_HOS
+T:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0;
+Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36 HTTP_X_FORWARDED_FOR:7
+2.152.84.204 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=
+1-69d3bc7d-1ac7dfc505a989c342881114 HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google Chrome";v="142", "Chromium";v
+="142" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_UA_FULL_VERSION:"142.0.744
+4.163" HTTP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="142.0.7444.163" HTTP_SEC_CH_UA_MOBILE:?0 HTTP_S
+EC_CH_UA_MODEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:Windows HTTP_SEC_CH_UA_PLATFORM_VERSION:1
+5.0.0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image HTTP_PR
+IORITY:u=1, i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzip, deflate, b
+r, zstd Accept-Language: en-US,en;q=0.9 Cookie: AWSALBTG=3GZvbjsjwaEzFJtJ3np8TeB4I8Pdh6IIbVZ99ybPkw+LTmdg7N
+S4dlzOn+3bTAZyAIrFAlLNEhzd9TyWlGrau4rUEhtAfn5+GJK63xI+mK0MloJA6/LgZVq50ARVqz/I9hf9IgTJ3eeLbjP3KODO4bkN
+nkiknbcbTwa3iiGvuo23; AWSALBTGCORS=3GZvbjsjwaEzFJtJ3np8TeB4I8Pdh6IIbVZ99ybPkw+LTmdg7NS4dlzOn+3bTAZyAI
+rFAlLNEhzd9TyWlGrau4rUEhtAfn5+GJK63xI+mK0MloJA6/LgZVq50ARVqz/I9hf9IgTJ3eeLbjP3KODO4bkNnkiknbcbTwa3iiGvu
+o23; AWSALB=dsqIXypUgVQEKtSGC9D0SvBpXuMMaZnQOrAfjx5ZRmP4IFjIoVyVhPejHYgnwmVrwcKKsotladhPy7hQQEW
+ZxZCKOqTQUqcyixXhMWlU7lrFo2GFtOW9CTeKp6nD; AWSALBCORS=dsqIXypUgVQEKtSGC9D0SvBpXuMMaZnQOrAfjx5
+ZRmP4IFjIoVyVhPejHYgnwmVrwcKKsotladhPy7hQQEWZxZCKOqTQUqcyixXhMWlU7lrFo2GFtOW9CTeKp6nD Host: socrma
+il.r1.rpost.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53
+7.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36 X-Forwarded-For: 72.152.84.204 X-Forwarded-Proto: https XForwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d3bc7d-1ac7dfc505a989c342881114 sec-ch-ua: "Not;A Brand";v="99", "Goo
+gle Chrome";v="142", "Chromium";v="142" sec-ch-ua-arch: x64 sec-ch-ua-bitness: 64 sec-ch-ua-full-version: "142.0.7444.163"
+sec-ch-ua-full-version-list: "Chrome";v="142.0.7444.163" sec-ch-ua-mobile: ?0 sec-ch-ua-model: Surface Pro sec-ch-ua-platfor
+m: Windows sec-ch-ua-platform-version: 15.0.0 sec-fetch-site: same-site sec-fetch-mode: no-cors sec-fetch-dest: image priorit
+y: u=1, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /L
+M/W3SVC/12 192.168.20.30 /oatv_v3/mVXFH4cxoghy4AuhfLnapqfrHrdW5y52eSJwVahSMTAy.gif 192.168.10.14 192.168.10.
+14 59726 GET /oatv_v3/mVXFH4cxoghy4AuhfLnapqfrHrdW5y52eSJwVahSMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Mic
+rosoft-IIS/10.0 /oatv_v3/mVXFH4cxoghy4AuhfLnapqfrHrdW5y52eSJwVahSMTAy.gif image/avif,image/webp,image/apng,imag
+e/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 AWSALBTG=3GZvbjsjwaEzFJtJ3np8TeB4I8Pdh6IIbVZ99y
+bPkw+LTmdg7NS4dlzOn+3bTAZyAIrFAlLNEhzd9TyWlGrau4rUEhtAfn5+GJK63xI+mK0MloJA6/LgZVq50ARVqz/I9hf9IgTJ3ee
+LbjP3KODO4bkNnkiknbcbTwa3iiGvuo23; AWSALBTGCORS=3GZvbjsjwaEzFJtJ3np8TeB4I8Pdh6IIbVZ99ybPkw+LTmdg7NS4
+dlzOn+3bTAZyAIrFAlLNEhzd9TyWlGrau4rUEhtAfn5+GJK63xI+mK0MloJA6/LgZVq50ARVqz/I9hf9IgTJ3eeLbjP3KODO4bkNnk
+iknbcbTwa3iiGvuo23; AWSALB=dsqIXypUgVQEKtSGC9D0SvBpXuMMaZnQOrAfjx5ZRmP4IFjIoVyVhPejHYgnwmVrwcKKsotl
+adhPy7hQQEWZxZCKOqTQUqcyixXhMWlU7lrFo2GFtOW9CTeKp6nD; AWSALBCORS=dsqIXypUgVQEKtSGC9D0SvBpXuM
+MaZnQOrAfjx5ZRmP4IFjIoVyVhPejHYgnwmVrwcKKsotladhPy7hQQEWZxZCKOqTQUqcyixXhMWlU7lrFo2GFtOW9CTeKp6n
+D socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
+L, like Gecko) Chrome/142.0.7444.163 Safari/537.36 72.152.84.204 https 443 Root=1-69d3bc7d-1ac7dfc505a989c342881114
+"Not;A Brand";v="99", "Google Chrome";v="142", "Chromium";v="142" x64 64 "142.0.7444.163" "Chrome";v="142.0.7444.163"
+?0 Surface Pro Windows 15.0.0 same-site no-cors image u=1, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-001a3f01.gslb.pphosted.com (67.231.153.116)
+[IP Address: 72.152.84.33] [Time Opened: 4/6/2026 2:00:13 PM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/xfBw0ALDhnBIVkR4JU4dtBfz1kZzgChgNY0aCpdbMTAy.gif] HTTP_ACCEPT:image/*
+HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
+TML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:72.152.84.33 HTTP_X_FORWARDED_PRO
+TO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d3bc6d-386cdd9a4ce03397373f542b Ac
+cept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
+L, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 72.152.84.33 X-Forwarded-Proto: https X-Forwarded-Port: 44
+3 X-Amzn-Trace-Id: Root=1-69d3bc6d-386cdd9a4ce03397373f542b /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN
+1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/xfBw0ALDhnBIVkR4JU4dtBfz
+1kZzgChgNY0aCpdbMTAy.gif 192.168.20.111 192.168.20.111 11670 GET /oatv_v2/xfBw0ALDhnBIVkR4JU4dtBfz1kZzgChgNY
+0aCpdbMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/xfBw0ALDhnBIVkR4JU4dtBfz1kZzgChgNY
+0aCpdbMTAy.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+Gecko) Chrome/109.0.0.0 Safari/537.36 72.152.84.33 https 443 Root=1-69d3bc6d-386cdd9a4ce03397373f542b
+The information contained in this message, including but not limited to any attachments, may be confidential or protected by t
+he attorney-client or work-product privileges. It is not intended for transmission to, or receipt by, any unauthorized persons. If y
+ou have received this message in error, please (i) do not read it, (ii) reply to the sender that you received the message in error,
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861737466123470673&simpl=msg-f:1861737466123470673
+
+3/4
+
+4/6/26, 1:04 PM
+
+Gmail - Receipt: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+and (iii) erase or destroy the message and any attachments or copies. Any disclosure, copying, distribution or reliance on the
+contents of this message or its attachments is strictly prohibited, and may be unlawful. Unintended transmission does not con
+stitute waiver of the attorney-client privilege or any other privilege. Legal advice contained in the preceding message is solely f
+or the benefit of the Foley & Lardner LLP client(s) represented by the Firm in the particular matter that is the subject of this me
+ssage, and may not be relied upon by any other party. Unless expressly stated otherwise, nothing contained in this message s
+hould be construed as a digital or electronic signature, nor is it intended to reflect an intention to make an agreement by electr
+onic means.
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+18K
+HtmlReceipt.htm
+126K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861737466123470673&simpl=msg-f:1861737466123470673
+
+4/4
+
+

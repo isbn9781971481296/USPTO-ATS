@@ -1,0 +1,35 @@
+{
+  "serving_key": "1782541265",
+  "canonical_key": "ellen.patterson@wellsfargo.com",
+  "display_name": "Ellen Patterson (Wells Fargo & Company)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Wells Fargo & Company",
+  "full_name": "Ellen Patterson",
+  "pronouns": null,
+  "title": "General Counsel",
+  "organization": "Wells Fargo & Company",
+  "domain": "wellsfargo.com",
+  "addresses": {
+    "mailing_address": "420 Montgomery Street, San Francisco, CA 94104",
+    "business_address": "420 Montgomery Street, San Francisco, CA 94104",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "ellen.patterson@wellsfargo.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "1-415-396-8100"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

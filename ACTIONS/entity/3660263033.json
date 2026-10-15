@@ -1,0 +1,35 @@
+{
+  "serving_key": "3660263033",
+  "canonical_key": "jlynch@citgo.com",
+  "display_name": "Jack Lynch (CITGO Petroleum Corporation)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "CITGO Petroleum Corporation",
+  "full_name": "Jack Lynch",
+  "pronouns": null,
+  "title": "Vice President, Legal and Government Affairs",
+  "organization": "CITGO Petroleum Corporation",
+  "domain": "citgo.com",
+  "addresses": {
+    "mailing_address": "1293 Eldridge Parkway, Houston, TX 77077",
+    "business_address": "1293 Eldridge Parkway, Houston, TX 77077",
+    "legal_service_address": "CT Corporation System, 1999 Bryan St., Ste. 900, Dallas, TX 75201"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1999 Bryan St., Ste. 900, Dallas, TX 75201",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "jlynch@citgo.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-832-486-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

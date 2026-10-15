@@ -1,0 +1,36 @@
+{
+  "serving_key": "715943154",
+  "canonical_key": "nicolette.henfrey@ihg.com",
+  "display_name": "Nicolette Henfrey (InterContinental Hotels Group PLC)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "InterContinental Hotels Group PLC",
+  "full_name": "Nicolette Henfrey",
+  "pronouns": null,
+  "title": "Executive Vice President, General Counsel & Company Secretary",
+  "organization": "InterContinental Hotels Group PLC",
+  "domain": "ihg.com",
+  "addresses": {
+    "mailing_address": "1 Windsor Dials, Arthur Road, Windsor, Berkshire SL4 1RS, United Kingdom",
+    "business_address": "1 Windsor Dials, Arthur Road, Windsor, Berkshire SL4 1RS, United Kingdom",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801, USA"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801, USA",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "nicolette.henfrey@ihg.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+44 1895 512000",
+      "+1 770 604 2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

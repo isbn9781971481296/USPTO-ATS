@@ -1,0 +1,37 @@
+{
+  "serving_key": "3290885659",
+  "canonical_key": "liaolin@icbc.com.cn",
+  "display_name": "Liao Lin (Industrial and Commercial Bank of China)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Industrial and Commercial Bank of China Limited",
+  "full_name": "Liao Lin",
+  "pronouns": "He/Him",
+  "title": "Chairman of the Board of Directors",
+  "organization": "Industrial and Commercial Bank of China Limited",
+  "domain": "icbc.com.cn",
+  "addresses": {
+    "mailing_address": "No. 55 Fuxingmennei Avenue, Xicheng District, Beijing 100140, PRC",
+    "business_address": "No. 55 Fuxingmennei Avenue, Xicheng District, Beijing 100140, PRC",
+    "legal_service_address": "No. 55 Fuxingmennei Avenue, Xicheng District, Beijing 100140, PRC"
+  },
+  "registered_agent": {
+    "name": "Legal Affairs Department, ICBC",
+    "address": "No. 55 Fuxingmennei Avenue, Xicheng District, Beijing 100140, PRC",
+    "jurisdiction": "People's Republic of China"
+  },
+  "contact": {
+    "primary_email": "liaolin@icbc.com.cn",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+86 10 6610 8608"
+    ],
+    "faxes": [
+      "+86 10 6610 7571"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

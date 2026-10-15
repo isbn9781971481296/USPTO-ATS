@@ -1,0 +1,37 @@
+{
+  "serving_key": "2431405874",
+  "canonical_key": "comment@ag.iowa.gov",
+  "display_name": "Iowa Attorney General's Office",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Iowa Attorney General's Office",
+  "full_name": "Office of the Attorney General of Iowa",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "Iowa Attorney General's Office",
+  "domain": "ag.iowa.gov",
+  "addresses": {
+    "mailing_address": "Hoover State Office Building, 1305 E. Walnut Street, Des Moines, IA 50319",
+    "business_address": "Hoover State Office Building, 1305 E. Walnut Street, Des Moines, IA 50319",
+    "legal_service_address": "Hoover State Office Building, 1305 E. Walnut Street, Des Moines, IA 50319"
+  },
+  "registered_agent": {
+    "name": "Attorney General of Iowa",
+    "address": "Hoover State Office Building, 1305 E. Walnut Street, Des Moines, IA 50319",
+    "jurisdiction": "Iowa"
+  },
+  "contact": {
+    "primary_email": "comment@ag.iowa.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "515-281-5164"
+    ],
+    "faxes": [
+      "515-281-4209"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

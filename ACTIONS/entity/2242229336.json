@@ -1,0 +1,50 @@
+{
+  "serving_key": "2242229336",
+  "canonical_key": "ayang@gibsondunn.com",
+  "display_name": "A. Yang (Gibson, Dunn & Crutcher LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Gibson, Dunn & Crutcher LLP",
+  "full_name": "A. Yang",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Gibson, Dunn & Crutcher LLP",
+  "domain": "gibsondunn.com",
+  "addresses": {
+    "mailing_address": "333 South Grand Avenue, Los Angeles, CA 90071",
+    "business_address": "333 South Grand Avenue, Los Angeles, CA 90071",
+    "legal_service_address": "330 N Brand Blvd, Glendale, CA 91203"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "330 N Brand Blvd, Glendale, CA 91203",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "ayang@gibsondunn.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 213-229-7000"
+    ],
+    "faxes": [
+      "+1 213-229-7520"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2058113979",
+      "canonical_key": "srosenberg@gibsondunn.com",
+      "display_name": "S. Rosenberg",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3826643565",
+      "canonical_key": "brosenthal@gibsondunn.com",
+      "display_name": "B. Rosenthal",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

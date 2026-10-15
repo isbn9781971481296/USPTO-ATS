@@ -1,0 +1,35 @@
+{
+  "serving_key": "1910166025",
+  "canonical_key": "matthias.scheifele@hengeler.com",
+  "display_name": "Dr. Matthias Scheifele (Hengeler Mueller)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Hengeler Mueller",
+  "full_name": "Dr. Matthias Scheifele",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Hengeler Mueller",
+  "domain": "hengeler.com",
+  "addresses": {
+    "mailing_address": "Leopoldstra\u00dfe 8-10, 80802 Munich, Germany",
+    "business_address": "Leopoldstra\u00dfe 8-10, 80802 Munich, Germany",
+    "legal_service_address": "Bockenheimer Landstra\u00dfe 24, 60323 Frankfurt am Main, Germany"
+  },
+  "registered_agent": {
+    "name": "Hengeler Mueller Partnerschaft von Rechtsanw\u00e4lten mbB",
+    "address": "Bockenheimer Landstra\u00dfe 24, 60323 Frankfurt am Main, Germany",
+    "jurisdiction": "Germany"
+  },
+  "contact": {
+    "primary_email": "matthias.scheifele@hengeler.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+49 89 3833880"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

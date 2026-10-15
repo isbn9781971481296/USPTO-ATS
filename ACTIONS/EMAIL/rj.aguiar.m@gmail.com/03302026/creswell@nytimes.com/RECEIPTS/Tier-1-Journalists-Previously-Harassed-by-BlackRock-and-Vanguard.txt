@@ -1,0 +1,570 @@
+3/30/26, 9:35 PM
+
+Gmail - Receipt: R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica / Tech Lobby (Delivery Failure)
+
+Reinaldo Aguiar <kolmobilev6@gmail.com>
+
+Receipt: R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica /
+Tech Lobby (Delivery Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: kolmobilev6@gmail.com
+
+Mon, Mar 30, 2026 at 9:20 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+ryan.mac@nytimes.com
+
+Status
+
+Details
+
+Delivered and
+HTTP-IP:66.249.84.170
+Opened
+
+Delivered
+
+Delivered
+
+(UTC*)
+
+(local)
+
+03/30/2026
+11:50:52 PM
+(UTC)
+
+03/30/2026
+11:50:52 PM
+
+llopez@businessinsider.com
+
+Delivery
+Failed
+
+The email account that you
+tried to reach does not
+exist. Please try doublechecking the recipient's
+email address for typos or ***
+unnecessary spaces. For
+more information, go to
+https://support.google.com/
+mail/?p=NoSuchUser
+
+sarah@pandodaily.com
+
+Delivery
+Failed
+
+4.4.1 (no answer from host) ***
+
+jane_mayer@newyorker.com
+
+Delivered and
+HTTP-IP:66.102.8.73
+Opened
+
+lauren.weber@washpost.com
+
+Delivered to
+Mail Server
+
+creswell@nytimes.com
+
+Delivered and
+HTTP-IP:100.30.216.196
+Opened
+
+carole.cadwalladr@theguardian. Delivered to
+com
+Mail Server
+
+***
+
+***
+
+03/30/2026
+11:50:50 PM
+(UTC)
+
+03/30/2026
+11:50:50 PM
+
+relayed;mxa-001a3c01.gslb. 03/30/2026
+pphosted.com
+11:50:51 PM
+(67.231.148.195)
+(UTC)
+
+03/30/2026
+11:50:51 PM
+
+03/30/2026
+11:50:52 PM
+(UTC)
+
+03/30/2026
+11:50:52 PM
+
+03/30/2026
+relayed;aspmx.l.google.com
+11:50:52 PM
+(142.251.127.26)
+(UTC)
+
+03/30/2026
+11:50:52 PM
+
+Opened (local)
+03/31/2026
+12:01:13 AM
+
+03/30/2026
+11:52:08 PM
+
+03/30/2026
+11:51:06 PM
+
+kashmir.hill@nytimes.com
+
+Delivered and
+HTTP-IP:54.209.218.52
+Opened
+
+03/30/2026
+11:50:50 PM
+(UTC)
+
+03/30/2026
+11:50:50 PM
+
+03/30/2026
+11:51:06 PM
+
+kolmobilev6@gmail.com
+
+Delivered and
+HTTP-IP:74.125.214.74
+Opened
+
+03/31/2026
+12:00:13 AM
+(UTC)
+
+03/31/2026
+12:00:13 AM
+
+03/31/2026
+12:00:38 AM
+
+https://mail.google.com/mail/u/0/?ik=0cb52818b4&view=pt&search=all&permthid=thread-f:1861142294374319382&simpl=msg-f:1861142294374319382
+
+1/7
+
+3/30/26, 9:35 PM
+
+Gmail - Receipt: R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica / Tech Lobby (Delivery Failure)
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+Reinaldo J. Aguiar Marcano <kolmobilev6@gmail.com>
+
+Subject:
+
+R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica / Tech
+Lobby
+
+To:
+
+<ryan.mac@nytimes.com> <llopez@businessinsider.com> <sarah@pandodaily.com>
+<jane_mayer@newyorker.com> <lauren.weber@washpost.com>
+<creswell@nytimes.com> <carole.cadwalladr@theguardian.com>
+<kashmir.hill@nytimes.com>
+
+Cc:
+
+<kolmobilev6@gmail.com>
+
+Bcc:
+Network ID:
+
+19501b0c-12a2-43e1-97ae-c80f44445856@SM25
+
+Received by RMail System:
+
+03/30/2026 11:50:47 PM (UTC), 03/30/2026 11:50:47 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+9C8CB4D968910EBABF7B24FE57936F0CC49A25DE
+
+Message Size:
+
+3652303
+
+Features Used:
+File Size:
+
+File Name:
+
+2408460
+
+USPTO-Application-19_632_333__Attributed-Control-Aggregation-System.pdf
+
+257827
+
+The-MARCELO-Act-of-2026.pdf
+
+.
+
+Delivery Audit Trail
+3/30/2026 11:50:45 PM starting nytimes.com/{default} 3/30/2026 11:50:45 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+aspmx.l.google.com (142.251.127.26) 3/30/2026 11:50:45 PM connected from 192.168.10.11:48644 3/30/2026 11:50:45 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43cf26daf0fsi18187077f8f.492 - gsmtp 3/30/2026 11:50:45 PM <<< EHLO mta2
+1.r1.rpost.net 3/30/2026 11:50:45 PM >>> 250-mx.google.com at your service, [52.58.131.9] 3/30/2026 11:50:45 PM >>> 250SIZE 157286400 3/30/2026 11:50:45 PM >>> 250-8BITMIME 3/30/2026 11:50:45 PM >>> 250-STARTTLS 3/30/2026 11:50:45
+PM >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:45 PM >>> 250-PIPELINING 3/30/2026 11:50:45 PM >>> 250-CH
+UNKING 3/30/2026 11:50:45 PM >>> 250 SMTPUTF8 3/30/2026 11:50:45 PM <<< STARTTLS 3/30/2026 11:50:45 PM >>> 2
+20 2.0.0 Ready to start TLS 3/30/2026 11:50:45 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA2
+56 3/30/2026 11:50:45 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 3/30/
+2026 11:50:45 PM <<< EHLO mta21.r1.rpost.net 3/30/2026 11:50:45 PM >>> 250-mx.google.com at your service, [52.58.131.
+9] 3/30/2026 11:50:45 PM >>> 250-SIZE 157286400 3/30/2026 11:50:45 PM >>> 250-8BITMIME 3/30/2026 11:50:45 PM >>>
+250-ENHANCEDSTATUSCODES 3/30/2026 11:50:45 PM >>> 250-PIPELINING 3/30/2026 11:50:45 PM >>> 250-CHUNKING
+3/30/2026 11:50:45 PM >>> 250 SMTPUTF8 3/30/2026 11:50:45 PM <<< MAIL FROM: BODY=8BITMIME 3/30/2026 11:50:4
+5 PM >>> 250 2.1.0 OK ffacd0b85a97d-43cf26daf0fsi18187077f8f.492 - gsmtp 3/30/2026 11:50:45 PM <<< RCPT TO: 3/30/2
+026 11:50:45 PM >>> 250 2.1.5 OK ffacd0b85a97d-43cf26daf0fsi18187077f8f.492 - gsmtp 3/30/2026 11:50:45 PM <<< DATA
+3/30/2026 11:50:45 PM >>> 354 Go ahead ffacd0b85a97d-43cf26daf0fsi18187077f8f.492 - gsmtp 3/30/2026 11:50:46 PM <<<
+. 3/30/2026 11:50:47 PM >>> 250 2.0.0 OK 1774914647 ffacd0b85a97d-43cf26daf0fsi18187077f8f.492 - gsmtp 3/30/2026 11:5
+0:47 PM <<< QUIT 3/30/2026 11:50:47 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43cf26daf0fsi18187077f8f.492 gsmtp 3/30/2026 11:50:47 PM closed aspmx.l.google.com (142.251.127.26) in=779 out=3662651 3/30/2026 11:50:47 PM done
+nytimes.com/{default}
+3/30/2026 11:50:45 PM starting businessinsider.com/{default} 3/30/2026 11:50:45 PM connecting from mta21.r1.rpost.net (0.0.
+0.0) to aspmx.l.google.com (142.251.127.26) 3/30/2026 11:50:45 PM connected from 192.168.10.11:32787 3/30/2026 11:50:45
+PM >>> 220 mx.google.com ESMTP 5b1f17b1804b1-48722d4daf4si357840795e9.19 - gsmtp 3/30/2026 11:50:45 PM <<< EH
+LO mta21.r1.rpost.net 3/30/2026 11:50:45 PM >>> 250-mx.google.com at your service, [52.58.131.9] 3/30/2026 11:50:45 PM
+>>> 250-SIZE 157286400 3/30/2026 11:50:45 PM >>> 250-8BITMIME 3/30/2026 11:50:45 PM >>> 250-STARTTLS 3/30/2026
+11:50:45 PM >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:45 PM >>> 250-PIPELINING 3/30/2026 11:50:45 PM >>
+> 250-CHUNKING 3/30/2026 11:50:45 PM >>> 250 SMTPUTF8 3/30/2026 11:50:45 PM <<< STARTTLS 3/30/2026 11:50:45 P
+M >>> 220 2.0.0 Ready to start TLS 3/30/2026 11:50:45 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GC
+M-SHA256 3/30/2026 11:50:45 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=
+no 3/30/2026 11:50:45 PM <<< EHLO mta21.r1.rpost.net 3/30/2026 11:50:45 PM >>> 250-mx.google.com at your service, [5
+https://mail.google.com/mail/u/0/?ik=0cb52818b4&view=pt&search=all&permthid=thread-f:1861142294374319382&simpl=msg-f:1861142294374319382
+
+2/7
+
+3/30/26, 9:35 PM
+
+Gmail - Receipt: R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica / Tech Lobby (Delivery Failure)
+
+2.58.131.9] 3/30/2026 11:50:45 PM >>> 250-SIZE 157286400 3/30/2026 11:50:45 PM >>> 250-8BITMIME 3/30/2026 11:50:45
+PM >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:45 PM >>> 250-PIPELINING 3/30/2026 11:50:45 PM >>> 250-CH
+UNKING 3/30/2026 11:50:45 PM >>> 250 SMTPUTF8 3/30/2026 11:50:45 PM <<< MAIL FROM: BODY=8BITMIME 3/30/202
+6 11:50:45 PM >>> 250 2.1.0 OK 5b1f17b1804b1-48722d4daf4si357840795e9.19 - gsmtp 3/30/2026 11:50:45 PM <<< RCPT
+TO: 3/30/2026 11:50:45 PM >>> 250 2.1.5 OK 5b1f17b1804b1-48722d4daf4si357840795e9.19 - gsmtp 3/30/2026 11:50:45 PM
+<<< DATA 3/30/2026 11:50:45 PM >>> 354 Go ahead 5b1f17b1804b1-48722d4daf4si357840795e9.19 - gsmtp 3/30/2026 11:5
+0:46 PM <<< . 3/30/2026 11:50:47 PM >>> 250 2.0.0 OK 1774914647 5b1f17b1804b1-48722d4daf4si357840795e9.19 - gsmtp
+3/30/2026 11:50:47 PM <<< QUIT 3/30/2026 11:50:47 PM >>> 221 2.0.0 closing connection 5b1f17b1804b1-48722d4daf4si35
+7840795e9.19 - gsmtp 3/30/2026 11:50:47 PM closed aspmx.l.google.com (142.251.127.26) in=773 out=3662669 3/30/2026 1
+1:50:47 PM done businessinsider.com/{default}
+3/30/2026 11:50:45 PM starting newyorker.com/{default} 3/30/2026 11:50:45 PM connecting from mta21.r1.rpost.net (0.0.0.0) t
+o aspmx.l.google.com (142.251.127.26) 3/30/2026 11:50:45 PM connected from 192.168.10.11:60357 3/30/2026 11:50:46 PM
+>>> 220 mx.google.com ESMTP ffacd0b85a97d-43cf258d905si18778123f8f.254 - gsmtp 3/30/2026 11:50:46 PM <<< EHLO
+mta21.r1.rpost.net 3/30/2026 11:50:46 PM >>> 250-mx.google.com at your service, [52.58.131.9] 3/30/2026 11:50:46 PM >>>
+250-SIZE 157286400 3/30/2026 11:50:46 PM >>> 250-8BITMIME 3/30/2026 11:50:46 PM >>> 250-STARTTLS 3/30/2026 11:5
+0:46 PM >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:46 PM >>> 250-PIPELINING 3/30/2026 11:50:46 PM >>> 25
+0-CHUNKING 3/30/2026 11:50:46 PM >>> 250 SMTPUTF8 3/30/2026 11:50:46 PM <<< STARTTLS 3/30/2026 11:50:46 PM >
+>> 220 2.0.0 Ready to start TLS 3/30/2026 11:50:46 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-S
+HA256 3/30/2026 11:50:46 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+3/30/2026 11:50:46 PM <<< EHLO mta21.r1.rpost.net 3/30/2026 11:50:46 PM >>> 250-mx.google.com at your service, [52.5
+8.131.9] 3/30/2026 11:50:46 PM >>> 250-SIZE 157286400 3/30/2026 11:50:46 PM >>> 250-8BITMIME 3/30/2026 11:50:46 P
+M >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:46 PM >>> 250-PIPELINING 3/30/2026 11:50:46 PM >>> 250-CHU
+NKING 3/30/2026 11:50:46 PM >>> 250 SMTPUTF8 3/30/2026 11:50:46 PM <<< MAIL FROM: BODY=8BITMIME 3/30/2026
+11:50:46 PM >>> 250 2.1.0 OK ffacd0b85a97d-43cf258d905si18778123f8f.254 - gsmtp 3/30/2026 11:50:46 PM <<< RCPT T
+O: 3/30/2026 11:50:46 PM >>> 250 2.1.5 OK ffacd0b85a97d-43cf258d905si18778123f8f.254 - gsmtp 3/30/2026 11:50:46 PM <
+<< DATA 3/30/2026 11:50:46 PM >>> 354 Go ahead ffacd0b85a97d-43cf258d905si18778123f8f.254 - gsmtp 3/30/2026 11:50:4
+6 PM <<< . 3/30/2026 11:50:48 PM >>> 250 2.0.0 OK 1774914648 ffacd0b85a97d-43cf258d905si18778123f8f.254 - gsmtp 3/3
+0/2026 11:50:48 PM <<< QUIT 3/30/2026 11:50:48 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43cf258d905si18778
+123f8f.254 - gsmtp 3/30/2026 11:50:48 PM closed aspmx.l.google.com (142.251.127.26) in=779 out=3662663 3/30/2026 11:5
+0:48 PM done newyorker.com/{default}
+3/30/2026 11:50:46 PM starting washpost.com/{default} 3/30/2026 11:50:46 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+mxa-001a3c01.gslb.pphosted.com (67.231.148.195) 3/30/2026 11:50:46 PM connected from 192.168.10.11:40044 3/30/2026 1
+1:50:46 PM >>> 220 mx0a-001a3c01.pphosted.com ESMTP mfa-m0075457 3/30/2026 11:50:46 PM <<< EHLO mta21.r1.rpos
+t.net 3/30/2026 11:50:46 PM >>> 250-mx0a-001a3c01.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet
+you 3/30/2026 11:50:46 PM >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:46 PM >>> 250-PIPELINING 3/30/2026 1
+1:50:46 PM >>> 250-8BITMIME 3/30/2026 11:50:46 PM >>> 250-SIZE 157286400 3/30/2026 11:50:46 PM >>> 250 STARTTL
+S 3/30/2026 11:50:46 PM <<< STARTTLS 3/30/2026 11:50:47 PM >>> 220 2.0.0 Ready to start TLS 3/30/2026 11:50:47 PM tl
+s:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 3/30/2026 11:50:47 PM tls:Cert: /C=US/ST=California/
+O=Proofpoint, Inc./CN=*.pphosted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R
+36; verified=no 3/30/2026 11:50:47 PM <<< EHLO mta21.r1.rpost.net 3/30/2026 11:50:48 PM >>> 250-mx0a-001a3c01.pphost
+ed.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 3/30/2026 11:50:48 PM >>> 250-ENHANCEDSTATUSCO
+DES 3/30/2026 11:50:48 PM >>> 250-PIPELINING 3/30/2026 11:50:48 PM >>> 250-8BITMIME 3/30/2026 11:50:48 PM >>> 2
+50 SIZE 157286400 3/30/2026 11:50:48 PM <<< MAIL FROM: BODY=8BITMIME 3/30/2026 11:50:48 PM >>> 250 2.1.0 Send
+er ok 3/30/2026 11:50:48 PM <<< RCPT TO: 3/30/2026 11:50:48 PM >>> 250 2.1.5 Recipient ok 3/30/2026 11:50:48 PM <<<
+DATA 3/30/2026 11:50:48 PM >>> 354 Enter mail, end with "." on a line by itself 3/30/2026 11:50:49 PM <<< . 3/30/2026 11:5
+0:51 PM >>> 250 2.0.0 4d684je3y8-1 Message accepted for delivery 3/30/2026 11:50:51 PM <<< QUIT 3/30/2026 11:50:52 P
+M >>> 221 2.0.0 mx0a-001a3c01.pphosted.com Closing connection 3/30/2026 11:50:52 PM closed mxa-001a3c01.gslb.pphos
+ted.com (67.231.148.195) in=635 out=3662666 3/30/2026 11:50:52 PM done washpost.com/{default}
+3/30/2026 11:50:46 PM starting nytimes.com/{default} 3/30/2026 11:50:46 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+aspmx.l.google.com (142.251.127.26) 3/30/2026 11:50:46 PM connected from 192.168.10.11:60210 3/30/2026 11:50:46 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43cf25bb139si17476057f8f.380 - gsmtp 3/30/2026 11:50:46 PM <<< EHLO mta
+21.r1.rpost.net 3/30/2026 11:50:46 PM >>> 250-mx.google.com at your service, [52.58.131.9] 3/30/2026 11:50:46 PM >>> 25
+0-SIZE 157286400 3/30/2026 11:50:46 PM >>> 250-8BITMIME 3/30/2026 11:50:46 PM >>> 250-STARTTLS 3/30/2026 11:50:
+46 PM >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:46 PM >>> 250-PIPELINING 3/30/2026 11:50:46 PM >>> 250CHUNKING 3/30/2026 11:50:46 PM >>> 250 SMTPUTF8 3/30/2026 11:50:46 PM <<< STARTTLS 3/30/2026 11:50:46 PM >>
+> 220 2.0.0 Ready to start TLS 3/30/2026 11:50:46 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SH
+A256 3/30/2026 11:50:46 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 3/
+30/2026 11:50:46 PM <<< EHLO mta21.r1.rpost.net 3/30/2026 11:50:46 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 3/30/2026 11:50:46 PM >>> 250-SIZE 157286400 3/30/2026 11:50:46 PM >>> 250-8BITMIME 3/30/2026 11:50:46 PM >
+>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:46 PM >>> 250-PIPELINING 3/30/2026 11:50:46 PM >>> 250-CHUNKI
+NG 3/30/2026 11:50:46 PM >>> 250 SMTPUTF8 3/30/2026 11:50:46 PM <<< MAIL FROM: BODY=8BITMIME 3/30/2026 11:5
+0:46 PM >>> 250 2.1.0 OK ffacd0b85a97d-43cf25bb139si17476057f8f.380 - gsmtp 3/30/2026 11:50:46 PM <<< RCPT TO: 3/3
+https://mail.google.com/mail/u/0/?ik=0cb52818b4&view=pt&search=all&permthid=thread-f:1861142294374319382&simpl=msg-f:1861142294374319382
+
+3/7
+
+3/30/26, 9:35 PM
+
+Gmail - Receipt: R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica / Tech Lobby (Delivery Failure)
+
+0/2026 11:50:46 PM >>> 250 2.1.5 OK ffacd0b85a97d-43cf25bb139si17476057f8f.380 - gsmtp 3/30/2026 11:50:46 PM <<< D
+ATA 3/30/2026 11:50:46 PM >>> 354 Go ahead ffacd0b85a97d-43cf25bb139si17476057f8f.380 - gsmtp 3/30/2026 11:50:47 P
+M <<< . 3/30/2026 11:50:48 PM >>> 250 2.0.0 OK 1774914648 ffacd0b85a97d-43cf25bb139si17476057f8f.380 - gsmtp 3/30/2
+026 11:50:48 PM <<< QUIT 3/30/2026 11:50:48 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43cf25bb139si17476057
+f8f.380 - gsmtp 3/30/2026 11:50:48 PM closed aspmx.l.google.com (142.251.127.26) in=779 out=3662651 3/30/2026 11:50:48
+PM done nytimes.com/{default}
+3/30/2026 11:50:46 PM starting theguardian.com/{default} 3/30/2026 11:50:46 PM connecting from mta21.r1.rpost.net (0.0.0.0)
+to aspmx.l.google.com (142.251.127.26) 3/30/2026 11:50:46 PM connected from 192.168.10.11:42670 3/30/2026 11:50:46 PM
+>>> 220 mx.google.com ESMTP ffacd0b85a97d-43cf25771c6si17890495f8f.224 - gsmtp 3/30/2026 11:50:46 PM <<< EHLO
+mta21.r1.rpost.net 3/30/2026 11:50:46 PM >>> 250-mx.google.com at your service, [52.58.131.9] 3/30/2026 11:50:46 PM >>>
+250-SIZE 157286400 3/30/2026 11:50:46 PM >>> 250-8BITMIME 3/30/2026 11:50:46 PM >>> 250-STARTTLS 3/30/2026 11:5
+0:46 PM >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:46 PM >>> 250-PIPELINING 3/30/2026 11:50:46 PM >>> 25
+0-CHUNKING 3/30/2026 11:50:46 PM >>> 250 SMTPUTF8 3/30/2026 11:50:46 PM <<< STARTTLS 3/30/2026 11:50:46 PM >
+>> 220 2.0.0 Ready to start TLS 3/30/2026 11:50:46 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-S
+HA256 3/30/2026 11:50:46 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+3/30/2026 11:50:46 PM <<< EHLO mta21.r1.rpost.net 3/30/2026 11:50:46 PM >>> 250-mx.google.com at your service, [52.5
+8.131.9] 3/30/2026 11:50:46 PM >>> 250-SIZE 157286400 3/30/2026 11:50:46 PM >>> 250-8BITMIME 3/30/2026 11:50:46 P
+M >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:46 PM >>> 250-PIPELINING 3/30/2026 11:50:46 PM >>> 250-CHU
+NKING 3/30/2026 11:50:46 PM >>> 250 SMTPUTF8 3/30/2026 11:50:46 PM <<< MAIL FROM: BODY=8BITMIME 3/30/2026
+11:50:46 PM >>> 250 2.1.0 OK ffacd0b85a97d-43cf25771c6si17890495f8f.224 - gsmtp 3/30/2026 11:50:46 PM <<< RCPT T
+O: 3/30/2026 11:50:47 PM >>> 250 2.1.5 OK ffacd0b85a97d-43cf25771c6si17890495f8f.224 - gsmtp 3/30/2026 11:50:47 PM <
+<< DATA 3/30/2026 11:50:47 PM >>> 354 Go ahead ffacd0b85a97d-43cf25771c6si17890495f8f.224 - gsmtp 3/30/2026 11:50:4
+8 PM <<< . 3/30/2026 11:50:49 PM >>> 250 2.0.0 OK 1774914649 ffacd0b85a97d-43cf25771c6si17890495f8f.224 - gsmtp 3/3
+0/2026 11:50:49 PM <<< QUIT 3/30/2026 11:50:49 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43cf25771c6si17890
+495f8f.224 - gsmtp 3/30/2026 11:50:49 PM closed aspmx.l.google.com (142.251.127.26) in=779 out=3662690 3/30/2026 11:5
+0:49 PM done theguardian.com/{default}
+3/30/2026 11:50:47 PM starting nytimes.com/{default} 3/30/2026 11:50:47 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+aspmx.l.google.com (142.251.127.26) 3/30/2026 11:50:47 PM connected from 192.168.10.11:60279 3/30/2026 11:50:47 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43cf1db17cdsi22309871f8f.0 - gsmtp 3/30/2026 11:50:47 PM <<< EHLO mta21.
+r1.rpost.net 3/30/2026 11:50:47 PM >>> 250-mx.google.com at your service, [52.58.131.9] 3/30/2026 11:50:47 PM >>> 250-SI
+ZE 157286400 3/30/2026 11:50:47 PM >>> 250-8BITMIME 3/30/2026 11:50:47 PM >>> 250-STARTTLS 3/30/2026 11:50:47 P
+M >>> 250-ENHANCEDSTATUSCODES 3/30/2026 11:50:47 PM >>> 250-PIPELINING 3/30/2026 11:50:47 PM >>> 250-CHU
+NKING 3/30/2026 11:50:47 PM >>> 250 SMTPUTF8 3/30/2026 11:50:47 PM <<< STARTTLS 3/30/2026 11:50:47 PM >>> 220
+2.0.0 Ready to start TLS 3/30/2026 11:50:47 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256
+3/30/2026 11:50:47 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 3/30/20
+26 11:50:47 PM <<< EHLO mta21.r1.rpost.net 3/30/2026 11:50:47 PM >>> 250-mx.google.com at your service, [52.58.131.9]
+3/30/2026 11:50:47 PM >>> 250-SIZE 157286400 3/30/2026 11:50:47 PM >>> 250-8BITMIME 3/30/2026 11:50:47 PM >>> 25
+0-ENHANCEDSTATUSCODES 3/30/2026 11:50:47 PM >>> 250-PIPELINING 3/30/2026 11:50:47 PM >>> 250-CHUNKING 3/
+30/2026 11:50:47 PM >>> 250 SMTPUTF8 3/30/2026 11:50:47 PM <<< MAIL FROM: BODY=8BITMIME 3/30/2026 11:50:47
+PM >>> 250 2.1.0 OK ffacd0b85a97d-43cf1db17cdsi22309871f8f.0 - gsmtp 3/30/2026 11:50:47 PM <<< RCPT TO: 3/30/2026
+11:50:47 PM >>> 250 2.1.5 OK ffacd0b85a97d-43cf1db17cdsi22309871f8f.0 - gsmtp 3/30/2026 11:50:47 PM <<< DATA 3/30/2
+026 11:50:47 PM >>> 354 Go ahead ffacd0b85a97d-43cf1db17cdsi22309871f8f.0 - gsmtp 3/30/2026 11:50:47 PM <<< . 3/30/2
+026 11:50:49 PM >>> 250 2.0.0 OK 1774914649 ffacd0b85a97d-43cf1db17cdsi22309871f8f.0 - gsmtp 3/30/2026 11:50:49 PM
+<<< QUIT 3/30/2026 11:50:49 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43cf1db17cdsi22309871f8f.0 - gsmtp 3/3
+0/2026 11:50:49 PM closed aspmx.l.google.com (142.251.127.26) in=767 out=3662663 3/30/2026 11:50:49 PM done nytimes.
+com/{default}
+3/31/2026 12:00:11 AM starting gmail.com/{default} 3/31/2026 12:00:11 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gm
+ail-smtp-in.l.google.com (142.251.127.26) 3/31/2026 12:00:11 AM connected from 192.168.10.11:47420 3/31/2026 12:00:11 AM
+>>> 220 mx.google.com ESMTP ffacd0b85a97d-43cf25adffdsi17788480f8f.355 - gsmtp 3/31/2026 12:00:11 AM <<< EHLO mt
+a21.r1.rpost.net 3/31/2026 12:00:11 AM >>> 250-mx.google.com at your service, [52.58.131.9] 3/31/2026 12:00:11 AM >>> 25
+0-SIZE 157286400 3/31/2026 12:00:11 AM >>> 250-8BITMIME 3/31/2026 12:00:11 AM >>> 250-STARTTLS 3/31/2026 12:00:
+11 AM >>> 250-ENHANCEDSTATUSCODES 3/31/2026 12:00:11 AM >>> 250-PIPELINING 3/31/2026 12:00:11 AM >>> 250-C
+HUNKING 3/31/2026 12:00:11 AM >>> 250 SMTPUTF8 3/31/2026 12:00:11 AM <<< STARTTLS 3/31/2026 12:00:11 AM >>>
+220 2.0.0 Ready to start TLS 3/31/2026 12:00:11 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA2
+56 (session reused) 3/31/2026 12:00:11 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2;
+verified=no 3/31/2026 12:00:11 AM <<< EHLO mta21.r1.rpost.net 3/31/2026 12:00:11 AM >>> 250-mx.google.com at your ser
+vice, [52.58.131.9] 3/31/2026 12:00:11 AM >>> 250-SIZE 157286400 3/31/2026 12:00:11 AM >>> 250-8BITMIME 3/31/2026 1
+2:00:11 AM >>> 250-ENHANCEDSTATUSCODES 3/31/2026 12:00:11 AM >>> 250-PIPELINING 3/31/2026 12:00:11 AM >>>
+250-CHUNKING 3/31/2026 12:00:11 AM >>> 250 SMTPUTF8 3/31/2026 12:00:11 AM <<< MAIL FROM: BODY=8BITMIME 3/
+31/2026 12:00:11 AM >>> 250 2.1.0 OK ffacd0b85a97d-43cf25adffdsi17788480f8f.355 - gsmtp 3/31/2026 12:00:11 AM <<< R
+CPT TO: 3/31/2026 12:00:11 AM >>> 250 2.1.5 OK ffacd0b85a97d-43cf25adffdsi17788480f8f.355 - gsmtp 3/31/2026 12:00:11
+AM <<< DATA 3/31/2026 12:00:11 AM >>> 354 Go ahead ffacd0b85a97d-43cf25adffdsi17788480f8f.355 - gsmtp 3/31/2026 12:
+https://mail.google.com/mail/u/0/?ik=0cb52818b4&view=pt&search=all&permthid=thread-f:1861142294374319382&simpl=msg-f:1861142294374319382
+
+4/7
+
+3/30/26, 9:35 PM
+
+Gmail - Receipt: R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica / Tech Lobby (Delivery Failure)
+
+00:12 AM <<< . 3/31/2026 12:00:13 AM >>> 250 2.0.0 OK 1774915213 ffacd0b85a97d-43cf25adffdsi17788480f8f.355 - gsmtp
+3/31/2026 12:00:13 AM <<< QUIT 3/31/2026 12:00:13 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43cf25adffdsi1778
+8480f8f.355 - gsmtp 3/31/2026 12:00:13 AM closed gmail-smtp-in.l.google.com (142.251.127.26) in=779 out=3662654 3/31/20
+26 12:00:18 AM done gmail.com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.26)
+[IP Address: 66.249.84.170] [Time Opened: 3/31/2026 12:01:13 AM] [REMOTE_HOST: 192.168.20.152] [HTTP_HOST: socrm
+ail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/oAIe6LWWYJJW99ceE6klf4Ty4P2iqyQdAkeizFJoMDIx.gif] HTTP_ACCEPT_ENC
+ODING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Geck
+o Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.84.170 HTTP_X_FORWARDED_PR
+OTO:hXXps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69cb0ec9-6d35ec8046b35a6d464c64c9
+Accept-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefo
+x/11.0 (via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.84.170 X-Forwarded-Proto: hXXps X-Forwarded-Port: 443
+X-Amzn-Trace-Id: Root=1-69cb0ec9-6d35ec8046b35a6d464c64c9 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1
+0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/oAIe6LWWYJJW99ceE6klf4Ty4
+P2iqyQdAkeizFJoMDIx.gif 192.168.20.152 192.168.20.152 47086 GET /oatv_v2/oAIe6LWWYJJW99ceE6klf4Ty4P2iqyQdAkei
+zFJoMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/oAIe6LWWYJJW99ceE6klf4Ty4P2iqyQdAkeiz
+FJoMDIx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com G
+oogleImageProxy) 66.249.84.170 hXXps 443 Root=1-69cb0ec9-6d35ec8046b35a6d464c64c9
+From:"Mail Delivery Subsystem" : ** Address not found ** Your message wasn't delivered to llopez@businessinsider.com bec
+ause the address couldn't be found, or is unable to receive mail. Learn more here: https://support.google.com/mail/?p=NoSuch
+User The response was: The email account that you tried to reach does not exist. Please try double-checking the recipient's e
+mail address for typos or unnecessary spaces. For more information, go to https://support.google.com/mail/?p=NoSuchUser
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.26)
+[IP Address: 66.102.8.73] [Time Opened: 3/30/2026 11:52:08 PM] [REMOTE_HOST: 192.168.20.152] [HTTP_HOST: socrmail.
+r1.rpost.net] [SCRIPT_NAME: /oatv_v2/iwmBzzH0vgyNrJ5jN2b5QCVrFaP93PiC64PrfuOdMDIx.gif] HTTP_ACCEPT_ENCODI
+NG:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fir
+efox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.102.8.73 HTTP_X_FORWARDED_PROTO:hX
+Xps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69cb0ca8-089c413069df79d91423864d AcceptEncoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.102.8.73 X-Forwarded-Proto: hXXps X-Forwarded-Port: 443 X-AmznTrace-Id: Root=1-69cb0ca8-089c413069df79d91423864d /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.
+1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/iwmBzzH0vgyNrJ5jN2b5QCVrFaP93PiC
+64PrfuOdMDIx.gif 192.168.20.152 192.168.20.152 33312 GET /oatv_v2/iwmBzzH0vgyNrJ5jN2b5QCVrFaP93PiC64PrfuOdMDI
+x.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/iwmBzzH0vgyNrJ5jN2b5QCVrFaP93PiC64PrfuOdMDI
+x.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleIm
+ageProxy) 66.102.8.73 hXXps 443 Root=1-69cb0ca8-089c413069df79d91423864d
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxa-001a3c01.gslb.pphosted.com (67.231.148.195)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.26)
+[IP Address: 100.30.216.196] [Time Opened: 3/30/2026 11:51:06 PM] [REMOTE_HOST: 192.168.10.131] [HTTP_HOST: socr
+mail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/IFqYeciWERg8F0VKd48dAoGdM1AV5vCULntfNcDwMDIx.gif] HTTP_CACHE_C
+ONTROL:no-cache HTTP_PRAGMA:no-cache HTTP_ACCEPT:image/avif,image/webp,image/apng,image/svg+xml,image/*,*/
+*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r
+1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
+https://mail.google.com/mail/u/0/?ik=0cb52818b4&view=pt&search=all&permthid=thread-f:1861142294374319382&simpl=msg-f:1861142294374319382
+
+5/7
+
+3/30/26, 9:35 PM
+
+Gmail - Receipt: R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica / Tech Lobby (Delivery Failure)
+
+me/120.0.6099.224 Safari/537.36 HTTP_X_FORWARDED_FOR:100.30.216.196 HTTP_X_FORWARDED_PROTO:hXXps HT
+TP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69cb0c6a-0c580c8a267331537269b392 HTTP_SEC_C
+H_UA:" Not A;Brand";v="99", "Chromium";v="120", "Google Chrome";v="120" HTTP_SEC_CH_UA_MOBILE:?0 HTTP_SEC_
+CH_UA_PLATFORM:"Windows" HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FET
+CH_DEST:image Cache-Control: no-cache Pragma: no-cache Accept: image/avif,image/webp,image/apng,image/svg+xml,ima
+ge/*,*/*;q=0.8 Accept-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: M
+ozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.224 Safari/537.36 XForwarded-For: 100.30.216.196 X-Forwarded-Proto: hXXps X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69cb0c6a-0c580c
+8a267331537269b392 sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="120", "Google Chrome";v="120" sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows" sec-fetch-site: cross-site sec-fetch-mode: no-cors sec-fetch-dest: image /LM/W3SVC/12/ROO
+T 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.
+devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v2/IFqYeciWERg8F0VKd48dAoGdM1AV5vCULntfNcDwMDIx.gif 192.
+168.10.131 192.168.10.131 48962 GET /oatv_v2/IFqYeciWERg8F0VKd48dAoGdM1AV5vCULntfNcDwMDIx.gif socrmail.r1.rpo
+st.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/IFqYeciWERg8F0VKd48dAoGdM1AV5vCULntfNcDwMDIx.gif no-cache nocache image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpos
+t.net Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.224 Safari/53
+7.36 100.30.216.196 hXXps 443 Root=1-69cb0c6a-0c580c8a267331537269b392 " Not A;Brand";v="99", "Chromium";v="120",
+"Google Chrome";v="120" ?0 "Windows" cross-site no-cors image
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.26)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.26)
+[IP Address: 54.209.218.52] [Time Opened: 3/30/2026 11:51:06 PM] [REMOTE_HOST: 192.168.10.131] [HTTP_HOST: socrm
+ail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/OeoP1b06mV2s1EZfA9ceRF2haPZ8SEbmWwmXEw6iMDIx.gif] HTTP_CACHE_C
+ONTROL:no-cache HTTP_PRAGMA:no-cache HTTP_ACCEPT:image/avif,image/webp,image/apng,image/svg+xml,image/*,*/
+*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r
+1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
+me/120.0.6099.224 Safari/537.36 HTTP_X_FORWARDED_FOR:54.209.218.52 HTTP_X_FORWARDED_PROTO:hXXps HTT
+P_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69cb0c6a-649d88987fa8305e57822a53 HTTP_SEC_CH_
+UA:" Not A;Brand";v="99", "Chromium";v="120", "Google Chrome";v="120" HTTP_SEC_CH_UA_MOBILE:?0 HTTP_SEC_CH
+_UA_PLATFORM:"Windows" HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_
+DEST:image Cache-Control: no-cache Pragma: no-cache Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,
+*/*;q=0.8 Accept-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozill
+a/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.224 Safari/537.36 X-Forw
+arded-For: 54.209.218.52 X-Forwarded-Proto: hXXps X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69cb0c6a-649d88987fa
+8305e57822a53 sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="120", "Google Chrome";v="120" sec-ch-ua-mobile: ?0 secch-ua-platform: "Windows" sec-fetch-site: cross-site sec-fetch-mode: no-cors sec-fetch-dest: image /LM/W3SVC/12/ROOT 25
+6 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_
+v2/OeoP1b06mV2s1EZfA9ceRF2haPZ8SEbmWwmXEw6iMDIx.gif 192.168.10.131 192.168.10.131 47056 GET /oatv_v2/Oeo
+P1b06mV2s1EZfA9ceRF2haPZ8SEbmWwmXEw6iMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/
+OeoP1b06mV2s1EZfA9ceRF2haPZ8SEbmWwmXEw6iMDIx.gif no-cache no-cache image/avif,image/webp,image/apng,imag
+e/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.224 Safari/537.36 54.209.218.52 hXXps 443 Root=1-69cb0c6a649d88987fa8305e57822a53 " Not A;Brand";v="99", "Chromium";v="120", "Google Chrome";v="120" ?0 "Windows" cross-site
+no-cors image
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+[IP Address: 74.125.214.74] [Time Opened: 3/31/2026 12:00:38 AM] [REMOTE_HOST: 192.168.10.131] [HTTP_HOST: socrm
+ail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/Yz3PJRgETnrfh08ygkTUwgW8CrXQc0rYIaYgNjYSMDIx.gif] HTTP_ACCEPT_ENC
+ODING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Geck
+o Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:74.125.214.74 HTTP_X_FORWARDED_PR
+OTO:hXXps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69cb0ea6-5b4b5fc919e45b8c6740da75
+Accept-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefo
+x/11.0 (via ggpht.com GoogleImageProxy) X-Forwarded-For: 74.125.214.74 X-Forwarded-Proto: hXXps X-Forwarded-Port: 443
+X-Amzn-Trace-Id: Root=1-69cb0ea6-5b4b5fc919e45b8c6740da75 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1
+https://mail.google.com/mail/u/0/?ik=0cb52818b4&view=pt&search=all&permthid=thread-f:1861142294374319382&simpl=msg-f:1861142294374319382
+
+6/7
+
+3/30/26, 9:35 PM
+
+Gmail - Receipt: R: Tesla / X (Twitter) / Uber / WebMD / Internet Brands / Cambridge Analytica / Tech Lobby (Delivery Failure)
+
+0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/Yz3PJRgETnrfh08ygkTUwgW8
+CrXQc0rYIaYgNjYSMDIx.gif 192.168.10.131 192.168.10.131 23106 GET /oatv_v2/Yz3PJRgETnrfh08ygkTUwgW8CrXQc0rYIa
+YgNjYSMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/Yz3PJRgETnrfh08ygkTUwgW8CrXQc0rYIa
+YgNjYSMDIx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.co
+m GoogleImageProxy) 74.125.214.74 hXXps 443 Root=1-69cb0ea6-5b4b5fc919e45b8c6740da75
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+43K
+HtmlReceipt.htm
+5009K
+
+https://mail.google.com/mail/u/0/?ik=0cb52818b4&view=pt&search=all&permthid=thread-f:1861142294374319382&simpl=msg-f:1861142294374319382
+
+7/7
+
+

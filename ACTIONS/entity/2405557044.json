@@ -1,0 +1,56 @@
+{
+  "serving_key": "2405557044",
+  "canonical_key": "larry.campagna@chamberlainlaw.com",
+  "display_name": "Larry Campagna (Chamberlain Hrdlicka)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Chamberlain Hrdlicka",
+  "full_name": "Larry A. Campagna",
+  "pronouns": null,
+  "title": "Managing Shareholder",
+  "organization": "Chamberlain Hrdlicka",
+  "domain": "chamberlainlaw.com",
+  "addresses": {
+    "mailing_address": "1200 Smith Street, Suite 1400, Houston, TX 77002",
+    "business_address": "1200 Smith Street, Suite 1400, Houston, TX 77002",
+    "legal_service_address": "1200 Smith Street, Suite 1400, Houston, TX 77002"
+  },
+  "registered_agent": {
+    "name": "Chamberlain, Hrdlicka, White, Williams & Aughtry",
+    "address": "1200 Smith Street, Suite 1400, Houston, TX 77002",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "larry.campagna@chamberlainlaw.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-713-658-1818"
+    ],
+    "faxes": [
+      "+1-713-658-2553"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2836639959",
+      "canonical_key": "marcus.burnside@chamberlainlaw.com",
+      "display_name": "Marcus Burnside",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1129558191",
+      "canonical_key": "habeeb.gnaim@chamberlainlaw.com",
+      "display_name": "Habeeb I. Gnaim",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2167991433",
+      "canonical_key": "charles.rettig@chamberlainlaw.com",
+      "display_name": "Charles P. Rettig",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

@@ -1,0 +1,28 @@
+{
+  "index": 112,
+  "header": "# Enclosure #112: READ-RECEIPT-heather-m-hill-tigta-treas-gov-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT_heather.m.hill@tigta.treas.gov_Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-56ec92360b.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "heather.m.hill@tigta.treas.gov",
+  "primary_recipient_an": "Heather M. Hill (tigta.treas.gov)",
+  "all_recipients": [
+    "heather.m.hill@tigta.treas.gov",
+    "tigtacommunications@tigta.treas.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "heather.m.hill@tigta.treas.gov": "Heather M. Hill (tigta.treas.gov)",
+    "tigtacommunications@tigta.treas.gov": "Tigtacommunications (tigta.treas.gov)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04152026",
+  "original_filename": "READ-RECEIPT_heather.m.hill@tigta.treas.gov_Tier-0.pdf",
+  "patent_applications_mentioned": []
+}

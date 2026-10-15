@@ -1,0 +1,49 @@
+{
+  "serving_key": "3200489928",
+  "canonical_key": "finance@charlottenc.gov",
+  "display_name": "City of Charlotte - Finance Department",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "City of Charlotte",
+  "full_name": "City of Charlotte Finance Department",
+  "pronouns": null,
+  "title": "Finance Department",
+  "organization": "City of Charlotte",
+  "domain": "charlottenc.gov",
+  "addresses": {
+    "mailing_address": "600 East Fourth Street, Charlotte, NC 28202",
+    "business_address": "600 East Fourth Street, Charlotte, NC 28202",
+    "legal_service_address": "City Clerk, 600 East Fourth Street, Charlotte, NC 28202"
+  },
+  "registered_agent": {
+    "name": "City Clerk / City Manager (Statutory Agent for Service of Process)",
+    "address": "600 East Fourth Street, Charlotte, NC 28202",
+    "jurisdiction": "North Carolina"
+  },
+  "contact": {
+    "primary_email": "finance@charlottenc.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "704-336-7600",
+      "704-336-2281"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1275283993",
+      "canonical_key": "_city.attorney@charlottenc.gov",
+      "display_name": "Office of the City Attorney",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2720713976",
+      "canonical_key": "city.attorney@charlottenc.gov",
+      "display_name": "Office of the City Attorney",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

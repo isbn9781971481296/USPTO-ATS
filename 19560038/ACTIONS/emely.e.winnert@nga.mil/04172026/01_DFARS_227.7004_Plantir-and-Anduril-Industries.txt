@@ -1,0 +1,170 @@
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+FORMAL ADMINISTRATIVE CLAIM FOR PATENT
+INFRINGEMENT UNDER DFARS 227.7004 AND
+NOTIFICATION OF PROCUREMENT
+IRREGULARITIES CONCERNING PERPETUALLY
+LICENSED TECHNOLOGIES
+This notice:
+https://storage.googleapis.com/rj-aguiar/01_DFARS_227.7004_Plantir-and-Anduril-Industries.pdf
+
+TO: PROCURING CONTRACTING OFFICERS (PCOs) AND DIRECTORS
+william.a.creech3.civ@army.mil (William A. Creech, Grants and Contracting Officer, ACC-APG)
+mia.a.steele2.civ@army.mil (Mia A. Steele, Procurement Officer, ACC-APG)
+tamara.n.jenkins.civ@mail.mil (Tamara N. Jenkins, Contract Specialist, ACC-APG)
+undra.n.robinson.civ@mail.mil (Undra Robinson, Contracting Officer, NGA/CDAO)
+Emely.E.Winnert@nga.mil (Emely Winnert, Contracting Officer, NGA)
+jonathan.elliott@army.mil (Jonathan Elliott, Director AI Rapid Capabilities Cell, CDAO)
+AFLCMCJAWorkFlowmail@us.af.mil (General Contracting Office, Air Force Life Cycle
+Management Center)
+CC: EXECUTIVE LEADERSHIP AND MILITARY INTELLECTUAL PROPERTY COUNSEL
+The Honorable Emil Michael (Under Secretary of Defense for Research and Engineering / Chief
+Technology Officer)
+Chief of the Intellectual Property Law Division (JALS-IP), U.S. Army Legal Services Agency
+RE: ACTUAL KNOWLEDGE OF PATENT INFRINGEMENT (35 U.S.C. § 154(d)), INITIATION OF
+DFARS 227.7004 ADMINISTRATIVE CLAIM, AND NOTIFICATION OF POTENTIAL PROCUREMENT
+FRAUD BY PALANTIR TECHNOLOGIES AND ANDURIL INDUSTRIES
+DATE: April 17, 2026
+DELIVERY METHOD: Cryptographically Verified via Registered Email (RPost)
+DEAR:
+Mr. Creech, Ms. Steele, Ms. Jenkins, Mr. Robinson, Ms. Winnert, Mr. Elliott, and the AFLCMC
+
+Page 1 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+Contracting Office,
+This comprehensive technical and legal brief is served upon you in your official capacities as
+warranted Procuring Contracting Officers (PCOs) and Directors within the United States
+Department of Defense (DoD).
+This document constitutes a formal Administrative Claim for Patent Infringement under the
+Defense Federal Acquisition Regulation Supplement (DFARS) 227.7004.1 The purpose of this
+claim is to notify the United States Government of a highly anomalous and legally precarious
+situation involving the unauthorized commercialization of a foundational patent portfolio by
+major defense contractors—namely Palantir Technologies and Anduril Industries.1
+
+I. The Jurisprudential Paradox: Eminent Domain vs.
+The Perpetual License
+Under standard operating procedures defined by 28 U.S.C. § 1498, the United States
+Government exercises eminent domain over domestic patents, shielding its defense
+contractors from civil injunctions and assuming financial liability for infringement.1
+However, the situation at hand introduces a critical jurisprudential paradox. The inventor of the
+Aguiar Marcano Intellectual Property Portfolio—which comprises 52 foundational patent
+applications published defensively in The Architecture of Control (ISBN
+978-1-97-148129-6)—has proactively granted an irrevocable, perpetual, no-fee license to the
+federal government for all national defense purposes.1 Consequently, the U.S. Government
+owes absolutely no royalties for the utilization of these systems.1
+The legal friction immediately shifts. Defense contractors (Palantir and Anduril) are currently
+utilizing these specific patented architectures and subsequently embedding the research,
+development, and licensing costs of these technologies into their multi-billion-dollar
+government contracts.1 They are effectively charging the American taxpayer for intellectual
+property that the government already possesses the legal right to utilize indefinitely and
+without cost.1
+This scenario transcends standard patent infringement; it borders on procurement fraud,
+waste, and abuse of federal funds.1 Failing to halt the disbursement of funds to these
+contractors for pre-licensed intellectual property constitutes complicity in corporate
+intellectual property theft and a gross mismanagement of taxpayer dollars.1
+
+II. Satisfaction of DFARS 227.7004 Administrative
+Claim Requirements
+Page 2 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+To compel immediate administrative intervention, this communication strictly adheres to the
+requirements of DFARS 227.7004(a) and (b):1
+1.​ Allegation of Infringement: We formally allege that the systems provided by Palantir
+Technologies and Anduril Industries directly infringe upon the patent applications
+detailed below.1
+2.​ Request for Compensation: Because the government holds a free license to this
+portfolio, our request for compensation is a formal legal demand that the DoD
+immediately cease compensating the infringing contractors for the licensed intellectual
+property.1
+3.​ Citation of Patents: The infringed applications include USPTO 19/639,219; 19/640,945;
+19/560,038; 19/560,065; 19/559,957; 19/559,873; and 19/559,842.1
+4.​ Identification of Procurements: See Section III below for the specific systems and
+contracting activities.1
+5.​ Element-by-Element Comparison: The required claim maps demonstrating precisely
+how the representative claims map to the accused software and processes are attached
+to this verified transmission.1
+
+III. Technological Nexus and Targeted Procurements
+The operational methodologies of Palantir Technologies and Anduril Industries intersect directly
+with these proprietary claims, making their government contracts highly susceptible to this
+administrative review.1
+
+A. Palantir Technologies (Project TITAN & Project Maven)
+Responsible Activities: Army Contracting Command - APG (Belvoir Division) & National
+Geospatial-Intelligence Agency / CDAO1 Notified PCOs/Directors: William A. Creech, Mia A.
+Steele, Tamara N. Jenkins, Undra Robinson, Emely Winnert, and Jonathan Elliott.1
+Palantir’s flagship platforms, Gotham and Foundry, specialize in integrating massive datasets to
+construct complex dependency graphs utilized by intelligence agencies.1
+●​ USPTO 19/559,957 (Power Holder Analysis in Social Networks): Palantir's analytical
+methodologies for Project TITAN and Project Maven directly mirror our systemic method
+for analyzing network dependency graphs to identify indispensable bottlenecks.1
+●​ USPTO 19/559,873 (Information Leak-Proofing of Organizations): Palantir's internal
+security infrastructure infringes upon our method of calculating precise "blast radius"
+vulnerability scores for individual users.1
+
+Page 3 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+B. Anduril Industries (Collaborative Combat Aircraft & Ghost Drones)
+Responsible Activities: Air Force Life Cycle Management Center (AFLCMC) & U.S. Special
+Operations Command (USSOCOM)1 Notified PCOs: AFLCMC General Contracting Office1
+Anduril relies heavily on Lattice OS to formulate a real-time command and control center for
+autonomous systems.1
+●​ USPTO 19/559,842 (Coordinated Dual-Vehicle Scanning): The deployment of
+autonomous, multi-modal surveillance systems operating in tandem is heavily
+encumbered by our patent, which explicitly claims the methodology for coordinating
+multiple scanning vehicles via a secure link to fuse multi-spectral data.1
+●​ USPTO 19/560,065 (Autonomous Robotic Data Logistics): Anduril's operations in
+contested environments intersect directly with our claimed mechanisms for using
+autonomous robotic units to physically retrieve and transport high-capacity data
+payloads.1
+
+IV. Immutable Audit Trail and Mandatory
+Administrative Action
+This formal claim is delivered via Registered Email (RPost). This service provides an immutable,
+cryptographically verified audit trail, including proof of delivery, message content, and the
+exact official time of sending and opening.1
+By delivering this DFARS-compliant claim via RPost, we establish undeniable "Actual Notice"
+under 35 U.S.C. § 154(d).1 More importantly, this verified delivery strips the targeted military and
+civilian agencies of "plausible deniability."1
+As warranted Procuring Contracting Officers, if you receive cryptographically verified proof
+that a contractor is charging the government for freely available intellectual property, your
+failure to initiate an audit or halt payments leaves a permanent digital footprint of your inaction.1
+This exposes you, as individual officials, to severe administrative, ethical, and potentially criminal
+liability for gross negligence, dereliction of duty, or complicity in procurement fraud.1
+Pursuant to federal acquisition regulations, you are hereby mandated to halt the assumption of
+clear title, freeze approvals related to the disputed intellectual property, and forward this
+communication immediately to the Chief of the Intellectual Property Law Division (JALS-IP)
+within your respective military branches.1
+Govern yourselves accordingly.
+
+Page 4 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+Works cited
+1.​ DoD Patent License Infringement Investigation.pdf
+
+Page 5 of 5
+ISBN 9781971481296
+
+

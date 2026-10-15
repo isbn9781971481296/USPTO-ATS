@@ -1,0 +1,96 @@
+{
+  "summary_of_pdf": "The document is a formal prospective client inquiry transmitted via RPost Registered Email by Reinaldo J. Aguiar Marcano, a former Google engineer and Goldman Sachs Managing Director. The sender seeks specialized intellectual property litigation representation for a portfolio of 47 patent applications concerning High-Radix architectures and Parametric Encoding. The sender alleges systemic IP misappropriation by a state-backed adversary and discloses parallel whistleblower and criminal referrals filed with the DOJ and SEC (TCR 17742-648-351-976), asserting interstate wire fraud and retaliation.",
+  "attorneys_comments": "This communication presents a highly volatile prospective client profile requiring immediate risk management. Tactically, the sender is utilizing a Registered Email service to establish an evidentiary chain of custody and constructive notice of his SEC and DOJ filings. The evidentiary strength of his IP claims is highly suspect; the 'portfolio' appears to be self-published via a Lulu.com ISBN rather than standard USPTO publication, raising severe questions regarding 35 U.S.C. \u00a7 112 enablement and actual pendency. The scattershot approach of contacting multiple law firms (e.g., Foley), whistleblower organizations (Government Accountability Project), and DOJ task forces suggests a high-liability, multi-front grievance rather than a focused patent infringement action. Procedurally, the firm must treat this as an unsolicited intake. Downloading the attachments prior to a comprehensive conflict check poses a severe risk of evidentiary taint and potential disqualification, particularly given the named targets (Huawei, Intel, NVIDIA, Google, Goldman Sachs).",
+  "recommended_next_steps": "1. Immediately quarantine the email and instruct all firm personnel NOT to download or review the RPost attachments to prevent the inadvertent receipt of confidential information or trade secrets. 2. Initiate a rigorous, firm-wide conflict check against all named entities (Google, Goldman Sachs, Huawei, Intel, NVIDIA, Foley). 3. Conduct a preliminary docket search in USPTO Patent Center using the inventor's name to verify the actual legal status of the 47 purported applications. 4. Draft and transmit a formal, unequivocal non-engagement letter to Mr. Aguiar to preclude any implied attorney-client relationship and to disclaim any duty to act upon his SEC/DOJ whistleblower disclosures.",
+  "tags": [
+    "Prospective Client Intake",
+    "Patent Infringement",
+    "Trade Secret Misappropriation",
+    "18 U.S.C. \u00a7 1836 (Defend Trade Secrets Act)",
+    "18 U.S.C. \u00a7 1343 (Wire Fraud)",
+    "15 U.S.C. \u00a7 78u-6 (Securities Whistleblower Incentives and Protection)",
+    "35 U.S.C. \u00a7 111 (Application for Patent)",
+    "SEC Whistleblower (TCR)",
+    "DOJ Criminal Referral",
+    "Evidentiary Proof of Delivery",
+    "ABA Model Rule 1.18 (Duties to Prospective Client)",
+    "High-Radix Architectures"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo J. Aguiar Marcano",
+      "RJ Aguiar",
+      "T. Patterson",
+      "Colin McDonald",
+      "Cody Matthew Herche",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "Google",
+      "Goldman Sachs",
+      "Huawei",
+      "Intel",
+      "NVIDIA",
+      "Patterson Sheridan",
+      "Foley",
+      "KKC",
+      "RPost"
+    ],
+    "technologies": [
+      "High-Radix architectures",
+      "CPU",
+      "AI",
+      "InfiniBand networking infrastructures",
+      "Parametric Encoding",
+      "satellite communications",
+      "cellular communications"
+    ],
+    "products": [
+      "Registered Email"
+    ],
+    "government_offices": [
+      "United States Patent and Trademark Office (USPTO)",
+      "Department of Justice (DOJ)",
+      "Securities and Exchange Commission (SEC)",
+      "National Fraud Enforcement Division",
+      "Trade Fraud Task Force"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "Ohio"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Patterson Sheridan",
+      "Foley"
+    ],
+    "attorneys": [
+      "T. Patterson",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "3217794747",
+  "basefilename": "DOWNLOAD-RECEIPT_tpatterson@pattersonsheridan.com",
+  "original_filename": "DOWNLOAD-RECEIPT_tpatterson@pattersonsheridan.com.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "tpatterson@pattersonsheridan.com",
+  "primary_recipient_an": "Tpatterson (pattersonsheridan.com)",
+  "all_recipients": [
+    "tpatterson@pattersonsheridan.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "tpatterson@pattersonsheridan.com": "Tpatterson (pattersonsheridan.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

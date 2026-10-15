@@ -1,0 +1,68 @@
+{
+  "summary_of_pdf": "This instrument is a Registered Email (RMail) delivery and open receipt, establishing a definitive evidentiary audit trail that Donald Vieira of Skadden received and opened a communication from RJ Aguiar on April 7, 2026. The underlying communication pertains to an inquiry for intellectual property representation concerning a 47-patent portfolio and 'Parallel Federal Disclosures' implicating eBay and UBER.",
+  "attorneys_comments": "From a tactical and evidentiary standpoint, this document is a highly probative digital record designed to irrefutably establish actual notice and receipt. The sender's deliberate use of RPost technology preempts any 'failure to receive' or 'spambox' defenses. In the context of patent litigation, such documented delivery can serve as a foundational element for proving actual notice of patents under 35 U.S.C. \u00a7 284, thereby supporting potential claims for willful infringement and enhanced damages. Furthermore, the transmission of 'Parallel Federal Disclosures' and a representation inquiry to a partner at Skadden triggers immediate professional ethics obligations, specifically regarding duties to prospective clients and conflict of interest checks (ABA Model Rule 1.18) concerning eBay and UBER. The detailed HTTP, IP, and timestamp audit trail provides robust metadata that can be authenticated under FRE 902(13) or FRE 902(14) as electronic evidence, or admitted as a business record under FRE 803(6).",
+  "recommended_next_steps": "1. Preserve the native DeliveryReceipt.xml and HtmlReceipt.htm files to ensure cryptographic authentication of the transmission for future evidentiary motions. 2. If representing the recipient (Skadden), immediately initiate a firm-wide conflict check regarding RJ Aguiar, eBay, and UBER, and establish an ethical wall if necessary pursuant to ABA Model Rule 1.18 (Duties to Prospective Client). 3. If representing the sender, docket this receipt as definitive proof of actual notice to establish the timeline of federal disclosures and to support potential willful infringement or duty-to-disclose arguments.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "35 U.S.C. \u00a7 284",
+    "FRE 902(13)",
+    "FRE 902(14)",
+    "FRE 803(6)",
+    "ABA Model Rule 1.18",
+    "Patent Portfolio Representation",
+    "Federal Disclosures",
+    "Conflict of Interest Check"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Donald Vieira"
+    ],
+    "companies": [
+      "eBay",
+      "UBER",
+      "Skadden",
+      "RMail",
+      "RPost"
+    ],
+    "technologies": [
+      "Registered Email",
+      "47-Patent Portfolio"
+    ],
+    "products": [
+      "RMail",
+      "RPost Technology"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Skadden"
+    ],
+    "attorneys": [
+      "Donald Vieira"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "3679142812",
+  "basefilename": "READ-RECEIPT-donald.vieira@skadden.com",
+  "original_filename": "READ-RECEIPT-donald.vieira@skadden.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "donald.vieira@skadden.com",
+  "primary_recipient_an": "Donald Vieira (Skadden)",
+  "all_recipients": [
+    "donald.vieira@skadden.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "donald.vieira@skadden.com": "Donald Vieira (Skadden)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

@@ -1,0 +1,42 @@
+{
+  "serving_key": "4167271616",
+  "canonical_key": "_legal@lucidmotors.com",
+  "display_name": "Lucid Motors Legal Department (Lucid Group, Inc.)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Lucid Group, Inc.",
+  "full_name": "Lucid Motors Legal Department",
+  "pronouns": null,
+  "title": "Legal Department",
+  "organization": "Lucid Group, Inc.",
+  "domain": "lucidmotors.com",
+  "addresses": {
+    "mailing_address": "7373 Gateway Blvd, Newark, CA 94560",
+    "business_address": "7373 Gateway Blvd, Newark, CA 94560",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "_legal@lucidmotors.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-510-648-3553"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2926412141",
+      "canonical_key": "legal@lucidmotors.com",
+      "display_name": "Legal Department",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

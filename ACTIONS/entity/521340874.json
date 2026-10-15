@@ -1,0 +1,35 @@
+{
+  "serving_key": "521340874",
+  "canonical_key": "kathryn.ruemmler@gs.com",
+  "display_name": "Kathryn Ruemmler (Goldman Sachs)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Goldman Sachs Group, Inc.",
+  "full_name": "Kathryn Ruemmler",
+  "pronouns": null,
+  "title": "Chief Legal Officer and General Counsel",
+  "organization": "Goldman Sachs Group, Inc.",
+  "domain": "gs.com",
+  "addresses": {
+    "mailing_address": "200 West Street, New York, NY 10282",
+    "business_address": "200 West Street, New York, NY 10282",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "kathryn.ruemmler@gs.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-902-1000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

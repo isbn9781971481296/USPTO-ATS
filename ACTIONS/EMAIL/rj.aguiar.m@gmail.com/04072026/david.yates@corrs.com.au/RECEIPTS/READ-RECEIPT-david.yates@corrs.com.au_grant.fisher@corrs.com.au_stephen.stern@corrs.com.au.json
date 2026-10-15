@@ -1,0 +1,30 @@
+{
+  "index": 174,
+  "header": "# Enclosure #174: READ-RECEIPT-david-yates-corrs-com-au-grant-fisher-corrs-com-au-stephen-stern-corrs-com-au.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/READ-RECEIPT-david.yates@corrs.com.au_grant.fisher@corrs.com.au_stephen.stern@corrs.com.au.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-read-receipt-david.yates@corrs.com.-d5950fdd8e.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "david.yates@corrs.com.au",
+  "primary_recipient_an": "David Yates (Corrs)",
+  "all_recipients": [
+    "david.yates@corrs.com.au",
+    "_grant.fisher@corrs.com.au",
+    "stephen.stern@corrs.com.au",
+    "grant.fisher@corrs.com.au",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "david.yates@corrs.com.au": "David Yates (Corrs)",
+    "_grant.fisher@corrs.com.au": "Grant Fisher (Corrs)",
+    "stephen.stern@corrs.com.au": "Stephen Stern (Corrs)",
+    "grant.fisher@corrs.com.au": "Grant Fisher (Corrs)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "READ-RECEIPT-david.yates@corrs.com.au_grant.fisher@corrs.com.au_stephen.stern@corrs.com.au.pdf",
+  "patent_applications_mentioned": []
+}

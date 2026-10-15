@@ -1,0 +1,87 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Email receipt providing cryptographic and SMTP-level evidentiary proof of delivery for a legal notice served upon the Internal Revenue Service (IRS). The underlying transmission, sent by Reinaldo J. Aguiar Marcano, serves as a formal response to an IRS CP14 Notice and asserts a systemic privacy breach involving Taxpayer Identification Number (TIN) XXX-XX-2502, citing 42,695 violations. The receipt establishes the exact time of dispatch, delivery, and opening by IRS officials Frank J. Bisignano and Dottie Romo on April 15, 2026.",
+  "attorneys_comments": "From an evidentiary standpoint, this RPost Registered Receipt is a highly robust instrument for establishing proof of service and overcoming standard hearsay and authentication hurdles under Fed. R. Evid. 901(b)(9) and 803(6). The detailed SMTP audit trails, TLS handshake records, and IP logs provide undeniable forensic evidence that the administrative demand was successfully delivered to and opened by the target agency servers (emge.irs.gov). Tactically, this perfects the claimant's procedural posture regarding the exhaustion of administrative remedies, a strict prerequisite for subsequent federal litigation under the Privacy Act of 1974 (5 U.S.C. \u00a7 552a) or the Federal Tort Claims Act (28 U.S.C. \u00a7 2675). While the receipt impeccably authenticates delivery, counsel must note that it does not validate the substantive merits of the underlying 42,695 alleged privacy violations. The primary liability risk for the agency is now triggered, as the clock for statutory administrative response has officially commenced.",
+  "recommended_next_steps": "Counsel must immediately preserve the native DeliveryReceipt.xml and HtmlReceipt.htm files to maintain cryptographic integrity for future evidentiary proffers. Docket the statutory response deadline for the IRS to cure or formally respond to the administrative claim. If the agency fails to respond within the applicable statutory window, prepare to draft and file a civil complaint in the United States District Court asserting claims under the Privacy Act of 1974 and/or the FTCA, utilizing this receipt as Exhibit A to conclusively demonstrate administrative exhaustion.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Administrative Claim",
+    "Pre-litigation Demand",
+    "Privacy Act of 1974",
+    "5 U.S.C. \u00a7 552a",
+    "Federal Tort Claims Act (FTCA)",
+    "28 U.S.C. \u00a7 2675",
+    "Fed. R. Evid. 901(b)(9)",
+    "Fed. R. Evid. 803(6)",
+    "IRS CP14 Notice Response",
+    "Exhaustion of Administrative Remedies"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Reinaldo J Aguiar Marcano",
+      "Frank J. Bisignano",
+      "Dottie Romo"
+    ],
+    "companies": [
+      "RPost",
+      "Google",
+      "Entrust Limited"
+    ],
+    "technologies": [
+      "RMail",
+      "Registered Receipt",
+      "Registered Email",
+      "SMTP",
+      "TLSv1.2",
+      "ECDHE-RSA-AES256-GCM-SHA384"
+    ],
+    "products": [
+      "IRS CP14 Notice"
+    ],
+    "government_offices": [
+      "Internal Revenue Service (IRS)",
+      "Department of Treasury"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "District of Columbia"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "498081569",
+  "basefilename": "READ-RECEIPT_frank.j.bisignano@irs.gov_Tier-0",
+  "original_filename": "READ-RECEIPT_frank.j.bisignano@irs.gov_Tier-0.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04152026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "frank.j.bisignano@irs.gov",
+  "primary_recipient_an": "Frank J. Bisignano (Internal Revenue Service)",
+  "all_recipients": [
+    "frank.j.bisignano@irs.gov",
+    "dottie.romo@irs.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "frank.j.bisignano@irs.gov": "Frank J. Bisignano (Internal Revenue Service)",
+    "dottie.romo@irs.gov": "Dottie Romo (Internal Revenue Service)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

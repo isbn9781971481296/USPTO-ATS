@@ -1,0 +1,37 @@
+{
+  "serving_key": "1449438653",
+  "canonical_key": "city.attorney@seattle.gov",
+  "display_name": "Ann Davison (Seattle City Attorney's Office)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Seattle City Attorney's Office",
+  "full_name": "Ann Davison",
+  "pronouns": null,
+  "title": "Seattle City Attorney",
+  "organization": "Seattle City Attorney's Office",
+  "domain": "seattle.gov",
+  "addresses": {
+    "mailing_address": "701 Fifth Avenue, Suite 2050, Seattle, WA 98104-7097",
+    "business_address": "701 Fifth Avenue, Suite 2050, Seattle, WA 98104-7097",
+    "legal_service_address": "Office of the City Clerk, 600 Fourth Avenue, 3rd Floor, Seattle, WA 98104"
+  },
+  "registered_agent": {
+    "name": "Seattle City Clerk (for Service of Process)",
+    "address": "600 Fourth Avenue, 3rd Floor, Seattle, WA 98104",
+    "jurisdiction": "Washington"
+  },
+  "contact": {
+    "primary_email": "city.attorney@seattle.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-206-684-8200"
+    ],
+    "faxes": [
+      "+1-206-684-8284"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

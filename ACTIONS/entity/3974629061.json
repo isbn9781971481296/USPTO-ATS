@@ -1,0 +1,35 @@
+{
+  "serving_key": "3974629061",
+  "canonical_key": "patrice.caine@thalesgroup.com",
+  "display_name": "Patrice Caine (Thales Group)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Thales Group",
+  "full_name": "Patrice Caine",
+  "pronouns": null,
+  "title": "Chairman and Chief Executive Officer",
+  "organization": "Thales Group",
+  "domain": "thalesgroup.com",
+  "addresses": {
+    "mailing_address": "4, rue de la Verrerie, 92190 Meudon, France",
+    "business_address": "4, rue de la Verrerie, 92190 Meudon, France",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808, USA"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808, USA",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "patrice.caine@thalesgroup.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 1 57 77 80 00"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

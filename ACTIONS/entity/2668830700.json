@@ -1,0 +1,37 @@
+{
+  "serving_key": "2668830700",
+  "canonical_key": "county.attorney@miamidade.gov",
+  "display_name": "Miami-Dade County Attorney's Office",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Miami-Dade County Attorney's Office",
+  "full_name": "Miami-Dade County Attorney",
+  "pronouns": null,
+  "title": "County Attorney",
+  "organization": "Miami-Dade County Attorney's Office",
+  "domain": "miamidade.gov",
+  "addresses": {
+    "mailing_address": "Stephen P. Clark Center, 111 NW 1st Street, Suite 2810, Miami, FL 33128",
+    "business_address": "Stephen P. Clark Center, 111 NW 1st Street, Suite 2810, Miami, FL 33128",
+    "legal_service_address": "Stephen P. Clark Center, 111 NW 1st Street, Suite 2810, Miami, FL 33128"
+  },
+  "registered_agent": {
+    "name": "Clerk of the Board (Statutory Agent for Miami-Dade County)",
+    "address": "111 NW 1st Street, 17th Floor, Miami, FL 33128",
+    "jurisdiction": "Florida"
+  },
+  "contact": {
+    "primary_email": "county.attorney@miamidade.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "305-375-5151"
+    ],
+    "faxes": [
+      "305-375-5634"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

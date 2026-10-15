@@ -1,0 +1,30 @@
+{
+  "index": 119,
+  "header": "# Enclosure #119: Tier-1-READ-RECEIPT-alexandra-caritis-kirkland-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/__TIER-1/Tier-1__READ-RECEIPT-alexandra.caritis@kirkland.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-8efd08cb62.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "mgaleotti@kirkland.com",
+  "primary_recipient_an": "Mgaleotti (Kirkland & Ellis LLP)",
+  "all_recipients": [
+    "mgaleotti@kirkland.com",
+    "erin.nealycox@kirkland.com",
+    "alexandra.caritis@kirkland.com",
+    "jkasulis@kirkland.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "mgaleotti@kirkland.com": "Mgaleotti (Kirkland & Ellis LLP)",
+    "erin.nealycox@kirkland.com": "Erin Nealycox (Kirkland & Ellis LLP)",
+    "alexandra.caritis@kirkland.com": "Alexandra Caritis (Kirkland & Ellis LLP)",
+    "jkasulis@kirkland.com": "Jkasulis (Kirkland & Ellis LLP)",
+    "rj.aguiar.m@gmail.com": "Delivery Failure (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "Tier-1__READ-RECEIPT-alexandra.caritis@kirkland.com.pdf",
+  "patent_applications_mentioned": []
+}

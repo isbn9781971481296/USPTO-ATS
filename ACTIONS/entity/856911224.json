@@ -1,0 +1,35 @@
+{
+  "serving_key": "856911224",
+  "canonical_key": "_mchan@akingump.com",
+  "display_name": "M. Chan (Akin Gump Strauss Hauer & Feld LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Akin Gump Strauss Hauer & Feld LLP",
+  "full_name": "M. Chan",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Akin Gump Strauss Hauer & Feld LLP",
+  "domain": "akingump.com",
+  "addresses": {
+    "mailing_address": "2001 K Street N.W., Washington, DC 20006",
+    "business_address": "2001 K Street N.W., Washington, DC 20006",
+    "legal_service_address": "CT Corporation System, 1015 15th St NW, Suite 1000, Washington, DC 20005"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1015 15th St NW, Suite 1000, Washington, DC 20005",
+    "jurisdiction": "District of Columbia"
+  },
+  "contact": {
+    "primary_email": "_mchan@akingump.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-887-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

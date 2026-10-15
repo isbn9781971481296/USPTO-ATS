@@ -1,0 +1,37 @@
+{
+  "serving_key": "3280696222",
+  "canonical_key": "city.attorney@sanjoseca.gov",
+  "display_name": "Office of the City Attorney (City of San Jose)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "City of San Jose",
+  "full_name": "Office of the City Attorney",
+  "pronouns": null,
+  "title": "City Attorney",
+  "organization": "City of San Jose",
+  "domain": "sanjoseca.gov",
+  "addresses": {
+    "mailing_address": "200 E. Santa Clara St., 16th Floor, San Jose, CA 95113",
+    "business_address": "200 E. Santa Clara St., 16th Floor, San Jose, CA 95113",
+    "legal_service_address": "Office of the City Clerk, 200 E. Santa Clara St., 2nd Floor Wing, San Jose, CA 95113"
+  },
+  "registered_agent": {
+    "name": "Office of the City Clerk, City of San Jose",
+    "address": "200 E. Santa Clara St., 2nd Floor Wing, San Jose, CA 95113",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "city.attorney@sanjoseca.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "(408) 535-1900"
+    ],
+    "faxes": [
+      "(408) 998-3131"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

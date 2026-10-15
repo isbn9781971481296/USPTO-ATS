@@ -1,0 +1,110 @@
+{
+  "summary_of_pdf": "Formal demand letter and notice of provisional rights under 35 U.S.C. \u00a7 154(d) served by Reinaldo Aguiar Marcano upon the executive leadership of IBM Corporation and Microsoft Corporation. The instrument asserts that the recipients' quantum-centric supercomputing and hybrid cloud architectures infringe upon fifty-two (52) pending patent applications within the claimant's portfolio. The sender demands immediate Freedom to Operate (FTO) audits, quarantine of allegedly infringing commercial deployments, and a formal response within thirty (30) days, while explicitly acknowledging a 28 U.S.C. \u00a7 1498 carve-out for U.S. Government defense applications.",
+  "attorneys_comments": "This instrument functions as a tactical mechanism to trigger the accrual of provisional royalties under 35 U.S.C. \u00a7 154(d) by establishing 'actual notice' of published patent applications. Evidentiary strength is currently speculative; because the claims rely on pending applications rather than issued patents, immediate injunctive relief under FRCP 65 is legally unavailable. The claimant astutely preempts 28 U.S.C. \u00a7 1498 defenses by explicitly carving out U.S. Government use, thereby isolating and targeting commercial liabilities. However, the ultimatum demanding 'quarantine' of commercial architectures lacks coercive legal authority absent an issued patent. Procedurally, this sets the stage for potential post-issuance litigation in a venue such as the SDTX. The assertion requires rigorous preemptive Freedom to Operate (FTO) analyses and close monitoring of the prosecution history to ascertain whether the claims ultimately issue in a substantially identical form to those published.",
+  "recommended_next_steps": "1. Retain outside patent counsel to conduct a targeted Freedom to Operate (FTO) and invalidity analysis of the cited USPTO applications (19/562,845; 19/562,855; 19/562,853; 19/560,038; 19/562,818). 2. Monitor the USPTO prosecution history of the Aguiar Marcano portfolio; consider filing third-party pre-issuance submissions under 35 U.S.C. \u00a7 122(e) to introduce prior art and narrow claim scope. 3. Draft a measured, non-substantive response acknowledging receipt to prevent future claims of willful blindness, while expressly reserving all rights and non-infringement positions. 4. Segregate government contract revenues (shielded by 28 U.S.C. \u00a7 1498) from commercial revenues for accurate risk exposure modeling.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "35 U.S.C. \u00a7 122(e)",
+    "Patent Infringement",
+    "Formal Demand Letter",
+    "Provisional Rights Notice",
+    "Freedom to Operate (FTO)",
+    "Pre-Issuance Patent Strategy",
+    "Commercial Liability",
+    "Government Contractor Immunity",
+    "Quantum Computing"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo Aguiar Marcano",
+      "Arvind Krishna",
+      "Michelle H. Browdy",
+      "Satya Nadella",
+      "Hossein Nowbar"
+    ],
+    "companies": [
+      "IBM Corporation",
+      "Microsoft Corporation"
+    ],
+    "technologies": [
+      "Quantum-Centric Supercomputing",
+      "Disaggregated Hybrid Architectures",
+      "Quantum Processing Units (QPUs)",
+      "Superconducting Transmons",
+      "Topological Majorana Zero Modes",
+      "Classical CPUs and GPUs",
+      "Hybrid Clouds",
+      "NVQLink",
+      "RDMA",
+      "Cryogenic Cooling",
+      "Specialized ASICs",
+      "High-Radix Optical Interconnects"
+    ],
+    "products": [
+      "IBM Quantum",
+      "Qiskit v2.1",
+      "QCSC Reference Architecture",
+      "Azure Quantum",
+      "Majorana 1 Processor",
+      "Q# Programming Language",
+      "Quantum Resource Management Interface (QRMI)",
+      "Slurm plugins"
+    ],
+    "government_offices": [
+      "United States Patent and Trademark Office (USPTO)",
+      "United States Department of Defense",
+      "Department of Energy",
+      "National Security Agency (NSA)",
+      "United States Federal Government"
+    ],
+    "institutions": [
+      "State of Maryland"
+    ],
+    "prominent_locations": [
+      "Katy, TX"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": [
+      "Michelle H. Browdy",
+      "Hossein Nowbar"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/562,845",
+    "19/562,855",
+    "19/562,853",
+    "19/560,038",
+    "19/562,818"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "1494906056",
+  "basefilename": "IP_LIABILITY_QUANTUM_COMPUTING_COMPANIES",
+  "original_filename": "IP_LIABILITY_QUANTUM_COMPUTING_COMPANIES.pdf",
+  "category": "letter",
+  "subtype": "letter",
+  "date": "04172026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "hossein.nowbar@microsoft.com",
+  "primary_recipient_an": "Hossein\u200b\u200bNowbar (Microsoft Corporation)",
+  "all_recipients": [
+    "hossein.nowbar@microsoft.com",
+    "satya.nadella@microsoft.com",
+    "akrishna@us.ibm.com",
+    "michelle.browdy@ibm.com"
+  ],
+  "all_recipients_an": {
+    "hossein.nowbar@microsoft.com": "Hossein\u200b\u200bNowbar (Microsoft Corporation)",
+    "satya.nadella@microsoft.com": "Satya\u200b\u200bNadella (Microsoft Corporation)",
+    "akrishna@us.ibm.com": "Arvind\u200b\u200bKrishna (International Business Machines Corporation)",
+    "michelle.browdy@ibm.com": "Michelle Browdy (International Business Machines Corporation)"
+  },
+  "patent_applications": [
+    "19/562,845",
+    "19/562,855",
+    "19/562,853",
+    "19/560,038",
+    "19/562,818"
+  ]
+}

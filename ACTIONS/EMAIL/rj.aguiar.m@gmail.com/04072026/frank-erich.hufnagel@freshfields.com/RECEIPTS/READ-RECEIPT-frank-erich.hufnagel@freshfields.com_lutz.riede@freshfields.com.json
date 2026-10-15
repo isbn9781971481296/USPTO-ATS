@@ -1,0 +1,26 @@
+{
+  "index": 192,
+  "header": "# Enclosure #192: READ-RECEIPT-frank-erich-hufnagel-freshfields-com-lutz-riede-freshfields-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/READ-RECEIPT-frank-erich.hufnagel@freshfields.com_lutz.riede@freshfields.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-read-receipt-frank-erich.hufnagel@f-aadca929e3.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "frank-erich.hufnagel@freshfields.com",
+  "primary_recipient_an": "Frank Erich Hufnagel (Freshfields LLP)",
+  "all_recipients": [
+    "frank-erich.hufnagel@freshfields.com",
+    "lutz.riede@freshfields.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "frank-erich.hufnagel@freshfields.com": "Frank Erich Hufnagel (Freshfields LLP)",
+    "lutz.riede@freshfields.com": "Lutz Riede (Freshfields LLP)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "READ-RECEIPT-frank-erich.hufnagel@freshfields.com_lutz.riede@freshfields.com.pdf",
+  "patent_applications_mentioned": []
+}

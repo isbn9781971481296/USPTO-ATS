@@ -1,0 +1,37 @@
+{
+  "serving_key": "3275800771",
+  "canonical_key": "hawaiiag@hawaii.gov",
+  "display_name": "Department of the Attorney General (State of Hawaii)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "State of Hawaii",
+  "full_name": "Department of the Attorney General",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "State of Hawaii",
+  "domain": "hawaii.gov",
+  "addresses": {
+    "mailing_address": "425 Queen Street, Honolulu, HI 96813",
+    "business_address": "425 Queen Street, Honolulu, HI 96813",
+    "legal_service_address": "425 Queen Street, Honolulu, HI 96813"
+  },
+  "registered_agent": {
+    "name": "State of Hawaii Department of the Attorney General",
+    "address": "425 Queen Street, Honolulu, HI 96813",
+    "jurisdiction": "Hawaii"
+  },
+  "contact": {
+    "primary_email": "hawaiiag@hawaii.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-808-586-1500"
+    ],
+    "faxes": [
+      "+1-808-586-1239"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

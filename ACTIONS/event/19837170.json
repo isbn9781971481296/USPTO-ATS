@@ -1,0 +1,105 @@
+{
+  "summary_of_pdf": "The document is an RPost Registered Email receipt dated March 30, 2026, providing cryptographic proof of delivery, message content, and open-tracking for an email sent by Reinaldo J. Aguiar Marcano to several prominent investigative journalists. The underlying transmission distributed a USPTO patent application (19/632,333) and a legislative proposal ('The MARCELO Act of 2026') concerning major technology conglomerates, serving as a verifiable evidentiary record of actual notice and public disclosure.",
+  "attorneys_comments": "From an evidentiary standpoint, this RPost receipt is highly valuable for establishing actual notice and authenticating electronic transmission under Federal Rules of Evidence 901 and 803(6). The receipt confirms successful delivery and 'opened' status for key journalists at The New York Times and The New Yorker, while documenting delivery failures for Business Insider and PandoDaily due to invalid addresses or host unresponsiveness. Tactically, the sender is utilizing verifiable electronic transmission to create an immutable timeline of disclosure regarding USPTO App. No. 19/632,333 and associated legislative advocacy. If this relates to a whistleblower action, trade secret misappropriation, or patent infringement notice, this document firmly establishes the 'knowledge' prong for willful infringement or protected disclosure. However, counsel must note that disseminating pending USPTO applications to the press may waive certain confidentiality protections under 35 U.S.C. \u00a7 122 if not already published, and could trigger prior art or public use bars under 35 U.S.C. \u00a7 102 if the application is not properly secured or previously filed.",
+  "recommended_next_steps": "1. Authenticate the RPost receipt via 'verify@r1.rpost.net' to secure a self-authenticating digital record for potential litigation or administrative proceedings. 2. Review USPTO Application 19/632,333 to assess whether this public dissemination to journalists constitutes a waiver of confidentiality under 35 U.S.C. \u00a7 122 or triggers any statutory bars under 35 U.S.C. \u00a7 102. 3. Update the recipient list to correct the failed email addresses (e.g., Business Insider, PandoDaily) if actual notice to those specific entities remains strategically necessary. 4. Evaluate the contents of 'The MARCELO Act of 2026' to determine if the client is engaging in protected whistleblower activity or lobbying that requires specific compliance tracking.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "FRE 901",
+    "FRE 803(6)",
+    "35 U.S.C. \u00a7 122",
+    "35 U.S.C. \u00a7 102",
+    "Whistleblower Disclosure",
+    "Patent Prosecution",
+    "Media Communication",
+    "RPost Registered Email"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo Aguiar",
+      "Reinaldo J. Aguiar Marcano",
+      "Ryan Mac",
+      "Jane Mayer",
+      "Lauren Weber",
+      "Carole Cadwalladr",
+      "Kashmir Hill",
+      "Creswell"
+    ],
+    "companies": [
+      "Tesla",
+      "X (Twitter)",
+      "Uber",
+      "WebMD",
+      "Internet Brands",
+      "Cambridge Analytica",
+      "The New York Times",
+      "Business Insider",
+      "PandoDaily",
+      "The New Yorker",
+      "The Washington Post",
+      "The Guardian",
+      "RPost",
+      "Google",
+      "Proofpoint, Inc.",
+      "Sectigo Limited"
+    ],
+    "technologies": [
+      "Attributed Control Aggregation System",
+      "RMail System",
+      "TLSv1.2",
+      "ECDHE-ECDSA-AES128-GCM-SHA256"
+    ],
+    "products": [
+      "RPost Registered Email"
+    ],
+    "government_offices": [
+      "USPTO"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "California",
+      "Great Britain"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [
+    "19/632,333"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "19837170",
+  "basefilename": "Tier-1-Journalists-Previously-Harassed-by-BlackRock-and-Vanguard",
+  "original_filename": "Tier-1-Journalists-Previously-Harassed-by-BlackRock-and-Vanguard.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "03302026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "creswell@nytimes.com",
+  "primary_recipient_an": "Creswell (Nytimes)",
+  "all_recipients": [
+    "creswell@nytimes.com",
+    "kashmir.hill@nytimes.com",
+    "ryan.mac@nytimes.com",
+    "carole.cadwalladr@theguardian.com",
+    "mayer@newyorker.com",
+    "sarah@pandodaily.com",
+    "llopez@businessinsider.com",
+    "lauren.weber@washpost.com",
+    "kolmobilev6@gmail.com",
+    "jane_mayer@newyorker.com"
+  ],
+  "all_recipients_an": {
+    "creswell@nytimes.com": "Creswell (Nytimes)",
+    "kashmir.hill@nytimes.com": "Kashmir Hill (Nytimes)",
+    "ryan.mac@nytimes.com": "Ryan Mac (Nytimes)",
+    "carole.cadwalladr@theguardian.com": "Carole Cadwalladr (theguardian.com)",
+    "mayer@newyorker.com": "Mayer (newyorker.com)",
+    "sarah@pandodaily.com": "Sarah (PandoDaily)",
+    "llopez@businessinsider.com": "Llopez (businessinsider.com)",
+    "lauren.weber@washpost.com": "Lauren Weber (washpost.com)",
+    "kolmobilev6@gmail.com": "Kolmobilev6 (Gmail)",
+    "jane_mayer@newyorker.com": "Jane Mayer (newyorker.com)"
+  },
+  "patent_applications": []
+}

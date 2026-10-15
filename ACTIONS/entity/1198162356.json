@@ -1,0 +1,43 @@
+{
+  "serving_key": "1198162356",
+  "canonical_key": "hock.tan@broadcom.com",
+  "display_name": "Hock Tan (Broadcom Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Broadcom Inc.",
+  "full_name": "Hock Tan",
+  "pronouns": null,
+  "title": "President and Chief Executive Officer",
+  "organization": "Broadcom Inc.",
+  "domain": "broadcom.com",
+  "addresses": {
+    "mailing_address": "3421 Hillview Avenue, Palo Alto, CA 94304",
+    "business_address": "3421 Hillview Avenue, Palo Alto, CA 94304",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "hock.tan@broadcom.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-800-236-5626",
+      "+1-650-427-5000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "336022997",
+      "canonical_key": "mark.brazeal@broadcom.com",
+      "display_name": "Mark Brazeal",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

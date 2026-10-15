@@ -1,0 +1,106 @@
+{
+  "summary_of_pdf": "The document is an RPost Registered Email delivery receipt serving as evidentiary proof of an attempt by RJ Aguiar, Jr. to transmit a 'Formal Notice of Proprietary Rights' and initiate a provisional rights period under 35 U.S.C. \u00a7 154(d). The communication targets C-suite executives and legal counsel at IBM and Microsoft, asserting claims related to quantum-centric supercomputing and hybrid cloud architectures. The receipt documents the delivery status, including successful routing to IBM's mail server for Arvind Krishna, but delivery failures for Microsoft executives (Satya Nadella, Hossein Nowbar) and IBM's Michelle Browdy.",
+  "attorneys_comments": "As senior litigation counsel, I note significant evidentiary and procedural deficiencies in this service attempt. While the RPost receipt provides a verifiable cryptographic audit trail (admissible under FRE 803(6) as a business record), it explicitly establishes that actual notice was not effectuated upon Microsoft, as the server rejected the transmissions to Nadella and Nowbar ('Access denied'). To trigger provisional rights under 35 U.S.C. \u00a7 154(d), the statute requires 'actual notice' of the published patent application. The failure to deliver to Microsoft severely undermines any claim of actual notice against them. Furthermore, attempting to serve C-suite executives directly via email, rather than directing formal correspondence to designated registered agents or Chief IP Counsel, is tactically flawed and practically ineffective for establishing willful infringement or statutory notice. The successful delivery to Arvind Krishna's mail server may create a rebuttable presumption of receipt by IBM, but it remains a weak foundation for a \u00a7 154(d) claim without proof that the specific patent applications have actually published.",
+  "recommended_next_steps": "1) Immediately effectuate formal service of the published patent applications via certified mail, return receipt requested, to the registered agents for service of process for both IBM and Microsoft. 2) Cure the defective email service by identifying and directing correspondence to the correct legal department contacts (e.g., Chief IP Counsel) rather than C-suite executives whose inbound email is heavily filtered. 3) Preserve this RPost receipt as evidence of attempted notice, but do not rely on it to calculate 35 U.S.C. \u00a7 154(d) provisional rights damages against Microsoft. 4) Verify the publication status of the referenced patent applications on the USPTO docket, as publication is a strict statutory prerequisite for provisional rights.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Provisional Rights",
+    "Patent Infringement",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "FRE 803(6) Business Records",
+    "Actual Notice",
+    "Willful Infringement",
+    "Defective Service"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar JR",
+      "Arvind Krishna",
+      "Michelle Browdy",
+      "Satya Nadella",
+      "Hossein Nowbar",
+      "Jeff Bezos",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "IBM",
+      "Microsoft Corporation",
+      "Amazon",
+      "RPost",
+      "Proofpoint, Inc.",
+      "Sectigo Limited",
+      "DigiCert Inc",
+      "Google"
+    ],
+    "technologies": [
+      "Quantum-Centric Supercomputing",
+      "Hybrid Cloud Architectures"
+    ],
+    "products": [
+      "RPost Registered Email",
+      "Microsoft Outlook",
+      "Gmail"
+    ],
+    "government_offices": [
+      "European Patent Office (EPO)",
+      "United States Patent and Trademark Office (USPTO)"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Redmond, Washington",
+      "California"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": [
+      "Michelle Browdy",
+      "Hossein Nowbar"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "3979225551",
+  "basefilename": "READ-RECEIPT_arvind.krishna@ibm.com",
+  "original_filename": "READ-RECEIPT_arvind.krishna@ibm.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04162026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jeff.bezos@amazon.com",
+  "primary_recipient_an": "Jeff Bezos (Amazon.com, Inc.)",
+  "all_recipients": [
+    "jeff.bezos@amazon.com",
+    "arvind.krishna@ibm.com",
+    "satya.nadella@microsoft.com",
+    "srowan@epo.org",
+    "mbrowdy@ibm.com",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "hnowbar@microsoft.com",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "arvind.krishna@ibm.com": "Arvind Krishna (International Business Machines Corporation)",
+    "satya.nadella@microsoft.com": "Satya Narayana Nadella (Microsoft Corporation)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "mbrowdy@ibm.com": "Mbrowdy (International Business Machines Corporation)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "hnowbar@microsoft.com": "Hnowbar (Microsoft Corporation)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

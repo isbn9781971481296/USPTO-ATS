@@ -1,0 +1,48 @@
+{
+  "serving_key": "1462418580",
+  "canonical_key": "letters@time.com",
+  "display_name": "TIME Magazine Letters (TIME USA, LLC)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "TIME USA, LLC",
+  "full_name": "TIME Magazine Letters",
+  "pronouns": null,
+  "title": "Editorial Department",
+  "organization": "TIME USA, LLC",
+  "domain": "time.com",
+  "addresses": {
+    "mailing_address": "1095 Sixth Avenue, New York, NY 10036",
+    "business_address": "1095 Sixth Avenue, New York, NY 10036",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "letters@time.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-522-1212"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3959147684",
+      "canonical_key": "vera@time.com",
+      "display_name": "Vera Bergengruen",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1093754289",
+      "canonical_key": "sam.jacobs@time.com",
+      "display_name": "Sam Jacobs",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

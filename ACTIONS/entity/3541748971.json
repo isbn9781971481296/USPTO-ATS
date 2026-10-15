@@ -1,0 +1,35 @@
+{
+  "serving_key": "3541748971",
+  "canonical_key": "matthew.ford@bartlitbeck.com",
+  "display_name": "Matthew Ford (Bartlit Beck LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Bartlit Beck LLP",
+  "full_name": "Matthew Ford",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Bartlit Beck LLP",
+  "domain": "bartlitbeck.com",
+  "addresses": {
+    "mailing_address": "54 West Hubbard Street, Suite 300, Chicago, IL 60654",
+    "business_address": "54 West Hubbard Street, Suite 300, Chicago, IL 60654",
+    "legal_service_address": "54 West Hubbard Street, Suite 300, Chicago, IL 60654"
+  },
+  "registered_agent": {
+    "name": "Bartlit Beck LLP",
+    "address": "54 West Hubbard Street, Suite 300, Chicago, IL 60654",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "matthew.ford@bartlitbeck.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-312-494-4400"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

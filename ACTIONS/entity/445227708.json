@@ -1,0 +1,49 @@
+{
+  "serving_key": "445227708",
+  "canonical_key": "tim.burchett@mail.house.gov",
+  "display_name": "Tim Burchett (U.S. House of Representatives)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "U.S. House of Representatives",
+  "full_name": "Tim Burchett",
+  "pronouns": null,
+  "title": "U.S. Representative",
+  "organization": "U.S. House of Representatives",
+  "domain": "mail.house.gov",
+  "addresses": {
+    "mailing_address": "1122 Longworth House Office Building, Washington, DC 20515",
+    "business_address": "1122 Longworth House Office Building, Washington, DC 20515",
+    "legal_service_address": "Office of General Counsel, U.S. House of Representatives, 219 Cannon House Office Building, Washington, DC 20515"
+  },
+  "registered_agent": {
+    "name": "Office of General Counsel, U.S. House of Representatives",
+    "address": "219 Cannon House Office Building, Washington, DC 20515",
+    "jurisdiction": "Federal / Washington, D.C."
+  },
+  "contact": {
+    "primary_email": "tim.burchett@mail.house.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "202-225-5435",
+      "865-523-3772"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1912351771",
+      "canonical_key": "jason.smith@mail.house.gov",
+      "display_name": "Jason Smith",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1489004892",
+      "canonical_key": "matt.meyer@mail.house.gov",
+      "display_name": "Matt Meyer",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

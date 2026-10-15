@@ -1,0 +1,26 @@
+{
+  "index": 90,
+  "header": "# Enclosure #90: READ-RECEIPT-christophe-perillat-valeo-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT_christophe.perillat@valeo.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-christophe.perilla-b7523a3cb8.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "christophe.perillat@valeo.com",
+  "primary_recipient_an": "Christophe Perillat (Valeo)",
+  "all_recipients": [
+    "christophe.perillat@valeo.com",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "christophe.perillat@valeo.com": "Christophe Perillat (Valeo)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04162026",
+  "original_filename": "READ-RECEIPT_christophe.perillat@valeo.com.pdf",
+  "patent_applications_mentioned": []
+}

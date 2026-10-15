@@ -1,0 +1,38 @@
+{
+  "serving_key": "2587352517",
+  "canonical_key": "ir@bankofchina.com",
+  "display_name": "Investor Relations (Bank of China Limited)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Bank of China Limited",
+  "full_name": "Investor Relations",
+  "pronouns": null,
+  "title": "Investor Relations Department",
+  "organization": "Bank of China Limited",
+  "domain": "bankofchina.com",
+  "addresses": {
+    "mailing_address": "No. 1 Fuxingmen Nei Dajie, Beijing, 100818, People's Republic of China",
+    "business_address": "No. 1 Fuxingmen Nei Dajie, Beijing, 100818, People's Republic of China",
+    "legal_service_address": "1045 Avenue of the Americas, New York, NY 10018"
+  },
+  "registered_agent": {
+    "name": "Bank of China New York Branch (US Authorized Agent)",
+    "address": "1045 Avenue of the Americas, New York, NY 10018",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "ir@bankofchina.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+86 10 6659 2638",
+      "+86 10 6659 6688"
+    ],
+    "faxes": [
+      "+86 10 6659 4568"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

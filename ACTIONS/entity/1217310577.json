@@ -1,0 +1,35 @@
+{
+  "serving_key": "1217310577",
+  "canonical_key": "team@thielfellowship.org",
+  "display_name": "Thiel Fellowship Team (The Thiel Foundation)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "The Thiel Foundation",
+  "full_name": "Thiel Fellowship Team",
+  "pronouns": null,
+  "title": "Fellowship Team",
+  "organization": "The Thiel Foundation",
+  "domain": "thielfellowship.org",
+  "addresses": {
+    "mailing_address": "1 Letterman Drive, Building C, Suite 400, San Francisco, CA 94129",
+    "business_address": "1 Letterman Drive, Building C, Suite 400, San Francisco, CA 94129",
+    "legal_service_address": "1 Letterman Drive, Building C, Suite 400, San Francisco, CA 94129"
+  },
+  "registered_agent": {
+    "name": "The Thiel Foundation",
+    "address": "1 Letterman Drive, Building C, Suite 400, San Francisco, CA 94129",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "team@thielfellowship.org",
+    "alternative_emails": [
+      "hello@thielfoundation.org"
+    ],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

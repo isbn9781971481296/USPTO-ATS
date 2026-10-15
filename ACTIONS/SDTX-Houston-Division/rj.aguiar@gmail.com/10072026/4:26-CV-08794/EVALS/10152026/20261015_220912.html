@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GRS Candidate Evaluation Report - 4:26-CV-08794</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0f172a;
+            color: #e2e8f0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            padding: 30px 20px;
+        }
+        .report-container {
+            max-width: 1280px;
+            margin: 0 auto;
+        }
+        .card {
+            background-color: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+            color: #e2e8f0;
+        }
+        .card-header {
+            background-color: #243247;
+            border-bottom: 1px solid #334155;
+            padding: 14px 20px;
+        }
+        .winner-chip {
+            display: inline-flex;
+            align-items: center;
+            background-color: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 8px;
+            padding: 8px 14px;
+            margin: 4px 8px 4px 0;
+        }
+        .winner-pref {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 11px;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-right: 8px;
+        }
+        .winner-name {
+            color: #38bdf8;
+            margin-right: 10px;
+        }
+        .copy-btn {
+            background-color: #334155;
+            color: #f1f5f9;
+            border: 1px solid #475569;
+            border-radius: 4px;
+            font-size: 11px;
+            padding: 3px 8px;
+            cursor: pointer;
+            transition: all 0.15s ease-in-out;
+        }
+        .copy-btn:hover {
+            background-color: #475569;
+            color: #ffffff;
+            border-color: #64748b;
+        }
+        .copy-btn.btn-copied {
+            background-color: #16a34a !important;
+            border-color: #16a34a !important;
+            color: #ffffff !important;
+        }
+        .winner-callout {
+            background-color: rgba(34, 197, 94, 0.1);
+            border: 1px solid rgba(34, 197, 94, 0.3);
+            border-radius: 8px;
+            padding: 12px 18px;
+        }
+        .statement-box {
+            background-color: #0f172a;
+            border-left: 4px solid #3b82f6;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        table {
+            color: #e2e8f0;
+            margin-bottom: 0;
+        }
+        th {
+            background-color: #243247 !important;
+            color: #94a3b8 !important;
+            font-size: 12px;
+            text-transform: uppercase;
+            border-bottom: 2px solid #334155 !important;
+        }
+        td {
+            border-bottom: 1px solid #334155 !important;
+            font-size: 13px;
+            vertical-align: middle;
+        }
+        .table-hover tbody tr:hover {
+            background-color: #243247 !important;
+        }
+        .winner-row {
+            background-color: rgba(34, 197, 94, 0.05);
+        }
+        .badge-winner {
+            background-color: #22c55e;
+            color: #052e16;
+            font-weight: 700;
+            font-size: 10px;
+        }
+        .badge-score {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 12px;
+        }
+        .badge-eval-type {
+            background-color: #475569;
+            color: #e2e8f0;
+            font-size: 11px;
+        }
+        code {
+            color: #38bdf8;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="report-container">
+        <!-- Header -->
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <h2 class="text-white mb-1">⚖️ Phase-II Candidate Ranking & Adjudication Report</h2>
+                <div class="text-secondary">
+                    Application: <strong class="text-white">4:26-CV-08794</strong> |
+                    Evaluation Timestamp: <strong class="text-white"></strong> |
+                    Date: <strong class="text-white"></strong>
+                </div>
+            </div>
+            <div>
+                <span class="badge bg-primary px-3 py-2 fs-6">GRS Autonomous Adjudicator</span>
+            </div>
+        </div>
+
+        <!-- Winning Ensembles Card -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">🏆 Winning Document Ensemble (Selected for Filing)</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-secondary mb-2">Click any copy button to immediately copy the filename to clipboard for terminal searching or staging:</p>
+                <div class="d-flex flex-wrap">
+                    
+        <div class="winner-chip">
+            <span class="winner-pref">01__</span>
+            <span class="winner-name"><code>01__4-26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('01__4-26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">02__</span>
+            <span class="winner-name"><code>02__4-26-CV-08794-PROPOSED-ORDER-10152026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('02__4-26-CV-08794-PROPOSED-ORDER-10152026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">03__</span>
+            <span class="winner-name"><code>03__4-26-CV-08794-DECLARATION-10152026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('03__4-26-CV-08794-DECLARATION-10152026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">04__</span>
+            <span class="winner-name"><code>04__4-26-CV-08794-EXHIBIT-INDEX-10152026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('04__4-26-CV-08794-EXHIBIT-INDEX-10152026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+                </div>
+            </div>
+        </div>
+
+        <!-- Substantive Adjudication -->
+        
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">⚖️ Substantive Prosecution Paper Adjudication (01__ Transmittal / Response)</h5>
+                <span class="badge badge-eval-type">Adjudicator Panel: Examiner / Reviewer / Office of Petitions Senior Officer</span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Winning Transmittal:</strong>
+                    <code class="fs-6 ms-2">01__4-26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4-26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="statement-box mb-3">
+                    <h6 class="text-primary mb-2">Adjudicator Collective Decision Rationale:</h6>
+                    <p class="mb-0">Candidate 3 (01__4-26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex) is the most strategically sound and legally accurate memorandum. It correctly identifies the clerical discrepancies between the USM-285 forms and the issued summonses. Crucially, it cites binding Fifth Circuit precedent (Rochon v. Dawson, 828 F.2d 1107 (5th Cir. 1987)), which governs IFP service by the U.S. Marshals Service, noting that while the pro se plaintiff provided the correct addresses, the Clerk's error on the summonses could lead to unexecuted service or invite Rule 12(b)(4) motions for insufficient process. In strict adherence to the 'Deficiency Curing is Paramount' directive, Candidate 3 proactively advises filing a Notice of Errata to cure the defect before the USMS attempts service, rather than relying on the technicality that FRCP 4(a)(1) does not strictly require a defendant's address on the summons (as argued in Candidate 8). Furthermore, Candidate 3 properly advises the plaintiff to observe deferential decorum by waiting 48-72 hours for the Clerk's office to docket the substantive motion, reflecting an accurate understanding of federal court intake procedures. The document is impeccably formatted, adhering to SDTX Local Rules 5.1 and 10.1, and includes the mandatory draft certificates for the forthcoming motion.</p>
+                </div>
+                <div class="mb-3"><strong>ATS Defect & Waterfall Alignment:</strong> <span class="text-secondary">Candidate 3 fully complies with the SDTX Rules Ledger. It utilizes the authoritative federal caption (R-01), double-spacing (R-02), and one-inch margins (R-03). It correctly anticipates the need for a Certificate of Conference (R-06) and Certificate of Service (R-08) for the forthcoming curative motion. The memorandum maintains absolute deferential decorum (R-20) by advising the plaintiff not to prematurely complain to the Clerk's office regarding docketing delays. It contains zero internal automation jargon (R-21) and correctly applies Fifth Circuit precedent to address the substantive procedural issue.</span></div>
+                
+                <h6 class="mt-4 mb-2">Candidate Evaluation Scores & Reasoning:</h6>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 25%;">Candidate Filename</th>
+                                <th style="width: 8%;">Score</th>
+                                <th style="width: 32%;">Cleanliness of Arguments</th>
+                                <th style="width: 22%;">Risks & Liabilities</th>
+                                <th style="width: 8%;">ATS Addressed</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>01__4-26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4-26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">98.0</span></td>
+                <td>Impeccably formatted with a highly accurate application of Fifth Circuit IFP service precedent (Rochon v. Dawson). The argument is clinical, precise, and strategically proactive.</td>
+                <td>Minimal risk. Preemptively curing the Clerk's clerical error on the summonses eliminates the risk of unexecuted service or subsequent Rule 12(b)(4) motions.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#2</strong></td>
+                <td>
+                    <code>01__4-26-CV-08794-MEMO-STRATEGIC-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4-26-CV-08794-MEMO-STRATEGIC-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">92.0</span></td>
+                <td>Strong strategic focus. Correctly identifies the risk of a Rule 12(b)(5) motion if the USMS attempts service at the wrong address. Lacks the authoritative Fifth Circuit citation found in Candidate 3.</td>
+                <td>Low risk. Advises the correct curative action, though the legal grounding is slightly less exhaustive than the winning candidate.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#3</strong></td>
+                <td>
+                    <code>01__4-26-CV-08794-MEMO-BALANCED-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4-26-CV-08794-MEMO-BALANCED-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">88.0</span></td>
+                <td>Well-balanced and clearly written. Accurately diagnoses the docketing delay and advises the correct curative action for the summonses.</td>
+                <td>Low risk. Safe and effective advice, but lacks the deeper jurisprudential analysis of Candidate 3.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#4</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-MEMO-EXHAUSTIVE-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">85.0</span></td>
+                <td>Provides an excellent, technically accurate analysis of FRCP 4(a)(1), correctly noting that a defendant's address is not strictly required on the summons. However, it fails the 'Deficiency Curing' mandate by advising inaction.</td>
+                <td>Moderate risk. While technically correct under FRCP 4, ignoring a known clerical error on the summons invites practical confusion for the USMS and potential delay tactics from defense counsel.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#5</strong></td>
+                <td>
+                    <code>01__4-26-CV-08794-MEMO-PROSE-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4-26-CV-08794-MEMO-PROSE-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">84.0</span></td>
+                <td>Good, accessible tone for a pro se litigant. Correctly identifies the error and advises the proper cure.</td>
+                <td>Low risk, but the legal analysis is somewhat superficial compared to the top candidates.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#6</strong></td>
+                <td>
+                    <code>01__4-26-CV-08794-MEMO-CONCISE-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4-26-CV-08794-MEMO-CONCISE-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">82.0</span></td>
+                <td>Brief and to the point. Identifies the defect and advises a cure, but lacks depth in explaining the legal mechanics.</td>
+                <td>Low risk, but less informative for the litigant's overall strategic understanding.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#7</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-MEMO-BALANCED-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-MEMO-BALANCED-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">75.0</span></td>
+                <td>Uses a Texas state-style caption rather than the strict federal tabular format. Advises inaction on the summons discrepancy.</td>
+                <td>Moderate risk. Failing to cure the address discrepancy could lead to service failures.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#8</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-MEMO-STRATEGIC-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-MEMO-STRATEGIC-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">72.0</span></td>
+                <td>Dismisses the address mismatch as a 'non-issue'. While technically arguable, it is strategically poor advice when dealing with the USMS.</td>
+                <td>Moderate to high risk of service failure or delay.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#9</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-MEMO-PROCEDURAL-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-MEMO-PROCEDURAL-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">70.0</span></td>
+                <td>Focuses heavily on internal clerk routing (e.g., 'abh4', 'cjh4'), which is speculative. Advises against curing the summons defect.</td>
+                <td>Moderate risk. Speculating on clerk initials adds no legal value and ignoring the defect is strategically unsound.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#10</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-MEMO-CONCISE-10152026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-MEMO-CONCISE-10152026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">68.0</span></td>
+                <td>Too brief. Dismisses the address error entirely and uses a non-standard caption format.</td>
+                <td>Moderate risk due to advising inaction on a curable defect.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Non-Substantive Containment Rankings -->
+        <p class='text-muted'><em>No non-substantive candidate clusters required competitive ranking.</em></p>
+
+        <div class="text-center text-muted mt-4">
+            <small>USPTO Autonomous Patent Prosecution Engine • GRS Phase-II Adjudicator Framework</small>
+        </div>
+    </div>
+
+    <script>
+        function copyToClipboard(text, btn) {
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(text).then(() => showCopied(btn)).catch(() => fallbackCopy(text, btn));
+            } else {
+                fallbackCopy(text, btn);
+            }
+        }
+
+        function fallbackCopy(text, btn) {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            ta.style.position = 'fixed';
+            ta.style.left = '-9999px';
+            document.body.appendChild(ta);
+            ta.focus();
+            ta.select();
+            try {
+                document.execCommand('copy');
+                showCopied(btn);
+            } catch (e) {
+                prompt('Copy filename:', text);
+            }
+            ta.remove();
+        }
+
+        function showCopied(btn) {
+            const orig = btn.innerHTML;
+            btn.innerHTML = '✓ Copied!';
+            btn.classList.add('btn-copied');
+            setTimeout(() => {
+                btn.innerHTML = orig;
+                btn.classList.remove('btn-copied');
+            }, 2000);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+4/9/26, 8:02 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTU…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART
+DISCLOSURE: ARCHITECTURES FOR SURVEILLANCE NEUTRALIZATION, FORENSIC
+INFLUENCE DETECTION, AND SECURE INTELLIGENCE TRANSMISSION
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Thu, Apr 9, 2026 at 9:48 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE:
+ARCHITECTURES FOR SURVEILLANCE NEUTRALIZATION, FORENSIC INFLUENCE
+DETECTION, AND SECURE INTELLIGENCE TRANSMISSION
+
+To:
+
+<zaustin@palantir.com>
+
+Time Sent:
+
+04/09/2026 11:46:43 AM (UTC), 04/09/2026 11:46:43 AM (Local)
+
+Time Opened:
+
+04/09/2026 02:42:39 PM (UTC), 04/09/2026 02:42:39 PM (Local)
+
+Tracking Number:
+
+3BBF17AA0B083B05AE51A0D5A6329BB7B7CC7E68
+
+Network ID:
+
+ffb792ae-3130-4776-b3b5-3d74b5ca02e7@SM25
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 71.114.43.135] [Time Opened: 4/9/2026 2:42:39 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrmail.
+r1.rpost.net] [SCRIPT_NAME: /oatv_v2/exR0ChxuPdWrA0vn7GeGAnToBtRF0SIEK7CTV5f1MDIx.gif] HTTP_ACCEPT:image/
+webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rp
+ost.net HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
+Gecko) Mobile/15E148 HTTP_X_FORWARDED_FOR:71.114.43.135 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORW
+ARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d7badf-474e0f4476e0bc460d8d4ad7 HTTP_SEC_FETCH_DEST:i
+mage HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/web
+p,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Acce
+pt-Encoding: gzip, deflate, br, zstd Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPh
+one; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 71.1
+14.43.135 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d7badf-474e0f4476e0bc460d8d4ad7 s
+ec-fetch-dest: image sec-fetch-site: cross-site sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 4096 CN=A
+DMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/exR0Chxu
+PdWrA0vn7GeGAnToBtRF0SIEK7CTV5f1MDIx.gif 192.168.10.173 192.168.10.173 61552 GET /oatv_v2/exR0ChxuPdWrA0vn
+7GeGAnToBtRF0SIEK7CTV5f1MDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/exR0ChxuPdWrA0v
+n7GeGAnToBtRF0SIEK7CTV5f1MDIx.gif image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,ima
+ge/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br, zstd en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (iPhon
+e; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 71.114.43.135 https 443
+Root=1-69d7badf-474e0f4476e0bc460d8d4ad7 image cross-site no-cors u=5, i
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862004729033137479&simpl=msg-f:1862004729033137479
+
+1/2
+
+4/9/26, 8:02 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTU…
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+38K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862004729033137479&simpl=msg-f:1862004729033137479
+
+2/2
+
+

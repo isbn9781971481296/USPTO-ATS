@@ -1,0 +1,105 @@
+{
+  "summary_of_pdf": "This document is an RPost cryptographic proof of delivery receipt memorializing an email transmission from RJ Aguiar to Japanese intellectual property counsel. The underlying communication seeks legal representation and transmits a 47-patent portfolio, three specific USPTO patent applications, a Department of Defense license grant involving Heidi Shyu, and multiple formal criminal referrals and SEC whistleblower disclosures alleging wire fraud and retaliation.",
+  "attorneys_comments": "This RPost receipt constitutes highly probative, self-authenticating evidence of transmission and actual notice under FRE 901 and FRE 803(6). Tactically, it establishes that AIK Law (Ohno, Katayama) received and opened the transmission, thereby imputing knowledge of the attached patent portfolio, DoD license grants, and explosive whistleblower/criminal referrals. Conversely, the documented SMTP 550 5.4.1 delivery failures to TMI Associates (Ryobu, Hayashi) conclusively negate any presumption of receipt by those individuals. The substantive attachments suggest a highly volatile, multi-forum dispute implicating 28 U.S.C. \u00a7 1498 government use claims, DFARS data rights controversies, and SEC whistleblower retaliation. The sender is aggressively papering the record to establish actual notice, likely to support future claims of willful infringement or to exhaust administrative remedies. Counsel must approach this matter with extreme caution given the named government officials and the allegations of interstate wire fraud.",
+  "recommended_next_steps": "1. Preserve this RPost receipt and all native attachments in a secure litigation hold to maintain the cryptographic chain of custody. 2. Initiate a comprehensive conflicts check regarding RJ Aguiar, Lockheed Martin, the DoD, and the named individuals (McDonald, Herche, Shyu). 3. Review the identified USPTO applications (19/639,265; 19/639,219; 19/639,255) in Patent Center to assess prosecution status and potential 35 U.S.C. \u00a7 154(d) provisional rights. 4. Analyze the purported 'Heidi Shyu License Grant' to evaluate potential 28 U.S.C. \u00a7 1498 jurisdictional triggers. 5. Refrain from substantive response until the SEC whistleblower (TCR 17742-648-351-976) and criminal referral liabilities are fully triaged by white-collar defense counsel.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "DFARS 227.7004",
+    "FRE 901",
+    "FRE 803(6)",
+    "Patent Infringement",
+    "Whistleblower Retaliation",
+    "SEC Material Risk Disclosure",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "Government Procurement",
+    "18 U.S.C. \u00a7 1343"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Akie Ohno",
+      "Eiji Katayama",
+      "Nahoko Ryobu",
+      "Miwa Hayashi",
+      "Colin McDonald",
+      "Cody Matthew Herche",
+      "Heidi Shyu",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "Lockheed Martin",
+      "RPost",
+      "Google",
+      "Microsoft"
+    ],
+    "technologies": [
+      "High-Radix and Parametric Satellite Communication System",
+      "Central Processing Unit Architecture for Native Parametric and Symbolic Computation",
+      "High-Radix and Parametric Cellular Communication System"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [
+      "US Department of Defense",
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project",
+      "KKC"
+    ],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "AIK Law",
+      "TMI Associates",
+      "Foley"
+    ],
+    "attorneys": [
+      "Akie Ohno",
+      "Eiji Katayama",
+      "Nahoko Ryobu",
+      "Miwa Hayashi",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,265",
+    "19/639,219",
+    "19/639,255"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "3592908193",
+  "basefilename": "READ-RECEIPT-akie.ohno@aiklaw.co.jp_eiji.katayama@aiklaw.co.jp_miwa.hayashi@tmi.gr.jp_nahoko.ryobu@tmi.gr.jp",
+  "original_filename": "READ-RECEIPT-akie.ohno@aiklaw.co.jp_eiji.katayama@aiklaw.co.jp_miwa.hayashi@tmi.gr.jp_nahoko.ryobu@tmi.gr.jp.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "akie.ohno@aiklaw.co.jp",
+  "primary_recipient_an": "Akie Ohno (aiklaw.co.jp)",
+  "all_recipients": [
+    "akie.ohno@aiklaw.co.jp",
+    "_eiji.katayama@aiklaw.co.jp",
+    "_miwa.hayashi@tmi.gr.jp",
+    "nahoko.ryobu@tmi.gr.jp",
+    "miwa.hayashi@tmi.gr.jp",
+    "eiji.katayama@aiklaw.co.jp",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "akie.ohno@aiklaw.co.jp": "Akie Ohno (aiklaw.co.jp)",
+    "_eiji.katayama@aiklaw.co.jp": "Eiji Katayama (aiklaw.co.jp)",
+    "_miwa.hayashi@tmi.gr.jp": "Miwa Hayashi (Tmi)",
+    "nahoko.ryobu@tmi.gr.jp": "Nahoko Ryobu (Tmi)",
+    "miwa.hayashi@tmi.gr.jp": "Miwa Hayashi (Tmi)",
+    "eiji.katayama@aiklaw.co.jp": "Eiji Katayama (aiklaw.co.jp)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

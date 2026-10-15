@@ -1,0 +1,53 @@
+{
+  "index": 160,
+  "header": "# Enclosure #160: READ-RECEIPT-SpaceX-and-Viasat.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/__HIGH-Legal-Liability/READ-RECEIPT-SpaceX-and-Viasat.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-high-legal-liability-read-receipt-spac-395f8be79c.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "bret.johnsen@spacex.com",
+  "primary_recipient_an": "Bret Johnsen (Abuse)",
+  "all_recipients": [
+    "bret.johnsen@spacex.com",
+    "david.harris@spacex.com",
+    "michelle.gross@lw.com",
+    "elon.musk@spacex.com",
+    "gwynne.shotwell@spacex.com",
+    "ogizivojnovic@quinnemanuel.com",
+    "gsampas@gibsondunn.com",
+    "matthew.ford@bartlitbeck.co",
+    "bburoker@gibsondunn.com",
+    "jlipton@gibsondunn.com",
+    "matthew.ford@bartlitbeck.com",
+    "mark.dankberg@viasat.com",
+    "robert.blair@viasat.com",
+    "paul.castor@viasat.com",
+    "kolmobilev6@gmail.com"
+  ],
+  "all_recipients_an": {
+    "bret.johnsen@spacex.com": "Bret Johnsen (Abuse)",
+    "david.harris@spacex.com": "David Harris (Abuse)",
+    "michelle.gross@lw.com": "Michelle Gross (Latham & Watkins LLP)",
+    "elon.musk@spacex.com": "Elon Musk (Abuse)",
+    "gwynne.shotwell@spacex.com": "Gwynne Shotwell (Abuse)",
+    "ogizivojnovic@quinnemanuel.com": "Ogizivojnovic (quinnemanuel.com)",
+    "gsampas@gibsondunn.com": "Gsampas (gibsondunn.com)",
+    "matthew.ford@bartlitbeck.co": "Matthew Ford (bartlitbeck.co)",
+    "bburoker@gibsondunn.com": "Bburoker (gibsondunn.com)",
+    "jlipton@gibsondunn.com": "Jlipton (gibsondunn.com)",
+    "matthew.ford@bartlitbeck.com": "Matthew Ford (bartlitbeck.co)",
+    "mark.dankberg@viasat.com": "Mark Dankberg (Viasat)",
+    "robert.blair@viasat.com": "Robert Blair (Viasat)",
+    "paul.castor@viasat.com": "Paul Castor (Viasat)",
+    "kolmobilev6@gmail.com": "Kolmobilev6 (Gmail)"
+  },
+  "date": "04082026",
+  "original_filename": "READ-RECEIPT-SpaceX-and-Viasat.pdf",
+  "patent_applications_mentioned": [
+    "19/639,271",
+    "19/639,222"
+  ]
+}

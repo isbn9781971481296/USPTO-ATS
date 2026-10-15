@@ -1,0 +1,35 @@
+{
+  "serving_key": "2440194470",
+  "canonical_key": "mark.dankberg@viasat.com",
+  "display_name": "Mark Dankberg (Viasat, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Viasat, Inc.",
+  "full_name": "Mark Dankberg",
+  "pronouns": null,
+  "title": "Chairman and Chief Executive Officer",
+  "organization": "Viasat, Inc.",
+  "domain": "viasat.com",
+  "addresses": {
+    "mailing_address": "6155 El Camino Real, Carlsbad, CA 92009",
+    "business_address": "6155 El Camino Real, Carlsbad, CA 92009",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "mark.dankberg@viasat.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-760-476-2200"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

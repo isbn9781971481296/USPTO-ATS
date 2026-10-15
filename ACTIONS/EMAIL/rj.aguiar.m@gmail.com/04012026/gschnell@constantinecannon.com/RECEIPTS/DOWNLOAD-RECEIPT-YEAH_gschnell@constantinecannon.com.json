@@ -1,0 +1,24 @@
+{
+  "index": 158,
+  "header": "# Enclosure #158: DOWNLOAD-RECEIPT-YEAH-gschnell-constantinecannon-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/DOWNLOAD-RECEIPT-YEAH_gschnell@constantinecannon.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-download-receipt-yeah-gschnell@cons-9f26dbbd24.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "DOWNLOAD-RECEIPT",
+  "subtype": "download_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "gschnell@constantinecannon.com",
+  "primary_recipient_an": "Gschnell (constantinecannon.com)",
+  "all_recipients": [
+    "gschnell@constantinecannon.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "gschnell@constantinecannon.com": "Gschnell (constantinecannon.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04012026",
+  "original_filename": "DOWNLOAD-RECEIPT-YEAH_gschnell@constantinecannon.com.pdf",
+  "patent_applications_mentioned": []
+}

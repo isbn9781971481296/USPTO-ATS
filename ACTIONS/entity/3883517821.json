@@ -1,0 +1,36 @@
+{
+  "serving_key": "3883517821",
+  "canonical_key": "legal@ezeefiber.com",
+  "display_name": "Legal Department (Ezee Fiber)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Ezee Fiber Texas, LLC",
+  "full_name": "Legal Department",
+  "pronouns": null,
+  "title": "Legal Department",
+  "organization": "Ezee Fiber Texas, LLC",
+  "domain": "ezeefiber.com",
+  "addresses": {
+    "mailing_address": "14850 Woodham Dr, Houston, TX 77073",
+    "business_address": "14850 Woodham Dr, Houston, TX 77073",
+    "legal_service_address": "CT Corporation System, 1999 Bryan St., Ste. 900, Dallas, TX 75201"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1999 Bryan St., Ste. 900, Dallas, TX 75201",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "legal@ezeefiber.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-713-255-7500",
+      "+1-866-382-3933"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

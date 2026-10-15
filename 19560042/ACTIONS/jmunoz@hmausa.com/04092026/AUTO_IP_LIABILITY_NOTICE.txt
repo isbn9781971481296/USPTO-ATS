@@ -1,0 +1,165 @@
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+
+FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL
+KNOWLEDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d)
+REGARDING VEHICULAR OPTICAL DATA BUSES, V2V OPTICAL
+COMMUNICATION, AND AUTONOMOUS FLEET LOGISTICS
+This Notice: https://storage.googleapis.com/rj-aguiar/notices/AUTO_IP_LIABILITY_NOTICE.pdf
+
+TO: mary.barra@gm.com, jim.farley@ford.com, antonio.filosa@stellantis.com,
+giorgio.fossati@stellantis.com, ir@tesla.com, jeremie.papin@nissan-usa.com,
+andrew.tavi@nissan-usa.com, jmunoz@hmausa.com, antony.klapper@vw.com,
+tdoll@subaru.com, jguyton@mazdausa.com, smurphy5@mazdausa.com, seungkyuy@kia.com,
+jclose@kiausa.com, sebastian.mackensen@bmw.com, legal@lucidmotors.com,
+sepzaker@rivian.com
+RE: FORMAL NOTIFICATION OF PENDING PATENT CLAIMS, INITIATION OF PROVISIONAL
+RIGHTS PERIOD, AND DEMAND FOR DUE DILIGENCE CONCERNING THE AGUIAR
+MARCANO INTELLECTUAL PROPERTY PORTFOLIO
+DATE: April 9, 2026
+DEAR: Ms. Barra, Mr. Farley, Mr. Croley, Mr. Filosa, Mr. Fossati, Mr. Musk, Mr. Papin, Mr. Tavi,
+Mr. Munoz, Mr. Klapper, Mr. Doll, Mr. Guyton, Mr. Murphy, Mr. Yoon, Mr. Close, Mr. Mackensen,
+Mr. Rawlinson, and Mr. Scaringe,
+This comprehensive technical and legal brief is served upon the Chief Executive Officers and
+Chief Legal Officers of the designated automotive manufacturers to establish formal, legally
+binding actual notice.
+As the leaders of the corporations responsible for the vast majority of automotive assembly and
+engineering within the United States, your organizations are rapidly transitioning from traditional
+mechanical manufacturing to the deployment of "Software-Defined Vehicles" (SDVs). Modern
+automobiles are effectively mobile data centers, processing terabytes of sensor data for
+Advanced Driver Assistance Systems (ADAS) and autonomous navigation.
+However, your industry's roadmap for vehicular networking, Vehicle-to-Vehicle (V2V)
+communication, and electric vehicle (EV) cybersecurity directly intersects with the proprietary
+claims of the Aguiar Marcano Intellectual Property Portfolio. This portfolio comprises thirty-three
+(33) foundational patent applications formally executed and filed with the United States Patent
+
+Page 1 of 4
+
+ISBN 9781971481296
+
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+and Trademark Office (USPTO) in March 2026.1
+The primary objective of this document is to satisfy the stringent requirements for "Actual
+Notice" pursuant to 35 U.S.C. § 154(d), thereby initiating the immediate accrual of provisional
+rights and the corresponding liability for reasonable royalties.2
+
+I. Sector-Specific Liability Mapping: The End of the
+Copper Wiring Harness
+The automotive industry is facing a profound physical crisis: the copper wiring harness is now
+one of the heaviest and most complex components in a modern vehicle. As you integrate
+high-resolution LiDAR, radar, and 4K camera arrays to achieve Level 3 and Level 4 autonomy,
+traditional Controller Area Networks (CAN bus) and even Automotive Ethernet are choking on
+the bandwidth requirements.
+Attempting to scale current electronic architectures will literally make your vehicles too heavy to
+achieve regulatory range requirements. The inevitable architectural leap your engineering teams
+must make is legally encumbered by our portfolio.
+1. Massively Parallel Optical Data Bus Architecture (USPTO 19/562,818) & The Optical
+Computing Architecture (USPTO 19/560,038) To solve the vehicular I/O bottleneck, your
+next-generation platforms will be forced to replace heavy copper wiring harnesses with
+lightweight, high-capacity optical data fabrics. USPTO 19/562,818 claims an apparatus for an
+ultra-wide data bus implemented via a plurality of parallel optical channels, effectively turning a
+microscopic fiber bundle into a multi-terabit data pipe.1 Furthermore, USPTO 19/560,038 claims
+the end-to-end integration of this optical fabric to interconnect decentralized processing units
+and peripheral sensors.1 Any deployment of parallel optical interconnects to route autonomous
+driving sensor data to a central compute module directly infringes upon these foundational
+hardware claims.
+
+II. Vehicle-to-Vehicle (V2V) and Free-Space Telemetry
+Your current reliance on 5G and dedicated short-range communications (DSRC) for V2V data
+sharing is highly vulnerable to RF congestion, spectrum limitations, and latency.
+1. High-Bandwidth, Free-Space Optical Data Exchange Between Mobile Devices (USPTO
+19/560,042) As vehicles become equipped with high-resolution LED matrix headlights and
+taillights, the transition to optical V2V communication is inevitable. USPTO 19/560,042 claims a
+method for ultra-high-speed, free-space data exchange between mobile entities by modulating
+visual information at high frequencies, utilizing cameras as optical receivers.1 If your ADAS
+engineering teams deploy software updates that modulate exterior vehicular lighting to transmit
+
+Page 2 of 4
+
+ISBN 9781971481296
+
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+telemetry, braking intent, or environmental mapping data to adjacent vehicles via free-space
+optics, your vehicles become unlicensed optical data routers under this claim.1
+
+III. EV Infrastructure Cybersecurity and "Off-Grid"
+State Enforcement
+The proliferation of connected EVs presents an unprecedented national security vulnerability. A
+compromised charging network could theoretically be used to simultaneously brick millions of
+vehicles or orchestrate a coordinated drain on the municipal power grid.
+1. Hardware-Enforced Grid-Isolated Operation (USPTO 19/574,356) To protect vehicle
+operational technology (OT) from remote compromise during charging cycles, physical
+hardware isolation is required. USPTO 19/574,356 claims a security apparatus that physically
+disconnects network interfaces and high-emission peripherals the exact moment a device draws
+power from an external electrical grid.1 Any integration of hardware-level isolation by your EV
+powertrain divisions—ensuring the vehicle's critical driving systems can only boot or accept
+firmware updates in a battery-powered, grid-disconnected state—falls squarely under the
+protection of this patent.1
+
+IV. Dual-Purpose Fleet Logistics and Autonomous
+Robotaxis
+Several of your organizations, notably Tesla and General Motors (Cruise), are developing
+autonomous fleets intended to operate as decentralized ride-hailing networks.
+1. Business Method for Dual-Purpose Logistics Networks (USPTO 19/560,069) As
+connected vehicles generate petabytes of mapping and training data daily, uploading this data
+over cellular networks is prohibitively expensive and slow. USPTO 19/560,069 claims a method
+for optimizing a primary logistics network (e.g., passenger transport or autonomous ride-hailing)
+while simultaneously utilizing those vehicles to physically transport high-capacity data payloads
+(e.g., Portable Data Cartridges, USPTO 19/560,062) between edge nodes or charging hubs.1
+Utilizing your autonomous fleets to physically "mule" training data back to your central servers
+while fulfilling passenger routes directly triggers this business method claim.1
+
+V. Mandatory Due Diligence Protocols
+Under 35 U.S.C. § 154(d), the statutory clock for the calculation of retroactive reasonable
+royalties commences immediately upon your receipt and actual knowledge of the published
+claims detailed herein.2
+
+Page 3 of 4
+
+ISBN 9781971481296
+
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+The executive leadership of the addressed automotive manufacturers is hereby directed to
+execute the following immediate remediation protocols:
+1.​ Initiation of FTO Audits: The respective General Counsels and Chief Legal Officers must
+immediately retain specialized external patent counsel to cross-reference the thirty-three
+(33) applications within the Aguiar Marcano Portfolio against all current R&D roadmaps for
+optical wiring harnesses, EV charging cybersecurity protocols, and V2V optical telemetry.
+2.​ Quarantine of Intersecting Architectures: Any planned deployment of multi-channel
+optical data buses to replace copper ADAS sensor wiring, or the use of LED matrix
+lighting for free-space data transmission, must be suspended or quarantined pending legal
+clearance.
+
+VI. Strategic Licensing and Ultimatum
+The technological methodologies claimed in the Aguiar Marcano Portfolio are the fundamental
+prerequisites for the next era of automotive engineering. Attempting to overcome the physical
+weight of copper wiring or the latency of RF communication without intersecting these patents is
+mathematically and physically improbable.
+We formally invite your respective internal legal departments to initiate a technical review of the
+cited USPTO applications. A formal response outlining your intended compliance audit, a
+presentation of non-infringement theories, or a request to discuss an industry-wide licensing
+framework is expected within thirty (30) business days of the transmission of this notice.
+Govern yourselves accordingly.
+Reinaldo Aguiar Marcano
+
+Works cited
+1.​ 04-ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-filed-with-the-USP
+
+TO.pdf
+2.​ 35 USC 154 Contents and term of patent; provisional rights. - BitLaw, accessed
+April 9, 2026, https://www.bitlaw.com/source/35usc/154.html
+3.​ Preserving Provisional Rights for Pre-Issuance Patent Damages, accessed April
+9, 2026, https://www.hsfkramer.com/kl-pdfs/4/3/43719.pdf
+
+Page 4 of 4
+
+ISBN 9781971481296
+
+

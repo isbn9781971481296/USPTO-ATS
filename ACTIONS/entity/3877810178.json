@@ -1,0 +1,35 @@
+{
+  "serving_key": "3877810178",
+  "canonical_key": "db@byd.com",
+  "display_name": "BYD Corporate Contact (BYD Motors LLC)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "BYD Motors LLC",
+  "full_name": "BYD Corporate Contact",
+  "pronouns": null,
+  "title": "Corporate Contact",
+  "organization": "BYD Motors LLC",
+  "domain": "byd.com",
+  "addresses": {
+    "mailing_address": "1800 S Figueroa St, Los Angeles, CA 90015",
+    "business_address": "1800 S Figueroa St, Los Angeles, CA 90015",
+    "legal_service_address": "C T Corporation System, 330 N Brand Blvd, Ste 700, Glendale, CA 91203"
+  },
+  "registered_agent": {
+    "name": "C T Corporation System",
+    "address": "330 N Brand Blvd, Ste 700, Glendale, CA 91203",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "db@byd.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-213-748-3980"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,40 @@
+{
+  "serving_key": "1206500467",
+  "canonical_key": "dfhine@vorys.com-and-akamai",
+  "display_name": "David F. Hine (Vorys, Sater, Seymour and Pease LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Vorys, Sater, Seymour and Pease LLP",
+  "full_name": "David F. Hine",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Vorys, Sater, Seymour and Pease LLP",
+  "domain": "vorys.com-and-akamai",
+  "addresses": {
+    "mailing_address": "301 East Fourth Street, Suite 3500, Great American Tower, Cincinnati, OH 45202",
+    "business_address": "301 East Fourth Street, Suite 3500, Great American Tower, Cincinnati, OH 45202",
+    "legal_service_address": "52 East Gay Street, Columbus, OH 43215"
+  },
+  "registered_agent": {
+    "name": "Vorys, Sater, Seymour and Pease LLP",
+    "address": "52 East Gay Street, Columbus, OH 43215",
+    "jurisdiction": "Ohio"
+  },
+  "contact": {
+    "primary_email": "dfhine@vorys.com-and-akamai",
+    "alternative_emails": [
+      "dfhine@vorys.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1 513-723-4078",
+      "+1 513-723-4000"
+    ],
+    "faxes": [
+      "+1 513-852-7821"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

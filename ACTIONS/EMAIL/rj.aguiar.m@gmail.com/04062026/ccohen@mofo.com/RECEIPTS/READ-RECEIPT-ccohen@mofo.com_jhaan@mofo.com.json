@@ -1,0 +1,30 @@
+{
+  "index": 107,
+  "header": "# Enclosure #107: READ-RECEIPT-ccohen-mofo-com-jhaan-mofo-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT-ccohen@mofo.com_jhaan@mofo.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-ccohen@mofo.com-jh-13bb6fe9af.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "ccohen@mofo.com",
+  "primary_recipient_an": "Ccohen (Mofongo)",
+  "all_recipients": [
+    "ccohen@mofo.com",
+    "jhaan@mofo.com",
+    "us-smtpccohen@mofo.com",
+    "smtpthread21098781775510345990@usmta-138.us",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "ccohen@mofo.com": "Ccohen (Mofongo)",
+    "jhaan@mofo.com": "Jhaan (Mofongo)",
+    "us-smtpccohen@mofo.com": "Us Smtpccohen (Mofongo)",
+    "smtpthread21098781775510345990@usmta-138.us": "Smtpthread21098781775510345990 (Usmta-138)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT-ccohen@mofo.com_jhaan@mofo.com.pdf",
+  "patent_applications_mentioned": []
+}

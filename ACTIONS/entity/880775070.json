@@ -1,0 +1,40 @@
+{
+  "serving_key": "880775070",
+  "canonical_key": "jeremy.sanders@fisherbroyles.com",
+  "display_name": "Jeremy Sanders (FisherBroyles, LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "FisherBroyles, LLP",
+  "full_name": "Jeremy Sanders",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "FisherBroyles, LLP",
+  "domain": "fisherbroyles.com",
+  "addresses": {
+    "mailing_address": "945 East Paces Ferry Road, Suite 2000, Atlanta, GA 30326",
+    "business_address": "945 East Paces Ferry Road, Suite 2000, Atlanta, GA 30326",
+    "legal_service_address": "Corporation Service Company, 40 Technology Pkwy South, #300, Norcross, GA 30092"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "40 Technology Pkwy South, #300, Norcross, GA 30092",
+    "jurisdiction": "Georgia"
+  },
+  "contact": {
+    "primary_email": "jeremy.sanders@fisherbroyles.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3006566982",
+      "canonical_key": "_jeremy.sanders@fisherbroyles.com",
+      "display_name": "Jeremy Sanders",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

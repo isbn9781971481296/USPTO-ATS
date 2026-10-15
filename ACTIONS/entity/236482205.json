@@ -1,0 +1,42 @@
+{
+  "serving_key": "236482205",
+  "canonical_key": "frank.j.bisignano@irs.gov",
+  "display_name": "Frank J. Bisignano (Internal Revenue Service)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Internal Revenue Service",
+  "full_name": "Frank J. Bisignano",
+  "pronouns": null,
+  "title": "Official",
+  "organization": "Internal Revenue Service",
+  "domain": "irs.gov",
+  "addresses": {
+    "mailing_address": "1111 Constitution Ave NW, Washington, DC 20224",
+    "business_address": "1111 Constitution Ave NW, Washington, DC 20224",
+    "legal_service_address": "Office of the Chief Counsel, 1111 Constitution Ave NW, Washington, DC 20224"
+  },
+  "registered_agent": {
+    "name": "Office of the Chief Counsel, IRS",
+    "address": "1111 Constitution Ave NW, Washington, DC 20224",
+    "jurisdiction": "Federal"
+  },
+  "contact": {
+    "primary_email": "frank.j.bisignano@irs.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-800-829-1040"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "366622657",
+      "canonical_key": "dottie.romo@irs.gov",
+      "display_name": "Dottie Romo",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,36 @@
+{
+  "serving_key": "509664497",
+  "canonical_key": "ir@tesla.com",
+  "display_name": "Tesla Investor Relations (Tesla, Inc.)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Tesla, Inc.",
+  "full_name": "Tesla Investor Relations",
+  "pronouns": null,
+  "title": "Investor Relations",
+  "organization": "Tesla, Inc.",
+  "domain": "tesla.com",
+  "addresses": {
+    "mailing_address": "1 Tesla Road, Austin, TX 78725",
+    "business_address": "1 Tesla Road, Austin, TX 78725",
+    "legal_service_address": "211 E. 7th Street, Suite 620, Austin, TX 78701"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "211 E. 7th Street, Suite 620, Austin, TX 78701",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "ir@tesla.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 512-516-8177",
+      "+1 888-518-3752"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

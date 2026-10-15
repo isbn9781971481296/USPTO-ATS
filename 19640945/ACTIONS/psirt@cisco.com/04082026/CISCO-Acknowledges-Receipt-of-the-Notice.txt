@@ -1,0 +1,191 @@
+4/8/26, 12:38 PM
+
+Gmail - RE: Registered: NOTICE OF DISCOVERY & MATERIALITY
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+RE: Registered: NOTICE OF DISCOVERY & MATERIALITY
+John Warner (jowarner) <jowarner@cisco.com>
+To: "rj.aguiar.m@gmail.com" <rj.aguiar.m@gmail.com>, "psirt(mailer list)" <psirt@cisco.com>
+
+Wed, Apr 8, 2026 at 12:13 PM
+
+Hi RJ,
+
+Thanks for sharing this report.
+
+John Warner
+Incident Manager, PSIRT
+Security Research and Operations
+PGP: 0x334EBA80
+
+From: RJ Aguiar via RPost <rmail@r1.rpost.net>
+Sent: Wednesday, April 8, 2026 2:55 AM
+To: Dev Stahlkopf (devstahl) <devstahl@cisco.com>; Anthony Grieco (agrieco) <agrieco@cisco.com>; psirt(mailer list)
+<psirt@cisco.com>; investor_relations@cisco.com; bod(mailer list) <bod@cisco.com>;
+brosenthal@gibsondunn.com; srosenberg@gibsondunn.com; jdesmarais@desmaraisllp.com;
+michael.devries@kirkland.com; tpackin@desmaraisllp.com; ayang@gibsondunn.com; mbettinger@sidley.com;
+rpichler@fenwick.com
+Cc: rj.aguiar.m@gmail.com
+Subject: Registered: NOTICE OF DISCOVERY & MATERIALITY
+
+Registered Email™ | File Share
+This is a Registered Email™ message from RJ Aguiar .
+
+Large file(s) have been sent to you and are ready to be downloaded. The file(s) will be available for download for 14 days.
+File Name(s)
+EMAIL-TO-EPO_DefensivePublication-USPTO-No_19-640,
+945.pdf
+01__NOVEL-ENCRYPTIONMETHOD_USPTO-No_19-640,945.pdf
+
+550.86KB
+
+1.31MB
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861923297990085554&simpl=msg-f:1861923297990085554
+
+1/4
+
+4/8/26, 12:38 PM
+
+Gmail - RE: Registered: NOTICE OF DISCOVERY & MATERIALITY
+
+00__Department-of-Defense__TheHeidi-Shyu-License-Grant.pdf
+
+954.05KB
+
+01__ISBN-978-1-97-148129-6__
+Portfolio-of-Patent-ApplicationsSubmitted-to-theUSPTO_v2.1998.62.pdf
+
+70.82MB
+
+03__NOTICE OF FORMAL
+CRIMINAL REFERRAL For Interstate
+Wire Fraud and Retaliation Against a
+Whistleblower related to SEC TCR
+17742-648-351-976 .pdf
+
+144.60KB
+
+04__Honorable-Colin-McDonald_
+FORMAL-CRIMINAL-REFERRAL.pdf
+
+3.80MB
+
+05__The-Whistle-blower's-responseto-KKC.pdf
+
+214.91KB
+
+06__Triage-Request_sent-to-theGovernment-AccountabilityProject.pdf
+
+169.56KB
+
+07__Email-Sent-to-IP-AttorneysTerrell-Miller-and-Vanessa-Miller-atFoley.com.pdf
+
+147.69KB
+
+090__USPTO_No_19-639,219__
+Central_Processing_Unit_
+Architecture_for_Native_
+Parametric_and_Symbolic_
+Computation.pdf
+
+1.14MB
+
+091__USPTO_19_639,255_A_HighRadix_and_Parametric_Cellular_
+Communication_System.pdf
+
+925.87KB
+
+092__USPTO_19_639,265_A_HighRadix_and_Parametric_
+Satellite_Communication_System.pdf
+
+1.08MB
+
+93_USPTO_No_19_562,838__
+METHOD_FOR_ENERGYEFFICIENT_
+COMPUTING_VIA_CLOCK_SPEED_
+REDUCTION.pdf
+
+447.81KB
+
+Download Files
+
+Dear Ms. Stahlkopf, Mr. Grieco, the Cisco Board of Directors and Investor Relations Team,
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861923297990085554&simpl=msg-f:1861923297990085554
+
+2/4
+
+4/8/26, 12:38 PM
+
+Gmail - RE: Registered: NOTICE OF DISCOVERY & MATERIALITY
+
+To: The Office of the General Counsel, the CISO, and the Board of Directors of Cisco Systems, Inc.
+
+NOTICE OF DISCOVERY & MATERIALITY:
+
+This communication serves as formal notice of a material cybersecurity risk identified within Cisco Systems’ networking
+infrastructure, security software (Secure Client/AnyConnect), and the Cisco Security Cloud architecture.
+As of April 2026, the breakthrough in Neutral-Atom Reconfigurable Qubit Arrays (documented in the accompanying technical
+disclosure) has reduced the physical qubit requirements for breaking RSA-2048 and ECC-256 by a factor of 100x. This
+discovery renders current encryption standards used across Cisco’s product lines effectively obsolete and susceptible to nearterm decryption.
+
+CISC0-SPECIFIC EXPOSURE & THE "LATENCY TAX":
+
+Our analysis, supported by the attached USPTO filing (Application No. 19/640,945), indicates that Cisco’s current "QuantumSafe" roadmap is insufficient to mitigate this risk because:
+
+Legacy Hardware Vulnerability: Fixed-function hardware roots-of-trust in millions of active Catalyst and Nexus devices
+lack the computational overhead capacity to implement NIST-standard PQC (e.g., ML-KEM) without catastrophic
+performance failure.
+
+Backwards Secrecy Failure: The "Harvest Now, Decrypt Later" (HNDL) threat to Cisco's VPN and Zero-Trust tunnels is
+now an immediate fiscal risk, as the qubit-reduction breakthrough moves the decryption window from decades to
+months.
+
+MANDATORY SEC DISCLOSURE REQUIREMENTS:
+
+Under SEC Regulation S-K, Item 106, and Item 1.05 of Form 8-K, Cisco is required to disclose cybersecurity risks that are
+"material" to a reasonable investor. The obsolescence of your core security value proposition—upon which billions in annual
+revenue depend—is a fundamental material event.
+
+Failure to acknowledge this accelerated timeline in your upcoming 10-Q filings, or continuing to market these products as
+"Secure" without disclosing the qubit-reduction risk, may constitute a material omission under SEC Rule 10b-5.
+
+REQUIRED ACTION:
+
+Immediately evaluate the technical specifics of the 10,000-qubit reconfigurable architecture attached.
+
+Formally disclose this risk to shareholders via the SEC to ensure transparency regarding the long-term viability of Cisco’s
+encryption infrastructure.
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861923297990085554&simpl=msg-f:1861923297990085554
+
+3/4
+
+4/8/26, 12:38 PM
+
+Gmail - RE: Registered: NOTICE OF DISCOVERY & MATERIALITY
+
+NOTICE OF SCIENTER:
+
+This notice is being sent via a registered email service accepted by the courts. It creates a definitive legal record of Cisco's
+awareness of this risk. Any failure to disclose this information to the market will be cited as evidence of willful non-disclosure
+(scienter) in future shareholder derivative actions or regulatory investigations.
+
+Sincerely,
+Reinaldo J. Aguiar Marcano
+Forensic Systems Architect
+rj.aguiar.m@gmail.com
+ISBN: 978-1-97-148129-6
+
+If the button above is not active, please click or copy/paste the link below into your browser to pick up the attachments.
+https://fileshare.r1.rpost.net/files/OhDzT7a4hhBxx9Bg14JpZvYobwQNAw4HrJlZMAOCMTIw/ln/en-us
+
+RPost® Patented
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861923297990085554&simpl=msg-f:1861923297990085554
+
+4/4
+
+

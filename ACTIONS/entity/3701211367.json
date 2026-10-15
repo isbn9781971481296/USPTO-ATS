@@ -1,0 +1,37 @@
+{
+  "serving_key": "3701211367",
+  "canonical_key": "mark.hanley@hfzlaw.com",
+  "display_name": "Mark Hanley (Hanley, Flight & Zimmerman, LLC)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Hanley, Flight & Zimmerman, LLC",
+  "full_name": "Mark Hanley",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Hanley, Flight & Zimmerman, LLC",
+  "domain": "hfzlaw.com",
+  "addresses": {
+    "mailing_address": "150 S. Wacker Drive, Suite 2200, Chicago, IL 60606",
+    "business_address": "150 S. Wacker Drive, Suite 2200, Chicago, IL 60606",
+    "legal_service_address": "150 S. Wacker Drive, Suite 2200, Chicago, IL 60606"
+  },
+  "registered_agent": {
+    "name": "Hanley, Flight & Zimmerman, LLC",
+    "address": "150 S. Wacker Drive, Suite 2200, Chicago, IL 60606",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "mark.hanley@hfzlaw.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 312-357-1315"
+    ],
+    "faxes": [
+      "+1 312-357-1316"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

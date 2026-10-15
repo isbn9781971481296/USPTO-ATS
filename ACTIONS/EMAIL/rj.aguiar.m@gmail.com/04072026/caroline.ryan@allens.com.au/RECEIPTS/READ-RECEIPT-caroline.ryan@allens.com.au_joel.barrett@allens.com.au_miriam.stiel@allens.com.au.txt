@@ -1,0 +1,354 @@
+4/7/26, 9:15 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP
+Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 8:56 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered
+
+(UTC*)
+
+(local)
+
+caroline.ryan@allens.com.au
+
+Delivered to
+Mail Server
+
+250 SmtpThread-39395781775563601434@au-mta-38.au.
+04/07/2026
+mimecast.lan Received OK
+12:06:41 PM
+[arQDZChJOlW32tWYTIqzdQ.au38]
+(UTC)
+au-smtp-inbound-2.mimecast.com
+(103.96.22.26)
+
+joel.barrett@allens.com.au
+
+Delivered
+and Opened
+
+HTTP-IP:206.71.251.131
+
+04/07/2026
+12:06:41 PM
+(UTC)
+
+04/07/2026
+12:06:41 PM
+
+miriam.stiel@allens.com.au
+
+Delivered to
+Mail Server
+
+250 SmtpThread-51155731775563601564@au-mta-69.au.
+mimecast.lan Received OK [dZC6oELNlaiPgPLqnWS2w.au69]
+au-smtp-inbound-1.mimecast.com
+(103.96.20.26)
+
+04/07/2026
+12:06:41 PM
+(UTC)
+
+04/07/2026
+12:06:41 PM
+
+rj.aguiar.m@gmail.com
+
+Delivered
+and Opened
+
+HTTP-IP:66.249.80.2
+
+04/07/2026
+12:04:20 PM
+(UTC)
+
+04/07/2026
+12:04:20 PM
+
+04/07/2026
+12:06:41 PM
+
+Opened (local)
+
+04/07/2026
+01:16:27 PM
+
+04/07/2026
+12:22:54 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<caroline.ryan@allens.com.au> <joel.barrett@allens.com.au>
+<miriam.stiel@allens.com.au>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+c159344b-2082-44d9-a31f-fa929efc7e91@SM25
+
+Received by RMail System:
+
+04/07/2026 11:56:33 AM (UTC), 04/07/2026 11:56:33 AM (Local)
+
+Client Code:
+.
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861820299563244966&simpl=msg-f:1861820299563244966
+
+1/4
+
+4/7/26, 9:15 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+Message Statistics
+Tracking Number:
+
+5DC0F8BE7FDE19CCDE9E53A9E665BDBA46AA8CE2
+
+Message Size:
+
+4151
+
+Features Used:
+File Size:
+
+File Name:
+
+1132462
+
+092__USPTO_19_639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+976947
+
+00__Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+1195376
+
+090__USPTO_No_19-639,219__Central_Processing_Unit_Architecture_for_Native_
+Parametric_and_Symbolic_Computation.pdf
+
+948090
+
+091__USPTO_19_639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+.
+
+Delivery Audit Trail
+4/7/2026 12:06:36 PM starting allens.com.au/{default} 4/7/2026 12:06:36 PM connecting from mta21.r1.rpost.net (0.0.0.0) to a
+u-smtp-inbound-2.mimecast.com (103.96.22.26) 4/7/2026 12:06:36 PM connected from 192.168.10.11:39068 4/7/2026 12:06:3
+7 PM >>> 220 au-smtp-inbound-1.mimecast.com ESMTP; Tue, 07 Apr 2026 22:06:36 +1000 4/7/2026 12:06:37 PM <<< EHL
+O mta21.r1.rpost.net 4/7/2026 12:06:37 PM >>> 250-au-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026 12:06:37
+PM >>> 250-STARTTLS 4/7/2026 12:06:37 PM >>> 250 HELP 4/7/2026 12:06:37 PM <<< STARTTLS 4/7/2026 12:06:37 PM
+>>> 220 Starting TLS [arQDZChJOlW32tWYTIqzdQ.au38] 4/7/2026 12:06:38 PM tls:TLSv1.2 connected with 256-bit ECDHERSA-AES256-GCM-SHA384 4/7/2026 12:06:38 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.
+com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 12:06:38 PM <
+<< EHLO mta21.r1.rpost.net 4/7/2026 12:06:38 PM >>> 250-au-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026 1
+2:06:38 PM >>> 250-AUTH PLAIN LOGIN 4/7/2026 12:06:38 PM >>> 250 HELP 4/7/2026 12:06:38 PM <<< MAIL FROM: 4/
+7/2026 12:06:39 PM >>> 250 Sender OK [arQDZChJOlW32tWYTIqzdQ.au38] 4/7/2026 12:06:39 PM <<< RCPT TO: 4/7/2026
+12:06:39 PM >>> 250 Recipient OK [arQDZChJOlW32tWYTIqzdQ.au38] 4/7/2026 12:06:39 PM <<< DATA 4/7/2026 12:06:39
+PM >>> 354 Start mail data, end with CRLF.CRLF [arQDZChJOlW32tWYTIqzdQ.au38] 4/7/2026 12:06:39 PM <<< . 4/7/2026
+12:06:41 PM >>> 250 SmtpThread-3939578-1775563601434@au-mta-38.au.mimecast.lan Received OK [arQDZChJOlW32tW
+YTIqzdQ.au38] 4/7/2026 12:06:41 PM <<< QUIT 4/7/2026 12:06:41 PM >>> 221 Service closing transmission channel [4iSRt
+AsjNAiYwr724LfTZg.au38] 4/7/2026 12:06:41 PM closed au-smtp-inbound-2.mimecast.com (103.96.22.26) in=633 out=24189
+4/7/2026 12:06:41 PM done allens.com.au/{default}
+4/7/2026 12:06:36 PM starting allens.com.au/{default} 4/7/2026 12:06:36 PM connecting from mta21.r1.rpost.net (0.0.0.0) to a
+u-smtp-inbound-2.mimecast.com (103.96.22.26) 4/7/2026 12:06:36 PM connected from 192.168.10.11:42991 4/7/2026 12:06:3
+7 PM >>> 220 au-smtp-inbound-1.mimecast.com ESMTP; Tue, 07 Apr 2026 22:06:36 +1000 4/7/2026 12:06:37 PM <<< EHL
+O mta21.r1.rpost.net 4/7/2026 12:06:37 PM >>> 250-au-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026 12:06:37
+PM >>> 250-STARTTLS 4/7/2026 12:06:37 PM >>> 250 HELP 4/7/2026 12:06:37 PM <<< STARTTLS 4/7/2026 12:06:37 PM
+>>> 220 Starting TLS [ygYhTJiwNnOB9Rb4XbkyFg.au38] 4/7/2026 12:06:38 PM tls:TLSv1.2 connected with 256-bit ECDHERSA-AES256-GCM-SHA384 4/7/2026 12:06:38 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.
+com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 12:06:38 PM <
+<< EHLO mta21.r1.rpost.net 4/7/2026 12:06:38 PM >>> 250-au-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026 1
+2:06:38 PM >>> 250-AUTH PLAIN LOGIN 4/7/2026 12:06:38 PM >>> 250 HELP 4/7/2026 12:06:38 PM <<< MAIL FROM: 4/
+7/2026 12:06:39 PM >>> 250 Sender OK [ygYhTJiwNnOB9Rb4XbkyFg.au38] 4/7/2026 12:06:39 PM <<< RCPT TO: 4/7/2026
+12:06:39 PM >>> 250 Recipient OK [ygYhTJiwNnOB9Rb4XbkyFg.au38] 4/7/2026 12:06:39 PM <<< DATA 4/7/2026 12:06:39
+PM >>> 354 Start mail data, end with CRLF.CRLF [ygYhTJiwNnOB9Rb4XbkyFg.au38] 4/7/2026 12:06:39 PM <<< . 4/7/2026
+12:06:41 PM >>> 250 SmtpThread-3939579-1775563601686@au-mta-38.au.mimecast.lan Received OK [ygYhTJiwNnOB9Rb4
+XbkyFg.au38] 4/7/2026 12:06:41 PM <<< QUIT 4/7/2026 12:06:42 PM >>> 221 Service closing transmission channel [pPUQhttps://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861820299563244966&simpl=msg-f:1861820299563244966
+
+2/4
+
+4/7/26, 9:15 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+9TpMQ2Bzz-5uqdubw.au38] 4/7/2026 12:06:42 PM closed au-smtp-inbound-2.mimecast.com (103.96.22.26) in=633 out=2418
+6 4/7/2026 12:06:42 PM done allens.com.au/{default}
+4/7/2026 12:06:36 PM starting allens.com.au/{default} 4/7/2026 12:06:36 PM connecting from mta21.r1.rpost.net (0.0.0.0) to a
+u-smtp-inbound-1.mimecast.com (103.96.20.26) 4/7/2026 12:06:36 PM connected from 192.168.10.11:32848 4/7/2026 12:06:3
+7 PM >>> 220 au-smtp-inbound-1.mimecast.com ESMTP; Tue, 07 Apr 2026 22:06:36 +1000 4/7/2026 12:06:37 PM <<< EHL
+O mta21.r1.rpost.net 4/7/2026 12:06:37 PM >>> 250-au-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026 12:06:37
+PM >>> 250-STARTTLS 4/7/2026 12:06:37 PM >>> 250 HELP 4/7/2026 12:06:37 PM <<< STARTTLS 4/7/2026 12:06:37 PM
+>>> 220 Starting TLS [-dZC6oELNlaiPgPLqnWS2w.au69] 4/7/2026 12:06:38 PM tls:TLSv1.2 connected with 256-bit ECDHE-R
+SA-AES256-GCM-SHA384 4/7/2026 12:06:38 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.c
+om; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 12:06:38 PM <<
+< EHLO mta21.r1.rpost.net 4/7/2026 12:06:38 PM >>> 250-au-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026 12:
+06:38 PM >>> 250-AUTH PLAIN LOGIN 4/7/2026 12:06:38 PM >>> 250 HELP 4/7/2026 12:06:38 PM <<< MAIL FROM: 4/7/2
+026 12:06:39 PM >>> 250 Sender OK [-dZC6oELNlaiPgPLqnWS2w.au69] 4/7/2026 12:06:39 PM <<< RCPT TO: 4/7/2026 12:
+06:39 PM >>> 250 Recipient OK [-dZC6oELNlaiPgPLqnWS2w.au69] 4/7/2026 12:06:39 PM <<< DATA 4/7/2026 12:06:39 PM
+>>> 354 Start mail data, end with CRLF.CRLF [-dZC6oELNlaiPgPLqnWS2w.au69] 4/7/2026 12:06:39 PM <<< . 4/7/2026 12:0
+6:41 PM >>> 250 SmtpThread-5115573-1775563601564@au-mta-69.au.mimecast.lan Received OK [-dZC6oELNlaiPgPLqnWS
+2w.au69] 4/7/2026 12:06:41 PM <<< QUIT 4/7/2026 12:06:41 PM >>> 221 Service closing transmission channel [S44490ynN
+ZC__EwRhw6slg.au69] 4/7/2026 12:06:41 PM closed au-smtp-inbound-1.mimecast.com (103.96.20.26) in=633 out=24186 4/7/
+2026 12:06:41 PM done allens.com.au/{default}
+4/7/2026 12:04:19 PM starting gmail.com/{default} 4/7/2026 12:04:19 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.26) 4/7/2026 12:04:19 PM connected from 192.168.10.11:47509 4/7/2026 12:04:19 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43d1e50a605si33965035f8f.313 - gsmtp 4/7/2026 12:04:19 PM <<< EHLO mta2
+1.r1.rpost.net 4/7/2026 12:04:19 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 12:04:19 PM >>> 250-SI
+ZE 157286400 4/7/2026 12:04:19 PM >>> 250-8BITMIME 4/7/2026 12:04:19 PM >>> 250-STARTTLS 4/7/2026 12:04:19 PM
+>>> 250-ENHANCEDSTATUSCODES 4/7/2026 12:04:19 PM >>> 250-PIPELINING 4/7/2026 12:04:19 PM >>> 250-CHUNKIN
+G 4/7/2026 12:04:19 PM >>> 250 SMTPUTF8 4/7/2026 12:04:19 PM <<< STARTTLS 4/7/2026 12:04:19 PM >>> 220 2.0.0 R
+eady to start TLS 4/7/2026 12:04:19 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/7/2026 12:04:19 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/7/2026 12:04:19 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 12:04:19 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/7/2026 12:04:19 PM >>> 250-SIZE 157286400 4/7/2026 12:04:19 PM >>> 250-8BITMIME 4/7/2026 12:04:19 PM >>>
+250-ENHANCEDSTATUSCODES 4/7/2026 12:04:19 PM >>> 250-PIPELINING 4/7/2026 12:04:19 PM >>> 250-CHUNKING 4/
+7/2026 12:04:19 PM >>> 250 SMTPUTF8 4/7/2026 12:04:19 PM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 12:04:19 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43d1e50a605si33965035f8f.313 - gsmtp 4/7/2026 12:04:19 PM <<< RCPT TO: 4/7/2026 12:
+04:20 PM >>> 250 2.1.5 OK ffacd0b85a97d-43d1e50a605si33965035f8f.313 - gsmtp 4/7/2026 12:04:20 PM <<< DATA 4/7/202
+6 12:04:20 PM >>> 354 Go ahead ffacd0b85a97d-43d1e50a605si33965035f8f.313 - gsmtp 4/7/2026 12:04:20 PM <<< . 4/7/20
+26 12:04:20 PM >>> 250 2.0.0 OK 1775563460 ffacd0b85a97d-43d1e50a605si33965035f8f.313 - gsmtp 4/7/2026 12:04:20 PM
+<<< QUIT 4/7/2026 12:04:20 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e50a605si33965035f8f.313 - gsmtp 4/
+7/2026 12:04:20 PM closed gmail-smtp-in.l.google.com (142.251.127.26) in=779 out=24185 4/7/2026 12:04:25 PM done gmail.
+com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer au-smtp-inbound-2.mimecast.com (103.96.22.26)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer au-smtp-inbound-2.mimecast.com (103.96.22.26)
+[IP Address: 206.71.251.131] [Time Opened: 4/7/2026 1:16:27 PM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/KfCb8CwZpsVS2yzWCYE2EkfQ19vo37tBrgBsThQeMjEw.gif] HTTP_ACCEPT:imag
+e/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.
+5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-AU,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.
+net HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gec
+ko) Mobile/15E148 HTTP_X_FORWARDED_FOR:206.71.251.131 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWAR
+DED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d503ab-1dede1554c128a506af37bf5 HTTP_SEC_FETCH_SITE:cross
+-site HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,ima
+ge/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-En
+coding: gzip, deflate, br Accept-Language: en-AU,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPhone; CPU i
+Phone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 206.71.251.131
+X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d503ab-1dede1554c128a506af37bf5 sec-fetch-si
+te: cross-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com R
+oot Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3S
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861820299563244966&simpl=msg-f:1861820299563244966
+
+3/4
+
+4/7/26, 9:15 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+VC/12 192.168.10.112 /oatv_v2/KfCb8CwZpsVS2yzWCYE2EkfQ19vo37tBrgBsThQeMjEw.gif 192.168.10.14 192.168.10.14 23
+684 GET /oatv_v2/KfCb8CwZpsVS2yzWCYE2EkfQ19vo37tBrgBsThQeMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Micros
+oft-IIS/10.0 /oatv_v2/KfCb8CwZpsVS2yzWCYE2EkfQ19vo37tBrgBsThQeMjEw.gif image/webp,image/avif,image/jxl,image/hei
+c,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-AU,en;q=0.9 socr
+mail.r1.rpost.net Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobil
+e/15E148 206.71.251.131 https 443 Root=1-69d503ab-1dede1554c128a506af37bf5 cross-site image no-cors u=5, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer au-smtp-inbound-1.mimecast.com (103.96.20.26)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+[IP Address: 66.249.80.2] [Time Opened: 4/7/2026 12:22:54 PM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/Ifa0OBSPd6tc4VWeS29IHNVjkwAIeeUP9EqRtPgoMjEw.gif] HTTP_ACCEPT_ENCOD
+ING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fi
+refox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.2 HTTP_X_FORWARDED_PROTO:ht
+tps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4f71e-21b9b601376f8a0a20e89626 Accept-E
+ncoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (vi
+a ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.2 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trac
+e-Id: Root=1-69d4f71e-21b9b601376f8a0a20e89626 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.de
+vx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /
+oatv_v2/Ifa0OBSPd6tc4VWeS29IHNVjkwAIeeUP9EqRtPgoMjEw.gif 192.168.20.111 192.168.20.111 39126 GET /oatv_v2/Ifa0
+OBSPd6tc4VWeS29IHNVjkwAIeeUP9EqRtPgoMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/Ifa0
+OBSPd6tc4VWeS29IHNVjkwAIeeUP9EqRtPgoMjEw.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; r
+v:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.2 https 443 Root=1-69d4f71e-21b9b601376f8a0a20e
+89626
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+21K
+HtmlReceipt.htm
+141K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861820299563244966&simpl=msg-f:1861820299563244966
+
+4/4
+
+

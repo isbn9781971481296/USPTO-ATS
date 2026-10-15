@@ -1,0 +1,37 @@
+{
+  "serving_key": "1403204765",
+  "canonical_key": "attorney.general@ag.ky.gov",
+  "display_name": "Attorney General (Office of the Attorney General of Kentucky)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Office of the Attorney General of Kentucky",
+  "full_name": "Russell Coleman",
+  "pronouns": null,
+  "title": "Attorney General",
+  "organization": "Office of the Attorney General of Kentucky",
+  "domain": "ag.ky.gov",
+  "addresses": {
+    "mailing_address": "700 Capital Avenue, Suite 118, Frankfort, KY 40601",
+    "business_address": "700 Capital Avenue, Suite 118, Frankfort, KY 40601",
+    "legal_service_address": "700 Capital Avenue, Suite 118, Frankfort, KY 40601"
+  },
+  "registered_agent": {
+    "name": "Office of the Attorney General",
+    "address": "700 Capital Avenue, Suite 118, Frankfort, KY 40601",
+    "jurisdiction": "Kentucky"
+  },
+  "contact": {
+    "primary_email": "attorney.general@ag.ky.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "502-696-5300"
+    ],
+    "faxes": [
+      "502-564-2894"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

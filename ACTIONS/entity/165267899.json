@@ -1,0 +1,48 @@
+{
+  "serving_key": "165267899",
+  "canonical_key": "finance@boston.gov",
+  "display_name": "Finance Department (City of Boston)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "City of Boston",
+  "full_name": "Finance Department",
+  "pronouns": null,
+  "title": "Government Department",
+  "organization": "City of Boston",
+  "domain": "boston.gov",
+  "addresses": {
+    "mailing_address": "Boston City Hall, 1 City Hall Square, Boston, MA 02201",
+    "business_address": "Boston City Hall, 1 City Hall Square, Boston, MA 02201",
+    "legal_service_address": "City Clerk / Law Department, Boston City Hall, 1 City Hall Square, Boston, MA 02201"
+  },
+  "registered_agent": {
+    "name": "City Clerk / Corporation Counsel (Law Department)",
+    "address": "Boston City Hall, 1 City Hall Square, Boston, MA 02201",
+    "jurisdiction": "Massachusetts"
+  },
+  "contact": {
+    "primary_email": "finance@boston.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-617-635-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2704834445",
+      "canonical_key": "_corporation.counsel@boston.gov",
+      "display_name": "Corporation Counsel",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1994097893",
+      "canonical_key": "corporation.counsel@boston.gov",
+      "display_name": "Adam Cederbaum",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

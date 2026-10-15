@@ -1,0 +1,37 @@
+{
+  "serving_key": "2835949753",
+  "canonical_key": "vmiller@foley.com",
+  "display_name": "Vanessa Miller (Foley & Lardner LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Foley & Lardner LLP",
+  "full_name": "Vanessa Miller",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Foley & Lardner LLP",
+  "domain": "foley.com",
+  "addresses": {
+    "mailing_address": "150 West Jefferson, Suite 1000, Detroit, MI 48226",
+    "business_address": "150 West Jefferson, Suite 1000, Detroit, MI 48226",
+    "legal_service_address": "150 West Jefferson, Suite 1000, Detroit, MI 48226"
+  },
+  "registered_agent": {
+    "name": "Foley & Lardner LLP",
+    "address": "777 E Wisconsin Ave, Milwaukee, WI 53202",
+    "jurisdiction": "Wisconsin"
+  },
+  "contact": {
+    "primary_email": "vmiller@foley.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 313 234 7100"
+    ],
+    "faxes": [
+      "+1 313 234 2800"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

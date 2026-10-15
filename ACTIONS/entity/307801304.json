@@ -1,0 +1,54 @@
+{
+  "serving_key": "307801304",
+  "canonical_key": "grant.fisher@corrs.com.au",
+  "display_name": "Grant Fisher (Corrs Chambers Westgarth)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Corrs Chambers Westgarth",
+  "full_name": "Grant Fisher",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Corrs Chambers Westgarth",
+  "domain": "corrs.com.au",
+  "addresses": {
+    "mailing_address": "Level 25, 567 Collins Street, Melbourne VIC 3000, Australia",
+    "business_address": "Level 25, 567 Collins Street, Melbourne VIC 3000, Australia",
+    "legal_service_address": "Level 25, 567 Collins Street, Melbourne VIC 3000, Australia"
+  },
+  "registered_agent": {
+    "name": "Corrs Chambers Westgarth (Principal Office)",
+    "address": "Level 25, 567 Collins Street, Melbourne VIC 3000, Australia",
+    "jurisdiction": "Victoria, Australia"
+  },
+  "contact": {
+    "primary_email": "grant.fisher@corrs.com.au",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+61 3 9672 3000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2948450368",
+      "canonical_key": "stephen.stern@corrs.com.au",
+      "display_name": "Stephen Stern",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3058840686",
+      "canonical_key": "david.yates@corrs.com.au",
+      "display_name": "David Yates",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3071899300",
+      "canonical_key": "_grant.fisher@corrs.com.au",
+      "display_name": "Grant Fisher",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

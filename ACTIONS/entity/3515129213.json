@@ -1,0 +1,37 @@
+{
+  "serving_key": "3515129213",
+  "canonical_key": "jstrand@wolfgreenfield.com",
+  "display_name": "John Strand (Wolf, Greenfield & Sacks, P.C.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Wolf, Greenfield & Sacks, P.C.",
+  "full_name": "John Strand",
+  "pronouns": null,
+  "title": "Shareholder",
+  "organization": "Wolf, Greenfield & Sacks, P.C.",
+  "domain": "wolfgreenfield.com",
+  "addresses": {
+    "mailing_address": "600 Atlantic Avenue, Boston, MA 02210",
+    "business_address": "600 Atlantic Avenue, Boston, MA 02210",
+    "legal_service_address": "600 Atlantic Avenue, Boston, MA 02210"
+  },
+  "registered_agent": {
+    "name": "Wolf, Greenfield & Sacks, P.C.",
+    "address": "600 Atlantic Avenue, Boston, MA 02210",
+    "jurisdiction": "Massachusetts"
+  },
+  "contact": {
+    "primary_email": "jstrand@wolfgreenfield.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 617-646-8000"
+    ],
+    "faxes": [
+      "+1 617-646-8646"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

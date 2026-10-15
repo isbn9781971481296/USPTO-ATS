@@ -1,0 +1,423 @@
+4/17/26, 12:50 PM
+
+Gmail - Receipt: FORMAL PRESS DISCLOSURE: SYSTEMIC DEFENSE PROCUREMENT FRAUD, THE "PERPETUAL LICENS…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: FORMAL PRESS DISCLOSURE: SYSTEMIC DEFENSE PROCUREMENT FRAUD,
+THE "PERPETUAL LICENSE" PARADOX, AND THE 52-PATENT INTELLECTUAL
+PROPERTY BLOCKADE (Delivery Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Fri, Apr 17, 2026 at 12:37 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered
+
+(UTC*)
+
+(local)
+
+vera@time.com
+
+Delivery
+Failed
+
+550 5.1.1 The email account
+that you tried to reach does
+not exist. Please try doublechecking the recipient's email
+address for typos or
+unnecessary spaces. For
+***
+more information, go to
+https://support.google.com/
+mail/?p=NoSuchUser
+ffacd0b85a97d43fe4e5b565si3497095f8f.376
+- gsmtp
+
+alex.altman@time.com
+
+Delivered to
+Mail Server
+
+relayed;aspmx.l.google.com
+(142.251.127.27)
+
+massimo.calabresi@time.com
+
+Delivery
+Failed
+
+550 5.1.1 The email account
+that you tried to reach does
+not exist. Please try doublechecking the recipient's email
+address for typos or
+unnecessary spaces. For
+***
+more information, go to
+https://support.google.com/
+mail/?p=NoSuchUser
+ffacd0b85a97d43fe4e72d45si3485266f8f.480
+- gsmtp
+
+sam.jacobs@time.com
+
+Delivered to
+Mail Server
+
+relayed;aspmx.l.google.com
+(142.251.127.27)
+
+04/17/2026
+02:59:10 PM
+(UTC)
+
+04/17/2026
+02:59:10 PM
+
+letters@time.com
+
+Delivered to
+Mail Server
+
+relayed;aspmx.l.google.com
+(142.251.127.27)
+
+04/17/2026
+02:59:11 PM
+(UTC)
+
+04/17/2026
+02:59:11 PM
+
+04/17/2026
+02:59:10 PM
+(UTC)
+
+Opened (local)
+
+***
+
+04/17/2026
+02:59:10 PM
+
+***
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862740134560657195&simpl=msg-f:1862740134560657195
+
+1/5
+
+4/17/26, 12:50 PM
+
+Gmail - Receipt: FORMAL PRESS DISCLOSURE: SYSTEMIC DEFENSE PROCUREMENT FRAUD, THE "PERPETUAL LICENS…
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+HTTP-IP:66.249.80.2
+Opened
+
+04/17/2026
+03:05:02 PM
+(UTC)
+
+04/17/2026
+03:05:02 PM
+
+04/17/2026
+03:07:59 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+FORMAL PRESS DISCLOSURE: SYSTEMIC DEFENSE PROCUREMENT FRAUD, THE
+"PERPETUAL LICENSE" PARADOX, AND THE 52-PATENT INTELLECTUAL
+PROPERTY BLOCKADE
+
+To:
+
+<vera@time.com> <alex.altman@time.com> <massimo.calabresi@time.com>
+<sam.jacobs@time.com> <letters@time.com>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+Network ID:
+
+d5d0391c-b294-4ba8-a580-e4ecb93aa951@SM25
+
+Received by RMail System:
+
+04/17/2026 02:59:08 PM (UTC), 04/17/2026 02:59:08 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+929EE5CA70FC3E668B89EBC85CE07FCF97CF1D36
+
+Message Size:
+
+8813
+
+Features Used:
+File Size:
+
+File Name:
+
+146472
+
+01_DFARS_227.7004_Lockheed-Martin.pdf
+
+140554
+
+01_DFARS_227.7004_Plantir-and-Anduril-Industries.pdf
+
+466298
+
+02__READ-RECEIPT-Plantir-and-Anduril-Industries__Tier-0.pdf
+
+976947
+
+03__Department-of-Defense__The-Heidi-Shyu-License-Grant_Administered-by-EmilMichael.pdf
+
+77416366
+
+04__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.7.pdf
+
+1342177
+
+05__Declaration-D132_Parts-I_II_and_III-The_DOJ-Alumni_Network_v0408.4.pdf
+
+.
+
+Delivery Audit Trail
+4/17/2026 2:59:09 PM starting time.com/{default} 4/17/2026 2:59:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to aspm
+x.l.google.com (142.251.127.27) 4/17/2026 2:59:09 PM connected from 192.168.10.11:58940 4/17/2026 2:59:09 PM >>> 220
+mx.google.com ESMTP ffacd0b85a97d-43fe4e5b565si3497095f8f.376 - gsmtp 4/17/2026 2:59:09 PM <<< EHLO mta21.r1.rpo
+st.net 4/17/2026 2:59:09 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:09 PM >>> 250-SIZE 157
+286400 4/17/2026 2:59:09 PM >>> 250-8BITMIME 4/17/2026 2:59:09 PM >>> 250-STARTTLS 4/17/2026 2:59:09 PM >>> 25
+0-ENHANCEDSTATUSCODES 4/17/2026 2:59:09 PM >>> 250-PIPELINING 4/17/2026 2:59:09 PM >>> 250-CHUNKING 4/17/
+2026 2:59:09 PM >>> 250 SMTPUTF8 4/17/2026 2:59:09 PM <<< STARTTLS 4/17/2026 2:59:09 PM >>> 220 2.0.0 Ready to
+start TLS 4/17/2026 2:59:09 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/17/2026 2:59:0
+9 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/17/2026 2:59:09 PM <<
+< EHLO mta21.r1.rpost.net 4/17/2026 2:59:09 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:09 P
+M >>> 250-SIZE 157286400 4/17/2026 2:59:09 PM >>> 250-8BITMIME 4/17/2026 2:59:09 PM >>> 250-ENHANCEDSTATUS
+CODES 4/17/2026 2:59:09 PM >>> 250-PIPELINING 4/17/2026 2:59:09 PM >>> 250-CHUNKING 4/17/2026 2:59:09 PM >>>
+250 SMTPUTF8 4/17/2026 2:59:09 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 2:59:09 PM >>> 250 2.1.0 OK ffacd0
+b85a97d-43fe4e5b565si3497095f8f.376 - gsmtp 4/17/2026 2:59:09 PM <<< RCPT TO: 4/17/2026 2:59:09 PM >>> 550-5.1.1 T
+he email account that you tried to reach does not exist. Please try 4/17/2026 2:59:09 PM >>> 550-5.1.1 double-checking the r
+ecipient's email address for typos or 4/17/2026 2:59:09 PM >>> 550-5.1.1 unnecessary spaces. For more information, go to 4/
+17/2026 2:59:09 PM >>> 550 5.1.1 https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-43fe4e5b565si3497095f8
+f.376 - gsmtp 4/17/2026 2:59:09 PM <<< QUIT 4/17/2026 2:59:09 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43fe4
+e5b565si3497095f8f.376 - gsmtp 4/17/2026 2:59:09 PM closed aspmx.l.google.com (142.251.127.27) in=886 out=180 4/17/20
+26 2:59:10 PM done time.com/{default}
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862740134560657195&simpl=msg-f:1862740134560657195
+
+2/5
+
+4/17/26, 12:50 PM
+
+Gmail - Receipt: FORMAL PRESS DISCLOSURE: SYSTEMIC DEFENSE PROCUREMENT FRAUD, THE "PERPETUAL LICENS…
+
+4/17/2026 2:59:09 PM starting time.com/{default} 4/17/2026 2:59:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to aspm
+x.l.google.com (142.251.127.27) 4/17/2026 2:59:09 PM connected from 192.168.10.11:49915 4/17/2026 2:59:09 PM >>> 220
+mx.google.com ESMTP ffacd0b85a97d-43fe4e2bb9csi3656242f8f.205 - gsmtp 4/17/2026 2:59:09 PM <<< EHLO mta21.r1.rpo
+st.net 4/17/2026 2:59:09 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:09 PM >>> 250-SIZE 157
+286400 4/17/2026 2:59:09 PM >>> 250-8BITMIME 4/17/2026 2:59:09 PM >>> 250-STARTTLS 4/17/2026 2:59:09 PM >>> 25
+0-ENHANCEDSTATUSCODES 4/17/2026 2:59:09 PM >>> 250-PIPELINING 4/17/2026 2:59:09 PM >>> 250-CHUNKING 4/17/
+2026 2:59:09 PM >>> 250 SMTPUTF8 4/17/2026 2:59:09 PM <<< STARTTLS 4/17/2026 2:59:09 PM >>> 220 2.0.0 Ready to
+start TLS 4/17/2026 2:59:09 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/17/2026 2:59:0
+9 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/17/2026 2:59:09 PM <<
+< EHLO mta21.r1.rpost.net 4/17/2026 2:59:09 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:09 P
+M >>> 250-SIZE 157286400 4/17/2026 2:59:09 PM >>> 250-8BITMIME 4/17/2026 2:59:09 PM >>> 250-ENHANCEDSTATUS
+CODES 4/17/2026 2:59:09 PM >>> 250-PIPELINING 4/17/2026 2:59:09 PM >>> 250-CHUNKING 4/17/2026 2:59:09 PM >>>
+250 SMTPUTF8 4/17/2026 2:59:09 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 2:59:09 PM >>> 250 2.1.0 OK ffacd0
+b85a97d-43fe4e2bb9csi3656242f8f.205 - gsmtp 4/17/2026 2:59:09 PM <<< RCPT TO: 4/17/2026 2:59:09 PM >>> 250 2.1.5 O
+K ffacd0b85a97d-43fe4e2bb9csi3656242f8f.205 - gsmtp 4/17/2026 2:59:09 PM <<< DATA 4/17/2026 2:59:09 PM >>> 354 Go
+ahead ffacd0b85a97d-43fe4e2bb9csi3656242f8f.205 - gsmtp 4/17/2026 2:59:09 PM <<< . 4/17/2026 2:59:10 PM >>> 250 2.0.
+0 OK 1776437950 ffacd0b85a97d-43fe4e2bb9csi3656242f8f.205 - gsmtp 4/17/2026 2:59:10 PM <<< QUIT 4/17/2026 2:59:10
+PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43fe4e2bb9csi3656242f8f.205 - gsmtp 4/17/2026 2:59:10 PM closed asp
+mx.l.google.com (142.251.127.27) in=773 out=30330 4/17/2026 2:59:10 PM done time.com/{default}
+4/17/2026 2:59:09 PM starting time.com/{default} 4/17/2026 2:59:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to aspm
+x.l.google.com (142.251.127.27) 4/17/2026 2:59:09 PM connected from 192.168.10.11:43119 4/17/2026 2:59:09 PM >>> 220
+mx.google.com ESMTP ffacd0b85a97d-43fe4e72d45si3485266f8f.480 - gsmtp 4/17/2026 2:59:09 PM <<< EHLO mta21.r1.rpo
+st.net 4/17/2026 2:59:09 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:09 PM >>> 250-SIZE 157
+286400 4/17/2026 2:59:09 PM >>> 250-8BITMIME 4/17/2026 2:59:09 PM >>> 250-STARTTLS 4/17/2026 2:59:09 PM >>> 25
+0-ENHANCEDSTATUSCODES 4/17/2026 2:59:09 PM >>> 250-PIPELINING 4/17/2026 2:59:09 PM >>> 250-CHUNKING 4/17/
+2026 2:59:09 PM >>> 250 SMTPUTF8 4/17/2026 2:59:09 PM <<< STARTTLS 4/17/2026 2:59:09 PM >>> 220 2.0.0 Ready to
+start TLS 4/17/2026 2:59:09 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/17/2026 2:59:0
+9 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/17/2026 2:59:09 PM <<
+< EHLO mta21.r1.rpost.net 4/17/2026 2:59:09 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:09 P
+M >>> 250-SIZE 157286400 4/17/2026 2:59:09 PM >>> 250-8BITMIME 4/17/2026 2:59:09 PM >>> 250-ENHANCEDSTATUS
+CODES 4/17/2026 2:59:09 PM >>> 250-PIPELINING 4/17/2026 2:59:09 PM >>> 250-CHUNKING 4/17/2026 2:59:09 PM >>>
+250 SMTPUTF8 4/17/2026 2:59:09 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 2:59:09 PM >>> 250 2.1.0 OK ffacd0
+b85a97d-43fe4e72d45si3485266f8f.480 - gsmtp 4/17/2026 2:59:09 PM <<< RCPT TO: 4/17/2026 2:59:10 PM >>> 550-5.1.1 T
+he email account that you tried to reach does not exist. Please try 4/17/2026 2:59:10 PM >>> 550-5.1.1 double-checking the r
+ecipient's email address for typos or 4/17/2026 2:59:10 PM >>> 550-5.1.1 unnecessary spaces. For more information, go to 4/
+17/2026 2:59:10 PM >>> 550 5.1.1 https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-43fe4e72d45si3485266f8
+f.480 - gsmtp 4/17/2026 2:59:10 PM <<< QUIT 4/17/2026 2:59:10 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43fe4
+e72d45si3485266f8f.480 - gsmtp 4/17/2026 2:59:10 PM closed aspmx.l.google.com (142.251.127.27) in=886 out=193 4/17/20
+26 2:59:11 PM done time.com/{default}
+4/17/2026 2:59:09 PM starting time.com/{default} 4/17/2026 2:59:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to aspm
+x.l.google.com (142.251.127.27) 4/17/2026 2:59:09 PM connected from 192.168.10.11:47435 4/17/2026 2:59:10 PM >>> 220
+mx.google.com ESMTP 5b1f17b1804b1-488fc0fe4b6si37083565e9.7 - gsmtp 4/17/2026 2:59:10 PM <<< EHLO mta21.r1.rpos
+t.net 4/17/2026 2:59:10 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:10 PM >>> 250-SIZE 1572
+86400 4/17/2026 2:59:10 PM >>> 250-8BITMIME 4/17/2026 2:59:10 PM >>> 250-STARTTLS 4/17/2026 2:59:10 PM >>> 250ENHANCEDSTATUSCODES 4/17/2026 2:59:10 PM >>> 250-PIPELINING 4/17/2026 2:59:10 PM >>> 250-CHUNKING 4/17/2
+026 2:59:10 PM >>> 250 SMTPUTF8 4/17/2026 2:59:10 PM <<< STARTTLS 4/17/2026 2:59:10 PM >>> 220 2.0.0 Ready to
+start TLS 4/17/2026 2:59:10 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/17/2026 2:59:1
+0 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/17/2026 2:59:10 PM <<
+< EHLO mta21.r1.rpost.net 4/17/2026 2:59:10 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:10 P
+M >>> 250-SIZE 157286400 4/17/2026 2:59:10 PM >>> 250-8BITMIME 4/17/2026 2:59:10 PM >>> 250-ENHANCEDSTATUS
+CODES 4/17/2026 2:59:10 PM >>> 250-PIPELINING 4/17/2026 2:59:10 PM >>> 250-CHUNKING 4/17/2026 2:59:10 PM >>>
+250 SMTPUTF8 4/17/2026 2:59:10 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 2:59:10 PM >>> 250 2.1.0 OK 5b1f17
+b1804b1-488fc0fe4b6si37083565e9.7 - gsmtp 4/17/2026 2:59:10 PM <<< RCPT TO: 4/17/2026 2:59:10 PM >>> 250 2.1.5 OK
+5b1f17b1804b1-488fc0fe4b6si37083565e9.7 - gsmtp 4/17/2026 2:59:10 PM <<< DATA 4/17/2026 2:59:10 PM >>> 354 Go ahe
+ad 5b1f17b1804b1-488fc0fe4b6si37083565e9.7 - gsmtp 4/17/2026 2:59:10 PM <<< . 4/17/2026 2:59:10 PM >>> 250 2.0.0 OK
+1776437950 5b1f17b1804b1-488fc0fe4b6si37083565e9.7 - gsmtp 4/17/2026 2:59:10 PM <<< QUIT 4/17/2026 2:59:10 PM >>>
+221 2.0.0 closing connection 5b1f17b1804b1-488fc0fe4b6si37083565e9.7 - gsmtp 4/17/2026 2:59:10 PM closed aspmx.l.googl
+e.com (142.251.127.27) in=761 out=30327 4/17/2026 2:59:10 PM done time.com/{default}
+4/17/2026 2:59:09 PM starting time.com/{default} 4/17/2026 2:59:10 PM connecting from mta21.r1.rpost.net (0.0.0.0) to aspm
+x.l.google.com (142.251.127.27) 4/17/2026 2:59:10 PM connected from 192.168.10.11:36124 4/17/2026 2:59:10 PM >>> 220
+mx.google.com ESMTP ffacd0b85a97d-43fe4e5e312si3566972f8f.398 - gsmtp 4/17/2026 2:59:10 PM <<< EHLO mta21.r1.rpo
+st.net 4/17/2026 2:59:10 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:10 PM >>> 250-SIZE 157
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862740134560657195&simpl=msg-f:1862740134560657195
+
+3/5
+
+4/17/26, 12:50 PM
+
+Gmail - Receipt: FORMAL PRESS DISCLOSURE: SYSTEMIC DEFENSE PROCUREMENT FRAUD, THE "PERPETUAL LICENS…
+
+286400 4/17/2026 2:59:10 PM >>> 250-8BITMIME 4/17/2026 2:59:10 PM >>> 250-STARTTLS 4/17/2026 2:59:10 PM >>> 25
+0-ENHANCEDSTATUSCODES 4/17/2026 2:59:10 PM >>> 250-PIPELINING 4/17/2026 2:59:10 PM >>> 250-CHUNKING 4/17/
+2026 2:59:10 PM >>> 250 SMTPUTF8 4/17/2026 2:59:10 PM <<< STARTTLS 4/17/2026 2:59:10 PM >>> 220 2.0.0 Ready to
+start TLS 4/17/2026 2:59:10 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/17/2026 2:59:1
+0 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/17/2026 2:59:10 PM <<
+< EHLO mta21.r1.rpost.net 4/17/2026 2:59:10 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 2:59:10 P
+M >>> 250-SIZE 157286400 4/17/2026 2:59:10 PM >>> 250-8BITMIME 4/17/2026 2:59:10 PM >>> 250-ENHANCEDSTATUS
+CODES 4/17/2026 2:59:10 PM >>> 250-PIPELINING 4/17/2026 2:59:10 PM >>> 250-CHUNKING 4/17/2026 2:59:10 PM >>>
+250 SMTPUTF8 4/17/2026 2:59:10 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 2:59:10 PM >>> 250 2.1.0 OK ffacd0
+b85a97d-43fe4e5e312si3566972f8f.398 - gsmtp 4/17/2026 2:59:10 PM <<< RCPT TO: 4/17/2026 2:59:11 PM >>> 250 2.1.5 O
+K ffacd0b85a97d-43fe4e5e312si3566972f8f.398 - gsmtp 4/17/2026 2:59:11 PM <<< DATA 4/17/2026 2:59:11 PM >>> 354 Go
+ahead ffacd0b85a97d-43fe4e5e312si3566972f8f.398 - gsmtp 4/17/2026 2:59:11 PM <<< . 4/17/2026 2:59:11 PM >>> 250 2.0.
+0 OK 1776437951 ffacd0b85a97d-43fe4e5e312si3566972f8f.398 - gsmtp 4/17/2026 2:59:11 PM <<< QUIT 4/17/2026 2:59:11 P
+M >>> 221 2.0.0 closing connection ffacd0b85a97d-43fe4e5e312si3566972f8f.398 - gsmtp 4/17/2026 2:59:11 PM closed aspm
+x.l.google.com (142.251.127.27) in=773 out=30318 4/17/2026 2:59:11 PM done time.com/{default}
+4/17/2026 3:04:58 PM starting gmail.com/{default} 4/17/2026 3:05:02 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.26) 4/17/2026 3:05:02 PM connected from 192.168.10.11:43375 4/17/2026 3:05:02 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43fe4e4df7csi3575642f8f.329 - gsmtp 4/17/2026 3:05:02 PM <<< EHLO mta21.
+r1.rpost.net 4/17/2026 3:05:02 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 3:05:02 PM >>> 250-SIZ
+E 157286400 4/17/2026 3:05:02 PM >>> 250-8BITMIME 4/17/2026 3:05:02 PM >>> 250-STARTTLS 4/17/2026 3:05:02 PM >
+>> 250-ENHANCEDSTATUSCODES 4/17/2026 3:05:02 PM >>> 250-PIPELINING 4/17/2026 3:05:02 PM >>> 250-CHUNKIN
+G 4/17/2026 3:05:02 PM >>> 250 SMTPUTF8 4/17/2026 3:05:02 PM <<< STARTTLS 4/17/2026 3:05:02 PM >>> 220 2.0.0 R
+eady to start TLS 4/17/2026 3:05:02 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/17/2026 3:05:02 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/17/2026 3:05:02 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 3:05:02 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/17/2026 3:05:02 PM >>> 250-SIZE 157286400 4/17/2026 3:05:02 PM >>> 250-8BITMIME 4/17/2026 3:05:02 PM >>>
+250-ENHANCEDSTATUSCODES 4/17/2026 3:05:02 PM >>> 250-PIPELINING 4/17/2026 3:05:02 PM >>> 250-CHUNKING 4/
+17/2026 3:05:02 PM >>> 250 SMTPUTF8 4/17/2026 3:05:02 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 3:05:02 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43fe4e4df7csi3575642f8f.329 - gsmtp 4/17/2026 3:05:02 PM <<< RCPT TO: 4/17/2026 3:0
+5:02 PM >>> 250 2.1.5 OK ffacd0b85a97d-43fe4e4df7csi3575642f8f.329 - gsmtp 4/17/2026 3:05:02 PM <<< DATA 4/17/2026
+3:05:02 PM >>> 354 Go ahead ffacd0b85a97d-43fe4e4df7csi3575642f8f.329 - gsmtp 4/17/2026 3:05:02 PM <<< . 4/17/2026
+3:05:02 PM >>> 250 2.0.0 OK 1776438302 ffacd0b85a97d-43fe4e4df7csi3575642f8f.329 - gsmtp 4/17/2026 3:05:02 PM <<<
+QUIT 4/17/2026 3:05:02 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43fe4e4df7csi3575642f8f.329 - gsmtp 4/17/202
+6 3:05:02 PM closed gmail-smtp-in.l.google.com (142.251.127.26) in=773 out=30372 4/17/2026 3:05:11 PM done gmail.com/{d
+efault}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.27)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.27)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.27)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862740134560657195&simpl=msg-f:1862740134560657195
+
+4/5
+
+4/17/26, 12:50 PM
+
+Gmail - Receipt: FORMAL PRESS DISCLOSURE: SYSTEMIC DEFENSE PROCUREMENT FRAUD, THE "PERPETUAL LICENS…
+
+[IP Address: 66.249.80.2] [Time Opened: 4/17/2026 3:07:59 PM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/ed7Rasaudz6OvCbPyaSVA3bhEi98YaLlm4NkFATGMTAy.gif] HTTP_ACCEPT_ENCO
+DING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko
+Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.2 HTTP_X_FORWARDED_PROTO:
+https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e24ccf-40bf218069cfb5741ba3c88f AcceptEncoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.2 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Tr
+ace-Id: Root=1-69e24ccf-40bf218069cfb5741ba3c88f /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.d
+evx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112
+/oatv_v2/ed7Rasaudz6OvCbPyaSVA3bhEi98YaLlm4NkFATGMTAy.gif 192.168.10.122 192.168.10.122 5908 GET /oatv_v2/ed
+7Rasaudz6OvCbPyaSVA3bhEi98YaLlm4NkFATGMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/e
+d7Rasaudz6OvCbPyaSVA3bhEi98YaLlm4NkFATGMTAy.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.
+1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.2 https 443 Root=1-69e24ccf-40bf218069cfb5741
+ba3c88f
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+27K
+HtmlReceipt.htm
+181K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862740134560657195&simpl=msg-f:1862740134560657195
+
+5/5
+
+

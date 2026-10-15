@@ -1,0 +1,205 @@
+4/15/26, 6:47 PM
+
+Receipt: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AND DEMAND FOR …
+
+Search mail
+
+Hostname=LV3PR16MB6742.
+ir@tesla.com
+
+Delivered to Mail
+Server
+
+namprd16.prod.outlook.com]
+29829 bytes in 0.169,
+172.340 KB/sec Queued mail
+
+04/15/2026
+
+04/15/2026
+
+09:18:35 PM (UTC) 09:18:35 PM
+
+for delivery teslacom.mail.protection.
+outlook.com (52.101.194.0)
+sepzaker@rivian.com
+
+legal@lucidmotors.com
+
+jim.farley@ford.com
+
+antony.klapper@vw.com
+
+sebastian.mackensen@bmw.com
+
+myprivacy@mbusa.com
+
+jmunoz@hmausa.com
+
+Delivered to Mail
+
+relayed;smtp.google.com
+
+04/15/2026
+
+Server
+
+(142.251.127.26)
+
+09:18:34 PM (UTC) 09:18:34 PM
+
+Delivered and
+Opened
+Delivered and
+Opened
+
+HTTP-IP:72.153.153.18
+
+HTTP-IP:19.12.76.190
+
+04/15/2026
+
+04/15/2026
+
+04/15/2026
+
+09:28:36 PM (UTC) 09:28:36 PM
+04/15/2026
+
+04/15/2026
+
+09:18:36 PM (UTC) 09:18:36 PM
+
+Delivered to Mail
+
+relayed;mx0a.vw.com
+
+04/15/2026
+
+Server
+
+(148.163.135.19)
+
+09:18:37 PM (UTC) 09:18:37 PM
+
+Delivered to Mail
+Server
+
+relayed;mx1.hc32448.eu.iphmx.com
+(207.54.71.69)
+
+04/15/2026
+
+04/15/2026
+
+04/15/2026
+
+09:18:34 PM (UTC) 09:18:34 PM
+
+Delivered to Mail
+
+relayed;two.mail-in.daimler.
+
+04/15/2026
+
+Server
+
+com (141.113.8.25)
+
+09:18:34 PM (UTC) 09:18:34 PM
+
+Delivered and
+Opened
+
+HTTP-IP:174.218.83.110
+
+04/15/2026
+
+04/15/2026
+
+04/15/2026
+
+09:28:37 PM (UTC) 09:28:37 PM
+
+550 5.1.10 RESOLVER.ADR.
+seungkyuy@kia.com
+
+jclose@kiausa.com
+
+Delivery Failed
+
+RecipientNotFound; Recipient
+not found by SMTP address
+lookup
+
+***
+
+***
+
+04/15/2026
+
+Delivered and
+
+HTTP-IP:75.104.92.171,
+
+04/15/2026
+
+Opened
+
+136.226.100.173
+
+09:28:40 PM (UTC) 09:28:40 PM
+
+rj.aguiar.m+legal-notice@
+
+Delivered and
+
+gmail.com
+
+Opened
+
+HTTP-IP:66.249.80.2
+
+04/15/2026
+
+04/15/2026
+
+09:19:39 PM (UTC) 09:19:39 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVIS
+AND DEMAND FOR DUE DILIGENCE CONCERNING COVERT OPTICA
+VEHICULAR LED ASSEMBLIES
+
+To:
+
+<ir@tesla.com> <sepzaker@rivian.com> <legal@lucidmotors.com> <jim
+<antony.klapper@vw.com> <sebastian.mackensen@bmw.com> <mypriv
+<jmunoz@hmausa.com> <seungkyuy@kia.com> <jclose@kiausa.com>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+Network ID:
+
+4c0bba1a-e3a5-4c02-9782-a4f71dcc9d1d@SM25
+
+Received by RMail System:
+
+04/15/2026 09:18:32 PM (UTC) 04/15/2026 09:18:32 PM (Local)
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgLPPmHBmMmSSPBWVqMnWFvTMT
+
+1/1
+
+

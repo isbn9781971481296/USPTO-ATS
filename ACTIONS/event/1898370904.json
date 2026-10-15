@@ -1,0 +1,150 @@
+{
+  "summary_of_pdf": "Formal notice of defensive publication and technical disclosure delivered via RPost by Reinaldo J. Aguiar Marcano to executives and outside counsel at major aerospace and satellite imaging corporations (Maxar, Airbus, Planet, BlackSky, Satellogic). The instrument asserts the establishment of definitive prior art in satellite vision systems and optical communications through a published 721-page portfolio of five USPTO patent applications. It further notices a perpetual, no-fee license granted to the U.S. Federal Government and includes highly adversarial attachments alleging criminal wire fraud and whistleblower retaliation.",
+  "attorneys_comments": "This instrument functions as a highly aggressive, multi-pronged notice letter designed to establish evidentiary proof of delivery (via RPost) for both defensive publication (prior art under 35 U.S.C. \u00a7 102) and potential willful infringement claims (35 U.S.C. \u00a7 284). The sender's tactical deployment of a U.S. Government license implicates 28 U.S.C. \u00a7 1498, potentially shielding government contractors from direct infringement liability while preserving claims against commercial applications. The inclusion of 'Formal Criminal Referrals' for Interstate Wire Fraud and whistleblower documents introduces severe collateral liabilities and suggests a highly volatile, quasi-pro se litigant posture. Evidentiary strength is bolstered by the RPost delivery receipt, which will satisfy FRCP Rule 4 and 5 notice requirements for actual knowledge. Counsel must immediately quarantine the technical disclosures to prevent contamination of ongoing internal R&D, assess the cited USPTO applications for patentability, and evaluate the criminal referral attachments for potential SEC material risk disclosure obligations or ABA Model Rule 8.3 reporting duties.",
+  "recommended_next_steps": "1. Institute an immediate clean-room protocol and litigation hold regarding the cited USPTO applications to mitigate willful infringement risks. 2. Conduct a Freedom to Operate (FTO) analysis against the five enumerated USPTO applications. 3. Review the attached 'Criminal Referral' documents to determine if any internal investigations or SEC disclosures are warranted. 4. Verify the EPO NPL indexing and USPTO prosecution status of the cited applications. 5. Do not respond directly to the sender; route all communications through outside IP litigation counsel.",
+  "tags": [
+    "35 U.S.C. \u00a7 102 (Prior Art)",
+    "35 U.S.C. \u00a7 284 (Willful Infringement)",
+    "28 U.S.C. \u00a7 1498 (Eminent Domain over Patents)",
+    "DFARS 227.7004",
+    "FRCP Rule 26 (Duty to Disclose)",
+    "Defensive Publication",
+    "Evidentiary Proof of Delivery",
+    "Patent Infringement Notice",
+    "Whistleblower Retaliation",
+    "Interstate Wire Fraud",
+    "SEC Material Risk Disclosure",
+    "ABA Model Rule 8.3"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Reinaldo J. Aguiar Marcano",
+      "Chris Johnson",
+      "Daniel Jablonsky",
+      "Michael Schoellhorn",
+      "Dominik Eisenhut",
+      "Will Marshall",
+      "Thomas Murphy",
+      "Brian O'Toole",
+      "Chris Lin",
+      "Emiliano Kargieman",
+      "Brian Nash",
+      "Matthew Moore",
+      "Z Davis",
+      "Vice President Rowan",
+      "Director Philpott",
+      "Heidi Shyu",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Colin McDonald",
+      "Cody Matthew Herche",
+      "Emil Michael"
+    ],
+    "companies": [
+      "Maxar",
+      "Airbus",
+      "Planet",
+      "BlackSky",
+      "Satellogic",
+      "Uber",
+      "RPost"
+    ],
+    "technologies": [
+      "Satellite vision systems",
+      "Orbital computer vision",
+      "Optical ground-to-space communications",
+      "Visual steganography",
+      "High-radix parametric optical ground-to-space communication",
+      "Passive reflection from non-cooperative orbiting objects"
+    ],
+    "products": [
+      "Registered Email\u2122"
+    ],
+    "government_offices": [
+      "United States Patent and Trademark Office (USPTO)",
+      "European Patent Office (EPO)",
+      "Department of Defense",
+      "Under Secretary of Defense for Research and Engineering"
+    ],
+    "institutions": [
+      "International Journal of Law, Ethics, and Technology",
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "Earth"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Morrison Foerster",
+      "Latham & Watkins",
+      "King & Spalding",
+      "Foley",
+      "KKC"
+    ],
+    "attorneys": [
+      "Brian Nash",
+      "Matthew Moore",
+      "Z Davis",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/559,745",
+    "19/559,656",
+    "19/641,125",
+    "19/639,265",
+    "19/559,972",
+    "19/640,945"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "1898370904",
+  "basefilename": "EMAIL-TO-maxar.com_HIGH-LIABILITY",
+  "original_filename": "EMAIL-TO-maxar.com_HIGH-LIABILITY.pdf",
+  "category": "email",
+  "subtype": "sent_email",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "michael.schoellhorn@airbus.com",
+  "primary_recipient_an": "Michael Schoellhorn (Airbus SE)",
+  "all_recipients": [
+    "michael.schoellhorn@airbus.com",
+    "dominik.eisenhut@airbus.com",
+    "matthew.moore@lw.com",
+    "will.marshall@planet.com",
+    "brian.nash@mofo.com",
+    "zdavis@kslaw.com",
+    "emiliano@satellogic.com",
+    "chris.johnson@maxar.com",
+    "daniel.jablonsky@maxar.com",
+    "botoole@blacksky.com",
+    "thomas.murphy@planet.com",
+    "chris.lin@blacksky.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "michael.schoellhorn@airbus.com": "Michael Schoellhorn (Airbus SE)",
+    "dominik.eisenhut@airbus.com": "Dominik Eisenhut (Airbus SE)",
+    "matthew.moore@lw.com": "Matthew Moore (Latham & Watkins LLP)",
+    "will.marshall@planet.com": "William Marshall (Planet)",
+    "brian.nash@mofo.com": "Brian Nash (Mofongo)",
+    "zdavis@kslaw.com": "Zdavis (kslaw.com)",
+    "emiliano@satellogic.com": "Emiliano (Satellogic Inc.)",
+    "chris.johnson@maxar.com": "Chris Johnson (Maxar Technologies Inc.)",
+    "daniel.jablonsky@maxar.com": "Daniel Jablonsky (Maxar Technologies Inc.)",
+    "botoole@blacksky.com": "Botoole (Blacksky)",
+    "thomas.murphy@planet.com": "Thomas Murphy (Planet)",
+    "chris.lin@blacksky.com": "Chris Lin (Blacksky)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "19/559,745",
+    "19/559,656",
+    "19/641,125",
+    "19/639,265",
+    "19/559,972"
+  ]
+}

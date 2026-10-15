@@ -1,0 +1,33 @@
+{
+  "serving_key": "3094043872",
+  "canonical_key": "soreilly@meta.com",
+  "display_name": "S. O'Reilly (Meta Platforms, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Meta Platforms, Inc.",
+  "full_name": "S. O'Reilly",
+  "pronouns": null,
+  "title": "Corporate Representative",
+  "organization": "Meta Platforms, Inc.",
+  "domain": "meta.com",
+  "addresses": {
+    "mailing_address": "1 Hacker Way, Menlo Park, CA 94025",
+    "business_address": "1 Hacker Way, Menlo Park, CA 94025",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "soreilly@meta.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

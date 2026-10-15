@@ -1,0 +1,94 @@
+{
+  "summary_of_pdf": "The document is an RMail File Share Download Notice serving as evidentiary proof that the Washington State Attorney General's Office received and downloaded a formal notice of proprietary rights and pending claims under 35 U.S.C. \u00a7 154(d). The underlying claims pertain to state digital infrastructure, highway patrol surveillance, and influence modeling, supported by a portfolio of USPTO patent applications and defensive publications.",
+  "attorneys_comments": "From an evidentiary standpoint, this RMail receipt provides robust, time-stamped authentication of actual notice to the Washington State Attorney General's Office, satisfying the stringent actual notice requirements for provisional rights under 35 U.S.C. \u00a7 154(d). The downloaded files indicate a comprehensive assertion of intellectual property rights, including a portfolio of USPTO applications and EPO defensive publications. Tactically, this establishes a definitive timeline for calculating potential reasonable royalty damages from the date of actual notice, assuming the pending patents issue with substantially identical claims. The inclusion of a 'DOJ Alumni Network' document suggests potential collateral administrative or antitrust allegations. Counsel must ensure the underlying patent applications are published and that the claims asserted against the state's digital and surveillance infrastructure are meticulously mapped to anticipate and overcome sovereign immunity defenses, as state actors will undoubtedly raise Eleventh Amendment shields unless abrogated or waived.",
+  "recommended_next_steps": "1. Preserve this RMail receipt and associated transmission logs in a secure, tamper-evident repository for future authentication under Federal Rule of Evidence 901. 2. Monitor the pending USPTO applications to ensure issuance with claims substantially identical to those published, as required by 35 U.S.C. \u00a7 154(d). 3. Evaluate potential Eleventh Amendment sovereign immunity defenses likely to be raised by the State of Washington and assess the viability of Ex parte Young actions for prospective injunctive relief. 4. Prepare a detailed claim chart mapping the published claims to the specific state digital infrastructure and highway patrol surveillance systems identified in the notice.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Provisional Patent Rights",
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Patent Infringement",
+    "State Sovereign Immunity",
+    "Eleventh Amendment",
+    "FRE 901 Authentication",
+    "Administrative Claim",
+    "Formal Demand Letter"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "gphilpott",
+      "nsimon",
+      "srowan",
+      "rmenidjel",
+      "ymeniere",
+      "tvilela"
+    ],
+    "companies": [
+      "RMail",
+      "RPost"
+    ],
+    "technologies": [
+      "State Digital Infrastructure",
+      "Highway Patrol Surveillance",
+      "Influence Modeling"
+    ],
+    "products": [
+      "RMail FileShare",
+      "Secure service"
+    ],
+    "government_offices": [
+      "Washington State Attorney General's Office",
+      "United States Patent and Trademark Office (USPTO)",
+      "European Patent Office (EPO)",
+      "Department of Justice (DOJ)"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Washington State"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "4006412353",
+  "basefilename": "DOWNLOAD-RECEIPT-City-Attorney-serviceatg@atg.wa.gov",
+  "original_filename": "DOWNLOAD-RECEIPT-City-Attorney-serviceatg@atg.wa.gov.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04102026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "serviceatg@atg.wa.gov",
+  "primary_recipient_an": "Serviceatg (Washington State Attorney General)",
+  "all_recipients": [
+    "serviceatg@atg.wa.gov",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "rmenidjel@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "00__defensive-publication-email-with-receiptepo_gphilpott@epo.org",
+    "org_srowan@epo.org",
+    "_rmenidjel@epo.org",
+    "_ymeniere@epo.org"
+  ],
+  "all_recipients_an": {
+    "serviceatg@atg.wa.gov": "Serviceatg (Washington State Attorney General)",
+    "srowan@epo.org": "Local (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Local (European Patent Office)",
+    "rmenidjel@epo.org": "Local (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "00__defensive-publication-email-with-receiptepo_gphilpott@epo.org": "Defensive Publication Email With Receiptepo Gphilpott (European Patent Office)",
+    "org_srowan@epo.org": "Local (European Patent Office)",
+    "_rmenidjel@epo.org": "Local (European Patent Office)",
+    "_ymeniere@epo.org": "Local (European Patent Office)"
+  },
+  "patent_applications": []
+}

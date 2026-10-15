@@ -1,0 +1,64 @@
+{
+  "summary_of_pdf": "This document is a certified RPost delivery and read receipt confirming that Bruce Goldner, utilizing a Skadden, Arps, Slate, Meagher & Flom LLP email address, successfully received and opened an inquiry from RJ Aguiar, Jr. on April 7, 2026. The underlying communication pertains to a request for intellectual property representation concerning a 47-patent portfolio and parallel federal disclosures involving Uber and eBay. The receipt includes a comprehensive cryptographic and network audit trail establishing definitive proof of actual notice.",
+  "attorneys_comments": "From an evidentiary standpoint, this RPost receipt is a highly valuable instrument. It provides an immutable, timestamped audit trail\u2014including IP addresses, HTTP headers, and tracking pixel data\u2014that easily satisfies the authentication requirements of Federal Rule of Evidence 901. Tactically, it establishes indisputable 'actual notice' to the recipient regarding the 47-patent portfolio and the associated federal disclosures. A critical nuance is the appended disclaimer indicating that the sender of the underlying email (presumably Mr. Goldner, replying or acting as the recipient of the inquiry) is a retired partner acting in a personal capacity rather than on behalf of Skadden. This procedural posture significantly alters the malpractice liability landscape and necessitates immediate clarification regarding conflicts of interest, attorney-client privilege boundaries, and the formal capacity of the representation before any substantive technical or federal disclosure materials are transmitted.",
+  "recommended_next_steps": "First, natively preserve the attached DeliveryReceipt.xml and HtmlReceipt.htm files to maintain the cryptographic chain of custody for future evidentiary foundation. Second, formally clarify Mr. Goldner's representational capacity (retired partner vs. active firm counsel) to ensure compliance with ABA Model Rules regarding conflicts of interest and competence. Third, execute a stringent Non-Disclosure Agreement (NDA) prior to transmitting the substantive patent portfolio claim charts or the sensitive parallel federal disclosure documents.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "FRE 901 Authentication",
+    "35 U.S.C. \u00a7 287 (Notice of Infringement)",
+    "Patent Portfolio Monetization",
+    "Federal Disclosures",
+    "ABA Model Rule 1.7 (Conflict of Interest)",
+    "Attorney-Client Privilege",
+    "Formal Demand Letter"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Bruce Goldner"
+    ],
+    "companies": [
+      "UBER",
+      "eBay",
+      "RPost"
+    ],
+    "technologies": [
+      "Registered Email",
+      "Cryptographic Audit Trail"
+    ],
+    "products": [
+      "47-Patent Portfolio"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Skadden, Arps, Slate, Meagher & Flom LLP"
+    ],
+    "attorneys": [
+      "Bruce Goldner"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "4210045801",
+  "basefilename": "READ-RECEIPT-bruce.goldner@skadden.com",
+  "original_filename": "READ-RECEIPT-bruce.goldner@skadden.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "bruce.goldner@skadden.com",
+  "primary_recipient_an": "Bruce Goldner (Skadden)",
+  "all_recipients": [
+    "bruce.goldner@skadden.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "bruce.goldner@skadden.com": "Bruce Goldner (Skadden)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

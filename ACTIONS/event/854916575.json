@@ -1,0 +1,62 @@
+{
+  "summary_of_pdf": "This document is an RMail delivery and open receipt confirming that a privileged and confidential communication, titled 'Response to KKC Confidential Submission #46044', sent by RJ Aguiar was successfully delivered to and opened by 'consult@kkc.com' on April 6, 2026. It serves as digital forensic evidence of actual notice and receipt.",
+  "attorneys_comments": "From an evidentiary standpoint, this RPost delivery receipt provides robust, highly reliable digital forensic evidence of actual notice and receipt, satisfying the authentication requirements of FRE 901 and potentially FRE 902(13) or 902(14) for electronic records. The detailed audit trail, which captures the recipient's IP address (208.77.171.65), user agent, and timestamped HTTP headers, effectively neutralizes any potential denial of receipt by the receiving party. The subject line explicitly invokes attorney-client privilege and confidentiality, preserving the protected status of the underlying communication. Tactically, this instrument is invaluable for establishing a definitive timeline of notice, which is critical for tolling statutes of limitations, proving timely compliance with administrative deadlines, or establishing the precise moment a duty to act attached.",
+  "recommended_next_steps": "Preserve the native email and its attached XML and HTML receipt files (DeliveryReceipt.xml, HtmlReceipt.htm) in a secure, write-once digital repository to maintain an unbroken chain of custody. Should the opposing party or receiving entity contest receipt in future proceedings, authenticate the receipt by forwarding the native file to 'verify@r1.rpost.net' as instructed by the vendor, and prepare an accompanying declaration from the sender to formally admit the record into evidence.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Attorney-Client Privilege",
+    "Confidential Submission",
+    "Electronic Evidence",
+    "FRE 901",
+    "FRE 902(13)",
+    "FRE 902(14)",
+    "FRCP 5(b)(2)(E)"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar"
+    ],
+    "companies": [
+      "RPost",
+      "RMail",
+      "Google"
+    ],
+    "technologies": [
+      "RPost Technology",
+      "RMail services"
+    ],
+    "products": [
+      "DeliveryReceipt.xml",
+      "HtmlReceipt.htm"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "KKC"
+    ],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "854916575",
+  "basefilename": "READ-RECEIPT-My-Email-Waiving-Confidentiality-Rights-described-in-D132",
+  "original_filename": "READ-RECEIPT-My-Email-Waiving-Confidentiality-Rights-described-in-D132.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04022026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "consult@kkc.com",
+  "primary_recipient_an": "Consult (KKCG)",
+  "all_recipients": [
+    "consult@kkc.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "consult@kkc.com": "Consult (KKCG)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

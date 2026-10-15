@@ -1,0 +1,54 @@
+{
+  "serving_key": "1315244356",
+  "canonical_key": "aloisio@ashurst.com",
+  "display_name": "Attorney Aloisio (Ashurst LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Ashurst LLP",
+  "full_name": "Attorney Aloisio",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Ashurst LLP",
+  "domain": "ashurst.com",
+  "addresses": {
+    "mailing_address": "London Fruit & Wool Exchange, 1 Duval Square, London E1 6PW, United Kingdom",
+    "business_address": "London Fruit & Wool Exchange, 1 Duval Square, London E1 6PW, United Kingdom",
+    "legal_service_address": "London Fruit & Wool Exchange, 1 Duval Square, London E1 6PW, United Kingdom"
+  },
+  "registered_agent": {
+    "name": "Ashurst LLP",
+    "address": "London Fruit & Wool Exchange, 1 Duval Square, London E1 6PW, United Kingdom",
+    "jurisdiction": "United Kingdom"
+  },
+  "contact": {
+    "primary_email": "aloisio@ashurst.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+44 20 7638 1111"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2614862007",
+      "canonical_key": "stuart.daloisio@ashurst.com",
+      "display_name": "Stuart D'Aloisio",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "688190387",
+      "canonical_key": "kellech.smith@ashurst.com",
+      "display_name": "Kellech Smith",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1986444749",
+      "canonical_key": "download-receiptkellech.smith@ashurst.com",
+      "display_name": "Kellech Smith",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

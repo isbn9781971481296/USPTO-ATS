@@ -1,0 +1,66 @@
+{
+  "serving_key": "2505462089",
+  "canonical_key": "fisherr@sec.gov",
+  "display_name": "Robert Fisher (U.S. Securities and Exchange Commission)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "U.S. Securities and Exchange Commission",
+  "full_name": "Robert Fisher",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "U.S. Securities and Exchange Commission",
+  "domain": "sec.gov",
+  "addresses": {
+    "mailing_address": "100 F Street, NE, Washington, DC 20549",
+    "business_address": "100 F Street, NE, Washington, DC 20549",
+    "legal_service_address": "Office of the General Counsel, 100 F Street, NE, Washington, DC 20549"
+  },
+  "registered_agent": {
+    "name": "Office of the General Counsel, SEC",
+    "address": "100 F Street, NE, Washington, DC 20549",
+    "jurisdiction": "Federal (U.S.)"
+  },
+  "contact": {
+    "primary_email": "fisherr@sec.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "202-551-2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3182552038",
+      "canonical_key": "_whitejoshua@sec.gov",
+      "display_name": "Joshua White",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1408824226",
+      "canonical_key": "mcglossonc@sec.gov",
+      "display_name": "C. McGlosson",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1696798842",
+      "canonical_key": "uyedam@sec.gov",
+      "display_name": "Mark T. Uyeda",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3251489302",
+      "canonical_key": "whitejoshua@sec.gov",
+      "display_name": "Joshua White",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2774914693",
+      "canonical_key": "peirceh@sec.gov",
+      "display_name": "Hester M. Peirce",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

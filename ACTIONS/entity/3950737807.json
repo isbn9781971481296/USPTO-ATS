@@ -1,0 +1,37 @@
+{
+  "serving_key": "3950737807",
+  "canonical_key": "akira.marumo@morihamada.com",
+  "display_name": "Akira Marumo (Mori Hamada & Matsumoto)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Mori Hamada & Matsumoto",
+  "full_name": "Akira Marumo",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Mori Hamada & Matsumoto",
+  "domain": "morihamada.com",
+  "addresses": {
+    "mailing_address": "Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan",
+    "business_address": "Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan",
+    "legal_service_address": "Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan"
+  },
+  "registered_agent": {
+    "name": "Mori Hamada & Matsumoto (Principal Office)",
+    "address": "Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan",
+    "jurisdiction": "Tokyo, Japan"
+  },
+  "contact": {
+    "primary_email": "akira.marumo@morihamada.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+81-3-6212-8300"
+    ],
+    "faxes": [
+      "+81-3-6212-8200"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

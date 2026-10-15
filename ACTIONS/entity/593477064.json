@@ -1,0 +1,38 @@
+{
+  "serving_key": "593477064",
+  "canonical_key": "safe.athome@state.mn.us",
+  "display_name": "Safe at Home Program (Minnesota Secretary of State)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Office of the Minnesota Secretary of State",
+  "full_name": "Safe at Home Program",
+  "pronouns": null,
+  "title": "Address Confidentiality Program",
+  "organization": "Office of the Minnesota Secretary of State",
+  "domain": "state.mn.us",
+  "addresses": {
+    "mailing_address": "PO Box 17370, Saint Paul, MN 55117-0370",
+    "business_address": "First National Bank Building, 332 Minnesota Street, Suite N201, Saint Paul, MN 55101",
+    "legal_service_address": "Office of the Minnesota Attorney General, 445 Minnesota Street, Suite 1400, Saint Paul, MN 55101"
+  },
+  "registered_agent": {
+    "name": "Minnesota Attorney General (for legal service on state agencies)",
+    "address": "445 Minnesota Street, Suite 1400, Saint Paul, MN 55101",
+    "jurisdiction": "Minnesota"
+  },
+  "contact": {
+    "primary_email": "safe.athome@state.mn.us",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-651-201-1399",
+      "+1-866-723-3035"
+    ],
+    "faxes": [
+      "+1-651-296-3073"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

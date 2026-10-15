@@ -1,0 +1,51 @@
+{
+  "index": 3,
+  "header": "# Enclosure #3: READ-RECEIPT-AERO-SPACE-Companies.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT-AERO-SPACE-Companies.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-f86d543ea4.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kevin.j.oconnor@lmco.com",
+  "primary_recipient_an": "Kevin J. Oconnor (Lockheed Martin Corporation)",
+  "all_recipients": [
+    "kevin.j.oconnor@lmco.com",
+    "john.harrison@airbus.com",
+    "mark.hanley@hfzlaw.com",
+    "robert.rivkin@united.com",
+    "bart.biggers@sidley.com",
+    "jason.eisenstein@sternekessler.com",
+    "brett.gerry@boeing.com",
+    "stella.belvisi@airbus.com",
+    "douglas.lumish@lw.com",
+    "jeff.novota@wnco.com",
+    "peter.carter@delta.com",
+    "tony.richmond@aa.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "kevin.j.oconnor@lmco.com": "Kevin J. Oconnor (Lockheed Martin Corporation)",
+    "john.harrison@airbus.com": "John Harrison (Airbus SE)",
+    "mark.hanley@hfzlaw.com": "Mark Hanley (hfzlaw.com)",
+    "robert.rivkin@united.com": "Robert Rivkin (United Airlines, Inc.)",
+    "bart.biggers@sidley.com": "Bart Biggers (Sidley Austin LLP)",
+    "jason.eisenstein@sternekessler.com": "Jason Eisenstein (Sterne, Kessler, Goldstein & Fox)",
+    "brett.gerry@boeing.com": "Brett Gerry (The Boeing Company)",
+    "stella.belvisi@airbus.com": "Stella Belvisi (Airbus SE)",
+    "douglas.lumish@lw.com": "Douglas Lumish (Latham & Watkins LLP)",
+    "jeff.novota@wnco.com": "Jeff Novota (Southwest Airlines Co.)",
+    "peter.carter@delta.com": "Peter Carter (Delta Air Lines)",
+    "tony.richmond@aa.com": "Tony Richmond (American Airlines)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "READ-RECEIPT-AERO-SPACE-Companies.pdf",
+  "patent_applications_mentioned": [
+    "15/728,640",
+    "16/815,744"
+  ]
+}

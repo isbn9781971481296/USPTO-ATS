@@ -1,0 +1,62 @@
+{
+  "serving_key": "2580378762",
+  "canonical_key": "gsampas@gibsondunn.com",
+  "display_name": "George Sampas (Gibson, Dunn & Crutcher LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Gibson, Dunn & Crutcher LLP",
+  "full_name": "George Sampas",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Gibson, Dunn & Crutcher LLP",
+  "domain": "gibsondunn.com",
+  "addresses": {
+    "mailing_address": "200 Park Avenue, New York, NY 10166-0193",
+    "business_address": "200 Park Avenue, New York, NY 10166-0193",
+    "legal_service_address": "200 Park Avenue, New York, NY 10166-0193"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "330 N Brand Blvd, Suite 700, Glendale, CA 91203",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "gsampas@gibsondunn.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 212-351-4000"
+    ],
+    "faxes": [
+      "+1 212-351-4035"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "562474079",
+      "canonical_key": "bburoker@gibsondunn.com",
+      "display_name": "Brian Buroker",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2058113979",
+      "canonical_key": "srosenberg@gibsondunn.com",
+      "display_name": "S. Rosenberg",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3826643565",
+      "canonical_key": "brosenthal@gibsondunn.com",
+      "display_name": "B. Rosenthal",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2242229336",
+      "canonical_key": "ayang@gibsondunn.com",
+      "display_name": "A. Yang",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

@@ -1,0 +1,44 @@
+{
+  "serving_key": "3402575544",
+  "canonical_key": "compliance@servicenow.com",
+  "display_name": "Compliance Department (ServiceNow, Inc.)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "ServiceNow, Inc.",
+  "full_name": "Compliance Department",
+  "pronouns": null,
+  "title": "Corporate Compliance",
+  "organization": "ServiceNow, Inc.",
+  "domain": "servicenow.com",
+  "addresses": {
+    "mailing_address": "2225 Lawson Lane, Santa Clara, CA 95054",
+    "business_address": "2225 Lawson Lane, Santa Clara, CA 95054",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "compliance@servicenow.com",
+    "alternative_emails": [
+      "legal@servicenow.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1-408-501-8550"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1819194592",
+      "canonical_key": "legal_compliance@servicenow.com",
+      "display_name": "ServiceNow Legal Compliance",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

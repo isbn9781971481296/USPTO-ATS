@@ -1,0 +1,34 @@
+{
+  "index": 134,
+  "header": "# Enclosure #134: READ-RECEIPT-chamberlainlaw-com-The-Team-HIGH-LIABILITY.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/__HIGH-Legal-Liability/READ-RECEIPT-chamberlainlaw.com-The-Team__HIGH-LIABILITY.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-high-legal-liability-read-receipt-c-bf1c36c0e7.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "marcus.burnside@chamberlainlaw.com",
+  "primary_recipient_an": "Marcus Burnside (chamberlainlaw.com)",
+  "all_recipients": [
+    "marcus.burnside@chamberlainlaw.com",
+    "david.aughtry@chamberlainlaw.com",
+    "charles.rettig@chamberlainlaw.com",
+    "c.kirchner@chamberlainlaw.com",
+    "larry.campagna@chamberlainlaw.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "marcus.burnside@chamberlainlaw.com": "Marcus Burnside (chamberlainlaw.com)",
+    "david.aughtry@chamberlainlaw.com": "David Aughtry (chamberlainlaw.com)",
+    "charles.rettig@chamberlainlaw.com": "Charles Rettig (chamberlainlaw.com)",
+    "c.kirchner@chamberlainlaw.com": "C. Kirchner (chamberlainlaw.com)",
+    "larry.campagna@chamberlainlaw.com": "Larry Campagna (chamberlainlaw.com)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "READ-RECEIPT-chamberlainlaw.com-The-Team__HIGH-LIABILITY.pdf",
+  "patent_applications_mentioned": []
+}

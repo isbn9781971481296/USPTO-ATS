@@ -1,0 +1,26 @@
+{
+  "index": 123,
+  "header": "# Enclosure #123: READ-RECEIPT-bart-biggers-sidley-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT_bart.biggers@sidley.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-bart.biggers@sidle-3ba73d950c.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "bart.biggers@sidley.com",
+  "primary_recipient_an": "Bart Biggers (Sidley Austin LLP)",
+  "all_recipients": [
+    "bart.biggers@sidley.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "bart.biggers@sidley.com": "Bart Biggers (Sidley Austin LLP)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "READ-RECEIPT_bart.biggers@sidley.com.pdf",
+  "patent_applications_mentioned": []
+}

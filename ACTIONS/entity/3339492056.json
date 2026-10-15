@@ -1,0 +1,66 @@
+{
+  "serving_key": "3339492056",
+  "canonical_key": "james.comer@mail.house.gov",
+  "display_name": "James Comer (U.S. House of Representatives)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "U.S. House of Representatives",
+  "full_name": "James Comer",
+  "pronouns": "he/him",
+  "title": "U.S. Representative",
+  "organization": "U.S. House of Representatives",
+  "domain": "mail.house.gov",
+  "addresses": {
+    "mailing_address": "2410 Rayburn House Office Building, Washington, DC 20515",
+    "business_address": "2410 Rayburn House Office Building, Washington, DC 20515",
+    "legal_service_address": "Office of General Counsel, U.S. House of Representatives, 219 Cannon House Office Building, Washington, DC 20515"
+  },
+  "registered_agent": {
+    "name": "Office of General Counsel, U.S. House of Representatives",
+    "address": "219 Cannon House Office Building, Washington, DC 20515",
+    "jurisdiction": "Washington, D.C."
+  },
+  "contact": {
+    "primary_email": "james.comer@mail.house.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-202-225-3115"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1912351771",
+      "canonical_key": "jason.smith@mail.house.gov",
+      "display_name": "Jason Smith",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "445227708",
+      "canonical_key": "tim.burchett@mail.house.gov",
+      "display_name": "Tim Burchett",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1489004892",
+      "canonical_key": "matt.meyer@mail.house.gov",
+      "display_name": "Matt Meyer",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3564855433",
+      "canonical_key": "caroline.cash@mail.house.gov",
+      "display_name": "Caroline Cash",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "997980219",
+      "canonical_key": "kelsey.greenwald@mail.house.gov",
+      "display_name": "Kelsey Greenwald",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

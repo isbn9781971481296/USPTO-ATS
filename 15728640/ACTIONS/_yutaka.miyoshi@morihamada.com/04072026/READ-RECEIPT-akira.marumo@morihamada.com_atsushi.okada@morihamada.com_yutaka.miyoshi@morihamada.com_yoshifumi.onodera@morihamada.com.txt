@@ -1,0 +1,403 @@
+4/7/26, 9:09 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP
+Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 7:48 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered
+
+(UTC*)
+
+(local)
+
+Opened (local)
+
+akira.marumo@morihamada.com
+
+Delivered and
+Opened
+
+MUA04/07/2026
+IP:fe80::ed9:fa34:9d0a: 10:48:37 AM
+1911
+(UTC)
+
+04/07/2026
+10:48:37 AM
+
+04/07/2026
+11:10:30 AM
+
+atsushi.okada@morihamada.com
+
+Delivered and
+Opened
+
+MUA+HTTPIP:140.248.33.10
+
+04/07/2026
+10:48:37 AM
+(UTC)
+
+04/07/2026
+10:48:37 AM
+
+04/07/2026
+10:50:10 AM
+
+yutaka.miyoshi@morihamada.com
+
+Delivered to
+Mailbox
+
+Delivery confirmed by 04/07/2026
+recipient mail server at 10:48:37 AM
+mhm-global.com
+(UTC)
+
+04/07/2026
+10:48:37 AM
+
+yoshifumi.onodera@morihamada.
+com
+
+Delivered to
+Mailbox
+
+Delivery confirmed by 04/07/2026
+recipient mail server at 10:48:37 AM
+mhm-global.com
+(UTC)
+
+04/07/2026
+10:48:37 AM
+
+rj.aguiar.m@gmail.com
+
+Delivered and
+Opened
+
+HTTP-IP:66.249.80.2
+
+04/07/2026
+10:53:28 AM
+(UTC)
+
+04/07/2026
+10:53:28 AM
+
+04/07/2026
+11:09:44 AM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<akira.marumo@morihamada.com> <atsushi.okada@morihamada.com>
+<yutaka.miyoshi@morihamada.com> <yoshifumi.onodera@morihamada.com>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+e28759bd-b7b4-4616-a3bf-f10095d4dbf5@SM26
+
+Received by RMail System:
+
+04/07/2026 10:48:32 AM (UTC), 04/07/2026 10:48:32 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816015219320302&simpl=msg-f:1861816015219320302
+
+1/5
+
+4/7/26, 9:09 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+Tracking Number:
+
+7F02C8C55BD62AE6F5F748B1DE667885E703F72D
+
+Message Size:
+
+4229
+
+Features Used:
+File Size:
+
+File Name:
+
+1132462
+
+092__USPTO_19_639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+976947
+
+00__Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+.
+
+Delivery Audit Trail
+4/7/2026 10:48:34 AM starting morihamada.com/{default} 4/7/2026 10:48:34 AM connecting from mta21.r1.rpost.net (0.0.0.0) t
+o morihamada-com.mail.protection.outlook.com (52.101.124.1) 4/7/2026 10:48:34 AM connected from 192.168.10.11:58138 4/
+7/2026 10:48:34 AM >>> 220 TY1PEPF0000BAD7.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue,
+7 Apr 2026 10:48:34 +0000 [08DE8F69FD25176E] 4/7/2026 10:48:34 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:48:35 AM
+>>> 250-TY1PEPF0000BAD7.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 10:48:35 AM >>> 250-SIZE 15728640
+0 4/7/2026 10:48:35 AM >>> 250-PIPELINING 4/7/2026 10:48:35 AM >>> 250-DSN 4/7/2026 10:48:35 AM >>> 250-ENHANC
+EDSTATUSCODES 4/7/2026 10:48:35 AM >>> 250-STARTTLS 4/7/2026 10:48:35 AM >>> 250-8BITMIME 4/7/2026 10:48:35
+AM >>> 250-BINARYMIME 4/7/2026 10:48:35 AM >>> 250-CHUNKING 4/7/2026 10:48:35 AM >>> 250 SMTPUTF8 4/7/2026
+10:48:35 AM <<< STARTTLS 4/7/2026 10:48:35 AM >>> 220 2.0.0 SMTP server ready 4/7/2026 10:48:35 AM tls:TLSv1.2 con
+nected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:48:35 AM tls:Cert: /C=US/ST=Washington/L=Redmond/
+O=Microsoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; v
+erified=no 4/7/2026 10:48:35 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:48:36 AM >>> 250-TY1PEPF0000BAD7.mail.prot
+ection.outlook.com Hello [52.58.131.9] 4/7/2026 10:48:36 AM >>> 250-SIZE 157286400 4/7/2026 10:48:36 AM >>> 250-PIPE
+LINING 4/7/2026 10:48:36 AM >>> 250-DSN 4/7/2026 10:48:36 AM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:48:36
+AM >>> 250-8BITMIME 4/7/2026 10:48:36 AM >>> 250-BINARYMIME 4/7/2026 10:48:36 AM >>> 250-CHUNKING 4/7/2026
+10:48:36 AM >>> 250 SMTPUTF8 4/7/2026 10:48:36 AM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 10:48:36
+AM >>> 250 2.1.0 Sender OK 4/7/2026 10:48:36 AM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 10:48:3
+6 AM >>> 250 2.1.5 Recipient OK 4/7/2026 10:48:36 AM <<< DATA 4/7/2026 10:48:37 AM >>> 354 Start mail input; end with .
+4/7/2026 10:48:37 AM <<< . 4/7/2026 10:48:37 AM >>> 250 2.6.0 [InternalId=56023553419907, Hostname=TYCP286MB3723.
+JPNP286.PROD.OUTLOOK.COM] 34854 bytes in 0.153, 221.293 KB/sec Queued mail for delivery 4/7/2026 10:48:37 AM <<<
+QUIT 4/7/2026 10:48:38 AM >>> 221 2.0.0 Service closing transmission channel 4/7/2026 10:48:38 AM closed morihamada-c
+om.mail.protection.outlook.com (52.101.124.1) in=923 out=23858 4/7/2026 10:48:38 AM done morihamada.com/{default}
+4/7/2026 10:48:34 AM starting morihamada.com/{default} 4/7/2026 10:48:34 AM connecting from mta21.r1.rpost.net (0.0.0.0) t
+o morihamada-com.mail.protection.outlook.com (52.101.124.1) 4/7/2026 10:48:34 AM connected from 192.168.10.11:33992 4/
+7/2026 10:48:34 AM >>> 220 TY1PEPF0000BADA.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue,
+7 Apr 2026 10:48:33 +0000 [08DE92B4C321F912] 4/7/2026 10:48:34 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:48:35 AM
+>>> 250-TY1PEPF0000BADA.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 10:48:35 AM >>> 250-SIZE 15728640
+0 4/7/2026 10:48:35 AM >>> 250-PIPELINING 4/7/2026 10:48:35 AM >>> 250-DSN 4/7/2026 10:48:35 AM >>> 250-ENHANC
+EDSTATUSCODES 4/7/2026 10:48:35 AM >>> 250-STARTTLS 4/7/2026 10:48:35 AM >>> 250-8BITMIME 4/7/2026 10:48:35
+AM >>> 250-BINARYMIME 4/7/2026 10:48:35 AM >>> 250-CHUNKING 4/7/2026 10:48:35 AM >>> 250 SMTPUTF8 4/7/2026
+10:48:35 AM <<< STARTTLS 4/7/2026 10:48:35 AM >>> 220 2.0.0 SMTP server ready 4/7/2026 10:48:35 AM tls:TLSv1.2 con
+nected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:48:35 AM tls:Cert: /C=US/ST=Washington/L=Redmond/
+O=Microsoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; v
+erified=no 4/7/2026 10:48:35 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:48:36 AM >>> 250-TY1PEPF0000BADA.mail.prot
+ection.outlook.com Hello [52.58.131.9] 4/7/2026 10:48:36 AM >>> 250-SIZE 157286400 4/7/2026 10:48:36 AM >>> 250-PIPE
+LINING 4/7/2026 10:48:36 AM >>> 250-DSN 4/7/2026 10:48:36 AM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:48:36
+AM >>> 250-8BITMIME 4/7/2026 10:48:36 AM >>> 250-BINARYMIME 4/7/2026 10:48:36 AM >>> 250-CHUNKING 4/7/2026
+10:48:36 AM >>> 250 SMTPUTF8 4/7/2026 10:48:36 AM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 10:48:36
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816015219320302&simpl=msg-f:1861816015219320302
+
+2/5
+
+4/7/26, 9:09 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+AM >>> 250 2.1.0 Sender OK 4/7/2026 10:48:36 AM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 10:48:3
+6 AM >>> 250 2.1.5 Recipient OK 4/7/2026 10:48:36 AM <<< DATA 4/7/2026 10:48:37 AM >>> 354 Start mail input; end with .
+4/7/2026 10:48:37 AM <<< . 4/7/2026 10:48:37 AM >>> 250 2.6.0 [InternalId=28625957039744, Hostname=TY7P286MB6187.
+JPNP286.PROD.OUTLOOK.COM] 34841 bytes in 0.181, 187.462 KB/sec Queued mail for delivery 4/7/2026 10:48:37 AM <<<
+QUIT 4/7/2026 10:48:38 AM >>> 221 2.0.0 Service closing transmission channel 4/7/2026 10:48:38 AM closed morihamada-c
+om.mail.protection.outlook.com (52.101.124.1) in=923 out=23861 4/7/2026 10:48:38 AM done morihamada.com/{default}
+4/7/2026 10:48:34 AM starting morihamada.com/{default} 4/7/2026 10:48:34 AM connecting from mta21.r1.rpost.net (0.0.0.0) t
+o morihamada-com.mail.protection.outlook.com (52.101.124.1) 4/7/2026 10:48:34 AM connected from 192.168.10.11:59267 4/
+7/2026 10:48:34 AM >>> 220 TY1PEPF0000BAD8.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue,
+7 Apr 2026 10:48:34 +0000 [08DE9106BE8AC8C0] 4/7/2026 10:48:34 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:48:35 A
+M >>> 250-TY1PEPF0000BAD8.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 10:48:35 AM >>> 250-SIZE 157286
+400 4/7/2026 10:48:35 AM >>> 250-PIPELINING 4/7/2026 10:48:35 AM >>> 250-DSN 4/7/2026 10:48:35 AM >>> 250-ENHAN
+CEDSTATUSCODES 4/7/2026 10:48:35 AM >>> 250-STARTTLS 4/7/2026 10:48:35 AM >>> 250-8BITMIME 4/7/2026 10:48:3
+5 AM >>> 250-BINARYMIME 4/7/2026 10:48:35 AM >>> 250-CHUNKING 4/7/2026 10:48:35 AM >>> 250 SMTPUTF8 4/7/202
+6 10:48:35 AM <<< STARTTLS 4/7/2026 10:48:35 AM >>> 220 2.0.0 SMTP server ready 4/7/2026 10:48:35 AM tls:TLSv1.2 c
+onnected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:48:35 AM tls:Cert: /C=US/ST=Washington/L=Redmon
+d/O=Microsoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1;
+verified=no 4/7/2026 10:48:35 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:48:36 AM >>> 250-TY1PEPF0000BAD8.mail.pro
+tection.outlook.com Hello [52.58.131.9] 4/7/2026 10:48:36 AM >>> 250-SIZE 157286400 4/7/2026 10:48:36 AM >>> 250-PIPE
+LINING 4/7/2026 10:48:36 AM >>> 250-DSN 4/7/2026 10:48:36 AM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:48:36
+AM >>> 250-8BITMIME 4/7/2026 10:48:36 AM >>> 250-BINARYMIME 4/7/2026 10:48:36 AM >>> 250-CHUNKING 4/7/2026
+10:48:36 AM >>> 250 SMTPUTF8 4/7/2026 10:48:36 AM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 10:48:36
+AM >>> 250 2.1.0 Sender OK 4/7/2026 10:48:36 AM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 10:48:3
+6 AM >>> 250 2.1.5 Recipient OK 4/7/2026 10:48:36 AM <<< DATA 4/7/2026 10:48:37 AM >>> 354 Start mail input; end with .
+4/7/2026 10:48:37 AM <<< . 4/7/2026 10:48:37 AM >>> 250 2.6.0 [InternalId=23562190599021, Hostname=OS9P286MB7187.
+JPNP286.PROD.OUTLOOK.COM] 34854 bytes in 0.064, 529.698 KB/sec Queued mail for delivery 4/7/2026 10:48:37 AM <<<
+QUIT 4/7/2026 10:48:37 AM >>> 221 2.0.0 Service closing transmission channel 4/7/2026 10:48:37 AM closed morihamada-c
+om.mail.protection.outlook.com (52.101.124.1) in=923 out=23864 4/7/2026 10:48:37 AM done morihamada.com/{default}
+4/7/2026 10:48:34 AM starting morihamada.com/{default} 4/7/2026 10:48:34 AM connecting from mta21.r1.rpost.net (0.0.0.0) t
+o morihamada-com.mail.protection.outlook.com (52.101.124.1) 4/7/2026 10:48:34 AM connected from 192.168.10.11:34139 4/
+7/2026 10:48:34 AM >>> 220 TY1PEPF0000BADA.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue,
+7 Apr 2026 10:48:33 +0000 [08DE92B4C321F91F] 4/7/2026 10:48:34 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:48:35 AM
+>>> 250-TY1PEPF0000BADA.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 10:48:35 AM >>> 250-SIZE 15728640
+0 4/7/2026 10:48:35 AM >>> 250-PIPELINING 4/7/2026 10:48:35 AM >>> 250-DSN 4/7/2026 10:48:35 AM >>> 250-ENHANC
+EDSTATUSCODES 4/7/2026 10:48:35 AM >>> 250-STARTTLS 4/7/2026 10:48:35 AM >>> 250-8BITMIME 4/7/2026 10:48:35
+AM >>> 250-BINARYMIME 4/7/2026 10:48:35 AM >>> 250-CHUNKING 4/7/2026 10:48:35 AM >>> 250 SMTPUTF8 4/7/2026
+10:48:35 AM <<< STARTTLS 4/7/2026 10:48:35 AM >>> 220 2.0.0 SMTP server ready 4/7/2026 10:48:35 AM tls:TLSv1.2 con
+nected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:48:35 AM tls:Cert: /C=US/ST=Washington/L=Redmond/
+O=Microsoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; v
+erified=no 4/7/2026 10:48:35 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:48:36 AM >>> 250-TY1PEPF0000BADA.mail.prot
+ection.outlook.com Hello [52.58.131.9] 4/7/2026 10:48:36 AM >>> 250-SIZE 157286400 4/7/2026 10:48:36 AM >>> 250-PIPE
+LINING 4/7/2026 10:48:36 AM >>> 250-DSN 4/7/2026 10:48:36 AM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:48:36
+AM >>> 250-8BITMIME 4/7/2026 10:48:36 AM >>> 250-BINARYMIME 4/7/2026 10:48:36 AM >>> 250-CHUNKING 4/7/2026
+10:48:36 AM >>> 250 SMTPUTF8 4/7/2026 10:48:36 AM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 10:48:36
+AM >>> 250 2.1.0 Sender OK 4/7/2026 10:48:36 AM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 10:48:3
+6 AM >>> 250 2.1.5 Recipient OK 4/7/2026 10:48:36 AM <<< DATA 4/7/2026 10:48:37 AM >>> 354 Start mail input; end with .
+4/7/2026 10:48:37 AM <<< . 4/7/2026 10:48:37 AM >>> 250 2.6.0 [InternalId=5441723573957, Hostname=TY3P286MB3068.J
+PNP286.PROD.OUTLOOK.COM] 34790 bytes in 0.165, 204.777 KB/sec Queued mail for delivery 4/7/2026 10:48:37 AM <<<
+QUIT 4/7/2026 10:48:38 AM >>> 221 2.0.0 Service closing transmission channel 4/7/2026 10:48:38 AM closed morihamada-c
+om.mail.protection.outlook.com (52.101.124.1) in=922 out=23873 4/7/2026 10:48:38 AM done morihamada.com/{default}
+4/7/2026 10:53:25 AM starting gmail.com/{default} 4/7/2026 10:53:27 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.27) 4/7/2026 10:53:27 AM connected from 192.168.10.11:33476 4/7/2026 10:53:27 AM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43d1e4e03d4si31193749f8f.178 - gsmtp 4/7/2026 10:53:27 AM <<< EHLO mta2
+1.r1.rpost.net 4/7/2026 10:53:27 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 10:53:27 AM >>> 250-SI
+ZE 157286400 4/7/2026 10:53:27 AM >>> 250-8BITMIME 4/7/2026 10:53:27 AM >>> 250-STARTTLS 4/7/2026 10:53:27 AM >
+>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:53:27 AM >>> 250-PIPELINING 4/7/2026 10:53:27 AM >>> 250-CHUNKING
+4/7/2026 10:53:27 AM >>> 250 SMTPUTF8 4/7/2026 10:53:27 AM <<< STARTTLS 4/7/2026 10:53:27 AM >>> 220 2.0.0 Rea
+dy to start TLS 4/7/2026 10:53:27 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session re
+used) 4/7/2026 10:53:27 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/
+7/2026 10:53:27 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:53:27 AM >>> 250-mx.google.com at your service, [52.58.13
+1.9] 4/7/2026 10:53:27 AM >>> 250-SIZE 157286400 4/7/2026 10:53:27 AM >>> 250-8BITMIME 4/7/2026 10:53:27 AM >>> 2
+50-ENHANCEDSTATUSCODES 4/7/2026 10:53:27 AM >>> 250-PIPELINING 4/7/2026 10:53:27 AM >>> 250-CHUNKING 4/7/
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816015219320302&simpl=msg-f:1861816015219320302
+
+3/5
+
+4/7/26, 9:09 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+2026 10:53:27 AM >>> 250 SMTPUTF8 4/7/2026 10:53:27 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 10:53:27 AM >
+>> 250 2.1.0 OK ffacd0b85a97d-43d1e4e03d4si31193749f8f.178 - gsmtp 4/7/2026 10:53:27 AM <<< RCPT TO: 4/7/2026 10:5
+3:27 AM >>> 250 2.1.5 OK ffacd0b85a97d-43d1e4e03d4si31193749f8f.178 - gsmtp 4/7/2026 10:53:27 AM <<< DATA 4/7/2026
+10:53:27 AM >>> 354 Go ahead ffacd0b85a97d-43d1e4e03d4si31193749f8f.178 - gsmtp 4/7/2026 10:53:27 AM <<< . 4/7/2026
+10:53:28 AM >>> 250 2.0.0 OK 1775559208 ffacd0b85a97d-43d1e4e03d4si31193749f8f.178 - gsmtp 4/7/2026 10:53:28 AM <<
+< QUIT 4/7/2026 10:53:28 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e4e03d4si31193749f8f.178 - gsmtp 4/7/2
+026 10:53:28 AM closed gmail-smtp-in.l.google.com (142.251.127.27) in=779 out=23802 4/7/2026 10:53:28 AM done gmail.co
+m/{default}
+From:postmaster@mhm-global.com:Your message has been delivered to the following recipients: akira.marumo@morihamad
+a.com Subject: Registered: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfo
+lio & Parallel Federal Disclosures
+
+メッセージ 宛先: Akira Marumo 件名: Registered: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Represent
+ation: 47-Patent Portfolio & Parallel Federal Disclosures 送信日時: 2026年4月7日火曜日 19:48:32 (UTC+09:00) Osaka, Sappor
+o, Tokyo は 2026年4月7日火曜日 20:10:17 (UTC+09:00) Osaka, Sapporo, Tokyo に開封されました。
+
+From:postmaster@mhm-global.com:Your message has been delivered to the following recipients: atsushi.okada@morihamad
+a.com Subject: Registered: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfo
+lio & Parallel Federal Disclosures
+[IP Address: 140.248.33.10] [Time Opened: 4/7/2026 10:50:10 AM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/dslDV0LDyZur8xlp3ml9fYanaarOfVvFQKa8MH4wMjEw.gif] HTTP_ACCEPT:image/w
+ebp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_AC
+CEPT_LANGUAGE:ja HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 HTTP_X_FORWARDED_FOR:14
+0.248.33.10 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=169d4e162-34d145203d0da40e5fb0b85e HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_DEST:image HTTP_SEC_
+FETCH_MODE:no-cors HTTP_PRIORITY:u=3, i Accept: image/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,
+*/*;q=0.5 Accept-Encoding: gzip, deflate, br Accept-Language: ja Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 X-Forwar
+ded-For: 140.248.33.10 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d4e162-34d145203d0da4
+0e5fb0b85e sec-fetch-site: cross-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=3, i /LM/W3SVC/12/ROOT 25
+6 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_
+v2/dslDV0LDyZur8xlp3ml9fYanaarOfVvFQKa8MH4wMjEw.gif 192.168.20.111 192.168.20.111 64056 GET /oatv_v2/dslDV0LDy
+Zur8xlp3ml9fYanaarOfVvFQKa8MH4wMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/dslDV0LDyZ
+ur8xlp3ml9fYanaarOfVvFQKa8MH4wMjEw.gif image/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 gz
+ip, deflate, br ja socrmail.r1.rpost.net Mozilla/5.0 140.248.33.10 https 443 Root=1-69d4e162-34d145203d0da40e5fb0b85e cros
+s-site image no-cors u=3, i
+Your message To: Atsushi Okada Subject: Registered: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Repr
+esentation: 47-Patent Portfolio & Parallel Federal Disclosures Sent: Tuesday, April 7, 2026 7:48:32 PM (UTC+09:00) Osaka, S
+apporo, Tokyo was read on Tuesday, April 7, 2026 7:50:09 PM (UTC+09:00) Osaka, Sapporo, Tokyo.
+From:postmaster@mhm-global.com:Your message has been delivered to the following recipients: yutaka.miyoshi@morihamad
+a.com Subject: Registered: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfo
+lio & Parallel Federal Disclosures
+From:postmaster@mhm-global.com:Your message has been delivered to the following recipients: yoshifumi.onodera@moriha
+mada.com Subject: Registered: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent P
+ortfolio & Parallel Federal Disclosures
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.2] [Time Opened: 4/7/2026 11:09:44 AM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmail.r1.
+rpost.net] [SCRIPT_NAME: /oatv_v2/aRjqqaaYEbVri3tIEtXn3wgIYqNtHPswQfbGRStPMjEw.gif] HTTP_ACCEPT_ENCODING:
+gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefo
+x/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.2 HTTP_X_FORWARDED_PROTO:https
+HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4e5f8-6557e00c3b7a108c03f2523b Accept-Enco
+ding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via gg
+pht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.2 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id:
+Root=1-69d4e5f8-6557e00c3b7a108c03f2523b /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4
+096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/aRjqqaaYEbVri3tIEtXn3wgIYqNtHPswQfbGRStPMj
+Ew.gif 192.168.10.14 192.168.10.14 33704 GET /oatv_v2/aRjqqaaYEbVri3tIEtXn3wgIYqNtHPswQfbGRStPMjEw.gif socrmail.r
+1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/aRjqqaaYEbVri3tIEtXn3wgIYqNtHPswQfbGRStPMjEw.gif gzip, deflat
+e, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.24
+9.80.2 https 443 Root=1-69d4e5f8-6557e00c3b7a108c03f2523b
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816015219320302&simpl=msg-f:1861816015219320302
+
+4/5
+
+4/7/26, 9:09 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+27K
+HtmlReceipt.htm
+177K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816015219320302&simpl=msg-f:1861816015219320302
+
+5/5
+
+

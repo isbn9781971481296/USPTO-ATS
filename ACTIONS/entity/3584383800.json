@@ -1,0 +1,37 @@
+{
+  "serving_key": "3584383800",
+  "canonical_key": "city.attorney@sfgov.org",
+  "display_name": "San Francisco City Attorney's Office",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "San Francisco City Attorney's Office",
+  "full_name": "Office of the City Attorney",
+  "pronouns": null,
+  "title": "City Attorney",
+  "organization": "San Francisco City Attorney's Office",
+  "domain": "sfgov.org",
+  "addresses": {
+    "mailing_address": "City Hall, Room 234, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+    "business_address": "City Hall, Room 234, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+    "legal_service_address": "City Hall, Room 234, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102"
+  },
+  "registered_agent": {
+    "name": "City Attorney (Authorized Representative for Service of Process)",
+    "address": "City Hall, Room 234, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "city.attorney@sfgov.org",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-415-554-4700"
+    ],
+    "faxes": [
+      "+1-415-554-4745"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,37 @@
+{
+  "serving_key": "1525078553",
+  "canonical_key": "_law.director@nashville.gov",
+  "display_name": "Wallace W. Dietz (Metropolitan Government of Nashville and Davidson County)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Metropolitan Government of Nashville and Davidson County",
+  "full_name": "Wallace W. Dietz",
+  "pronouns": null,
+  "title": "Director of Law",
+  "organization": "Metropolitan Government of Nashville and Davidson County",
+  "domain": "nashville.gov",
+  "addresses": {
+    "mailing_address": "P.O. Box 196300, Nashville, TN 37219-6300",
+    "business_address": "1 Public Square, Suite 108, Nashville, TN 37201",
+    "legal_service_address": "1 Public Square, Suite 108, Nashville, TN 37201"
+  },
+  "registered_agent": {
+    "name": "Director of Law (Statutory Agent for Metro Nashville)",
+    "address": "1 Public Square, Suite 108, Nashville, TN 37201",
+    "jurisdiction": "Tennessee"
+  },
+  "contact": {
+    "primary_email": "_law.director@nashville.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-615-862-6341"
+    ],
+    "faxes": [
+      "+1-615-862-6352"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

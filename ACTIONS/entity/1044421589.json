@@ -1,0 +1,37 @@
+{
+  "serving_key": "1044421589",
+  "canonical_key": "jychoe@yulchon.com",
+  "display_name": "Jeong Yeol Choe (Yulchon LLC)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Yulchon LLC",
+  "full_name": "Jeong Yeol Choe",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Yulchon LLC",
+  "domain": "yulchon.com",
+  "addresses": {
+    "mailing_address": "Parnas Tower, 38th Fl., 521 Teheran-ro, Gangnam-gu, Seoul 06164, South Korea",
+    "business_address": "Parnas Tower, 38th Fl., 521 Teheran-ro, Gangnam-gu, Seoul 06164, South Korea",
+    "legal_service_address": "Parnas Tower, 38th Fl., 521 Teheran-ro, Gangnam-gu, Seoul 06164, South Korea"
+  },
+  "registered_agent": {
+    "name": "Yulchon LLC (Managing Partner)",
+    "address": "Parnas Tower, 38th Fl., 521 Teheran-ro, Gangnam-gu, Seoul 06164, South Korea",
+    "jurisdiction": "Seoul, South Korea"
+  },
+  "contact": {
+    "primary_email": "jychoe@yulchon.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+82-2-528-5200"
+    ],
+    "faxes": [
+      "+82-2-528-5228"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

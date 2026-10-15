@@ -1,0 +1,58 @@
+{
+  "serving_key": "1013427063",
+  "canonical_key": "_tamara.n.jenkins.civ@mail.mil",
+  "display_name": "Tamara N. Jenkins (U.S. Department of Defense)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "U.S. Department of Defense",
+  "full_name": "Tamara N. Jenkins",
+  "pronouns": null,
+  "title": "Civilian Employee",
+  "organization": "U.S. Department of Defense",
+  "domain": "mail.mil",
+  "addresses": {
+    "mailing_address": "1000 Defense Pentagon, Washington, DC 20301-1000",
+    "business_address": "1000 Defense Pentagon, Washington, DC 20301-1000",
+    "legal_service_address": "U.S. Attorney General, 950 Pennsylvania Avenue, NW, Washington, DC 20530-0001"
+  },
+  "registered_agent": {
+    "name": "Office of the Attorney General / U.S. Attorney's Office",
+    "address": "950 Pennsylvania Avenue, NW, Washington, DC 20530-0001",
+    "jurisdiction": "Federal"
+  },
+  "contact": {
+    "primary_email": "_tamara.n.jenkins.civ@mail.mil",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2907583221",
+      "canonical_key": "undra.n.robinson.civ@mail.mil",
+      "display_name": "Undra N. Robinson",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3528338838",
+      "canonical_key": "tamara.n.jenkins.civ@mail.mil",
+      "display_name": "Tamara N. Jenkins",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3587713169",
+      "canonical_key": "emil.michael@mail.mil",
+      "display_name": "Emil Michael",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1130869780",
+      "canonical_key": "_undra.n.robinson.civ@mail.mil",
+      "display_name": "Undra N. Robinson",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

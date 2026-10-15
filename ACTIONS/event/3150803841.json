@@ -1,0 +1,114 @@
+{
+  "summary_of_pdf": "The provided document is an RPost Registered Email receipt serving as evidentiary proof of delivery for a complex, multi-agency federal disclosure sent by RJ Aguiar, Jr. on April 7, 2026. The transmission asserts rights to a 47-patent portfolio and provides notice of parallel federal disclosures, including formal criminal referrals for interstate wire fraud, whistleblower retaliation claims tied to SEC TCR 17742-648-351-976, and a Department of Defense license grant involving Heidi Shyu. The receipt confirms successful delivery and opening by key SEC officials, while noting delivery failures to specific Treasury and FinCEN addresses due to authorization and routing restrictions.",
+  "attorneys_comments": "This RPost receipt constitutes highly probative, self-authenticating electronic evidence of actual notice under Fed. R. Evid. 902(13) and 902(14). Tactically, the successful delivery and 'Opened' status for SEC Commissioners Peirce and Uyeda establishes an incontrovertible timeline for the agency's receipt of the whistleblower retaliation claims and SEC TCR 17742-648-351-976. However, the scattershot, pro se nature of the service presents significant procedural liabilities. The delivery failure to FinCEN Director Andrea Gacki (Status: 5.7.129 RestrictedToRecipientsPermission) demonstrates a failure to utilize proper administrative portals for classified or restricted federal communications. Furthermore, the amalgamation of patent prosecution history, DoD licensing grants, and criminal referrals into a single unrepresented email blast risks administrative dismissal or triage into a 'crank' file rather than formal docketing. If the claimant intends to pursue a 28 U.S.C. \u00a7 1498 action against the government or a qui tam action, this informal notice is procedurally insufficient to toll statutory deadlines or exhaust administrative remedies.",
+  "recommended_next_steps": "1. Immediately cure defective service on FinCEN and Treasury officials by submitting the disclosures through their respective formal whistleblower and administrative portals. 2. Retain competent intellectual property and white-collar litigation counsel to bifurcate the claims: separating the 28 U.S.C. \u00a7 1498 DoD patent licensing claims from the SEC whistleblower (15 U.S.C. \u00a7 78u-6) and criminal wire fraud referrals. 3. Preserve the RPost cryptographic receipt and native audit trail metadata in a secure, litigation-hold environment to substantiate future claims of actual notice.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Fed. R. Evid. 902(13)",
+    "Fed. R. Evid. 902(14)",
+    "15 U.S.C. \u00a7 78u-6",
+    "SEC Whistleblower Retaliation",
+    "18 U.S.C. \u00a7 1343",
+    "Interstate Wire Fraud",
+    "28 U.S.C. \u00a7 1498",
+    "Patent Prosecution",
+    "DoD License Grant",
+    "Administrative Notice",
+    "SEC TCR 17742-648-351-976"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Andrea Gacki",
+      "Richard Fisher",
+      "Sam Corcos",
+      "Hester Peirce",
+      "C. McGlosson",
+      "Joshua White",
+      "Mark Uyeda",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Emil Michael",
+      "Heidi Shyu",
+      "Cody Matthew Herche",
+      "Colin McDonald"
+    ],
+    "companies": [
+      "UBER",
+      "eBay",
+      "RPost",
+      "Foley",
+      "KKC"
+    ],
+    "technologies": [
+      "Central Processing Unit Architecture for Native Parametric and Symbolic Computation",
+      "High-Radix and Parametric Cellular Communication System",
+      "High-Radix and Parametric Satellite Communication System"
+    ],
+    "products": [
+      "47-Patent Portfolio"
+    ],
+    "government_offices": [
+      "FinCEN",
+      "Department of Treasury",
+      "Securities and Exchange Commission (SEC)",
+      "Department of Defense",
+      "USPTO"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "District of Columbia",
+      "Redmond"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Foley"
+    ],
+    "attorneys": [
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,219",
+    "19/639,255",
+    "19/639,265"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "3150803841",
+  "basefilename": "READ-RECEIPT-peirceh@sec.gov_whitejoshua@sec.gov_uyedam@sec.gov",
+  "original_filename": "READ-RECEIPT-peirceh@sec.gov_whitejoshua@sec.gov_uyedam@sec.gov.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "peirceh@sec.gov",
+  "primary_recipient_an": "Peirceh (SEC)",
+  "all_recipients": [
+    "peirceh@sec.gov",
+    "_whitejoshua@sec.gov",
+    "andrea.gacki@treasury.gov",
+    "andrea.gacki@fincen.gov",
+    "fisherr@sec.gov",
+    "uyedam@sec.gov",
+    "whitejoshua@sec.gov",
+    "sam.corcos@treasury.gov",
+    "mcglossonc@sec.gov",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "peirceh@sec.gov": "Peirceh (SEC)",
+    "_whitejoshua@sec.gov": "Whitejoshua (SEC)",
+    "andrea.gacki@treasury.gov": "Andrea Gacki (Treasury)",
+    "andrea.gacki@fincen.gov": "Andrea Gacki (Inc.)",
+    "fisherr@sec.gov": "Fisherr (SEC)",
+    "uyedam@sec.gov": "Uyedam (SEC)",
+    "whitejoshua@sec.gov": "Whitejoshua (SEC)",
+    "sam.corcos@treasury.gov": "Sam Corcos (Treasury)",
+    "mcglossonc@sec.gov": "McGlossonc (SEC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

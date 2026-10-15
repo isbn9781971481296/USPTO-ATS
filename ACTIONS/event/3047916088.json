@@ -1,0 +1,96 @@
+{
+  "summary_of_pdf": "This document is an RMail File Share Download Notice providing time-stamped evidentiary proof that a representative of the Trump Organization downloaded a formal legal demand. The underlying transmission asserts actual notice of provisional patent rights under 35 U.S.C. \u00a7 154(d) regarding hospitality surveillance vulnerabilities, data exfiltration, and architectural steganography, explicitly naming Marriott, Hyatt, the Trump Organization, and Guest-Tek.",
+  "attorneys_comments": "From an evidentiary standpoint, this RMail download receipt is a critical asset for establishing 'actual notice' under 35 U.S.C. \u00a7 154(d), which is a strict prerequisite for recovering reasonable royalties for pre-issuance patent infringement. The time-stamped audit trail confirms the recipient (agarten@trumporg.com) actively downloaded the USPTO patent application portfolio and the liability notice. This effectively neutralizes any prospective defense of willful blindness or lack of knowledge by the Trump Organization. The inclusion of EPO correspondence and DOJ network files indicates a complex, multi-forum strategic posture. Counsel must ensure this electronic record is preserved with its native metadata to satisfy the authentication requirements of Fed. R. Evid. 901(b)(9) and the business records exception under Fed. R. Evid. 803(6).",
+  "recommended_next_steps": "1. Securely preserve the native email and RMail cryptographic receipt to maintain the chain of custody for trial authentication. 2. Verify that identical 35 U.S.C. \u00a7 154(d) notices have been successfully served on and downloaded by co-targets Marriott, Hyatt, and Guest-Tek. 3. Monitor the prosecution of the referenced USPTO applications; upon issuance, evaluate the claims for substantial identity to the published applications to perfect the claim for pre-issuance royalties. 4. Assess venue propriety under 28 U.S.C. \u00a7 1400(b) for potential infringement litigation in the Southern District of Texas.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Patent Infringement",
+    "Pre-Issuance Royalties",
+    "Hospitality Surveillance",
+    "Data Exfiltration",
+    "Architectural Steganography",
+    "Fed. R. Evid. 901",
+    "Fed. R. Evid. 803(6)",
+    "Formal Demand Letter"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "agarten",
+      "gphilpott",
+      "nsimon",
+      "srowan",
+      "rmenidjel",
+      "ymeniere",
+      "tvilela"
+    ],
+    "companies": [
+      "Marriott",
+      "Hyatt",
+      "Trump Organization",
+      "Guest-Tek",
+      "RPost"
+    ],
+    "technologies": [
+      "Hospitality Surveillance",
+      "In-Room Data Exfiltration",
+      "Architectural Steganography"
+    ],
+    "products": [
+      "RMail",
+      "RMail FileShare"
+    ],
+    "government_offices": [
+      "USPTO",
+      "EPO",
+      "DOJ"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "3047916088",
+  "basefilename": "DOWNLOAD-RECEIPT-agarten@trumporg.com_Tier-0-BIGG-CW",
+  "original_filename": "DOWNLOAD-RECEIPT-agarten@trumporg.com_Tier-0-BIGG-CW.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04102026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "agarten@trumporg.com",
+  "primary_recipient_an": "Agarten (Abuse)",
+  "all_recipients": [
+    "agarten@trumporg.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "rmenidjel@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "00__defensive-publication-email-with-receiptepo_gphilpott@epo.org",
+    "org_srowan@epo.org",
+    "_rmenidjel@epo.org",
+    "_ymeniere@epo.org"
+  ],
+  "all_recipients_an": {
+    "agarten@trumporg.com": "Agarten (Abuse)",
+    "srowan@epo.org": "Local (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Local (European Patent Office)",
+    "rmenidjel@epo.org": "Local (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "00__defensive-publication-email-with-receiptepo_gphilpott@epo.org": "Defensive Publication Email With Receiptepo Gphilpott (European Patent Office)",
+    "org_srowan@epo.org": "Local (European Patent Office)",
+    "_rmenidjel@epo.org": "Local (European Patent Office)",
+    "_ymeniere@epo.org": "Local (European Patent Office)"
+  },
+  "patent_applications": []
+}

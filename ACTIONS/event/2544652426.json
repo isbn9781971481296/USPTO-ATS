@@ -1,0 +1,96 @@
+{
+  "summary_of_pdf": "The provided document is an RMail Secure File Share Download Notice serving as evidentiary proof that a recipient at the European Patent Office (srowan@epo.org) successfully downloaded a formal notification on April 16, 2026. The underlying transmission constitutes a Defensive Publication and Prior Art Submission referencing ISBN 978-1-97148129-6 and USPTO Application No. 19/640,945, specifically targeting IPC Clusters G06F and H04L. The downloaded file is a PDF record of a prior communication directed to Akamai Technologies and the law firm Vorys.",
+  "attorneys_comments": "Upon careful examination of this instrument, it is evident that the sender is meticulously establishing an unassailable chain of custody and proof of actual notice regarding a prior art submission. From an evidentiary standpoint, this cryptographic receipt is highly probative and would likely satisfy the authentication requirements of Federal Rule of Evidence 901, as well as the business records exception under FRE 803(6). The tactical implication here is profound: by formally serving this defensive publication upon the European Patent Office and documenting the download, the sender is preemptively foreclosing patentability of the disclosed subject matter within the G06F/H04L classifications. Furthermore, the inclusion of a prior communication to Akamai Technologies and their outside counsel (Vorys) strongly suggests a strategic posturing to establish constructive and actual knowledge of the prior art. Should Akamai or any associated entity attempt to prosecute or assert claims reading on this art, this document will serve as foundational evidence to support allegations of inequitable conduct before the USPTO or willful infringement defenses in an Article III tribunal.",
+  "recommended_next_steps": "Counsel is respectfully advised to preserve the native RMail receipt and its associated cryptographic metadata in a secure, tamper-evident repository to ensure admissibility under FRE 902(13) or 902(14). It is further recommended to monitor the respective dockets at the USPTO and EPO for any third-party pre-issuance submissions under 35 U.S.C. \u00a7 122(e) or corresponding European procedures. If litigation in the Southern District of Texas is anticipated, prepare a comprehensive timeline of these notices to Akamai and Vorys to substantiate potential counterclaims or defenses rooted in prior art invalidity under 35 U.S.C. \u00a7 102 and \u00a7 103.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Prior Art Submission",
+    "Defensive Publication",
+    "35 U.S.C. \u00a7 122(e)",
+    "35 U.S.C. \u00a7 102",
+    "35 U.S.C. \u00a7 103",
+    "FRE 803(6) Business Records",
+    "FRE 901 Authentication",
+    "Actual Notice",
+    "Constructive Notice",
+    "Patent Prosecution",
+    "Inequitable Conduct",
+    "IPC G06F",
+    "IPC H04L"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "S. Rowan",
+      "D.F. Hine",
+      "B. Gelbord",
+      "J. Casey",
+      "A. Karon",
+      "M. Sundara"
+    ],
+    "companies": [
+      "Akamai Technologies",
+      "RPost"
+    ],
+    "technologies": [
+      "IPC Cluster G06F",
+      "IPC Cluster H04L",
+      "Defensive Publication"
+    ],
+    "products": [
+      "RMail Secure Service",
+      "RMail FileShare"
+    ],
+    "government_offices": [
+      "European Patent Office (EPO)",
+      "United States Patent and Trademark Office (USPTO)"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Vorys"
+    ],
+    "attorneys": [
+      "D.F. Hine",
+      "B. Gelbord",
+      "J. Casey",
+      "A. Karon",
+      "M. Sundara"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/640,945"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "2544652426",
+  "basefilename": "DOWNLOAD-RECEIPT_srowan@epo.org",
+  "original_filename": "DOWNLOAD-RECEIPT_srowan@epo.org.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04082026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "akamai-and-vorys-dfhine@vorys.com",
+  "primary_recipient_an": "Akamai And Vorys Dfhine (Vorys)",
+  "all_recipients": [
+    "akamai-and-vorys-dfhine@vorys.com",
+    "srowan@epo.org",
+    "akaron@akamai.com",
+    "jcasey@akamai.com",
+    "msundara@akamai.com",
+    "rj.aguiar.m@gmail.com",
+    "akamai.com_jcasey@akamai.com"
+  ],
+  "all_recipients_an": {
+    "akamai-and-vorys-dfhine@vorys.com": "Akamai And Vorys Dfhine (Vorys)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "akaron@akamai.com": "Akaron (Akamai Technologies)",
+    "jcasey@akamai.com": "Jcasey (Akamai Technologies)",
+    "msundara@akamai.com": "Msundara (Akamai Technologies)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "akamai.com_jcasey@akamai.com": "Akamai Com Jcasey (Akamai Technologies)"
+  },
+  "patent_applications": [
+    "19/640,945"
+  ]
+}

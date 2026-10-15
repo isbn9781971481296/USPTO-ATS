@@ -1,0 +1,37 @@
+{
+  "serving_key": "1486602186",
+  "canonical_key": "city.solicitor@phila.gov",
+  "display_name": "City Solicitor (City of Philadelphia)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "City of Philadelphia Law Department",
+  "full_name": "Renee Garcia",
+  "pronouns": null,
+  "title": "City Solicitor",
+  "organization": "City of Philadelphia Law Department",
+  "domain": "phila.gov",
+  "addresses": {
+    "mailing_address": "1515 Arch Street, 17th Floor, Philadelphia, PA 19102",
+    "business_address": "1515 Arch Street, 17th Floor, Philadelphia, PA 19102",
+    "legal_service_address": "City of Philadelphia Law Department, 1515 Arch Street, 17th Floor, Philadelphia, PA 19102"
+  },
+  "registered_agent": {
+    "name": "City Solicitor (Statutory Agent for the City of Philadelphia)",
+    "address": "1515 Arch Street, 17th Floor, Philadelphia, PA 19102",
+    "jurisdiction": "Pennsylvania"
+  },
+  "contact": {
+    "primary_email": "city.solicitor@phila.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-215-683-5000"
+    ],
+    "faxes": [
+      "+1-215-683-5069"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

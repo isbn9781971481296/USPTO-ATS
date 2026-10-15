@@ -1,0 +1,43 @@
+{
+  "serving_key": "2715177627",
+  "canonical_key": "elie.maalouf@ihg.com",
+  "display_name": "Elie Maalouf (IHG Hotels & Resorts)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "InterContinental Hotels Group PLC",
+  "full_name": "Elie Maalouf",
+  "pronouns": null,
+  "title": "Chief Executive Officer",
+  "organization": "InterContinental Hotels Group PLC",
+  "domain": "ihg.com",
+  "addresses": {
+    "mailing_address": "1 Windsor Dials, Arthur Road, Windsor, Berkshire, SL4 1RS, United Kingdom",
+    "business_address": "3 Ravinia Drive, Suite 100, Atlanta, GA 30346, USA",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "elie.maalouf@ihg.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+44 1895 512000",
+      "+1 770-604-2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "715943154",
+      "canonical_key": "nicolette.henfrey@ihg.com",
+      "display_name": "Nicolette Henfrey",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,42 @@
+{
+  "index": 29,
+  "header": "# Enclosure #29: 01-DFARS-227-7004-Plantir-and-Anduril-Industries.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/DoD__DFARS-227.7004/Plantir-and-Anduril-Industries/01_DFARS_227.7004_Plantir-and-Anduril-Industries.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-dod-dfars-227.7004-plantir-and-anduril-industries-01-dfars-227.7004-plantir-and-259f33a9b8.pdf",
+  "pdf_exists": true,
+  "category": "letter",
+  "prefix_hint": "LETTER",
+  "subtype": "letter",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "william.a.creech3.civ@army.mil",
+  "primary_recipient_an": "William A. Creech (United States Department of the Army)",
+  "all_recipients": [
+    "william.a.creech3.civ@army.mil",
+    "undra.n.robinson.civ@mail.mil",
+    "emely.e.winnert@nga.mil",
+    "tamara.n.jenkins.civ@mail.mil",
+    "mia.a.steele2.civ@army.mil",
+    "aflcmcjaworkflowmail@us.af.mil",
+    "jonathan.elliott@army.mil"
+  ],
+  "all_recipients_an": {
+    "william.a.creech3.civ@army.mil": "William A. Creech (United States Department of the Army)",
+    "undra.n.robinson.civ@mail.mil": "Undra Robinson (Department of Defense)",
+    "emely.e.winnert@nga.mil": "Emely E. Winnert (National Geospatial-Intelligence Agency)",
+    "tamara.n.jenkins.civ@mail.mil": "Tamara N. Jenkins (Department of Defense)",
+    "mia.a.steele2.civ@army.mil": "Mia A. Steele (United States Department of the Army)",
+    "aflcmcjaworkflowmail@us.af.mil": "Aflcmcjaworkflowmail (United States Air Force)",
+    "jonathan.elliott@army.mil": "Jonathan Elliott (United States Department of the Army)"
+  },
+  "date": "04172026",
+  "original_filename": "01_DFARS_227.7004_Plantir-and-Anduril-Industries.pdf",
+  "patent_applications_mentioned": [
+    "19/639,219",
+    "19/640,945",
+    "19/560,038",
+    "19/560,065",
+    "19/559,957",
+    "19/559,873",
+    "19/559,842"
+  ]
+}

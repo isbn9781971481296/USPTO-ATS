@@ -1,0 +1,37 @@
+{
+  "serving_key": "2328170795",
+  "canonical_key": "eiji.katayama@aiklaw.co.jp",
+  "display_name": "Eiji Katayama (Abe, Ikubo & Katayama)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "AIK Law",
+  "full_name": "Eiji Katayama",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "AIK Law",
+  "domain": "aiklaw.co.jp",
+  "addresses": {
+    "mailing_address": "Otemachi Building, 1-6-1 Otemachi, Chiyoda-ku, Tokyo 100-0004, Japan",
+    "business_address": "Otemachi Building, 1-6-1 Otemachi, Chiyoda-ku, Tokyo 100-0004, Japan",
+    "legal_service_address": "Otemachi Building, 1-6-1 Otemachi, Chiyoda-ku, Tokyo 100-0004, Japan"
+  },
+  "registered_agent": {
+    "name": "Abe, Ikubo & Katayama",
+    "address": "Otemachi Building, 1-6-1 Otemachi, Chiyoda-ku, Tokyo 100-0004, Japan",
+    "jurisdiction": "Tokyo, Japan"
+  },
+  "contact": {
+    "primary_email": "eiji.katayama@aiklaw.co.jp",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+81-3-3270-8011"
+    ],
+    "faxes": [
+      "+81-3-3270-8012"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

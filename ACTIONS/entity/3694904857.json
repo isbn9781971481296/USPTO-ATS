@@ -1,0 +1,36 @@
+{
+  "serving_key": "3694904857",
+  "canonical_key": "roy.papatheodorou@sanofi.com",
+  "display_name": "Roy Papatheodorou (Sanofi)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Sanofi",
+  "full_name": "Roy Papatheodorou",
+  "pronouns": null,
+  "title": "General Counsel",
+  "organization": "Sanofi",
+  "domain": "sanofi.com",
+  "addresses": {
+    "mailing_address": "46, avenue de la Grande Arm\u00e9e, 75017 Paris, France",
+    "business_address": "46, avenue de la Grande Arm\u00e9e, 75017 Paris, France",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "roy.papatheodorou@sanofi.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 1 53 77 40 00",
+      "+1 908-981-5000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

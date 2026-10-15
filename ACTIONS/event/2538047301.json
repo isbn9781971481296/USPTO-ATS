@@ -1,0 +1,109 @@
+{
+  "summary_of_pdf": "The document is an RPost Registered Receipt providing cryptographic and verifiable proof of delivery for an electronic communication sent by RJ Aguiar to attorneys at Nagashima Ohno & Tsunematsu. The underlying transmission seeks intellectual property representation concerning a 47-patent portfolio and asserts parallel federal disclosures involving the U.S. Department of Defense and Lockheed Martin. The attachments indicate a complex posture involving USPTO patent applications, a purported license grant to DoD official Heidi Shyu, formal criminal referrals for interstate wire fraud and whistleblower retaliation, and an SEC TCR (Tips, Complaints, and Referrals) filing.",
+  "attorneys_comments": "This RPost receipt constitutes highly probative, admissible evidence of notice and delivery, self-authenticating under Federal Rules of Evidence 901 and 902. The sender is establishing a verifiable evidentiary trail regarding explosive allegations of whistleblower retaliation, procurement fraud, and patent infringement, potentially implicating 28 U.S.C. \u00a7 1498 if the Department of Defense is utilizing the intellectual property. The inclusion of formal criminal referrals and SEC TCR filings suggests the sender is aggressively posturing for parallel administrative and civil litigation. However, the scattershot nature of the attachments\u2014mixing patent prosecution, criminal referrals, and SEC whistleblower claims\u2014indicates a potentially volatile claimant. While delivery failed for one recipient (Kayako Tase), successful delivery and 'opened' status for others (Shunji Matsuda, Mami Sawada) establishes constructive notice to the firm.",
+  "recommended_next_steps": "Preserve this RPost receipt and all native attachments in a secure, forensically sound litigation hold. Conduct an immediate conflict check regarding RJ Aguiar, Lockheed Martin, and the named Foley attorneys. Review the USPTO Patent Center for the status of applications 19/639,265, 19/639,219, and 19/639,255. Assess potential exposure under 28 U.S.C. \u00a7 1498(a) and DFARS 227.7004 if the DoD is an implicated licensee. Do not respond substantively until the SEC TCR and criminal referral attachments are triaged for potential ABA Model Rule 8.3 reporting obligations or SEC material risk disclosures.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "28 U.S.C. \u00a7 1498",
+    "35 U.S.C. \u00a7 111",
+    "DFARS 227.7004",
+    "Patent Infringement",
+    "Procurement Fraud",
+    "Whistleblower Retaliation",
+    "SEC TCR Filing",
+    "Formal Demand Letter",
+    "ABA Model Rule 8.3",
+    "FRE 901/902 Authentication",
+    "Administrative Claim"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Heidi Shyu",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Kayako Tase",
+      "Mami Sawada",
+      "Shunji Matsuda",
+      "Saori Kawai"
+    ],
+    "companies": [
+      "Lockheed Martin",
+      "RPost"
+    ],
+    "technologies": [
+      "High-Radix and Parametric Satellite Communication System",
+      "Central Processing Unit Architecture for Native Parametric and Symbolic Computation",
+      "High-Radix and Parametric Cellular Communication System"
+    ],
+    "products": [
+      "47-Patent Portfolio"
+    ],
+    "government_offices": [
+      "US Department of Defense",
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Foley",
+      "Nagashima Ohno & Tsunematsu"
+    ],
+    "attorneys": [
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Kayako Tase",
+      "Mami Sawada",
+      "Shunji Matsuda",
+      "Saori Kawai"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,265",
+    "19/639,219",
+    "19/639,255"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "2538047301",
+  "basefilename": "READ-RECEIPT-kayako_tase@noandt.com_mami_sawada@noandt.com_shunji_matsuda@noandt.com_saori_kawai@noandt.com",
+  "original_filename": "READ-RECEIPT-kayako_tase@noandt.com_mami_sawada@noandt.com_shunji_matsuda@noandt.com_saori_kawai@noandt.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kayako_tase@noandt.com",
+  "primary_recipient_an": "Kayako Tase (noandt.com)",
+  "all_recipients": [
+    "kayako_tase@noandt.com",
+    "_mami_sawada@noandt.com",
+    "_shunji_matsuda@noandt.com",
+    "sawada@noandt.com",
+    "matsuda@noandt.com",
+    "kawai@noandt.com",
+    "tase@noandt.com",
+    "rj.aguiar.m@gmail.com",
+    "mami_sawada@noandt.com",
+    "shunji_matsuda@noandt.com",
+    "saori_kawai@noandt.com"
+  ],
+  "all_recipients_an": {
+    "kayako_tase@noandt.com": "Kayako Tase (noandt.com)",
+    "_mami_sawada@noandt.com": "Mami Sawada (noandt.com)",
+    "_shunji_matsuda@noandt.com": "Shunji Matsuda (noandt.com)",
+    "sawada@noandt.com": "Sawada (noandt.com)",
+    "matsuda@noandt.com": "Matsuda (noandt.com)",
+    "kawai@noandt.com": "Kawai (noandt.com)",
+    "tase@noandt.com": "Tase (noandt.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "mami_sawada@noandt.com": "Mami Sawada (noandt.com)",
+    "shunji_matsuda@noandt.com": "Shunji Matsuda (noandt.com)",
+    "saori_kawai@noandt.com": "Saori Kawai (noandt.com)"
+  },
+  "patent_applications": []
+}

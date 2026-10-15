@@ -1,0 +1,389 @@
+4/9/26, 2:09 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: SYSTEMS FO…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART
+DISCLOSURE: SYSTEMS FOR FORENSIC OWNERSHIP TRACING, ATTRIBUTED
+CONTROL DETECTION, AND ASYNCHRONOUS SECURE COMMUNICATIONS
+5 messages
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Thu, Apr 9, 2026 at 6:43 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE:
+SYSTEMS FOR FORENSIC OWNERSHIP TRACING, ATTRIBUTED CONTROL
+DETECTION, AND ASYNCHRONOUS SECURE COMMUNICATIONS
+
+To:
+
+<marcus.burnside@chamberlainlaw.com>
+
+Time Sent:
+
+04/09/2026 09:19:31 AM (UTC), 04/09/2026 09:19:31 AM (Local)
+
+Time Opened:
+
+04/09/2026 11:37:38 AM (UTC), 04/09/2026 11:37:38 AM (Local)
+
+Tracking Number:
+
+5F08DAAD74266BB7D852AE94B3F2801718867527
+
+Network ID:
+
+623232de-6dc6-41ea-86d9-31080d6bebab@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 99.56.114.27] [Time Opened: 4/9/2026 11:37:38 AM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/7RNtUlCoacVpvbhq3wbSreiG4iWdRISWrwrSkHJRMDIx.gif] HTTP_ACCEPT:image/we
+bp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 HT
+TP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net
+HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)
+Mobile/15E148 HTTP_X_FORWARDED_FOR:99.56.114.27 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_
+PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d78f82-4fee92bd609b093350fa93b5 HTTP_SEC_FETCH_SITE:cross-site H
+TTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,image/avi
+f,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Encodin
+g: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPhone; CPU iPhon
+e OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 99.56.114.27 X-Forw
+arded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d78f82-4fee92bd609b093350fa93b5 sec-fetch-site: cros
+s-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert
+CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 19
+2.168.10.112 /oatv_v2/7RNtUlCoacVpvbhq3wbSreiG4iWdRISWrwrSkHJRMDIx.gif 192.168.20.36 192.168.20.36 26646 GET /o
+atv_v2/7RNtUlCoacVpvbhq3wbSreiG4iWdRISWrwrSkHJRMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /o
+atv_v2/7RNtUlCoacVpvbhq3wbSreiG4iWdRISWrwrSkHJRMDIx.gif image/webp,image/avif,image/jxl,image/heic,image/heic-se
+quence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 99.56.
+114.27 https 443 Root=1-69d78f82-4fee92bd609b093350fa93b5 cross-site image no-cors u=5, i
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861993087424777629&simpl=msg-f:186199308742477762…
+
+1/5
+
+4/9/26, 2:09 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: SYSTEMS FO…
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+38K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Thu, Apr 9, 2026 at 7:22 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE:
+SYSTEMS FOR FORENSIC OWNERSHIP TRACING, ATTRIBUTED CONTROL
+DETECTION, AND ASYNCHRONOUS SECURE COMMUNICATIONS
+
+To:
+
+<c.kirchner@chamberlainlaw.com>
+
+Time Sent:
+
+04/09/2026 09:19:31 AM (UTC), 04/09/2026 09:19:31 AM (Local)
+
+Time Opened:
+
+04/09/2026 12:16:00 PM (UTC), 04/09/2026 12:16:00 PM (Local)
+
+Tracking Number:
+
+5F08DAAD74266BB7D852AE94B3F2801718867527
+
+Network ID:
+
+623232de-6dc6-41ea-86d9-31080d6bebab@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 73.166.89.192] [Time Opened: 4/9/2026 12:16:00 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrma
+il.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/yS6CXItqTDWTjqOarPCPGynaijL8MAxfTBQ53ANWMDIx.gif] HTTP_ACCEPT:imag
+e/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip HTTP_HOST:socrmail.r1.r
+post.net HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 16; SM-S901U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.3
+6 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.166 Mobile Safari/537.36 HTTP_X_FORWARDED_FOR:73.166.89.192
+HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d79880-1c
+49c2314bdfa51e0fc3b945 HTTP_SEC_CH_UA:"Chromium";v="146", "Not-A.Brand";v="24", "Android WebView";v="146" HTT
+P_SEC_CH_UA_MOBILE:?1 HTTP_SEC_CH_UA_PLATFORM:"Android" Accept: image/avif,image/webp,image/apng,image/s
+vg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzip Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Linux; Android 16; SM-S
+901U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.166 Mobile
+Safari/537.36 X-Forwarded-For: 73.166.89.192 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d
+79880-1c49c2314bdfa51e0fc3b945 sec-ch-ua: "Chromium";v="146", "Not-A.Brand";v="24", "Android WebView";v="146" sec-c
+h-ua-mobile: ?1 sec-ch-ua-platform: "Android" /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpo
+st.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v
+2/yS6CXItqTDWTjqOarPCPGynaijL8MAxfTBQ53ANWMDIx.gif 192.168.10.173 192.168.10.173 33916 GET /oatv_v2/yS6CXIt
+qTDWTjqOarPCPGynaijL8MAxfTBQ53ANWMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/yS6CX
+ItqTDWTjqOarPCPGynaijL8MAxfTBQ53ANWMDIx.gif image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 g
+zip socrmail.r1.rpost.net Mozilla/5.0 (Linux; Android 16; SM-S901U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHT
+ML, like Gecko) Version/4.0 Chrome/146.0.7680.166 Mobile Safari/537.36 73.166.89.192 https 443 Root=1-69d79880-1c49c23
+14bdfa51e0fc3b945 "Chromium";v="146", "Not-A.Brand";v="24", "Android WebView";v="146" ?1 "Android"
+[Quoted text hidden]
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861993087424777629&simpl=msg-f:186199308742477762…
+
+2/5
+
+4/9/26, 2:09 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: SYSTEMS FO…
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+38K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Thu, Apr 9, 2026 at 10:08 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE:
+SYSTEMS FOR FORENSIC OWNERSHIP TRACING, ATTRIBUTED CONTROL
+DETECTION, AND ASYNCHRONOUS SECURE COMMUNICATIONS
+
+To:
+
+<larry.campagna@chamberlainlaw.com>
+
+Time Sent:
+
+04/09/2026 09:19:31 AM (UTC), 04/09/2026 09:19:31 AM (Local)
+
+Time Opened:
+
+04/09/2026 03:02:36 PM (UTC), 04/09/2026 03:02:36 PM (Local)
+
+Tracking Number:
+
+5F08DAAD74266BB7D852AE94B3F2801718867527
+
+Network ID:
+
+623232de-6dc6-41ea-86d9-31080d6bebab@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 4.28.37.74] [Time Opened: 4/9/2026 3:02:36 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r1.rp
+ost.net] [SCRIPT_NAME: /oatv_v2/Ta7apLowi1s6OQ2cfYQ9NomwjFnvOajcgGD8cfiqMDIx.gif] HTTP_HOST:socrmail.r1.rpos
+t.net HTTP_USER_AGENT:Mozilla/4.0 (compatible; ms-office; MSOffice 16) HTTP_X_FORWARDED_FOR:4.28.37.74 HTTP_
+X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d7bf8c-7c4f3249
+544731886c005dbb Host: socrmail.r1.rpost.net User-Agent: Mozilla/4.0 (compatible; ms-office; MSOffice 16) X-Forwarded-For:
+4.28.37.74 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d7bf8c-7c4f3249544731886c005dbb /
+LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SV
+C/12 192.168.20.30 /oatv_v2/Ta7apLowi1s6OQ2cfYQ9NomwjFnvOajcgGD8cfiqMDIx.gif 192.168.20.36 192.168.20.36 21938
+GET /oatv_v2/Ta7apLowi1s6OQ2cfYQ9NomwjFnvOajcgGD8cfiqMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/1
+0.0 /oatv_v2/Ta7apLowi1s6OQ2cfYQ9NomwjFnvOajcgGD8cfiqMDIx.gif socrmail.r1.rpost.net Mozilla/4.0 (compatible; ms-offic
+e; MSOffice 16) 4.28.37.74 https 443 Root=1-69d7bf8c-7c4f3249544731886c005dbb
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+3K
+HtmlReceipt.htm
+32K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Thu, Apr 9, 2026 at 11:35 AM
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861993087424777629&simpl=msg-f:186199308742477762…
+
+3/5
+
+4/9/26, 2:09 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: SYSTEMS FO…
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE:
+SYSTEMS FOR FORENSIC OWNERSHIP TRACING, ATTRIBUTED CONTROL
+DETECTION, AND ASYNCHRONOUS SECURE COMMUNICATIONS
+
+To:
+
+<charles.rettig@chamberlainlaw.com>
+
+Time Sent:
+
+04/09/2026 09:19:31 AM (UTC), 04/09/2026 09:19:31 AM (Local)
+
+Time Opened:
+
+04/09/2026 04:29:39 PM (UTC), 04/09/2026 04:29:39 PM (Local)
+
+Tracking Number:
+
+5F08DAAD74266BB7D852AE94B3F2801718867527
+
+Network ID:
+
+623232de-6dc6-41ea-86d9-31080d6bebab@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 76.174.147.214] [Time Opened: 4/9/2026 4:29:39 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/fxn7bgqBFHZJp4X3JsQ6nHLw1xS286TBqcOXs8lxMDIx.gif] HTTP_ACCEPT:image/
+avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip HTTP_HOST:socrmail.r1.rp
+ost.net HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 16; SM-S908U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36
+(KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36 HTTP_X_FORWARDED_FOR:76.174.147.214
+HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d7d3f3-29
+12d6a5388ef682616da125 HTTP_SEC_CH_UA:"Chromium";v="146", "Not-A.Brand";v="24", "Android WebView";v="146" HTT
+P_SEC_CH_UA_MOBILE:?1 HTTP_SEC_CH_UA_PLATFORM:"Android" Accept: image/avif,image/webp,image/apng,image/s
+vg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzip Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Linux; Android 16; SM-S
+908U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile
+Safari/537.36 X-Forwarded-For: 76.174.147.214 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69
+d7d3f3-2912d6a5388ef682616da125 sec-ch-ua: "Chromium";v="146", "Not-A.Brand";v="24", "Android WebView";v="146" secch-ua-mobile: ?1 sec-ch-ua-platform: "Android" /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rp
+ost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_
+v2/fxn7bgqBFHZJp4X3JsQ6nHLw1xS286TBqcOXs8lxMDIx.gif 192.168.20.36 192.168.20.36 2916 GET /oatv_v2/fxn7bgqBFH
+ZJp4X3JsQ6nHLw1xS286TBqcOXs8lxMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/fxn7bgqBFH
+ZJp4X3JsQ6nHLw1xS286TBqcOXs8lxMDIx.gif image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip soc
+rmail.r1.rpost.net Mozilla/5.0 (Linux; Android 16; SM-S908U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, lik
+e Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36 76.174.147.214 https 443 Root=1-69d7d3f3-2912d6a5388e
+f682616da125 "Chromium";v="146", "Not-A.Brand";v="24", "Android WebView";v="146" ?1 "Android"
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+38K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Thu, Apr 9, 2026 at 12:00 PM
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861993087424777629&simpl=msg-f:186199308742477762…
+
+4/5
+
+4/9/26, 2:09 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: SYSTEMS FO…
+
+The following message has been delivered and opened for reading:
+Categories
+Message Details
+Message Subject:
+
+FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE:
+SYSTEMS FOR FORENSIC OWNERSHIP TRACING, ATTRIBUTED CONTROL
+DETECTION, AND ASYNCHRONOUS SECURE COMMUNICATIONS
+
+To:
+
+<david.aughtry@chamberlainlaw.com>
+
+Time Sent:
+
+04/09/2026 09:19:31 AM (UTC), 04/09/2026 09:19:31 AM (Local)
+
+Time Opened:
+
+04/09/2026 04:54:36 PM (UTC), 04/09/2026 04:54:36 PM (Local)
+
+Tracking Number:
+
+5F08DAAD74266BB7D852AE94B3F2801718867527
+
+Network ID:
+
+623232de-6dc6-41ea-86d9-31080d6bebab@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 83.136.182.113] [Time Opened: 4/9/2026 4:54:36 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.
+r1.rpost.net] [SCRIPT_NAME: /oatv_v3/1DzM4P4cEJonzbbOJu7UcrrGTlvgtwvAEbKwVrwnMDIx.gif] HTTP_ACCEPT:image/a
+vif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_
+ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ H
+TTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0 HTTP_X_FORWAR
+DED_FOR:83.136.182.113 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRA
+CE_ID:Root=1-69d7d9cc-08f6e7dc66d1a8622172111e HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors
+HTTP_SEC_FETCH_SITE:same-site HTTP_PRIORITY:u=5, i Accept: image/avif,image/webp,image/png,image/svg+xml,ima
+ge/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate, br, zstd Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net Ref
+erer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefo
+x/149.0 X-Forwarded-For: 83.136.182.113 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d7d9c
+c-08f6e7dc66d1a8622172111e sec-fetch-dest: image sec-fetch-mode: no-cors sec-fetch-site: same-site priority: u=5, i /LM/W3
+SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 19
+2.168.20.30 /oatv_v3/1DzM4P4cEJonzbbOJu7UcrrGTlvgtwvAEbKwVrwnMDIx.gif 192.168.20.36 192.168.20.36 33394 GET /o
+atv_v3/1DzM4P4cEJonzbbOJu7UcrrGTlvgtwvAEbKwVrwnMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /o
+atv_v3/1DzM4P4cEJonzbbOJu7UcrrGTlvgtwvAEbKwVrwnMDIx.gif image/avif,image/webp,image/png,image/svg+xml,image/
+*;q=0.8,*/*;q=0.5 gzip, deflate, br, zstd en-US,en;q=0.9 socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0 (Windo
+ws NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0 83.136.182.113 https 443 Root=1-69d7d9cc-08f6e7dc66d1a
+8622172111e image no-cors same-site u=5, i
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+37K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861993087424777629&simpl=msg-f:186199308742477762…
+
+5/5
+
+

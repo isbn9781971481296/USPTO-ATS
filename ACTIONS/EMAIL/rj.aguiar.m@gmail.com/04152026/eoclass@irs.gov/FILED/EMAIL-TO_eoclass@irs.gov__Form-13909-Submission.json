@@ -1,0 +1,26 @@
+{
+  "index": 68,
+  "header": "# Enclosure #68: EMAIL-TO-eoclass-irs-gov-Form-13909-Submission.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/EMAIL-TO_eoclass@irs.gov__Form-13909-Submission.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-08bbc94bf0.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "eoclass@irs.gov",
+  "primary_recipient_an": "Eoclass (Internal Revenue Service)",
+  "all_recipients": [
+    "eoclass@irs.gov",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "eoclass@irs.gov": "Eoclass (Internal Revenue Service)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04152026",
+  "original_filename": "EMAIL-TO_eoclass@irs.gov__Form-13909-Submission.pdf",
+  "patent_applications_mentioned": []
+}

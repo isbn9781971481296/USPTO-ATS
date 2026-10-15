@@ -1,0 +1,35 @@
+{
+  "serving_key": "481290461",
+  "canonical_key": "dwilliams@jenner.com",
+  "display_name": "D. Williams (Jenner & Block LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Jenner & Block LLP",
+  "full_name": "D. Williams",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Jenner & Block LLP",
+  "domain": "jenner.com",
+  "addresses": {
+    "mailing_address": "353 N. Clark Street, Chicago, IL 60654-3456",
+    "business_address": "353 N. Clark Street, Chicago, IL 60654-3456",
+    "legal_service_address": "353 N. Clark Street, Chicago, IL 60654-3456"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "208 S LaSalle St, Suite 814, Chicago, IL 60604",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "dwilliams@jenner.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 312-222-9350"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

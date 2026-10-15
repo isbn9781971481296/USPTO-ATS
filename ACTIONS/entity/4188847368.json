@@ -1,0 +1,33 @@
+{
+  "serving_key": "4188847368",
+  "canonical_key": "rj.aguiar.m+legal@gmail.com",
+  "display_name": "RJ Aguiar",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "N/A",
+  "full_name": "RJ Aguiar",
+  "pronouns": null,
+  "title": "Individual",
+  "organization": "N/A",
+  "domain": "gmail.com",
+  "addresses": {
+    "mailing_address": "Unknown",
+    "business_address": "Unknown",
+    "legal_service_address": "Unknown"
+  },
+  "registered_agent": {
+    "name": "N/A",
+    "address": "N/A",
+    "jurisdiction": "N/A"
+  },
+  "contact": {
+    "primary_email": "rj.aguiar.m+legal@gmail.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

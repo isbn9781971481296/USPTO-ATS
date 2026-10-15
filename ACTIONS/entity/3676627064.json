@@ -1,0 +1,40 @@
+{
+  "serving_key": "3676627064",
+  "canonical_key": "lcardenas@rpost.com",
+  "display_name": "L. Cardenas (RPost Holdings, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "RPost Holdings, Inc.",
+  "full_name": "L. Cardenas",
+  "pronouns": null,
+  "title": "Representative",
+  "organization": "RPost Holdings, Inc.",
+  "domain": "rpost.com",
+  "addresses": {
+    "mailing_address": "6033 W Century Blvd, Suite 1278, Los Angeles, CA 90045",
+    "business_address": "6033 W Century Blvd, Suite 1278, Los Angeles, CA 90045",
+    "legal_service_address": "1209 Orange St, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange St, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "lcardenas@rpost.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "234684174",
+      "canonical_key": "oflores@rpost.com",
+      "display_name": "O. Flores",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

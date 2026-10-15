@@ -1,0 +1,241 @@
+4/16/26, 11:25 AM
+
+Gmail - Receipt: [IBM, Microsoft et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS P…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: [IBM, Microsoft et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION
+OF PROVISIONAL RIGHTS PERIOD, AND DEMAND FOR DUE DILIGENCE CONCERNING
+QUANTUM-CENTRIC SUPERCOMPUTING AND HYBRID CLOUD ARCHITECTURES
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Thu, Apr 16, 2026 at 11:20 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+snadella@microsoft.com
+
+Delivered to
+Mailbox
+
+Delivery
+confirmed by
+recipient mail
+server at
+microsoft.com
+
+04/16/2026
+02:15:43 PM
+(UTC)
+
+04/16/2026
+02:15:43 PM
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.80.2
+
+04/16/2026
+02:17:27 PM
+(UTC)
+
+04/16/2026
+02:17:27 PM
+
+Opened (local)
+
+04/16/2026
+02:22:30 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+[IBM, Microsoft et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF
+PROVISIONAL RIGHTS PERIOD, AND DEMAND FOR DUE DILIGENCE CONCERNING
+QUANTUM-CENTRIC SUPERCOMPUTING AND HYBRID CLOUD ARCHITECTURES
+
+To:
+
+<snadella@microsoft.com>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+Network ID:
+
+90e868cf-80b9-4c84-8935-d97d04b99361@SM25
+
+Received by RMail System:
+
+04/16/2026 02:15:39 PM (UTC), 04/16/2026 02:15:39 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+101AF0C1AA6A73B781BB1A6F6E388B95F3060293
+
+Message Size:
+
+2714
+
+Features Used:
+File Size:
+
+File Name:
+
+148674
+
+IP_LIABILITY_QUANTUM_COMPUTING_COMPANIES.pdf
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862644717484912857&simpl=msg-f:1862644717484912857
+
+1/3
+
+4/16/26, 11:25 AM
+
+Gmail - Receipt: [IBM, Microsoft et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS P…
+
+78769029
+
+02__ISBN-9781971481296__Portfolio-of-Patent-Applications_and_Declaration-D132.pdf
+
+645171
+
+03__DEFENSIVE-PUBLICATION-EMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_tvilela@epo.org.pdf
+
+95518
+
+04__DOWNLOAD-RECEIPT_jeff.bezos@amazon.com__Tier-0.pdf
+
+.
+
+Delivery Audit Trail
+4/16/2026 2:15:40 PM starting microsoft.com/{default} 4/16/2026 2:15:40 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+microsoft-com.mail.protection.outlook.com (52.101.9.14) 4/16/2026 2:15:40 PM connected from 192.168.10.11:60721 4/16/202
+6 2:15:40 PM >>> 220 BL02EPF0001A0FA.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Thu, 16 Apr
+2026 14:15:40 +0000 [08DE9682472627A5] 4/16/2026 2:15:40 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 2:15:41 PM >>> 2
+50-BL02EPF0001A0FA.mail.protection.outlook.com Hello [52.58.131.9] 4/16/2026 2:15:41 PM >>> 250-SIZE 157286400 4/16/
+2026 2:15:41 PM >>> 250-PIPELINING 4/16/2026 2:15:41 PM >>> 250-DSN 4/16/2026 2:15:41 PM >>> 250-ENHANCEDSTA
+TUSCODES 4/16/2026 2:15:41 PM >>> 250-STARTTLS 4/16/2026 2:15:41 PM >>> 250-8BITMIME 4/16/2026 2:15:41 PM >>
+> 250-BINARYMIME 4/16/2026 2:15:41 PM >>> 250-CHUNKING 4/16/2026 2:15:41 PM >>> 250 SMTPUTF8 4/16/2026 2:15:
+41 PM <<< STARTTLS 4/16/2026 2:15:41 PM >>> 220 2.0.0 SMTP server ready 4/16/2026 2:15:41 PM tls:TLSv1.2 connecte
+d with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/16/2026 2:15:41 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Mi
+crosoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified
+=no 4/16/2026 2:15:41 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 2:15:41 PM >>> 250-BL02EPF0001A0FA.mail.protection.
+outlook.com Hello [52.58.131.9] 4/16/2026 2:15:41 PM >>> 250-SIZE 157286400 4/16/2026 2:15:41 PM >>> 250-PIPELININ
+G 4/16/2026 2:15:41 PM >>> 250-DSN 4/16/2026 2:15:41 PM >>> 250-ENHANCEDSTATUSCODES 4/16/2026 2:15:41 PM >
+>> 250-8BITMIME 4/16/2026 2:15:41 PM >>> 250-BINARYMIME 4/16/2026 2:15:41 PM >>> 250-CHUNKING 4/16/2026 2:15:
+41 PM >>> 250 SMTPUTF8 4/16/2026 2:15:41 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/16/2026 2:15:41 PM >
+>> 250 2.1.0 Sender OK 4/16/2026 2:15:41 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/16/2026 2:15:41 PM
+>>> 250 2.1.5 Recipient OK 4/16/2026 2:15:41 PM <<< DATA 4/16/2026 2:15:41 PM >>> 354 Start mail input; end with . 4/1
+6/2026 2:15:41 PM <<< . 4/16/2026 2:15:43 PM >>> 250 2.6.0 [InternalId=18584323493135, Hostname=PH0PR21MB6901.na
+mprd21.prod.outlook.com] 29525 bytes in 0.171, 167.746 KB/sec Queued mail for delivery 4/16/2026 2:15:43 PM <<< QUIT 4/
+16/2026 2:15:43 PM >>> 221 2.0.0 Service closing transmission channel 4/16/2026 2:15:43 PM closed microsoft-com.mail.pr
+otection.outlook.com (52.101.9.14) in=925 out=18355 4/16/2026 2:15:43 PM done microsoft.com/{default}
+4/16/2026 2:17:20 PM starting gmail.com/{default} 4/16/2026 2:17:27 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.26) 4/16/2026 2:17:27 PM connected from 192.168.10.11:51402 4/16/2026 2:17:27 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43ead431daesi8874821f8f.502 - gsmtp 4/16/2026 2:17:27 PM <<< EHLO mta2
+1.r1.rpost.net 4/16/2026 2:17:27 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/16/2026 2:17:27 PM >>> 250-SI
+ZE 157286400 4/16/2026 2:17:27 PM >>> 250-8BITMIME 4/16/2026 2:17:27 PM >>> 250-STARTTLS 4/16/2026 2:17:27 PM
+>>> 250-ENHANCEDSTATUSCODES 4/16/2026 2:17:27 PM >>> 250-PIPELINING 4/16/2026 2:17:27 PM >>> 250-CHUNKIN
+G 4/16/2026 2:17:27 PM >>> 250 SMTPUTF8 4/16/2026 2:17:27 PM <<< STARTTLS 4/16/2026 2:17:27 PM >>> 220 2.0.0 R
+eady to start TLS 4/16/2026 2:17:27 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/16/2026 2:17:27 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/16/2026 2:17:27 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 2:17:27 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/16/2026 2:17:27 PM >>> 250-SIZE 157286400 4/16/2026 2:17:27 PM >>> 250-8BITMIME 4/16/2026 2:17:27 PM >>>
+250-ENHANCEDSTATUSCODES 4/16/2026 2:17:27 PM >>> 250-PIPELINING 4/16/2026 2:17:27 PM >>> 250-CHUNKING 4/
+16/2026 2:17:27 PM >>> 250 SMTPUTF8 4/16/2026 2:17:27 PM <<< MAIL FROM: BODY=8BITMIME 4/16/2026 2:17:27 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43ead431daesi8874821f8f.502 - gsmtp 4/16/2026 2:17:27 PM <<< RCPT TO: 4/16/2026 2:1
+7:27 PM >>> 250 2.1.5 OK ffacd0b85a97d-43ead431daesi8874821f8f.502 - gsmtp 4/16/2026 2:17:27 PM <<< DATA 4/16/2026
+2:17:27 PM >>> 354 Go ahead ffacd0b85a97d-43ead431daesi8874821f8f.502 - gsmtp 4/16/2026 2:17:27 PM <<< . 4/16/2026
+2:17:27 PM >>> 250 2.0.0 OK 1776349047 ffacd0b85a97d-43ead431daesi8874821f8f.502 - gsmtp 4/16/2026 2:17:27 PM <<<
+QUIT 4/16/2026 2:17:27 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43ead431daesi8874821f8f.502 - gsmtp 4/16/202
+6 2:17:27 PM closed gmail-smtp-in.l.google.com (142.251.127.26) in=773 out=18353 4/16/2026 2:17:29 PM done gmail.com/{d
+efault}
+From:postmaster@microsoft.com:Your message has been delivered to the following recipients: snadella@microsoft.com Subj
+ect: [EXTERNAL] Registered: [IBM, Microsoft et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVI
+SIONAL RIGHTS PERIOD, AND DEMAND FOR DUE DILIGENCE CONCERNING QUANTUM-CENTRIC SUPERCOMPUTIN
+G AND HYBRID CLOUD ARCHITECTURES
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+[IP Address: 66.249.80.2] [Time Opened: 4/16/2026 2:22:30 PM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/PUC5ClPpzoMDVkf7hjZhEnNAxf1tbuKUCmhQ9dwHMTIw.gif] HTTP_ACCEPT_ENCO
+DING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862644717484912857&simpl=msg-f:1862644717484912857
+
+2/3
+
+4/16/26, 11:25 AM
+
+Gmail - Receipt: [IBM, Microsoft et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS P…
+
+Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.2 HTTP_X_FORWARDED_PROTO:
+https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e0f0a6-67c1e2ea468a322c63203e58 Accept
+-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.2 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Tr
+ace-Id: Root=1-69e0f0a6-67c1e2ea468a322c63203e58 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1
+on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/PUC5ClPpzoMDVkf7hjZhEnNAxf1tbuKUC
+mhQ9dwHMTIw.gif 192.168.10.122 192.168.10.122 59048 GET /oatv_v2/PUC5ClPpzoMDVkf7hjZhEnNAxf1tbuKUCmhQ9dwH
+MTIw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/PUC5ClPpzoMDVkf7hjZhEnNAxf1tbuKUCmhQ9dw
+HMTIw.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com Goo
+gleImageProxy) 66.249.80.2 https 443 Root=1-69e0f0a6-67c1e2ea468a322c63203e58
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+12K
+HtmlReceipt.htm
+91K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862644717484912857&simpl=msg-f:1862644717484912857
+
+3/3
+
+

@@ -1,0 +1,44 @@
+{
+  "serving_key": "3977358050",
+  "canonical_key": "jbostic@cooley.com",
+  "display_name": "John Bostic (Cooley LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Cooley LLP",
+  "full_name": "John Bostic",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Cooley LLP",
+  "domain": "cooley.com",
+  "addresses": {
+    "mailing_address": "3175 Hanover Street, Palo Alto, CA 94304-1130",
+    "business_address": "3175 Hanover Street, Palo Alto, CA 94304-1130",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "jbostic@cooley.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 650 843 5000"
+    ],
+    "faxes": [
+      "+1 650 849 7400"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2203196698",
+      "canonical_key": "jhemann@cooley.com",
+      "display_name": "John Hemann",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

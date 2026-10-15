@@ -1,0 +1,35 @@
+{
+  "serving_key": "1247724011",
+  "canonical_key": "margaret.egan@hyatt.com",
+  "display_name": "Margaret C. Egan (Hyatt Hotels Corporation)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Hyatt Hotels Corporation",
+  "full_name": "Margaret C. Egan",
+  "pronouns": null,
+  "title": "Executive Vice President, General Counsel and Secretary",
+  "organization": "Hyatt Hotels Corporation",
+  "domain": "hyatt.com",
+  "addresses": {
+    "mailing_address": "150 North Riverside Plaza, 8th Floor, Chicago, IL 60606",
+    "business_address": "150 North Riverside Plaza, 8th Floor, Chicago, IL 60606",
+    "legal_service_address": "c/o The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "margaret.egan@hyatt.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-312-750-1234"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

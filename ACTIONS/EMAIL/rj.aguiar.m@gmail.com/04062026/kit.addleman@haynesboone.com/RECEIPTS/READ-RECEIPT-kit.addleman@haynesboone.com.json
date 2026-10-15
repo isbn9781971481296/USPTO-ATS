@@ -1,0 +1,24 @@
+{
+  "index": 193,
+  "header": "# Enclosure #193: READ-RECEIPT-kit-addleman-haynesboone-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT-kit.addleman@haynesboone.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-kit.addleman@hayne-2bdc05cce2.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kit.addleman@haynesboone.com",
+  "primary_recipient_an": "Kit Addleman (haynesboone.com)",
+  "all_recipients": [
+    "kit.addleman@haynesboone.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "kit.addleman@haynesboone.com": "Kit Addleman (haynesboone.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT-kit.addleman@haynesboone.com.pdf",
+  "patent_applications_mentioned": []
+}

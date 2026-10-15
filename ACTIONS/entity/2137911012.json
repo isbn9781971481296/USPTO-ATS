@@ -1,0 +1,35 @@
+{
+  "serving_key": "2137911012",
+  "canonical_key": "matthew.baio@guest-tek.com",
+  "display_name": "Matthew Baio (Guest-tek Interactive Entertainment)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Guest-tek Interactive Entertainment Ltd.",
+  "full_name": "Matthew Baio",
+  "pronouns": null,
+  "title": "Corporate Officer / Employee",
+  "organization": "Guest-tek Interactive Entertainment Ltd.",
+  "domain": "guest-tek.com",
+  "addresses": {
+    "mailing_address": "240, 3030 - 3rd Avenue NE, Calgary, AB T2A 6T7, Canada",
+    "business_address": "240, 3030 - 3rd Avenue NE, Calgary, AB T2A 6T7, Canada",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "matthew.baio@guest-tek.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 403-509-1010"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

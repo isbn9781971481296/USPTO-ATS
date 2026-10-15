@@ -1,0 +1,79 @@
+4/6/26, 1:50 PM
+
+Gmail - Delivered and Opened: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: Inquiry for IP Representation: 47-Patent Portfolio & Parallel
+Federal Disclosures
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Mon, Apr 6, 2026 at 12:20 PM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<jbostic@cooley.com>
+
+Time Sent:
+
+04/06/2026 01:16:28 PM (UTC), 04/06/2026 01:16:28 PM (Local)
+
+Time Opened:
+
+04/06/2026 05:14:50 PM (UTC), 04/06/2026 05:14:50 PM (Local)
+
+Tracking Number:
+
+98A3D6AC84B7C3666911A4D0EFFC7556780A1AD6
+
+Network ID:
+
+0ae992a7-086e-4320-a611-5c526bfc12e9@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 140.209.235.170] [Time Opened: 4/6/2026 5:14:50 PM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrm
+ail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/MwsGAiQPeHGcIe18ghBCskScdSy2fPLTQjHUPlIXMDIx.gif] HTTP_ACCEPT:*/* H
+TTP_ACCEPT_ENCODING:gzip, deflate HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/4.0 (compatible; m
+s-office; MSOffice 16) HTTP_X_FORWARDED_FOR:140.209.235.170 HTTP_X_FORWARDED_PROTO:https HTTP_X_FOR
+WARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d3ea0a-33925c5c53af91243978c74f HTTP_UA_CPU:AMD64 Ac
+cept: */* Accept-Encoding: gzip, deflate Host: socrmail.r1.rpost.net User-Agent: Mozilla/4.0 (compatible; ms-office; MSOffice
+16) X-Forwarded-For: 140.209.235.170 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d3ea0a-3
+3925c5c53af91243978c74f ua-cpu: AMD64 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.i
+nfo 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v2/
+MwsGAiQPeHGcIe18ghBCskScdSy2fPLTQjHUPlIXMDIx.gif 192.168.20.111 192.168.20.111 46906 GET /oatv_v2/MwsGAiQP
+eHGcIe18ghBCskScdSy2fPLTQjHUPlIXMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/MwsGAiQ
+PeHGcIe18ghBCskScdSy2fPLTQjHUPlIXMDIx.gif */* gzip, deflate socrmail.r1.rpost.net Mozilla/4.0 (compatible; ms-office; M
+SOffice 16) 140.209.235.170 https 443 Root=1-69d3ea0a-33925c5c53af91243978c74f AMD64
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+3K
+HtmlReceipt.htm
+33K
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861742504126183083&simpl=msg-f:1861742504126183083
+
+1/1
+
+

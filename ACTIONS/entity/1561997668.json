@@ -1,0 +1,52 @@
+{
+  "serving_key": "1561997668",
+  "canonical_key": "chris@mobilerider.com",
+  "display_name": "Chris (MobileRider Networks)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "MobileRider Networks",
+  "full_name": "Chris",
+  "pronouns": null,
+  "title": "Representative",
+  "organization": "MobileRider Networks",
+  "domain": "mobilerider.com",
+  "addresses": {
+    "mailing_address": "Salt Lake City, UT, USA",
+    "business_address": "Salt Lake City, UT, USA",
+    "legal_service_address": "Salt Lake City, UT, USA"
+  },
+  "registered_agent": {
+    "name": "MobileRider Networks LLC Registered Agent",
+    "address": "Utah, USA",
+    "jurisdiction": "Utah"
+  },
+  "contact": {
+    "primary_email": "chris@mobilerider.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "960385779",
+      "canonical_key": "fred@mobilerider.com",
+      "display_name": "Fred",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "507285539",
+      "canonical_key": "noah@mobilerider.com",
+      "display_name": "Noah Dinkin",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "4253023357",
+      "canonical_key": "scott@mobilerider.com",
+      "display_name": "Scott",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

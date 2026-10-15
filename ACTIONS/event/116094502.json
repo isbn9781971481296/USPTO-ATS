@@ -1,0 +1,99 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Email receipt serving as self-authenticating evidentiary proof of delivery and actual notice. The underlying transmission, sent by RJ Aguiar, Jr. to attorneys at Yulchon LLC, seeks intellectual property representation concerning a 47-patent portfolio and parallel federal disclosures involving the U.S. Department of Defense and Lockheed Martin. The attachments indicate severe substantive claims, including a DoD license grant involving Heidi Shyu, formal criminal referrals for interstate wire fraud, whistleblower retaliation related to SEC TCR 17742-648-351-976, and multiple high-radix parametric communication patent applications pending before the USPTO.",
+  "attorneys_comments": "From an evidentiary standpoint, this RPost receipt is highly valuable as it establishes a non-repudiable chain of custody and actual notice to foreign counsel (Yulchon LLC) under FRE 902. The delivery audit trail confirms that while one recipient's address rejected the payload, three other attorneys successfully received and opened the transmission, thereby satisfying the burden of notice. Tactically, the sender is meticulously documenting the dissemination of highly sensitive allegations, including SEC whistleblower retaliation and formal criminal referrals against named individuals (Herche, McDonald). The inclusion of a 'Heidi Shyu License Grant' alongside Lockheed Martin suggests a potential 28 U.S.C. \u00a7 1498 action for unauthorized government use of patented technologies, or complex procurement fraud under the False Claims Act. The primary liability risk here lies in the potential mishandling of Controlled Unclassified Information (CUI) or classified defense materials during this unencrypted international transmission to foreign counsel.",
+  "recommended_next_steps": "First, preserve this RPost receipt and its native audit trail metadata in a secure, air-gapped repository to maintain its evidentiary integrity for future federal litigation. Second, immediately evaluate the 'Heidi Shyu License Grant' against DFARS 227.7004 and 28 U.S.C. \u00a7 1498 to determine the scope of the government's rights and potential eminent domain over the IP. Third, if representing the sender, file a protective order in the SDTX to shield the pending USPTO applications and SEC TCR disclosures from public docket exposure. Finally, conduct a strict export control (ITAR/EAR) compliance review regarding the transmission of these parametric satellite and cellular communication architectures to foreign nationals.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "28 U.S.C. \u00a7 1498",
+    "35 U.S.C. \u00a7 122",
+    "DFARS 227.7004",
+    "FRE 902 Self-Authenticating Document",
+    "Patent Infringement",
+    "Procurement Fraud",
+    "Whistleblower Retaliation",
+    "SEC Material Risk Disclosure",
+    "Formal Demand Letter",
+    "ITAR/EAR Export Control Risk"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Heidi Shyu",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Hyeong Joo Lim"
+    ],
+    "companies": [
+      "Lockheed Martin",
+      "Yulchon LLC",
+      "Foley",
+      "KKC",
+      "RPost"
+    ],
+    "technologies": [
+      "High-Radix and Parametric Satellite Communication System",
+      "Central Processing Unit Architecture for Native Parametric and Symbolic Computation",
+      "High-Radix and Parametric Cellular Communication System"
+    ],
+    "products": [],
+    "government_offices": [
+      "US Department of Defense",
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "Seoul"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Yulchon LLC",
+      "Foley"
+    ],
+    "attorneys": [
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Hyeong Joo Lim"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,265",
+    "19/639,219",
+    "19/639,255"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "116094502",
+  "basefilename": "READ-RECEIPT-dhgwon@yulchon.com_hjlim@yulchon.com_jychoe@yulchon.com_ymlee@yulchon.com",
+  "original_filename": "READ-RECEIPT-dhgwon@yulchon.com_hjlim@yulchon.com_jychoe@yulchon.com_ymlee@yulchon.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "dhgwon@yulchon.com",
+  "primary_recipient_an": "Dhgwon (Yulchon LLC)",
+  "all_recipients": [
+    "dhgwon@yulchon.com",
+    "_hjlim@yulchon.com",
+    "_jychoe@yulchon.com",
+    "hjlim@yulchon.com",
+    "jychoe@yulchon.com",
+    "ymlee@yulchon.com",
+    "on@yulchon.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "dhgwon@yulchon.com": "Dhgwon (Yulchon LLC)",
+    "_hjlim@yulchon.com": "Hjlim (Yulchon LLC)",
+    "_jychoe@yulchon.com": "Jychoe (Yulchon LLC)",
+    "hjlim@yulchon.com": "Hjlim (Yulchon LLC)",
+    "jychoe@yulchon.com": "Jychoe (Yulchon LLC)",
+    "ymlee@yulchon.com": "Ymlee (Yulchon LLC)",
+    "on@yulchon.com": "On (Yulchon LLC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

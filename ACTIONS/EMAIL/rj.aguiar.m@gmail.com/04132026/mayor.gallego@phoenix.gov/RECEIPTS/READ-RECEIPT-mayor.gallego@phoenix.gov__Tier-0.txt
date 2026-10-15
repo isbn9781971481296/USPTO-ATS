@@ -1,0 +1,84 @@
+Reinaldo Aguiar <kolmobilev6@gmail.com>
+
+Delivered and Opened: FORMAL NOTICE OF PROPRIETARY RIGHTS AND PENDING
+CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING MUNICIPAL DIGITAL
+INFRASTRUCTURE, POLICE SURVEILLANCE, AND TAX LEDGERS
+1 message
+Receipt <receipt@r1.rpost.net>
+To: kolmobilev6@gmail.com
+
+Tue, Apr 14, 2026 at 4:42 PM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+FORMAL NOTICE OF PROPRIETARY RIGHTS AND PENDING CLAIMS UNDER 35
+U.S.C. § 154(d) REGARDING MUNICIPAL DIGITAL INFRASTRUCTURE, POLICE
+SURVEILLANCE, AND TAX LEDGERS
+
+To:
+
+<mayor.gallego@phoenix.gov>
+
+Time Sent:
+
+04/13/2026 01:55:50 PM (UTC), 04/13/2026 01:55:50 PM (Local)
+
+Time Opened:
+
+04/14/2026 09:36:41 PM (UTC), 04/14/2026 09:36:41 PM (Local)
+
+Tracking Number:
+
+DE7A4006C6A0821627443B89DA5F0B54301261CE
+
+Network ID:
+
+f16d9ee3-ef54-45d3-9ada-331d774783a6@SM25
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 148.167.2.10, 163.116.139.120] [Time Opened: 4/14/2026 9:36:41 PM] [REMOTE_HOST: 192.168.10.205] [HTT
+P_HOST: socrmail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/qfadCUbNi6kZB3C0GdlYHT75IoNeOuXEVoomJiFCMTAy.gif] HTT
+P_ACCEPT:image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate,
+br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windo
+ws NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0 HTTP_X_F
+ORWARDED_FOR:148.167.2.10, 163.116.139.120 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:44
+3 HTTP_X_AMZN_TRACE_ID:Root=1-69deb369-50bdb42545fb0519475dfa8d HTTP_SEC_CH_UA_PLATFORM:"Windows" H
+TTP_SEC_CH_UA:"Microsoft Edge";v="147", "Not.A/Brand";v="8", "Chromium";v="147" HTTP_SEC_CH_UA_MOBILE:?0 HT
+TP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETC
+H_STORAGE_ACCESS:active HTTP_PRIORITY:i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=
+0.8 Accept-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0
+(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0 X-F
+orwarded-For: 148.167.2.10, 163.116.139.120 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69de
+b369-50bdb42545fb0519475dfa8d sec-ch-ua-platform: "Windows" sec-ch-ua: "Microsoft Edge";v="147", "Not.A/Brand";v="8",
+"Chromium";v="147" sec-ch-ua-mobile: ?0 sec-fetch-site: cross-site sec-fetch-mode: no-cors sec-fetch-dest: image sec-fetchstorage-access: active priority: i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADM
+IN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/qfadCUbNi6kZB3C0GdlYHT75IoNeOuXEVoomJiFCMTAy.gif 19
+2.168.10.205 192.168.10.205 48596 GET /oatv_v2/qfadCUbNi6kZB3C0GdlYHT75IoNeOuXEVoomJiFCMTAy.gif socrmail.r1.rp
+ost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/qfadCUbNi6kZB3C0GdlYHT75IoNeOuXEVoomJiFCMTAy.gif image/avif,i
+mage/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (W
+indows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0 148.16
+7.2.10, 163.116.139.120 https 443 Root=1-69deb369-50bdb42545fb0519475dfa8d "Windows" "Microsoft Edge";v="147", "Not.
+A/Brand";v="8", "Chromium";v="147" ?0 cross-site no-cors image active i
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+For more information about RMail® services, visit www.rmail.com.
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+40K
+
+An RPost® Technology
+
+

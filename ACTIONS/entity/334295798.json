@@ -1,0 +1,35 @@
+{
+  "serving_key": "334295798",
+  "canonical_key": "jason.wells@centerpointenergy.com",
+  "display_name": "Jason P. Wells (CenterPoint Energy, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "CenterPoint Energy, Inc.",
+  "full_name": "Jason P. Wells",
+  "pronouns": null,
+  "title": "President and Chief Executive Officer",
+  "organization": "CenterPoint Energy, Inc.",
+  "domain": "centerpointenergy.com",
+  "addresses": {
+    "mailing_address": "1111 Louisiana Street, Houston, TX 77002",
+    "business_address": "1111 Louisiana Street, Houston, TX 77002",
+    "legal_service_address": "c/o CT Corporation System, 1999 Bryan St., Ste. 900, Dallas, TX 75201"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1999 Bryan St., Ste. 900, Dallas, TX 75201",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "jason.wells@centerpointenergy.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-713-207-1111"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

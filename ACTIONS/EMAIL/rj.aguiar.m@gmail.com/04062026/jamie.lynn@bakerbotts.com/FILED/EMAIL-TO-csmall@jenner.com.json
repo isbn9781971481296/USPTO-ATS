@@ -1,0 +1,28 @@
+{
+  "index": 150,
+  "header": "# Enclosure #150: EMAIL-TO-csmall-jenner-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/EMAIL-TO-csmall@jenner.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-c33e90661b.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jamie.lynn@bakerbotts.com",
+  "primary_recipient_an": "Jamie Lynn (bakerbotts.com)",
+  "all_recipients": [
+    "jamie.lynn@bakerbotts.com",
+    "csmall@jenner.com",
+    "george.fibbe@bakerbotts.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jamie.lynn@bakerbotts.com": "Jamie Lynn (bakerbotts.com)",
+    "csmall@jenner.com": "Csmall (Kendall Nicole Jenner)",
+    "george.fibbe@bakerbotts.com": "George Fibbe (bakerbotts.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "EMAIL-TO-csmall@jenner.com.pdf",
+  "patent_applications_mentioned": []
+}

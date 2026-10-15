@@ -1,0 +1,26 @@
+{
+  "index": 66,
+  "header": "# Enclosure #66: EMAIL-TO-dottie-romo-irs-gov.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/EMAIL-TO_dottie.romo@irs.gov.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-email-to-dottie.romo@irs.gov.pdf-d63df6ec24.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "dottie.romo@irs.gov",
+  "primary_recipient_an": "Dottie Romo (Internal Revenue Service)",
+  "all_recipients": [
+    "dottie.romo@irs.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "dottie.romo@irs.gov": "Dottie Romo (Internal Revenue Service)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04142026",
+  "original_filename": "EMAIL-TO_dottie.romo@irs.gov.pdf",
+  "patent_applications_mentioned": []
+}

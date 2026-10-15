@@ -1,0 +1,37 @@
+{
+  "serving_key": "3738125406",
+  "canonical_key": "dmaiorana@jonesday.com",
+  "display_name": "David B. Maiorana (Jones Day)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Jones Day",
+  "full_name": "David B. Maiorana",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Jones Day",
+  "domain": "jonesday.com",
+  "addresses": {
+    "mailing_address": "901 Lakeside Avenue, Cleveland, OH 44114-1190",
+    "business_address": "901 Lakeside Avenue, Cleveland, OH 44114-1190",
+    "legal_service_address": "901 Lakeside Avenue, Cleveland, OH 44114-1190"
+  },
+  "registered_agent": {
+    "name": "Jones Day",
+    "address": "901 Lakeside Avenue, Cleveland, OH 44114-1190",
+    "jurisdiction": "Ohio"
+  },
+  "contact": {
+    "primary_email": "dmaiorana@jonesday.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 216-586-7499"
+    ],
+    "faxes": [
+      "+1 216-579-0212"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

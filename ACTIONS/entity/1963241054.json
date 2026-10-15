@@ -1,0 +1,37 @@
+{
+  "serving_key": "1963241054",
+  "canonical_key": "gdesrousseaux@august-debouzy.com",
+  "display_name": "Gr\u00e9goire Desrousseaux (August Debouzy)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "August Debouzy",
+  "full_name": "Gr\u00e9goire Desrousseaux",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "August Debouzy",
+  "domain": "august-debouzy.com",
+  "addresses": {
+    "mailing_address": "6-8 avenue de Messine, 75008 Paris, France",
+    "business_address": "6-8 avenue de Messine, 75008 Paris, France",
+    "legal_service_address": "6-8 avenue de Messine, 75008 Paris, France"
+  },
+  "registered_agent": {
+    "name": "August Debouzy",
+    "address": "6-8 avenue de Messine, 75008 Paris, France",
+    "jurisdiction": "France"
+  },
+  "contact": {
+    "primary_email": "gdesrousseaux@august-debouzy.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 1 45 61 51 80"
+    ],
+    "faxes": [
+      "+33 1 45 61 51 99"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

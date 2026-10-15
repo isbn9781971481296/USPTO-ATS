@@ -1,0 +1,33 @@
+{
+  "serving_key": "2578689843",
+  "canonical_key": "smtpthread-39395781775563601434@au-mta-38.au",
+  "display_name": "Automated Mail Transfer Agent (au-mta-38.au)",
+  "entity_type": "automated_system",
+  "is_attorney": false,
+  "works_at": "au-mta-38.au",
+  "full_name": "Automated Mail Transfer Agent",
+  "pronouns": null,
+  "title": "Mail Transfer Agent (MTA)",
+  "organization": "au-mta-38.au",
+  "domain": "au-mta-38.au",
+  "addresses": {
+    "mailing_address": "Unknown",
+    "business_address": "Unknown",
+    "legal_service_address": "Unknown"
+  },
+  "registered_agent": {
+    "name": "Unknown",
+    "address": "Unknown",
+    "jurisdiction": "Unknown"
+  },
+  "contact": {
+    "primary_email": "smtpthread-39395781775563601434@au-mta-38.au",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

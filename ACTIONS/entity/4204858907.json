@@ -1,0 +1,50 @@
+{
+  "serving_key": "4204858907",
+  "canonical_key": "rpichler@fenwick.com",
+  "display_name": "Rufus Pichler (Fenwick & West LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Fenwick & West LLP",
+  "full_name": "Rufus Pichler",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Fenwick & West LLP",
+  "domain": "fenwick.com",
+  "addresses": {
+    "mailing_address": "555 California Street, 12th Floor, San Francisco, CA 94104",
+    "business_address": "555 California Street, 12th Floor, San Francisco, CA 94104",
+    "legal_service_address": "801 California Street, Mountain View, CA 94041"
+  },
+  "registered_agent": {
+    "name": "Fenwick & West LLP",
+    "address": "801 California Street, Mountain View, CA 94041",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "rpichler@fenwick.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 415 875 2300"
+    ],
+    "faxes": [
+      "+1 415 281 1350"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1924449012",
+      "canonical_key": "sshamilov@fenwick.com",
+      "display_name": "Saina Shamilov",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2904711661",
+      "canonical_key": "dhadden@fenwick.com",
+      "display_name": "David Hadden",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

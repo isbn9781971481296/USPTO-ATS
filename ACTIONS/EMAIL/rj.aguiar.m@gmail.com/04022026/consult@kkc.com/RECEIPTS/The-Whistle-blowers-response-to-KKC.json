@@ -1,0 +1,32 @@
+{
+  "index": 63,
+  "header": "# Enclosure #63: The-Whistle-blowers-response-to-KKC.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Whistle-blower_Law-Firms/The-Whistle-blowers-response-to-KKC.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-whistle-blower-law-firms-the-whistle-blowers-response-to-kkc.pdf-b94b26a0b8.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "consult@kkc.com",
+  "primary_recipient_an": "Consult (KKCG)",
+  "all_recipients": [
+    "consult@kkc.com",
+    "colin.mcdonald@usdoj.gov",
+    "davidson@newyorker.com",
+    "seymourhersh@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "amy_davidson@newyorker.com"
+  ],
+  "all_recipients_an": {
+    "consult@kkc.com": "Consult (KKCG)",
+    "colin.mcdonald@usdoj.gov": "Colin McDonald (USDOJ)",
+    "davidson@newyorker.com": "Davidson (newyorker.com)",
+    "seymourhersh@gmail.com": "Seymourhersh (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "amy_davidson@newyorker.com": "Amy Davidson (newyorker.com)"
+  },
+  "date": "04022026",
+  "original_filename": "The-Whistle-blowers-response-to-KKC.pdf",
+  "patent_applications_mentioned": []
+}

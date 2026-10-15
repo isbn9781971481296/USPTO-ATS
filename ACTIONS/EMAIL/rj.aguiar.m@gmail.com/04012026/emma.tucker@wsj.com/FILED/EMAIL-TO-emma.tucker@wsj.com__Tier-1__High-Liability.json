@@ -1,0 +1,32 @@
+{
+  "index": 92,
+  "header": "# Enclosure #92: EMAIL-TO-emma-tucker-wsj-com-Tier-1-High-Liability.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/EMAIL-TO-emma.tucker@wsj.com__Tier-1__High-Liability.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-9017186c87.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "emma.tucker@wsj.com",
+  "primary_recipient_an": "Emma Tucker (Amazon.com, Inc.)",
+  "all_recipients": [
+    "emma.tucker@wsj.com",
+    "money@wsj.com",
+    "law@wsj.com",
+    "wsjproinvestigations@wsj.com",
+    "emma.tucker@dowjones.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "emma.tucker@wsj.com": "Emma Tucker (Amazon.com, Inc.)",
+    "money@wsj.com": "Money (Amazon.com, Inc.)",
+    "law@wsj.com": "Law (Amazon.com, Inc.)",
+    "wsjproinvestigations@wsj.com": "Wsjproinvestigations (Amazon.com, Inc.)",
+    "emma.tucker@dowjones.com": "Emma Tucker (dowjones.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04012026",
+  "original_filename": "EMAIL-TO-emma.tucker@wsj.com__Tier-1__High-Liability.pdf",
+  "patent_applications_mentioned": []
+}

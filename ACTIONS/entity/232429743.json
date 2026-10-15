@@ -1,0 +1,37 @@
+{
+  "serving_key": "232429743",
+  "canonical_key": "oag@dc.gov",
+  "display_name": "Office of the Attorney General for the District of Columbia",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Government of the District of Columbia",
+  "full_name": "Office of the Attorney General for the District of Columbia",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "Government of the District of Columbia",
+  "domain": "dc.gov",
+  "addresses": {
+    "mailing_address": "400 6th Street NW, Washington, DC 20001",
+    "business_address": "400 6th Street NW, Washington, DC 20001",
+    "legal_service_address": "400 6th Street NW, Washington, DC 20001"
+  },
+  "registered_agent": {
+    "name": "Attorney General for the District of Columbia",
+    "address": "400 6th Street NW, Washington, DC 20001",
+    "jurisdiction": "District of Columbia"
+  },
+  "contact": {
+    "primary_email": "oag@dc.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "(202) 727-3400"
+    ],
+    "faxes": [
+      "(202) 347-8922"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

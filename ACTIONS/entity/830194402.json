@@ -1,0 +1,45 @@
+{
+  "serving_key": "830194402",
+  "canonical_key": "legalfilings@atlassian.com",
+  "display_name": "Atlassian Legal Department (Atlassian Corporation)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Atlassian Corporation",
+  "full_name": "Atlassian Legal Department",
+  "pronouns": null,
+  "title": "Legal Department",
+  "organization": "Atlassian Corporation",
+  "domain": "atlassian.com",
+  "addresses": {
+    "mailing_address": "350 Bush Street, Floor 13, San Francisco, CA 94104",
+    "business_address": "350 Bush Street, Floor 13, San Francisco, CA 94104",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "legalfilings@atlassian.com",
+    "alternative_emails": [
+      "legal@atlassian.com",
+      "privacy@atlassian.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1-415-701-1110"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2043021178",
+      "canonical_key": "sshepard@atlassian.com",
+      "display_name": "S. Shepard",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

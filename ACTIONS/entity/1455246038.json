@@ -1,0 +1,42 @@
+{
+  "serving_key": "1455246038",
+  "canonical_key": "nikhil.marathe@att.com",
+  "display_name": "Nikhil Marathe (AT&T Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "AT&T Inc.",
+  "full_name": "Nikhil Marathe",
+  "pronouns": null,
+  "title": "Representative",
+  "organization": "AT&T Inc.",
+  "domain": "att.com",
+  "addresses": {
+    "mailing_address": "208 S. Akard St., Dallas, TX 75202",
+    "business_address": "208 S. Akard St., Dallas, TX 75202",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "nikhil.marathe@att.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-214-464-1000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2645606695",
+      "canonical_key": "scott.frank@att.com",
+      "display_name": "Scott Frank",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

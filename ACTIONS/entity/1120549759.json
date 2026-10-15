@@ -1,0 +1,33 @@
+{
+  "serving_key": "1120549759",
+  "canonical_key": "cmorris@tebra.com",
+  "display_name": "C. Morris (Tebra Technologies, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Tebra Technologies, Inc.",
+  "full_name": "C. Morris",
+  "pronouns": null,
+  "title": "Representative",
+  "organization": "Tebra Technologies, Inc.",
+  "domain": "tebra.com",
+  "addresses": {
+    "mailing_address": "1111 Bayside Dr, Suite 200, Corona Del Mar, CA 92625",
+    "business_address": "1111 Bayside Dr, Suite 200, Corona Del Mar, CA 92625",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "cmorris@tebra.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

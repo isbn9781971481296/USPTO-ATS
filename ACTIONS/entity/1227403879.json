@@ -1,0 +1,35 @@
+{
+  "serving_key": "1227403879",
+  "canonical_key": "ksudol@kkr.com",
+  "display_name": "Kathryn King Sudol (KKR & Co. Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "KKR & Co. Inc.",
+  "full_name": "Kathryn King Sudol",
+  "pronouns": "She/Her",
+  "title": "Chief Legal Officer",
+  "organization": "KKR & Co. Inc.",
+  "domain": "kkr.com",
+  "addresses": {
+    "mailing_address": "30 Hudson Yards, New York, NY 10001",
+    "business_address": "30 Hudson Yards, New York, NY 10001",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "ksudol@kkr.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-750-8300"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

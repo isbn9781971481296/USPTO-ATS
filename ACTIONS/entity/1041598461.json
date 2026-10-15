@@ -1,0 +1,48 @@
+{
+  "serving_key": "1041598461",
+  "canonical_key": "eoclass@irs.gov",
+  "display_name": "Internal Revenue Service - Exempt Organizations",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Internal Revenue Service",
+  "full_name": "Exempt Organizations Classification",
+  "pronouns": null,
+  "title": "Exempt Organizations Department",
+  "organization": "Internal Revenue Service",
+  "domain": "irs.gov",
+  "addresses": {
+    "mailing_address": "Internal Revenue Service, PO Box 2508, Cincinnati, OH 45201",
+    "business_address": "1111 Constitution Ave NW, Washington, DC 20224",
+    "legal_service_address": "Office of the Chief Counsel, 1111 Constitution Ave NW, Washington, DC 20224"
+  },
+  "registered_agent": {
+    "name": "Office of the Chief Counsel, IRS",
+    "address": "1111 Constitution Ave NW, Washington, DC 20224",
+    "jurisdiction": "Federal (United States)"
+  },
+  "contact": {
+    "primary_email": "eoclass@irs.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "877-829-5500"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "366622657",
+      "canonical_key": "dottie.romo@irs.gov",
+      "display_name": "Dottie Romo",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "236482205",
+      "canonical_key": "frank.j.bisignano@irs.gov",
+      "display_name": "Frank J. Bisignano",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

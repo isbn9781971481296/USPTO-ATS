@@ -1,0 +1,37 @@
+{
+  "serving_key": "105468670",
+  "canonical_key": "info@powellgilbert.com",
+  "display_name": "Powell Gilbert LLP",
+  "entity_type": "law_firm",
+  "is_attorney": false,
+  "works_at": "Powell Gilbert LLP",
+  "full_name": "Powell Gilbert LLP",
+  "pronouns": null,
+  "title": "Law Firm",
+  "organization": "Powell Gilbert LLP",
+  "domain": "powellgilbert.com",
+  "addresses": {
+    "mailing_address": "85 Fleet Street, London EC4Y 1AE, United Kingdom",
+    "business_address": "85 Fleet Street, London EC4Y 1AE, United Kingdom",
+    "legal_service_address": "85 Fleet Street, London EC4Y 1AE, United Kingdom"
+  },
+  "registered_agent": {
+    "name": "Powell Gilbert LLP",
+    "address": "85 Fleet Street, London EC4Y 1AE, United Kingdom",
+    "jurisdiction": "United Kingdom"
+  },
+  "contact": {
+    "primary_email": "info@powellgilbert.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+44 20 3040 8000"
+    ],
+    "faxes": [
+      "+44 20 3040 8001"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

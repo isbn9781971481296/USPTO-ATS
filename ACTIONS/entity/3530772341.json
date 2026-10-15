@@ -1,0 +1,35 @@
+{
+  "serving_key": "3530772341",
+  "canonical_key": "_police.chief@cmpd.org",
+  "display_name": "Johnny Jennings (Charlotte-Mecklenburg Police Department)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Charlotte-Mecklenburg Police Department",
+  "full_name": "Johnny Jennings",
+  "pronouns": null,
+  "title": "Chief of Police",
+  "organization": "Charlotte-Mecklenburg Police Department",
+  "domain": "cmpd.org",
+  "addresses": {
+    "mailing_address": "601 E Trade St, Charlotte, NC 28202",
+    "business_address": "601 E Trade St, Charlotte, NC 28202",
+    "legal_service_address": "600 E 4th St, Charlotte, NC 28202"
+  },
+  "registered_agent": {
+    "name": "City Clerk, City of Charlotte",
+    "address": "600 E 4th St, Charlotte, NC 28202",
+    "jurisdiction": "North Carolina"
+  },
+  "contact": {
+    "primary_email": "_police.chief@cmpd.org",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-704-336-7600"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

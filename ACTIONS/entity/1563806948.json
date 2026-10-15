@@ -1,0 +1,35 @@
+{
+  "serving_key": "1563806948",
+  "canonical_key": "acp@state.co.us",
+  "display_name": "Address Confidentiality Program (State of Colorado)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "State of Colorado",
+  "full_name": "Address Confidentiality Program",
+  "pronouns": null,
+  "title": "Government Program",
+  "organization": "State of Colorado",
+  "domain": "state.co.us",
+  "addresses": {
+    "mailing_address": "1525 Sherman Street, Denver, CO 80203",
+    "business_address": "1525 Sherman Street, Denver, CO 80203",
+    "legal_service_address": "1300 Broadway, 10th Floor, Denver, CO 80203"
+  },
+  "registered_agent": {
+    "name": "Colorado Attorney General",
+    "address": "1300 Broadway, 10th Floor, Denver, CO 80203",
+    "jurisdiction": "Colorado"
+  },
+  "contact": {
+    "primary_email": "acp@state.co.us",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "303-866-5000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

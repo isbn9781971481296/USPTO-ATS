@@ -1,0 +1,38 @@
+{
+  "index": 111,
+  "header": "# Enclosure #111: EMAIL-TO-jdmahle-vorys-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/EMAIL-TO-jdmahle@vorys.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-email-to-jdmahle@vorys.com.pdf-47ddd01cb6.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jdmahle@vorys.com",
+  "primary_recipient_an": "Jdmahle (Vorys)",
+  "all_recipients": [
+    "jdmahle@vorys.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m@gmail.com",
+    "org_srowan@epo.org",
+    "epo.org_ymeniere@epo.org"
+  ],
+  "all_recipients_an": {
+    "jdmahle@vorys.com": "Jdmahle (Vorys)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "org_srowan@epo.org": "Org Srowan (European Patent Office)",
+    "epo.org_ymeniere@epo.org": "Epo Org Ymeniere (European Patent Office)"
+  },
+  "date": "04072026",
+  "original_filename": "EMAIL-TO-jdmahle@vorys.com.pdf",
+  "patent_applications_mentioned": [
+    "19/639,265"
+  ]
+}

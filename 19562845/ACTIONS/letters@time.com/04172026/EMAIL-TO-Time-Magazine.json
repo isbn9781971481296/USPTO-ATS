@@ -1,0 +1,43 @@
+{
+  "index": 71,
+  "header": "# Enclosure #71: EMAIL-TO-Time-Magazine.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/MEDIA/__Time-Magazine/EMAIL-TO-Time-Magazine.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-5d8d62e073.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "alex.altman@time.com",
+  "primary_recipient_an": "Alex Altman (Time)",
+  "all_recipients": [
+    "alex.altman@time.com",
+    "lori.fradkin@time.com",
+    "vera@time.com",
+    "massimo.calabresi@time.com",
+    "sam.jacobs@time.com",
+    "letters@time.com",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "alex.altman@time.com": "Alex Altman (Time)",
+    "lori.fradkin@time.com": "Lori Fradkin (Time)",
+    "vera@time.com": "Vera Bergengruen (Time)",
+    "massimo.calabresi@time.com": "Massimo Calabresi (Time)",
+    "sam.jacobs@time.com": "Sam Jacobs (Time)",
+    "letters@time.com": "TIME Letters to the Editor / General Intake (Time)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04172026",
+  "original_filename": "EMAIL-TO-Time-Magazine.pdf",
+  "patent_applications_mentioned": [
+    "19/559,957",
+    "19/559,873",
+    "19/559,842",
+    "19/560,065",
+    "19/560,038",
+    "19/562,845"
+  ]
+}

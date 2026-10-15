@@ -1,0 +1,35 @@
+{
+  "serving_key": "122987983",
+  "canonical_key": "contactus@riag.ri.gov",
+  "display_name": "Rhode Island Office of the Attorney General",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Rhode Island Office of the Attorney General",
+  "full_name": "Rhode Island Office of the Attorney General",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "Rhode Island Office of the Attorney General",
+  "domain": "riag.ri.gov",
+  "addresses": {
+    "mailing_address": "150 South Main Street, Providence, RI 02903",
+    "business_address": "150 South Main Street, Providence, RI 02903",
+    "legal_service_address": "150 South Main Street, Providence, RI 02903"
+  },
+  "registered_agent": {
+    "name": "Rhode Island Attorney General (Service of Process)",
+    "address": "150 South Main Street, Providence, RI 02903",
+    "jurisdiction": "Rhode Island"
+  },
+  "contact": {
+    "primary_email": "contactus@riag.ri.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-401-274-4400"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

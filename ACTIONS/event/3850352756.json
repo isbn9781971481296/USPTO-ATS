@@ -1,0 +1,86 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Receipt providing verifiable, cryptographic proof of delivery for an urgent administrative referral to the Treasury Inspector General for Tax Administration (TIGTA). The underlying communication, sent by Reinaldo J. Aguiar Marcano, serves as a formal reply to an IRS CP14 Notice dated April 13, 2026, and asserts actual knowledge of violations under 26 U.S.C. \u00a7 6103 (unauthorized disclosure of taxpayer information) concerning TIN XXX-XX-2502.",
+  "attorneys_comments": "This instrument serves as highly reliable, court-admissible evidentiary proof of delivery and notice, satisfying authentication requirements under Federal Rules of Evidence 901 and 902. By utilizing RPost's patented registered email technology, the sender has preemptively neutralized any 'failure of notice' or 'non-receipt' defenses typically raised by federal agencies in subsequent litigation. The substantive claim alleges a violation of 26 U.S.C. \u00a7 6103, which carries severe civil and criminal penalties for the unauthorized disclosure of taxpayer information. Procedurally, this establishes a firm, indisputable timeline for administrative exhaustion, which is a jurisdictional prerequisite for potential Federal Tort Claims Act (FTCA) or Bivens actions. Tactically, the posture is aggressive; it locks the agency into a documented receipt of actual knowledge, thereby triggering immediate internal preservation duties and mandating Inspector General scrutiny.",
+  "recommended_next_steps": "1. Preserve the native .xml and .htm receipt files, alongside the original PDF attachment, in a secure, unmodified state to maintain cryptographic integrity for evidentiary authentication at trial. 2. Calendar the statutory response deadlines for TIGTA administrative investigations. 3. Draft and serve a formal litigation hold notice to the IRS and TIGTA demanding the preservation of all system audit logs related to TIN XXX-XX-2502 to substantiate the \u00a7 6103 violation claims. 4. Prepare a FOIA/Privacy Act request to track the internal agency routing and handling of this referral.",
+  "tags": [
+    "26 U.S.C. \u00a7 6103",
+    "Evidentiary Proof of Delivery",
+    "Administrative Claim",
+    "TIGTA Referral",
+    "Federal Tort Claims Act (FTCA)",
+    "FRE 901",
+    "FRE 902",
+    "Taxpayer Privacy Violation",
+    "Formal Demand Letter",
+    "IRS CP14 Notice"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Reinaldo J. Aguiar Marcano",
+      "Heather M. Hill"
+    ],
+    "companies": [
+      "RPost",
+      "Google",
+      "Entrust Limited"
+    ],
+    "technologies": [
+      "RMail",
+      "Registered Receipt",
+      "Registered Email",
+      "TLSv1.2",
+      "256-bit ECDHE-RSA-AES256-GCM-SHA384",
+      "128-bit ECDHE-ECDSA-AES128-GCM-SHA256"
+    ],
+    "products": [
+      "RMail System"
+    ],
+    "government_offices": [
+      "TIGTA (Treasury Inspector General for Tax Administration)",
+      "Department of Treasury",
+      "IRS (Internal Revenue Service)"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "District of Columbia"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "3850352756",
+  "basefilename": "EMAIL-TO_heather.m.hill@tigta.treas.gov_Tier-0",
+  "original_filename": "EMAIL-TO_heather.m.hill@tigta.treas.gov_Tier-0.pdf",
+  "category": "email",
+  "subtype": "sent_email",
+  "date": "04142026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "heather.m.hill@tigta.treas.gov",
+  "primary_recipient_an": "Heather M. Hill (tigta.treas.gov)",
+  "all_recipients": [
+    "heather.m.hill@tigta.treas.gov",
+    "tigtacommunications@tigta.treas.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "heather.m.hill@tigta.treas.gov": "Heather M. Hill (tigta.treas.gov)",
+    "tigtacommunications@tigta.treas.gov": "Tigtacommunications (tigta.treas.gov)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

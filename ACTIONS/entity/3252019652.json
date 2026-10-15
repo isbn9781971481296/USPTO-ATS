@@ -1,0 +1,35 @@
+{
+  "serving_key": "3252019652",
+  "canonical_key": "emil.michael@osd.mil",
+  "display_name": "Emil Michael (Office of the Secretary of Defense)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Office of the Secretary of Defense, U.S. Department of Defense",
+  "full_name": "Emil Michael",
+  "pronouns": null,
+  "title": "Special Assistant to the Secretary of Defense",
+  "organization": "Office of the Secretary of Defense, U.S. Department of Defense",
+  "domain": "osd.mil",
+  "addresses": {
+    "mailing_address": "1000 Defense Pentagon, Washington, DC 20301-1000",
+    "business_address": "1000 Defense Pentagon, Washington, DC 20301-1000",
+    "legal_service_address": "Office of the General Counsel, 1600 Defense Pentagon, Washington, DC 20301-1600"
+  },
+  "registered_agent": {
+    "name": "General Counsel of the Department of Defense",
+    "address": "1600 Defense Pentagon, Washington, DC 20301-1600",
+    "jurisdiction": "Federal (United States)"
+  },
+  "contact": {
+    "primary_email": "emil.michael@osd.mil",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-703-545-6700"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

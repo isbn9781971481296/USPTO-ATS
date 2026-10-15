@@ -1,0 +1,162 @@
+4/7/26, 3:01 AM
+
+Receipt: RE [Huawei]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures - rj.aguiar.m@gmail.com - G…
+
+Search mail
+Compose
+
+y
+
+Inbox
+
+(
+
+)
+
+(
+
+)
+
+p
+
+(
+
+)
+
+@
+
+p
+
+Receipt
+
+A
+
+Delivery Status Address Status Details Delivered (UTC*) Delivered (local) Opened (local) john.haynes@alston.com Delivered to Mail Se
+
+Starred
+Snoozed
+
+Receipt
+
+Sent
+
+Delivery Status Address Status Details Delivered (UTC*) Delivered (local) Opened (local) jwaldrop@kasowitz.com Delivered to Mail Serv
+
+Drafts
+
+6
+
+Purchases
+
+2
+
+More
+
+Receipt <receipt@r1.rpost.net>
+
+Apr 6, 2026, 6:14 PM (8
+
+to me
+
+Labels
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+relayed;us-smtpamer@fr.com
+
+Delivered to Mail
+
+inbound-1.
+
+04/06/2026 09:14:38
+
+04/06/2026 09:14:38
+
+Server
+
+mimecast.com
+
+PM (UTC)
+
+PM
+
+04/06/2026 09:15:36
+
+04/06/2026 09:15:36
+
+04/06/2026 09:23:17
+
+PM (UTC)
+
+PM
+
+PM
+
+(170.10.132.141)
+Delivered and
+
+rj.aguiar.m@gmail.com
+
+Opened
+
+HTTP-IP:66.249.80.2
+relayed;us-smtp-
+
+thuermer@fr.com
+
+Delivered to Mail
+
+inbound-1.
+
+04/06/2026 09:14:40
+
+04/06/2026 09:14:40
+
+Server
+
+mimecast.com
+
+PM (UTC)
+
+PM
+
+(170.10.132.141)
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+Upgrade
+
+Reply
+
+Forward
+
+Subject:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+RE [Huawei]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+New Message
+
+New Message
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgLFprnkGNQmhmRXjVqPTzvGzn?compose=lqrslwSpqfNvFNWNFBXnmtklWBjqZpmtbvxvwSnNTDT…
+
+1/1
+
+

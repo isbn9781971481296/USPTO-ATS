@@ -1,0 +1,48 @@
+{
+  "serving_key": "2364860485",
+  "canonical_key": "_seth.traxler@kirkland.com",
+  "display_name": "Seth Traxler (Kirkland & Ellis LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Kirkland & Ellis LLP",
+  "full_name": "Seth Traxler",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Kirkland & Ellis LLP",
+  "domain": "kirkland.com",
+  "addresses": {
+    "mailing_address": "300 North LaSalle, Chicago, IL 60654, USA",
+    "business_address": "300 North LaSalle, Chicago, IL 60654, USA",
+    "legal_service_address": "300 North LaSalle, Chicago, IL 60654, USA"
+  },
+  "registered_agent": {
+    "name": "Kirkland & Ellis LLP",
+    "address": "300 North LaSalle, Chicago, IL 60654, USA",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "_seth.traxler@kirkland.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 312 862 2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1858881510",
+      "canonical_key": "alexandra.caritis@kirkland.com",
+      "display_name": "Alexandra Caritis",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1459718476",
+      "canonical_key": "michael.devries@kirkland.com",
+      "display_name": "Michael De Vries",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

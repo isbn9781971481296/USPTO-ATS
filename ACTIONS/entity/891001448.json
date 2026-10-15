@@ -1,0 +1,42 @@
+{
+  "serving_key": "891001448",
+  "canonical_key": "_myprivacy@mbusa.com",
+  "display_name": "Privacy Office (Mercedes-Benz USA, LLC)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Mercedes-Benz USA, LLC",
+  "full_name": "Privacy Office",
+  "pronouns": null,
+  "title": "Privacy Office",
+  "organization": "Mercedes-Benz USA, LLC",
+  "domain": "mbusa.com",
+  "addresses": {
+    "mailing_address": "1 Mercedes-Benz Drive, Sandy Springs, GA 30328",
+    "business_address": "1 Mercedes-Benz Drive, Sandy Springs, GA 30328",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "_myprivacy@mbusa.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "1-800-367-6372"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1231532952",
+      "canonical_key": "myprivacy@mbusa.com",
+      "display_name": "Privacy Office",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

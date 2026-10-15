@@ -1,0 +1,255 @@
+4/16/26, 12:39 PM
+
+Gmail - Receipt: [SAP et al.] RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35 U.S.C. § 154(d)) REGARDING SH…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: [SAP et al.] RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35
+U.S.C. § 154(d)) REGARDING SHARDED GEO-INDEXING, DISTRIBUTED IN-MEMORY
+ARCHITECTURES, AND THE AGUIAR MARCANO INTELLECTUAL PROPERTY
+PORTFOLIO
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Thu, Apr 16, 2026 at 12:38 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+ch.klein@sap.com
+
+Delivered and
+Opened
+
+HTTPIP:140.248.36.54
+
+04/16/2026
+05:02:14 PM
+(UTC)
+
+04/16/2026
+05:02:14 PM
+
+04/16/2026
+05:14:30 PM
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.80.4
+
+04/16/2026
+05:02:14 PM
+(UTC)
+
+04/16/2026
+05:02:14 PM
+
+04/16/2026
+05:22:32 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+[SAP et al.] RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35 U.S.C. §
+154(d)) REGARDING SHARDED GEO-INDEXING, DISTRIBUTED IN-MEMORY
+ARCHITECTURES, AND THE AGUIAR MARCANO INTELLECTUAL PROPERTY
+PORTFOLIO
+
+To:
+
+<ch.klein@sap.com>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+Network ID:
+
+71f0e07e-ccfe-4491-9b77-a396e74eeef2@SM25
+
+Received by RMail System:
+
+04/16/2026 05:02:12 PM (UTC), 04/16/2026 05:02:12 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+30029DD6FB51A50A2B293B2A262F2EF8804CEA42
+
+Message Size:
+
+2860
+
+Features Used:
+File Size:
+
+File Name:
+
+117852
+
+IP_LIABILITY_SAP.pdf
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862649624722348299&simpl=msg-f:1862649624722348299
+
+1/3
+
+4/16/26, 12:39 PM
+
+Gmail - Receipt: [SAP et al.] RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35 U.S.C. § 154(d)) REGARDING SH…
+
+78769029
+
+02__ISBN-9781971481296__Portfolio-of-Patent-Applications_and_Declaration-D132.pdf
+
+645171
+
+03__DEFENSIVE-PUBLICATION-EMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_tvilela@epo.org.pdf
+
+95518
+
+04__DOWNLOAD-RECEIPT_jeff.bezos@amazon.com__Tier-0.pdf
+
+.
+
+Delivery Audit Trail
+4/16/2026 5:02:13 PM starting sap.com/{default} 4/16/2026 5:02:13 PM connecting from mta21.r1.rpost.net (0.0.0.0) to sap-co
+m.mail.protection.outlook.com (52.101.68.0) 4/16/2026 5:02:13 PM connected from 192.168.10.11:41362 4/16/2026 5:02:13 P
+M >>> 220 DU6PEPF00009529.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Thu, 16 Apr 2026 17:0
+2:12 +0000 [08DE9057881DD9AF] 4/16/2026 5:02:13 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 5:02:13 PM >>> 250-DU6P
+EPF00009529.mail.protection.outlook.com Hello [52.58.131.9] 4/16/2026 5:02:13 PM >>> 250-SIZE 157286400 4/16/2026 5:0
+2:13 PM >>> 250-PIPELINING 4/16/2026 5:02:13 PM >>> 250-DSN 4/16/2026 5:02:13 PM >>> 250-ENHANCEDSTATUSCO
+DES 4/16/2026 5:02:13 PM >>> 250-STARTTLS 4/16/2026 5:02:13 PM >>> 250-8BITMIME 4/16/2026 5:02:13 PM >>> 250-B
+INARYMIME 4/16/2026 5:02:13 PM >>> 250-CHUNKING 4/16/2026 5:02:13 PM >>> 250 SMTPUTF8 4/16/2026 5:02:13 PM
+<<< STARTTLS 4/16/2026 5:02:13 PM >>> 220 2.0.0 SMTP server ready 4/16/2026 5:02:13 PM tls:TLSv1.2 connected with
+256-bit ECDHE-RSA-AES256-GCM-SHA384 4/16/2026 5:02:13 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft
+Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/1
+6/2026 5:02:13 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 5:02:13 PM >>> 250-DU6PEPF00009529.mail.protection.outlook.
+com Hello [52.58.131.9] 4/16/2026 5:02:13 PM >>> 250-SIZE 157286400 4/16/2026 5:02:13 PM >>> 250-PIPELINING 4/16/2
+026 5:02:13 PM >>> 250-DSN 4/16/2026 5:02:13 PM >>> 250-ENHANCEDSTATUSCODES 4/16/2026 5:02:13 PM >>> 250-8
+BITMIME 4/16/2026 5:02:13 PM >>> 250-BINARYMIME 4/16/2026 5:02:13 PM >>> 250-CHUNKING 4/16/2026 5:02:13 PM >
+>> 250 SMTPUTF8 4/16/2026 5:02:13 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/16/2026 5:02:13 PM >>> 250
+2.1.0 Sender OK 4/16/2026 5:02:13 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/16/2026 5:02:13 PM >>> 25
+0 2.1.5 Recipient OK 4/16/2026 5:02:13 PM <<< DATA 4/16/2026 5:02:13 PM >>> 354 Start mail input; end with . 4/16/2026
+5:02:13 PM <<< . 4/16/2026 5:02:14 PM >>> 250 2.6.0 <8x5347fYIf4qCo7vakza7i3EyPWBkPpl6oaybfOEMjEw@r1.rpost.net
+> [InternalId=32165010081257, Hostname=DU4PR02MB11357.eurprd02.prod.outlook.com] 29480 bytes in 0.151, 189.679 KB/
+sec Queued mail for delivery 4/16/2026 5:02:14 PM <<< QUIT 4/16/2026 5:02:14 PM >>> 221 2.0.0 Service closing transmis
+sion channel 4/16/2026 5:02:14 PM closed sap-com.mail.protection.outlook.com (52.101.68.0) in=926 out=18408 4/16/2026 5:
+02:14 PM done sap.com/{default}
+4/16/2026 5:02:13 PM starting gmail.com/{default} 4/16/2026 5:02:13 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.27) 4/16/2026 5:02:13 PM connected from 192.168.10.11:56228 4/16/2026 5:02:13 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43ead42e919si9965674f8f.485 - gsmtp 4/16/2026 5:02:13 PM <<< EHLO mta2
+1.r1.rpost.net 4/16/2026 5:02:13 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/16/2026 5:02:13 PM >>> 250-SI
+ZE 157286400 4/16/2026 5:02:13 PM >>> 250-8BITMIME 4/16/2026 5:02:13 PM >>> 250-STARTTLS 4/16/2026 5:02:13 PM
+>>> 250-ENHANCEDSTATUSCODES 4/16/2026 5:02:13 PM >>> 250-PIPELINING 4/16/2026 5:02:13 PM >>> 250-CHUNKIN
+G 4/16/2026 5:02:13 PM >>> 250 SMTPUTF8 4/16/2026 5:02:13 PM <<< STARTTLS 4/16/2026 5:02:13 PM >>> 220 2.0.0 R
+eady to start TLS 4/16/2026 5:02:13 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/16/2026 5:02:13 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/16/2026 5:02:13 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 5:02:13 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/16/2026 5:02:13 PM >>> 250-SIZE 157286400 4/16/2026 5:02:13 PM >>> 250-8BITMIME 4/16/2026 5:02:13 PM >>>
+250-ENHANCEDSTATUSCODES 4/16/2026 5:02:13 PM >>> 250-PIPELINING 4/16/2026 5:02:13 PM >>> 250-CHUNKING 4/
+16/2026 5:02:13 PM >>> 250 SMTPUTF8 4/16/2026 5:02:13 PM <<< MAIL FROM: BODY=8BITMIME 4/16/2026 5:02:13 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43ead42e919si9965674f8f.485 - gsmtp 4/16/2026 5:02:13 PM <<< RCPT TO: 4/16/2026 5:0
+2:13 PM >>> 250 2.1.5 OK ffacd0b85a97d-43ead42e919si9965674f8f.485 - gsmtp 4/16/2026 5:02:13 PM <<< DATA 4/16/2026
+5:02:13 PM >>> 354 Go ahead ffacd0b85a97d-43ead42e919si9965674f8f.485 - gsmtp 4/16/2026 5:02:13 PM <<< . 4/16/2026
+5:02:14 PM >>> 250 2.0.0 OK 1776358934 ffacd0b85a97d-43ead42e919si9965674f8f.485 - gsmtp 4/16/2026 5:02:14 PM <<<
+QUIT 4/16/2026 5:02:14 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43ead42e919si9965674f8f.485 - gsmtp 4/16/202
+6 5:02:14 PM closed gmail-smtp-in.l.google.com (142.251.127.27) in=773 out=18424 4/16/2026 5:02:14 PM done gmail.com/{d
+efault}
+From:postmaster@sap.onmicrosoft.com:Your message has been delivered to the following recipients: ch.klein@sap.com Subj
+ect: Registered: [SAP et al.] RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35 U.S.C. § 154(d)) REGARDING
+SHARDED GEO-INDEXING, DISTRIBUTED IN-MEMORY ARCHITECTURES, AND THE AGUIAR MARCANO INTELLECTUA
+L PROPERTY PORTFOLIO
+[IP Address: 140.248.36.54] [Time Opened: 4/16/2026 5:14:30 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/8x5347fYIf4qCo7vakza7i3EyPWBkPpl6oaybfOEMjEw.gif] HTTP_ACCEPT:image/we
+bp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACC
+EPT_LANGUAGE:de-DE,de;q=0.9 HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 HTTP_X_FORWARD
+ED_FOR:140.248.36.54 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE
+_ID:Root=1-69e118f6-4dadff0b665fa5c6244f5743 HTTP_PRIORITY:u=3, i Accept: image/webp,image/png,image/svg+xml,ima
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862649624722348299&simpl=msg-f:1862649624722348299
+
+2/3
+
+4/16/26, 12:39 PM
+
+Gmail - Receipt: [SAP et al.] RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35 U.S.C. § 154(d)) REGARDING SH…
+
+ge/*;q=0.8,video/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate, br Accept-Language: de-DE,de;q=0.9 Host: socrmail.r1.rpos
+t.net User-Agent: Mozilla/5.0 X-Forwarded-For: 140.248.36.54 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-TraceId: Root=1-69e118f6-4dadff0b665fa5c6244f5743 priority: u=3, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0
+CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/8x5347fYIf4qCo7vakza7i3EyPWB
+kPpl6oaybfOEMjEw.gif 192.168.20.36 192.168.20.36 16384 GET /oatv_v2/8x5347fYIf4qCo7vakza7i3EyPWBkPpl6oaybfOEMj
+Ew.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/8x5347fYIf4qCo7vakza7i3EyPWBkPpl6oaybfOEMjE
+w.gif image/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 gzip, deflate, br de-DE,de;q=0.9 socrmail.r
+1.rpost.net Mozilla/5.0 140.248.36.54 https 443 Root=1-69e118f6-4dadff0b665fa5c6244f5743 u=3, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.4] [Time Opened: 4/16/2026 5:22:32 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/OEf4b4d7nPzqSfbes1JpfCyadxrZjAjODIQvOiydMjEw.gif] HTTP_ACCEPT_ENCODIN
+G:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firef
+ox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.4 HTTP_X_FORWARDED_PROTO:http
+s HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e11ad8-17b5b6016f2a8958194eb79e Accept-En
+coding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via
+ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.4 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-TraceId: Root=1-69e11ad8-17b5b6016f2a8958194eb79e /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.dev
+x.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /o
+atv_v2/OEf4b4d7nPzqSfbes1JpfCyadxrZjAjODIQvOiydMjEw.gif 192.168.20.36 192.168.20.36 59822 GET /oatv_v2/OEf4b4d7
+nPzqSfbes1JpfCyadxrZjAjODIQvOiydMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/OEf4b4d7nP
+zqSfbes1JpfCyadxrZjAjODIQvOiydMjEw.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Geck
+o Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.4 https 443 Root=1-69e11ad8-17b5b6016f2a8958194eb79e
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+13K
+HtmlReceipt.htm
+100K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862649624722348299&simpl=msg-f:1862649624722348299
+
+3/3
+
+

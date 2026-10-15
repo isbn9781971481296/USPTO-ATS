@@ -1,0 +1,58 @@
+{
+  "serving_key": "92146824",
+  "canonical_key": "us-smtpmark.mccarty@alston.com",
+  "display_name": "Mark McCarty (Alston & Bird LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Alston & Bird LLP",
+  "full_name": "Mark McCarty",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Alston & Bird LLP",
+  "domain": "alston.com",
+  "addresses": {
+    "mailing_address": "950 F Street, NW, Washington, DC 20004",
+    "business_address": "950 F Street, NW, Washington, DC 20004",
+    "legal_service_address": "1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309-3424"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "2727 Paces Ferry Rd SE, Suite 1400, Atlanta, GA 30339",
+    "jurisdiction": "Georgia"
+  },
+  "contact": {
+    "primary_email": "us-smtpmark.mccarty@alston.com",
+    "alternative_emails": [
+      "mark.mccarty@alston.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-239-3300"
+    ],
+    "faxes": [
+      "+1 202-239-3333"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1647500767",
+      "canonical_key": "us-smtpjohn.haynes@alston.com",
+      "display_name": "John Haynes",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2649484435",
+      "canonical_key": "david.frist@alston.com",
+      "display_name": "David Frist",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1112994938",
+      "canonical_key": "john.haynes@alston.com",
+      "display_name": "John Haynes",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

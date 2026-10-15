@@ -1,0 +1,40 @@
+{
+  "serving_key": "1157007741",
+  "canonical_key": "rj.aguiar.m@gmail.com",
+  "display_name": "Reinaldo J. Aguiar Marcano",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": null,
+  "full_name": "Reinaldo J. Aguiar Marcano",
+  "pronouns": null,
+  "title": null,
+  "organization": null,
+  "domain": "gmail.com",
+  "addresses": {
+    "mailing_address": "2302 Britton Ridge Drive, Katy TX 77494",
+    "business_address": null,
+    "legal_service_address": null
+  },
+  "registered_agent": {
+    "name": null,
+    "address": null,
+    "jurisdiction": null
+  },
+  "contact": {
+    "primary_email": "rj.aguiar.m@gmail.com",
+    "alternative_emails": [
+      "reinaldo.aguiar.marcano@isbn9781971481296.com",
+      "rj.aguiar.m+legal-notice@gmail.com",
+      "kolmobilev6@gmail.com"
+    ],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [
+      "(202) 765 1442",
+      "(267) 651 7418"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,33 @@
+{
+  "serving_key": "1496137755",
+  "canonical_key": "emely.e.winnert@nga.mil",
+  "display_name": "Emely E. Winnert (National Geospatial-Intelligence Agency)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "National Geospatial-Intelligence Agency",
+  "full_name": "Emely E. Winnert",
+  "pronouns": null,
+  "title": "Official / Employee",
+  "organization": "National Geospatial-Intelligence Agency",
+  "domain": "nga.mil",
+  "addresses": {
+    "mailing_address": "7500 GEOINT Drive, Springfield, VA 22150",
+    "business_address": "7500 GEOINT Drive, Springfield, VA 22150",
+    "legal_service_address": "Office of General Counsel, National Geospatial-Intelligence Agency, 7500 GEOINT Drive, Springfield, VA 22150"
+  },
+  "registered_agent": {
+    "name": "Office of General Counsel, NGA",
+    "address": "7500 GEOINT Drive, Springfield, VA 22150",
+    "jurisdiction": "Federal / United States"
+  },
+  "contact": {
+    "primary_email": "emely.e.winnert@nga.mil",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

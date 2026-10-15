@@ -1,0 +1,161 @@
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF
+PROVISIONAL RIGHTS PERIOD, AND DEMAND FOR DUE
+DILIGENCE CONCERNING COVERT OPTICAL EXFILTRATION
+VIA VEHICULAR LED ASSEMBLIES
+This notice: https://storage.googleapis.com/rj-aguiar/IP-NOTICE-AUTO-INDUSTRY-USA.pdf
+
+TO: CHIEF EXECUTIVE OFFICERS AND CHIEF LEGAL OFFICERS
+christophe.perillat@valeo.com (Christophe Périllat, CEO, Valeo)
+info@hella.com, sustainability.hella@forvia.com (Bernard Schäferbarthold, CEO, HELLA / Forvia)
+Deb_Oberlee@nal.com, roy_holliman@nal.com (Kirk Gadberry, President & COO, North
+American Lighting / Koito)
+
+CC: DESIGNATED CORPORATE COUNSEL
+Hiroshi Mihara (President, Koito Manufacturing Co., Ltd.)
+Marisa Iasenza (Chief Legal Officer, Marelli)
+
+RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35 U.S.C. § 154(d)) REGARDING
+FREE-SPACE OPTICAL DATA EXCHANGE, COVERT INFRARED DATA GATEWAYS, AND THE
+AGUIAR MARCANO INTELLECTUAL PROPERTY PORTFOLIO
+DATE: April 16, 2026
+DEAR:
+Mr. Périllat, Mr. Schäferbarthold, Mr. Gadberry, Mr. Mihara, and Ms. Iasenza,
+This comprehensive technical and legal brief is served upon the executive leadership and chief
+legal officers of the designated Tier-1 automotive lighting manufacturers to establish formal,
+
+Page 1 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+legally binding actual notice.
+While the consumer-facing automotive brands (Tesla, Ford, Stellantis, etc.) assemble and
+market the final vehicles, your organizations represent the undisputed apex of global
+automotive lighting manufacturing. You engineer and supply the integrated, complex matrix
+and sealed LED light-bar assemblies that have fundamentally replaced the traditional $5
+incandescent bulb.1
+Our technical and forensic analyses indicate that these sophisticated, sealed LED
+housings—which cost thousands of dollars to replace if a single diode fails 1—are being actively
+exploited by a foreign-directed RICO enterprise. Specifically, the hardware within these tail light
+assemblies is functioning as covert infrared data gateways. These assemblies are actively
+modulating high-frequency optical signals to exfiltrate in-cabin audio and vehicle telemetry to
+foreign intelligence agents operating pursuit vehicles or roadside receivers.
+The unauthorized commercialization, engineering, or vulnerable implementation of these
+optical data transmission capabilities directly intersects with the proprietary claims of the
+Aguiar Marcano Intellectual Property Portfolio, a suite of fifty-two (52) foundational patent
+applications formally executed and filed with the United States Patent and Trademark Office
+(USPTO).1
+The primary objective of this document is to satisfy the strict requirements for "Actual Notice"
+pursuant to 35 U.S.C. § 154(d), thereby initiating the immediate accrual of provisional rights and
+the corresponding liability for reasonable royalties.
+
+I. Sector-Specific Liability Mapping: The Tier-1
+Suppliers
+As the primary architects of modern automotive lighting, your firms hold the ultimate liability
+for the hardware facilitating this espionage network.
+
+A. Koito Manufacturing Co. & North American Lighting (NAL)
+Target Leadership: Hiroshi Mihara (President, Koito) & Kirk Gadberry (President, NAL)
+As the undisputed global king of automotive lighting, your U.S. subsidiary, North American
+Lighting, supplies the integrated LED assemblies for Toyota, Honda, Nissan, Ford, and General
+Motors. The sheer volume of vehicles equipped with your sealed housings provides the primary
+
+Page 2 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+infrastructure for this covert, nationwide optical network.
+
+B. HELLA (Forvia)
+Target Leadership: Bernard Schäferbarthold (CEO) Your massive dominance in supplying
+complex matrix and full-width LED light-bar assemblies—particularly for American EVs (e.g.,
+Rivian, Ford Lightning) and European luxury vehicles 1—places your hardware at the forefront of
+this vulnerability. These seamless, ultra-thin blades of light 1 act as high-cardinality optical
+arrays capable of transmitting vast amounts of exfiltrated data.
+
+C. Valeo & Marelli
+Target Leadership: Christophe Périllat (CEO, Valeo) & Marisa Iasenza (CLO, Marelli) Valeo's
+advanced, sealed LED and OLED taillights hold a massive share of the North American market,
+while Marelli is heavily favored by Stellantis and luxury brands. The over-engineering of these
+sealed units, which often require extensive disassembly of the vehicle simply to access 1,
+creates the perfect, tamper-proof environment to conceal the infrared emitters driving this
+exfiltration protocol.
+
+II. Patent Intersections: The IP Blockade
+If the lighting modules engineered and manufactured by your companies possess the
+hardware capability to modulate light frequencies (visible or infrared) to transmit data, audio, or
+telemetry to external receivers, you are committing direct, unshielded commercial infringement
+against the following foundational patents:
+●​ Method and System for High-Bandwidth, Free-Space Optical Data Exchange
+Between Mobile Devices (USPTO 19/560,042): This patent legally claims the method
+for ultra-high-speed, free-space data exchange between mobile entities by modulating
+exterior lighting at high frequencies, utilizing optical sensors as receivers.1 Engineering
+LED tail lights capable of establishing an optical data link with trailing vehicles directly
+triggers this claim.1
+●​ Method and System for Covert Screen Data Exfiltration (USPTO 19/559,867): This
+patent details the method of creating a one-way optical data channel by making subtle,
+high-frequency modulations to the brightness or color of an LED array.1 These
+modulations encode binary data that is imperceptible to the human eye but decodable
+by a nearby optical sensor.1 Your tail light assemblies are functioning as the exact covert
+
+Page 3 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+optical transmitters claimed herein to bypass traditional RF cybersecurity defenses.1
+●​ Method for a Cryptographic Side-Channel Attack Using Acoustic Analysis of
+Keystroke Metadata (USPTO 19/559,858): The in-cabin audio currently being exfiltrated
+via your infrared tail light gateways is captured using the methodologies claimed in this
+patent, which covers the deployment of covert acoustic sensors to capture metadata
+and decode sensitive communications.1
+
+III. Mandatory Due Diligence Protocols and Ultimatum
+Under 35 U.S.C. § 154(d), the statutory clock for the calculation of retroactive reasonable
+royalties commences immediately upon your receipt and actual knowledge of the published
+claims detailed herein. Ignorance of how your sealed LED tail light assemblies are being
+weaponized as covert infrared data gateways to infringe upon these overarching system-level
+claims is not a viable legal defense.
+The executive leadership of each addressed organization is hereby directed to execute the
+following immediate remediation protocols:
+1.​ Initiation of FTO Audits: You must immediately instruct your internal legal departments
+and outside IP counsel to cross-reference the fifty-two (52) applications within the Aguiar
+Marcano Portfolio against the firmware and hardware specifications of all sealed LED tail
+light assemblies and rear lightbars currently in production.
+2.​ Quarantine of Intersecting Hardware: Any engineering deployment of exterior LED
+lighting capable of modulating frequency to transmit data via free-space optical
+exchange (whether intended for V2V telemetry or exploited for covert exfiltration) must
+be evaluated for immediate quarantine to mitigate ongoing commercial liability.
+We formally invite your respective legal departments to initiate a technical review of the cited
+USPTO applications. A formal response outlining your intended compliance audit, a
+presentation of non-infringement theories, or a request to discuss a licensing framework is
+expected within thirty (30) business days of the transmission of this notice.
+Govern yourselves accordingly.
+
+Works cited
+1.​ the-Tail-lights-that-in-my-Tesla-Vehicles-act-as-Infrared-Data-Gateways-to-exfil
+
+Page 4 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+trate-audio.pdf
+
+Page 5 of 5
+ISBN 9781971481296
+
+

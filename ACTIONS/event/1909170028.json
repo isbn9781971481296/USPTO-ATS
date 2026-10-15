@@ -1,0 +1,66 @@
+{
+  "summary_of_pdf": "This instrument is a certified RMail delivery and read receipt establishing incontrovertible evidentiary proof of actual notice. The underlying communication, directed to Morrison & Foerster counsel, concerns a prospective intellectual property representation involving a 47-patent portfolio associated with Huawei and concurrent federal disclosures.",
+  "attorneys_comments": "From an evidentiary standpoint, this Registered Email receipt provides robust, self-authenticating metadata\u2014including IP addresses, timestamps, and HTTP headers\u2014sufficient to satisfy Federal Rules of Evidence (FRE) 901 requirements for proof of delivery and actual notice. Tactically, the sender is locking in the recipient's awareness of the 'Parallel Federal Disclosures' and the Huawei patent portfolio. If the recipient firm represents adverse parties, this unsolicited disclosure may be a calculated maneuver to manufacture a conflict of interest or force a mandatory disclosure under federal procurement or national security regulations. The detailed audit trail effectively neutralizes any plausible deniability regarding receipt and review of the communication.",
+  "recommended_next_steps": "1. Immediately quarantine the underlying communication to prevent inadvertent taint or conflict of interest pending a comprehensive conflicts check regarding Huawei and the referenced 47-patent portfolio. 2. Preserve the attached DeliveryReceipt.xml and HtmlReceipt.htm files in their native format to maintain the chain of custody for evidentiary authentication via verify@r1.rpost.net. 3. Assess the 'Parallel Federal Disclosures' for any mandatory reporting obligations, including duty of disclosure under 37 C.F.R. \u00a7 1.56 or national security export controls.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Federal Rules of Evidence 901",
+    "Pre-Litigation Communication",
+    "Patent Portfolio Management",
+    "Conflict of Interest Check",
+    "37 C.F.R. \u00a7 1.56",
+    "Huawei IP Litigation",
+    "ABA Model Rule 1.18"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "J. Haan"
+    ],
+    "companies": [
+      "Huawei",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "RMail Registered Email",
+      "47-Patent Portfolio"
+    ],
+    "products": [
+      "Surface Pro",
+      "Google Chrome",
+      "Windows 10"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Morrison & Foerster"
+    ],
+    "attorneys": [
+      "J. Haan"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "1909170028",
+  "basefilename": "READ-RECEIPT-Huawei-jhaan@mofo.com",
+  "original_filename": "READ-RECEIPT-Huawei-jhaan@mofo.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jhaan@mofo.com",
+  "primary_recipient_an": "Jhaan (Mofongo)",
+  "all_recipients": [
+    "jhaan@mofo.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jhaan@mofo.com": "Jhaan (Mofongo)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

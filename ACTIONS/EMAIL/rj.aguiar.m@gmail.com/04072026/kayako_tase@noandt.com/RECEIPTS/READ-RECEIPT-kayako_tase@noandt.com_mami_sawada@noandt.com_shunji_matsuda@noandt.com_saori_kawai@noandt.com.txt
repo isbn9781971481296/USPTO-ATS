@@ -1,0 +1,368 @@
+4/7/26, 9:16 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP
+Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Failure)
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 7:54 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered (local) Opened (local)
+
+(UTC*)
+
+kayako_tase@noandt.com
+
+5.x.0 - Message bounced
+Delivery Failed by administrator (delivery
+attempts: 0)
+
+mami_sawada@noandt.com
+
+Delivered to
+Mail Server
+
+04/07/2026
+relayed;gw003c.noandt.com
+10:54:09 AM
+(27.110.25.3)
+(UTC)
+
+04/07/2026
+10:54:09 AM
+
+shunji_matsuda@noandt.com
+
+Delivered and
+Opened
+
+HTTP-IP:150.195.208.247
+
+04/07/2026
+10:54:09 AM
+(UTC)
+
+04/07/2026
+10:54:09 AM
+
+saori_kawai@noandt.com
+
+Delivered to
+Mail Server
+
+04/07/2026
+relayed;gw003c.noandt.com
+10:54:09 AM
+(27.110.25.3)
+(UTC)
+
+04/07/2026
+10:54:09 AM
+
+rj.aguiar.m@gmail.com
+
+Delivered and
+Opened
+
+HTTP-IP:66.249.80.2
+
+04/07/2026
+11:03:32 AM
+(UTC)
+
+04/07/2026
+11:03:32 AM
+
+***
+
+***
+
+04/07/2026
+11:05:28 AM
+
+04/07/2026
+11:09:44 AM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<kayako_tase@noandt.com> <mami_sawada@noandt.com>
+<shunji_matsuda@noandt.com> <saori_kawai@noandt.com>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+749b9a02-c2e1-4bc4-a2e5-24ffeafcaf9f@SM26
+
+Received by RMail System:
+
+04/07/2026 10:54:04 AM (UTC), 04/07/2026 10:54:04 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816365689981448&simpl=msg-f:1861816365689981448
+
+1/4
+
+4/7/26, 9:16 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+Tracking Number:
+
+2427381442F76722A1F66FEF0C266DC462E6B3CF
+
+Message Size:
+
+4209
+
+Features Used:
+File Size:
+
+File Name:
+
+1132462
+
+092__USPTO_19_639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+976947
+
+00__Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+1195376
+
+090__USPTO_No_19-639,219__Central_Processing_Unit_Architecture_for_Native_
+Parametric_and_Symbolic_Computation.pdf
+
+948090
+
+091__USPTO_19_639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+.
+
+Delivery Audit Trail
+4/7/2026 10:54:06 AM starting noandt.com/{default} 4/7/2026 10:54:06 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gw0
+03c.noandt.com (27.110.25.3) 4/7/2026 10:54:06 AM connected from 192.168.10.11:53976 4/7/2026 10:54:26 AM >>> 220 gw0
+03c.noandt.com ESMTP 4/7/2026 10:54:26 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:54:26 AM >>> 250-gw003c.noandt.
+com 4/7/2026 10:54:26 AM >>> 250-8BITMIME 4/7/2026 10:54:26 AM >>> 250-SIZE 157286400 4/7/2026 10:54:26 AM >>> 2
+50 STARTTLS 4/7/2026 10:54:26 AM <<< STARTTLS 4/7/2026 10:54:27 AM >>> 220 Go ahead with TLS 4/7/2026 10:54:27 A
+M tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:54:27 AM tls:Cert: /CN=gw003c.noand
+t.com; issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign GCC R3 DV TLS CA 2020; verified=no 4/7/2026 10:54:27 AM <<<
+EHLO mta21.r1.rpost.net 4/7/2026 10:54:27 AM >>> 250-gw003c.noandt.com 4/7/2026 10:54:27 AM >>> 250-8BITMIME 4/7/
+2026 10:54:27 AM >>> 250 SIZE 157286400 4/7/2026 10:54:27 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 10:54:28 A
+M >>> 250 sender ok 4/7/2026 10:54:28 AM <<< RCPT TO: 4/7/2026 10:54:28 AM >>> 250 recipient ok 4/7/2026 10:54:28 A
+M <<< DATA 4/7/2026 10:54:28 AM >>> 354 go ahead 4/7/2026 10:54:28 AM <<< . 4/7/2026 10:54:29 AM >>> 250 ok: Messa
+ge 8856078 accepted 4/7/2026 10:54:29 AM <<< QUIT 4/7/2026 10:54:29 AM >>> 221 gw003c.noandt.com 4/7/2026 10:54:29
+AM closed gw003c.noandt.com (27.110.25.3) in=374 out=24265 4/7/2026 10:54:29 AM done noandt.com/{default}
+4/7/2026 10:54:06 AM starting noandt.com/{default} 4/7/2026 10:54:06 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gw0
+03c.noandt.com (27.110.25.3) 4/7/2026 10:54:06 AM connected from 192.168.10.11:33798 4/7/2026 10:54:06 AM >>> 220 gw0
+03c.noandt.com ESMTP 4/7/2026 10:54:06 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:54:07 AM >>> 250-gw003c.noandt.
+com 4/7/2026 10:54:07 AM >>> 250-8BITMIME 4/7/2026 10:54:07 AM >>> 250-SIZE 157286400 4/7/2026 10:54:07 AM >>> 2
+50 STARTTLS 4/7/2026 10:54:07 AM <<< STARTTLS 4/7/2026 10:54:07 AM >>> 220 Go ahead with TLS 4/7/2026 10:54:07 A
+M tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:54:07 AM tls:Cert: /CN=gw003c.noand
+t.com; issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign GCC R3 DV TLS CA 2020; verified=no 4/7/2026 10:54:07 AM <<<
+EHLO mta21.r1.rpost.net 4/7/2026 10:54:08 AM >>> 250-gw003c.noandt.com 4/7/2026 10:54:08 AM >>> 250-8BITMIME 4/7/
+2026 10:54:08 AM >>> 250 SIZE 157286400 4/7/2026 10:54:08 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 10:54:08 A
+M >>> 250 sender ok 4/7/2026 10:54:08 AM <<< RCPT TO: 4/7/2026 10:54:08 AM >>> 250 recipient ok 4/7/2026 10:54:08 A
+M <<< DATA 4/7/2026 10:54:09 AM >>> 354 go ahead 4/7/2026 10:54:09 AM <<< . 4/7/2026 10:54:09 AM >>> 250 ok: Messa
+ge 8856071 accepted 4/7/2026 10:54:09 AM <<< QUIT 4/7/2026 10:54:10 AM >>> 221 gw003c.noandt.com 4/7/2026 10:54:10
+AM closed gw003c.noandt.com (27.110.25.3) in=374 out=24265 4/7/2026 10:54:10 AM done noandt.com/{default}
+4/7/2026 10:54:06 AM starting noandt.com/{default} 4/7/2026 10:54:06 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gw0
+03c.noandt.com (27.110.25.3) 4/7/2026 10:54:06 AM connected from 192.168.10.11:36503 4/7/2026 10:54:06 AM >>> 220 gw0
+03c.noandt.com ESMTP 4/7/2026 10:54:06 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:54:07 AM >>> 250-gw003c.noandt.
+com 4/7/2026 10:54:07 AM >>> 250-8BITMIME 4/7/2026 10:54:07 AM >>> 250-SIZE 157286400 4/7/2026 10:54:07 AM >>> 2
+50 STARTTLS 4/7/2026 10:54:07 AM <<< STARTTLS 4/7/2026 10:54:07 AM >>> 220 Go ahead with TLS 4/7/2026 10:54:07 A
+M tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:54:07 AM tls:Cert: /CN=gw003c.noand
+t.com; issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign GCC R3 DV TLS CA 2020; verified=no 4/7/2026 10:54:07 AM <<<
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816365689981448&simpl=msg-f:1861816365689981448
+
+2/4
+
+4/7/26, 9:16 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+EHLO mta21.r1.rpost.net 4/7/2026 10:54:08 AM >>> 250-gw003c.noandt.com 4/7/2026 10:54:08 AM >>> 250-8BITMIME 4/7/
+2026 10:54:08 AM >>> 250 SIZE 157286400 4/7/2026 10:54:08 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 10:54:08 A
+M >>> 250 sender ok 4/7/2026 10:54:08 AM <<< RCPT TO: 4/7/2026 10:54:08 AM >>> 250 recipient ok 4/7/2026 10:54:08 A
+M <<< DATA 4/7/2026 10:54:09 AM >>> 354 go ahead 4/7/2026 10:54:09 AM <<< . 4/7/2026 10:54:09 AM >>> 250 ok: Messa
+ge 8856070 accepted 4/7/2026 10:54:09 AM <<< QUIT 4/7/2026 10:54:10 AM >>> 221 gw003c.noandt.com 4/7/2026 10:54:10
+AM closed gw003c.noandt.com (27.110.25.3) in=377 out=24274 4/7/2026 10:54:10 AM done noandt.com/{default}
+4/7/2026 10:54:06 AM starting noandt.com/{default} 4/7/2026 10:54:06 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gw0
+03c.noandt.com (27.110.25.3) 4/7/2026 10:54:06 AM connected from 192.168.10.11:52098 4/7/2026 10:54:07 AM >>> 220 gw0
+03c.noandt.com ESMTP 4/7/2026 10:54:07 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:54:07 AM >>> 250-gw003c.noandt.
+com 4/7/2026 10:54:07 AM >>> 250-8BITMIME 4/7/2026 10:54:07 AM >>> 250-SIZE 157286400 4/7/2026 10:54:07 AM >>> 2
+50 STARTTLS 4/7/2026 10:54:07 AM <<< STARTTLS 4/7/2026 10:54:07 AM >>> 220 Go ahead with TLS 4/7/2026 10:54:07 A
+M tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:54:07 AM tls:Cert: /CN=gw003c.noand
+t.com; issuer=/C=BE/O=GlobalSign nv-sa/CN=GlobalSign GCC R3 DV TLS CA 2020; verified=no 4/7/2026 10:54:07 AM <<<
+EHLO mta21.r1.rpost.net 4/7/2026 10:54:08 AM >>> 250-gw003c.noandt.com 4/7/2026 10:54:08 AM >>> 250-8BITMIME 4/7/
+2026 10:54:08 AM >>> 250 SIZE 157286400 4/7/2026 10:54:08 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 10:54:08 A
+M >>> 250 sender ok 4/7/2026 10:54:08 AM <<< RCPT TO: 4/7/2026 10:54:08 AM >>> 250 recipient ok 4/7/2026 10:54:08 A
+M <<< DATA 4/7/2026 10:54:09 AM >>> 354 go ahead 4/7/2026 10:54:09 AM <<< . 4/7/2026 10:54:09 AM >>> 250 ok: Messa
+ge 8856072 accepted 4/7/2026 10:54:09 AM <<< QUIT 4/7/2026 10:54:10 AM >>> 221 gw003c.noandt.com 4/7/2026 10:54:10
+AM closed gw003c.noandt.com (27.110.25.3) in=374 out=24265 4/7/2026 10:54:10 AM done noandt.com/{default}
+4/7/2026 11:03:32 AM starting gmail.com/{default} 4/7/2026 11:03:32 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmailsmtp-in.l.google.com (142.251.127.27) 4/7/2026 11:03:32 AM connected from 192.168.10.11:41259 4/7/2026 11:03:32 AM >>>
+220 mx.google.com ESMTP ffacd0b85a97d-43d1e54a51fsi32902175f8f.432 - gsmtp 4/7/2026 11:03:32 AM <<< EHLO mta21.r
+1.rpost.net 4/7/2026 11:03:32 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 11:03:32 AM >>> 250-SIZE
+157286400 4/7/2026 11:03:32 AM >>> 250-8BITMIME 4/7/2026 11:03:32 AM >>> 250-STARTTLS 4/7/2026 11:03:32 AM >>>
+250-ENHANCEDSTATUSCODES 4/7/2026 11:03:32 AM >>> 250-PIPELINING 4/7/2026 11:03:32 AM >>> 250-CHUNKING 4/
+7/2026 11:03:32 AM >>> 250 SMTPUTF8 4/7/2026 11:03:32 AM <<< STARTTLS 4/7/2026 11:03:32 AM >>> 220 2.0.0 Ready
+to start TLS 4/7/2026 11:03:32 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reuse
+d) 4/7/2026 11:03:32 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/7/20
+26 11:03:32 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:03:32 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/
+7/2026 11:03:32 AM >>> 250-SIZE 157286400 4/7/2026 11:03:32 AM >>> 250-8BITMIME 4/7/2026 11:03:32 AM >>> 250-EN
+HANCEDSTATUSCODES 4/7/2026 11:03:32 AM >>> 250-PIPELINING 4/7/2026 11:03:32 AM >>> 250-CHUNKING 4/7/2026 1
+1:03:32 AM >>> 250 SMTPUTF8 4/7/2026 11:03:32 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:03:32 AM >>> 250
+2.1.0 OK ffacd0b85a97d-43d1e54a51fsi32902175f8f.432 - gsmtp 4/7/2026 11:03:32 AM <<< RCPT TO: 4/7/2026 11:03:32 AM
+>>> 250 2.1.5 OK ffacd0b85a97d-43d1e54a51fsi32902175f8f.432 - gsmtp 4/7/2026 11:03:32 AM <<< DATA 4/7/2026 11:03:32
+AM >>> 354 Go ahead ffacd0b85a97d-43d1e54a51fsi32902175f8f.432 - gsmtp 4/7/2026 11:03:32 AM <<< . 4/7/2026 11:03:32
+AM >>> 250 2.0.0 OK 1775559812 ffacd0b85a97d-43d1e54a51fsi32902175f8f.432 - gsmtp 4/7/2026 11:03:32 AM <<< QUIT 4/
+7/2026 11:03:32 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e54a51fsi32902175f8f.432 - gsmtp 4/7/2026 11:03:
+32 AM closed gmail-smtp-in.l.google.com (142.251.127.27) in=779 out=24262 4/7/2026 11:03:34 AM done gmail.com/{default}
+From:"Mail Delivery System" :The following message to was undeliverable. The reason for the problem: 5.x.0 - Message boun
+ced by administrator
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gw003c.noandt.com (27.110.25.3)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gw003c.noandt.com (27.110.25.3)
+[IP Address: 150.195.208.247] [Time Opened: 4/7/2026 11:05:28 AM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socr
+mail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/Ey7XerTOBqaSNpAXzW2zhBUfVWALe3Z1ijwxud5tMTAy.gif] HTTP_ACCEPT:i
+mage/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q
+=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:ja HTTP_HOST:socrmail.r1.rpost.net HTTP
+_USER_AGENT:Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+HTTP_X_FORWARDED_FOR:150.195.208.247 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 H
+TTP_X_AMZN_TRACE_ID:Root=1-69d4e4f8-0bd2850e25d160877d349b91 HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_
+FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,image/avif,image/jxl,i
+mage/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, defl
+ate, br Accept-Language: ja Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWe
+bKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 150.195.208.247 X-Forwarded-Proto: https X-ForwardedPort: 443 X-Amzn-Trace-Id: Root=1-69d4e4f8-0bd2850e25d160877d349b91 sec-fetch-site: cross-site sec-fetch-dest: image se
+c-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816365689981448&simpl=msg-f:1861816365689981448
+
+3/4
+
+4/7/26, 9:16 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/Ey7XerTOBqaSNpAXzW2zhBUfVWALe3Z1ijwxud5tMTAy.g
+if 192.168.20.111 192.168.20.111 49046 GET /oatv_v2/Ey7XerTOBqaSNpAXzW2zhBUfVWALe3Z1ijwxud5tMTAy.gif socrmail.r
+1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/Ey7XerTOBqaSNpAXzW2zhBUfVWALe3Z1ijwxud5tMTAy.gif image/w
+ebp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gz
+ip, deflate, br ja socrmail.r1.rpost.net Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Ge
+cko) Mobile/15E148 150.195.208.247 https 443 Root=1-69d4e4f8-0bd2850e25d160877d349b91 cross-site image no-cors u=5, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gw003c.noandt.com (27.110.25.3)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.2] [Time Opened: 4/7/2026 11:09:44 AM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/vi3g5zsOdjIUvhuNcpL4fAouihllOQDtYno5xNljMTAy.gif] HTTP_ACCEPT_ENCODING:
+gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefo
+x/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.2 HTTP_X_FORWARDED_PROTO:https
+HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4e5f8-05d757eb5eed4e0f3ec5047e Accept-Enco
+ding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via gg
+pht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.2 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id:
+Root=1-69d4e5f8-05d757eb5eed4e0f3ec5047e /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4
+096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/vi3g5zsOdjIUvhuNcpL4fAouihllOQDtYno5xNljMTA
+y.gif 192.168.20.111 192.168.20.111 49000 GET /oatv_v2/vi3g5zsOdjIUvhuNcpL4fAouihllOQDtYno5xNljMTAy.gif socrmail.r1.rp
+ost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/vi3g5zsOdjIUvhuNcpL4fAouihllOQDtYno5xNljMTAy.gif gzip, deflate, br so
+crmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.2 h
+ttps 443 Root=1-69d4e5f8-05d757eb5eed4e0f3ec5047e
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+23K
+HtmlReceipt.htm
+150K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861816365689981448&simpl=msg-f:1861816365689981448
+
+4/4
+
+

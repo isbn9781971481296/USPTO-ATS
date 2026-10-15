@@ -1,0 +1,271 @@
+4/16/26, 1:58 PM
+
+Gmail - Receipt: [IBM et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AN…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: [IBM et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF
+PROVISIONAL RIGHTS PERIOD, AND DEMAND FOR DUE DILIGENCE CONCERNING
+QUANTUM-CENTRIC SUPERCOMPUTING AND HYBRID CLOUD ARCHITECTURES
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Thu, Apr 16, 2026 at 1:50 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+akrishna@ibm.com
+
+Delivered to Mail
+Server
+
+relayed;mx0a001b2d05.
+pphosted.com
+(205.220.161.114)
+
+04/16/2026
+04:35:41 PM
+(UTC)
+
+04/16/2026
+04:35:41 PM
+
+arvind.krishna@ibm.com
+
+Delivered to Mail
+Server
+
+relayed;mx0b001b2d05.
+pphosted.com
+(205.220.172.48)
+
+04/16/2026
+04:35:40 PM
+(UTC)
+
+04/16/2026
+04:35:40 PM
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.80.3
+
+04/16/2026
+04:41:21 PM
+(UTC)
+
+04/16/2026
+04:41:21 PM
+
+Opened (local)
+
+04/16/2026
+05:00:28 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+[IBM et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF
+PROVISIONAL RIGHTS PERIOD, AND DEMAND FOR DUE DILIGENCE CONCERNING
+QUANTUM-CENTRIC SUPERCOMPUTING AND HYBRID CLOUD ARCHITECTURES
+
+To:
+
+<akrishna@ibm.com> <arvind.krishna@ibm.com>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+Network ID:
+
+ec277341-4c81-47a5-9407-703493b3c555@SM26
+
+Received by RMail System:
+
+04/16/2026 04:35:37 PM (UTC), 04/16/2026 04:35:37 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+AEA555FF72EF9204566B4186DED67248E2888DD3
+
+Message Size:
+
+3384
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862654175824303358&simpl=msg-f:1862654175824303358
+
+1/3
+
+4/16/26, 1:58 PM
+
+Gmail - Receipt: [IBM et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AN…
+
+Features Used:
+File Size:
+
+File Name:
+
+148674
+
+IP_LIABILITY_QUANTUM_COMPUTING_COMPANIES.pdf
+
+78769029
+
+02__ISBN-9781971481296__Portfolio-of-Patent-Applications_and_Declaration-D132.pdf
+
+645171
+
+03__DEFENSIVE-PUBLICATION-EMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_tvilela@epo.org.pdf
+
+95518
+
+04__DOWNLOAD-RECEIPT_jeff.bezos@amazon.com__Tier-0.pdf
+
+.
+
+Delivery Audit Trail
+4/16/2026 4:35:38 PM starting ibm.com/{default} 4/16/2026 4:35:38 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx0a001b2d05.pphosted.com (205.220.161.114) 4/16/2026 4:35:38 PM connected from 192.168.10.11:43886 4/16/2026 4:35:38 PM
+>>> 220 mx0a-001b2d05.pphosted.com ESMTP mfa-m0373555 4/16/2026 4:35:38 PM <<< EHLO mta21.r1.rpost.net 4/16/20
+26 4:35:38 PM >>> 250-mx0a-001b2d05.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/16/2026
+4:35:38 PM >>> 250-ENHANCEDSTATUSCODES 4/16/2026 4:35:38 PM >>> 250-PIPELINING 4/16/2026 4:35:38 PM >>> 2
+50-8BITMIME 4/16/2026 4:35:38 PM >>> 250-SIZE 157286400 4/16/2026 4:35:38 PM >>> 250 STARTTLS 4/16/2026 4:35:38
+PM <<< STARTTLS 4/16/2026 4:35:38 PM >>> 220 2.0.0 Ready to start TLS 4/16/2026 4:35:39 PM tls:TLSv1.2 connected w
+ith 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/16/2026 4:35:39 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=
+*.pphosted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/16/20
+26 4:35:39 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 4:35:39 PM >>> 250-mx0a-001b2d05.pphosted.com Hello mta21.r1.rp
+ost.net [52.58.131.9], pleased to meet you 4/16/2026 4:35:39 PM >>> 250-ENHANCEDSTATUSCODES 4/16/2026 4:35:39 P
+M >>> 250-PIPELINING 4/16/2026 4:35:39 PM >>> 250-8BITMIME 4/16/2026 4:35:39 PM >>> 250 SIZE 157286400 4/16/20
+26 4:35:39 PM <<< MAIL FROM: BODY=8BITMIME 4/16/2026 4:35:39 PM >>> 250 2.1.0 Sender ok 4/16/2026 4:35:39 PM <
+<< RCPT TO: 4/16/2026 4:35:39 PM >>> 250 2.1.5 Recipient ok 4/16/2026 4:35:39 PM <<< DATA 4/16/2026 4:35:40 PM >>>
+354 Enter mail, end with "." on a line by itself 4/16/2026 4:35:40 PM <<< . 4/16/2026 4:35:41 PM >>> 250 2.0.0 4dk2c02fep-1
+Message accepted for delivery 4/16/2026 4:35:41 PM <<< QUIT 4/16/2026 4:35:41 PM >>> 221 2.0.0 mx0a-001b2d05.pphost
+ed.com Closing connection 4/16/2026 4:35:41 PM closed mx0a-001b2d05.pphosted.com (205.220.161.114) in=635 out=18967
+4/16/2026 4:35:41 PM done ibm.com/{default}
+4/16/2026 4:35:38 PM starting ibm.com/{default} 4/16/2026 4:35:38 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx0b001b2d05.pphosted.com (205.220.172.48) 4/16/2026 4:35:38 PM connected from 192.168.10.11:51969 4/16/2026 4:35:38 PM
+>>> 220 mx0b-001b2d05.pphosted.com ESMTP mfa-m0373558 4/16/2026 4:35:38 PM <<< EHLO mta21.r1.rpost.net 4/16/20
+26 4:35:38 PM >>> 250-mx0b-001b2d05.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/16/2026
+4:35:38 PM >>> 250-ENHANCEDSTATUSCODES 4/16/2026 4:35:38 PM >>> 250-PIPELINING 4/16/2026 4:35:38 PM >>> 2
+50-8BITMIME 4/16/2026 4:35:38 PM >>> 250-SIZE 157286400 4/16/2026 4:35:38 PM >>> 250 STARTTLS 4/16/2026 4:35:38
+PM <<< STARTTLS 4/16/2026 4:35:38 PM >>> 220 2.0.0 Ready to start TLS 4/16/2026 4:35:39 PM tls:TLSv1.2 connected w
+ith 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/16/2026 4:35:39 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=
+*.pphosted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/16/20
+26 4:35:39 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 4:35:39 PM >>> 250-mx0b-001b2d05.pphosted.com Hello mta21.r1.rp
+ost.net [52.58.131.9], pleased to meet you 4/16/2026 4:35:39 PM >>> 250-ENHANCEDSTATUSCODES 4/16/2026 4:35:39 P
+M >>> 250-PIPELINING 4/16/2026 4:35:39 PM >>> 250-8BITMIME 4/16/2026 4:35:39 PM >>> 250 SIZE 157286400 4/16/20
+26 4:35:39 PM <<< MAIL FROM: BODY=8BITMIME 4/16/2026 4:35:39 PM >>> 250 2.1.0 Sender ok 4/16/2026 4:35:39 PM <
+<< RCPT TO: 4/16/2026 4:35:39 PM >>> 250 2.1.5 Recipient ok 4/16/2026 4:35:39 PM <<< DATA 4/16/2026 4:35:39 PM >>>
+354 Enter mail, end with "." on a line by itself 4/16/2026 4:35:39 PM <<< . 4/16/2026 4:35:40 PM >>> 250 2.0.0 4dk29djmuu-1
+Message accepted for delivery 4/16/2026 4:35:40 PM <<< QUIT 4/16/2026 4:35:40 PM >>> 221 2.0.0 mx0b-001b2d05.pphost
+ed.com Closing connection 4/16/2026 4:35:40 PM closed mx0b-001b2d05.pphosted.com (205.220.172.48) in=635 out=18985
+4/16/2026 4:35:40 PM done ibm.com/{default}
+4/16/2026 4:41:17 PM starting gmail.com/{default} 4/16/2026 4:41:21 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.26) 4/16/2026 4:41:21 PM connected from 192.168.10.11:59953 4/16/2026 4:41:21 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43eb0e054basi5969042f8f.480 - gsmtp 4/16/2026 4:41:21 PM <<< EHLO mta2
+1.r1.rpost.net 4/16/2026 4:41:21 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/16/2026 4:41:21 PM >>> 250-SI
+ZE 157286400 4/16/2026 4:41:21 PM >>> 250-8BITMIME 4/16/2026 4:41:21 PM >>> 250-STARTTLS 4/16/2026 4:41:21 PM
+>>> 250-ENHANCEDSTATUSCODES 4/16/2026 4:41:21 PM >>> 250-PIPELINING 4/16/2026 4:41:21 PM >>> 250-CHUNKIN
+G 4/16/2026 4:41:21 PM >>> 250 SMTPUTF8 4/16/2026 4:41:21 PM <<< STARTTLS 4/16/2026 4:41:21 PM >>> 220 2.0.0 R
+eady to start TLS 4/16/2026 4:41:21 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/16/2026 4:41:21 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/16/2026 4:41:21 PM <<< EHLO mta21.r1.rpost.net 4/16/2026 4:41:21 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/16/2026 4:41:21 PM >>> 250-SIZE 157286400 4/16/2026 4:41:21 PM >>> 250-8BITMIME 4/16/2026 4:41:21 PM >>>
+250-ENHANCEDSTATUSCODES 4/16/2026 4:41:21 PM >>> 250-PIPELINING 4/16/2026 4:41:21 PM >>> 250-CHUNKING 4/
+16/2026 4:41:21 PM >>> 250 SMTPUTF8 4/16/2026 4:41:21 PM <<< MAIL FROM: BODY=8BITMIME 4/16/2026 4:41:21 PM
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862654175824303358&simpl=msg-f:1862654175824303358
+
+2/3
+
+4/16/26, 1:58 PM
+
+Gmail - Receipt: [IBM et al.] FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AN…
+
+>>> 250 2.1.0 OK ffacd0b85a97d-43eb0e054basi5969042f8f.480 - gsmtp 4/16/2026 4:41:21 PM <<< RCPT TO: 4/16/2026 4:4
+1:21 PM >>> 250 2.1.5 OK ffacd0b85a97d-43eb0e054basi5969042f8f.480 - gsmtp 4/16/2026 4:41:21 PM <<< DATA 4/16/2026
+4:41:21 PM >>> 354 Go ahead ffacd0b85a97d-43eb0e054basi5969042f8f.480 - gsmtp 4/16/2026 4:41:21 PM <<< . 4/16/2026
+4:41:21 PM >>> 250 2.0.0 OK 1776357681 ffacd0b85a97d-43eb0e054basi5969042f8f.480 - gsmtp 4/16/2026 4:41:21 PM <<<
+QUIT 4/16/2026 4:41:22 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43eb0e054basi5969042f8f.480 - gsmtp 4/16/202
+6 4:41:22 PM closed gmail-smtp-in.l.google.com (142.251.127.26) in=773 out=19021 4/16/2026 4:41:28 PM done gmail.com/{d
+efault}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mx0a-001b2d05.pphosted.com (205.220.161.114)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mx0b-001b2d05.pphosted.com (205.220.172.48)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+[IP Address: 66.249.80.3] [Time Opened: 4/16/2026 5:00:28 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/KLCzIOnguxa7t8BLvZMgiM4wYMPdcoIbCnveHRfjMjEw.gif] HTTP_ACCEPT_ENCODI
+NG:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fir
+efox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.3 HTTP_X_FORWARDED_PROTO:htt
+ps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e115ac-76d31a3706987c7c0c173bd2 Accept-E
+ncoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (vi
+a ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.3 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trac
+e-Id: Root=1-69e115ac-76d31a3706987c7c0c173bd2 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on
+256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/KLCzIOnguxa7t8BLvZMgiM4wYMPdcoIbCnv
+eHRfjMjEw.gif 192.168.20.36 192.168.20.36 31410 GET /oatv_v2/KLCzIOnguxa7t8BLvZMgiM4wYMPdcoIbCnveHRfjMjEw.gif
+socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/KLCzIOnguxa7t8BLvZMgiM4wYMPdcoIbCnveHRfjMjEw.gif
+gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImagePr
+oxy) 66.249.80.3 https 443 Root=1-69e115ac-76d31a3706987c7c0c173bd2
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+15K
+HtmlReceipt.htm
+108K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862654175824303358&simpl=msg-f:1862654175824303358
+
+3/3
+
+

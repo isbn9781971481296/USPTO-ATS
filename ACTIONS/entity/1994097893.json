@@ -1,0 +1,37 @@
+{
+  "serving_key": "1994097893",
+  "canonical_key": "corporation.counsel@boston.gov",
+  "display_name": "Corporation Counsel (City of Boston)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "City of Boston Law Department",
+  "full_name": "Adam Cederbaum",
+  "pronouns": null,
+  "title": "Corporation Counsel",
+  "organization": "City of Boston Law Department",
+  "domain": "boston.gov",
+  "addresses": {
+    "mailing_address": "1 City Hall Square, Room 615, Boston, MA 02201",
+    "business_address": "1 City Hall Square, Room 615, Boston, MA 02201",
+    "legal_service_address": "1 City Hall Square, Room 601, Boston, MA 02201"
+  },
+  "registered_agent": {
+    "name": "City Clerk, City of Boston",
+    "address": "1 City Hall Square, Room 601, Boston, MA 02201",
+    "jurisdiction": "Massachusetts"
+  },
+  "contact": {
+    "primary_email": "corporation.counsel@boston.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-617-635-4034"
+    ],
+    "faxes": [
+      "+1-617-635-3199"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

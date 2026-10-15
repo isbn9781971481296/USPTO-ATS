@@ -1,0 +1,28 @@
+{
+  "index": 115,
+  "header": "# Enclosure #115: EMAIL-TO-heather-m-hill-tigta-treas-gov-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/EMAIL-TO_heather.m.hill@tigta.treas.gov_Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-email-to-heather.m.hill@tigta.treas-8d2052a485.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "heather.m.hill@tigta.treas.gov",
+  "primary_recipient_an": "Heather M. Hill (tigta.treas.gov)",
+  "all_recipients": [
+    "heather.m.hill@tigta.treas.gov",
+    "tigtacommunications@tigta.treas.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "heather.m.hill@tigta.treas.gov": "Heather M. Hill (tigta.treas.gov)",
+    "tigtacommunications@tigta.treas.gov": "Tigtacommunications (tigta.treas.gov)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04142026",
+  "original_filename": "EMAIL-TO_heather.m.hill@tigta.treas.gov_Tier-0.pdf",
+  "patent_applications_mentioned": []
+}

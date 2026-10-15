@@ -1,0 +1,35 @@
+{
+  "serving_key": "949633628",
+  "canonical_key": "lauren.weber@washpost.com",
+  "display_name": "Lauren Weber (The Washington Post)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "The Washington Post",
+  "full_name": "Lauren Weber",
+  "pronouns": null,
+  "title": "Reporter",
+  "organization": "The Washington Post",
+  "domain": "washpost.com",
+  "addresses": {
+    "mailing_address": "1301 K Street NW, Washington, DC 20071",
+    "business_address": "1301 K Street NW, Washington, DC 20071",
+    "legal_service_address": "CT Corporation System, 1015 15th Street NW, Suite 1000, Washington, DC 20005"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1015 15th Street NW, Suite 1000, Washington, DC 20005",
+    "jurisdiction": "District of Columbia"
+  },
+  "contact": {
+    "primary_email": "lauren.weber@washpost.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-202-334-6000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

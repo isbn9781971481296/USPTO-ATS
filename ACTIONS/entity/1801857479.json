@@ -1,0 +1,48 @@
+{
+  "serving_key": "1801857479",
+  "canonical_key": "zaustin@palantir.com",
+  "display_name": "Zachary Austin (Palantir Technologies Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Palantir Technologies Inc.",
+  "full_name": "Zachary Austin",
+  "pronouns": null,
+  "title": "Corporate Counsel",
+  "organization": "Palantir Technologies Inc.",
+  "domain": "palantir.com",
+  "addresses": {
+    "mailing_address": "1200 17th Street, Floor 15, Denver, CO 80202",
+    "business_address": "1200 17th Street, Floor 15, Denver, CO 80202",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "zaustin@palantir.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 720-358-3679"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "937149920",
+      "canonical_key": "rtaylor@palantir.com",
+      "display_name": "Ryan Taylor",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1486516813",
+      "canonical_key": "akarp@palantir.com",
+      "display_name": "Alexander Karp",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

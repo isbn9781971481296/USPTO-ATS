@@ -1,0 +1,24 @@
+{
+  "index": 75,
+  "header": "# Enclosure #75: READ-RECEIPT-kerskine-polsinelli-com-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT-kerskine@polsinelli.com__Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-kerskine@polsinell-58a484c0ad.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kerskine@polsinelli.com",
+  "primary_recipient_an": "Kerskine (Polsinelli PC)",
+  "all_recipients": [
+    "kerskine@polsinelli.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "kerskine@polsinelli.com": "Kerskine (Polsinelli PC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT-kerskine@polsinelli.com__Tier-0.pdf",
+  "patent_applications_mentioned": []
+}

@@ -1,0 +1,36 @@
+{
+  "index": 157,
+  "header": "# Enclosure #157: READ-RECEIPT-dhgwon-yulchon-com-hjlim-yulchon-com-jychoe-yulchon-com-ymlee-yulchon-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT-dhgwon@yulchon.com_hjlim@yulchon.com_jychoe@yulchon.com_ymlee@yulchon.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-dhgwon@yulchon.com-e3f8cc8142.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "dhgwon@yulchon.com",
+  "primary_recipient_an": "Dhgwon (Yulchon LLC)",
+  "all_recipients": [
+    "dhgwon@yulchon.com",
+    "_hjlim@yulchon.com",
+    "_jychoe@yulchon.com",
+    "hjlim@yulchon.com",
+    "jychoe@yulchon.com",
+    "ymlee@yulchon.com",
+    "on@yulchon.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "dhgwon@yulchon.com": "Dhgwon (Yulchon LLC)",
+    "_hjlim@yulchon.com": "Hjlim (Yulchon LLC)",
+    "_jychoe@yulchon.com": "Jychoe (Yulchon LLC)",
+    "hjlim@yulchon.com": "Hjlim (Yulchon LLC)",
+    "jychoe@yulchon.com": "Jychoe (Yulchon LLC)",
+    "ymlee@yulchon.com": "Ymlee (Yulchon LLC)",
+    "on@yulchon.com": "On (Yulchon LLC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "READ-RECEIPT-dhgwon@yulchon.com_hjlim@yulchon.com_jychoe@yulchon.com_ymlee@yulchon.com.pdf",
+  "patent_applications_mentioned": []
+}

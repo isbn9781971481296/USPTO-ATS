@@ -1,0 +1,104 @@
+4/10/26, 6:18 PM
+
+Gmail - Delivered and Opened: RE: FORMAL NOTICE OF INTELLECTUAL PROPERTY RIGHTS, TECHNICAL OBSOLESCENCE…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: RE: FORMAL NOTICE OF INTELLECTUAL PROPERTY RIGHTS,
+TECHNICAL OBSOLESCENCE OF GNSS ARCHITECTURES, AND DEMAND FOR NONPATENT LITERATURE (NPL) INDEXING
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Fri, Apr 10, 2026 at 3:46 PM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+RE: FORMAL NOTICE OF INTELLECTUAL PROPERTY RIGHTS, TECHNICAL
+OBSOLESCENCE OF GNSS ARCHITECTURES, AND DEMAND FOR NON-PATENT
+LITERATURE (NPL) INDEXING
+
+To:
+
+<jeff.bezos@amazon.com>
+
+Time Sent:
+
+04/10/2026 01:30:56 PM (UTC), 04/10/2026 01:30:56 PM (Local)
+
+Time Opened:
+
+04/10/2026 08:40:22 PM (UTC), 04/10/2026 08:40:22 PM (Local)
+
+Tracking Number:
+
+471B20DA65120809A00B2609738EE9928CE4EF13
+
+Network ID:
+
+f134d97b-c9e2-4fa0-ab57-c705b9ac4767@SM25
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 54.239.6.178] [Time Opened: 4/10/2026 8:40:22 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/BJrXeSWxfqZxLc8gWvVurVKyrSxxkJ7ni1rZeJs9MjAx.gif] HTTP_ACCEPT:*/* HTTP
+_ACCEPT_ENCODING:gzip, deflate HTTP_COOKIE:AWSALBTGCORS=W/+0ah7uBI67vHP+mVoEnfBDpxsIkN3TfyO50XC2
+TfhKX4VMu+Jue/I4XG7VH6UpfzFEeOs9SFs+C2x7QePfVl3ZgL1Zl+ZxW65gIZelbU+WpaasMjl7pCNdYQ94BfKNQxJtgOXYU
+wfqdxPOKP9JAyD+553yOKWKCRqE+Awux/Th; AWSALBTG=W/+0ah7uBI67vHP+mVoEnfBDpxsIkN3TfyO50XC2TfhKX4VM
+u+Jue/I4XG7VH6UpfzFEeOs9SFs+C2x7QePfVl3ZgL1Zl+ZxW65gIZelbU+WpaasMjl7pCNdYQ94BfKNQxJtgOXYUwfqdxPOK
+P9JAyD+553yOKWKCRqE+Awux/Th; AWSALB=3VKwfT7N3AE8/PwQ4sfWNj0l6/2FOY2hzTmQvaG3zOjIaMAjINyR14X11Ay
+86ttMOOk9EC6GrxxZg9NHXrYPMVmz5b/36zm3tCuYeb722hxzIdgwnDy/w74qa36S; AWSALBCORS=3VKwfT7N3AE8/PwQ4s
+fWNj0l6/2FOY2hzTmQvaG3zOjIaMAjINyR14X11Ay86ttMOOk9EC6GrxxZg9NHXrYPMVmz5b/36zm3tCuYeb722hxzIdgwnDy/
+w74qa36S HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/4.0 (compatible; ms-office; MSOffice 16) HTTP_
+X_FORWARDED_FOR:54.239.6.178 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_A
+MZN_TRACE_ID:Root=1-69d96036-78e827ce04ba9a5e293eaf3d HTTP_UA_CPU:AMD64 Accept: */* Accept-Encoding: gzip,
+deflate Cookie: AWSALBTGCORS=W/+0ah7uBI67vHP+mVoEnfBDpxsIkN3TfyO50XC2TfhKX4VMu+Jue/I4XG7VH6UpfzFEe
+Os9SFs+C2x7QePfVl3ZgL1Zl+ZxW65gIZelbU+WpaasMjl7pCNdYQ94BfKNQxJtgOXYUwfqdxPOKP9JAyD+553yOKWKCRqE
++Awux/Th; AWSALBTG=W/+0ah7uBI67vHP+mVoEnfBDpxsIkN3TfyO50XC2TfhKX4VMu+Jue/I4XG7VH6UpfzFEeOs9SFs+C
+2x7QePfVl3ZgL1Zl+ZxW65gIZelbU+WpaasMjl7pCNdYQ94BfKNQxJtgOXYUwfqdxPOKP9JAyD+553yOKWKCRqE+Awux/Th;
+AWSALB=3VKwfT7N3AE8/PwQ4sfWNj0l6/2FOY2hzTmQvaG3zOjIaMAjINyR14X11Ay86ttMOOk9EC6GrxxZg9NHXrYPMVmz
+5b/36zm3tCuYeb722hxzIdgwnDy/w74qa36S; AWSALBCORS=3VKwfT7N3AE8/PwQ4sfWNj0l6/2FOY2hzTmQvaG3zOjIaMAjI
+NyR14X11Ay86ttMOOk9EC6GrxxZg9NHXrYPMVmz5b/36zm3tCuYeb722hxzIdgwnDy/w74qa36S Host: socrmail.r1.rpost.net
+User-Agent: Mozilla/4.0 (compatible; ms-office; MSOffice 16) X-Forwarded-For: 54.239.6.178 X-Forwarded-Proto: https X-Forw
+arded-Port: 443 X-Amzn-Trace-Id: Root=1-69d96036-78e827ce04ba9a5e293eaf3d ua-cpu: AMD64 /LM/W3SVC/12/ROOT 256
+4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v
+2/BJrXeSWxfqZxLc8gWvVurVKyrSxxkJ7ni1rZeJs9MjAx.gif 192.168.10.173 192.168.10.173 43568 GET /oatv_v2/BJrXeSWxf
+qZxLc8gWvVurVKyrSxxkJ7ni1rZeJs9MjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/BJrXeSWxfq
+ZxLc8gWvVurVKyrSxxkJ7ni1rZeJs9MjAx.gif */* gzip, deflate AWSALBTGCORS=W/+0ah7uBI67vHP+mVoEnfBDpxsIkN3Tfy
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862117845766246586&simpl=msg-f:1862117845766246586
+
+1/2
+
+4/10/26, 6:18 PM
+
+Gmail - Delivered and Opened: RE: FORMAL NOTICE OF INTELLECTUAL PROPERTY RIGHTS, TECHNICAL OBSOLESCENCE…
+
+O50XC2TfhKX4VMu+Jue/I4XG7VH6UpfzFEeOs9SFs+C2x7QePfVl3ZgL1Zl+ZxW65gIZelbU+WpaasMjl7pCNdYQ94BfKNQxJt
+gOXYUwfqdxPOKP9JAyD+553yOKWKCRqE+Awux/Th; AWSALBTG=W/+0ah7uBI67vHP+mVoEnfBDpxsIkN3TfyO50XC2Tfh
+KX4VMu+Jue/I4XG7VH6UpfzFEeOs9SFs+C2x7QePfVl3ZgL1Zl+ZxW65gIZelbU+WpaasMjl7pCNdYQ94BfKNQxJtgOXYUwfq
+dxPOKP9JAyD+553yOKWKCRqE+Awux/Th; AWSALB=3VKwfT7N3AE8/PwQ4sfWNj0l6/2FOY2hzTmQvaG3zOjIaMAjINyR14
+X11Ay86ttMOOk9EC6GrxxZg9NHXrYPMVmz5b/36zm3tCuYeb722hxzIdgwnDy/w74qa36S; AWSALBCORS=3VKwfT7N3AE8/
+PwQ4sfWNj0l6/2FOY2hzTmQvaG3zOjIaMAjINyR14X11Ay86ttMOOk9EC6GrxxZg9NHXrYPMVmz5b/36zm3tCuYeb722hxzIdg
+wnDy/w74qa36S socrmail.r1.rpost.net Mozilla/4.0 (compatible; ms-office; MSOffice 16) 54.239.6.178 https 443 Root=1-69d96
+036-78e827ce04ba9a5e293eaf3d AMD64
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+5K
+HtmlReceipt.htm
+43K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862117845766246586&simpl=msg-f:1862117845766246586
+
+2/2
+
+

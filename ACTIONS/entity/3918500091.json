@@ -1,0 +1,42 @@
+{
+  "serving_key": "3918500091",
+  "canonical_key": "cummins@finance.senate.gov",
+  "display_name": "Cummins (U.S. Senate Committee on Finance)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "U.S. Senate Committee on Finance",
+  "full_name": "Cummins",
+  "pronouns": null,
+  "title": "Staff Member",
+  "organization": "U.S. Senate Committee on Finance",
+  "domain": "finance.senate.gov",
+  "addresses": {
+    "mailing_address": "Dirksen Senate Office Building, Washington, DC 20510",
+    "business_address": "Dirksen Senate Office Building, Washington, DC 20510",
+    "legal_service_address": "Office of Senate Legal Counsel, 642 Hart Senate Office Building, Washington, DC 20510"
+  },
+  "registered_agent": {
+    "name": "Office of Senate Legal Counsel",
+    "address": "642 Hart Senate Office Building, Washington, DC 20510",
+    "jurisdiction": "Federal (U.S.)"
+  },
+  "contact": {
+    "primary_email": "cummins@finance.senate.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-224-4515"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "473453722",
+      "canonical_key": "jamie_cummins@finance.senate.gov",
+      "display_name": "Jamie Cummins",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

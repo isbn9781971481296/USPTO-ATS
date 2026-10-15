@@ -1,0 +1,90 @@
+4/7/26, 6:00 AM
+
+Gmail - Delivered and Opened: RE [eBay & UBER]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: RE [eBay & UBER]: Inquiry for IP Representation: 47-Patent
+Portfolio & Parallel Federal Disclosures
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 5:40 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+RE [eBay & UBER]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal
+Disclosures
+
+To:
+
+<donald.vieira@skadden.com>
+
+Time Sent:
+
+04/07/2026 08:30:22 AM (UTC), 04/07/2026 08:30:22 AM (Local)
+
+Time Opened:
+
+04/07/2026 10:34:02 AM (UTC), 04/07/2026 10:34:02 AM (Local)
+
+Tracking Number:
+
+03909E93D6A65BC0EB856A9FFF6D6031D6F23566
+
+Network ID:
+
+eb6d1cd7-c04b-4ef6-8040-b549af9e1b95@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 172.224.237.32] [Time Opened: 4/7/2026 10:34:02 AM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrm
+ail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/0XitQHzdnAabSCfFblEN6mbage9x2sHQpS7mSpOaMDIx.gif] HTTP_ACCEPT:ima
+ge/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP
+_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 HTTP_X_FOR
+WARDED_FOR:172.224.237.32 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_
+TRACE_ID:Root=1-69d4dd9a-5cc5abcc335468a9522e98b5 HTTP_PRIORITY:u=3, i Accept: image/webp,image/png,image/sv
+g+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socr
+mail.r1.rpost.net User-Agent: Mozilla/5.0 X-Forwarded-For: 172.224.237.32 X-Forwarded-Proto: https X-Forwarded-Port: 443 XAmzn-Trace-Id: Root=1-69d4dd9a-5cc5abcc335468a9522e98b5 priority: u=3, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1
+CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/0XitQHzdnAabSCf
+FblEN6mbage9x2sHQpS7mSpOaMDIx.gif 192.168.20.111 192.168.20.111 9486 GET /oatv_v2/0XitQHzdnAabSCfFblEN6mbag
+e9x2sHQpS7mSpOaMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/0XitQHzdnAabSCfFblEN6mba
+ge9x2sHQpS7mSpOaMDIx.gif image/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 gzip, deflate, br
+en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 172.224.237.32 https 443 Root=1-69d4dd9a-5cc5abcc335468a9522e98b5 u=
+3, i
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+3K
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861807932989563804&simpl=msg-f:1861807932989563804
+
+1/2
+
+4/7/26, 6:00 AM
+
+Gmail - Delivered and Opened: RE [eBay & UBER]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+HtmlReceipt.htm
+34K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861807932989563804&simpl=msg-f:1861807932989563804
+
+2/2
+
+

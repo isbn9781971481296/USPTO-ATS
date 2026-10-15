@@ -1,0 +1,310 @@
+4/7/26, 6:18 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP
+Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 6:15 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+frank-erich.hufnagel@
+freshfields.com
+
+Delivered and
+Opened
+
+HTTPIP:72.145.83.76
+
+04/07/2026
+10:43:33 AM
+(UTC)
+
+04/07/2026
+10:43:33 AM
+
+04/07/2026
+10:43:52 AM
+
+lutz.riede@freshfields.com
+
+Delivered and
+Opened
+
+HTTPIP:72.145.76.1
+
+04/07/2026
+10:43:33 AM
+(UTC)
+
+04/07/2026
+10:43:33 AM
+
+04/07/2026
+10:43:46 AM
+
+rj.aguiar.m@gmail.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.80.3
+
+04/07/2026
+10:43:17 AM
+(UTC)
+
+04/07/2026
+10:43:17 AM
+
+04/07/2026
+11:09:44 AM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<frank-erich.hufnagel@freshfields.com> <lutz.riede@freshfields.com>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+96f09792-c4e7-45e3-a02a-93f7085da817@SM26
+
+Received by RMail System:
+
+04/07/2026 10:33:31 AM (UTC), 04/07/2026 10:33:31 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+9F89D4F187DABD03EC847F2AE7E2BD8D10693284
+
+Message Size:
+
+4130
+
+Features Used:
+File Size:
+
+File Name:
+
+1132462
+
+092__USPTO_19_639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861810132915382422&simpl=msg-f:1861810132915382422
+
+1/4
+
+4/7/26, 6:18 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+976947
+
+00__Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+.
+
+Delivery Audit Trail
+4/7/2026 10:43:32 AM starting freshfields.com/{default} 4/7/2026 10:43:32 AM connecting from mta21.r1.rpost.net (0.0.0.0) to
+eu-smtp-inbound-2.mimecast.com (91.220.42.241) 4/7/2026 10:43:32 AM connected from 192.168.10.11:44543 4/7/2026 10:4
+3:32 AM >>> 220 eu-smtp-inbound-1.mimecast.com ESMTP; Tue, 07 Apr 2026 11:43:32 +0100 4/7/2026 10:43:32 AM <<< E
+HLO mta21.r1.rpost.net 4/7/2026 10:43:32 AM >>> 250-eu-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026 10:43:
+32 AM >>> 250-STARTTLS 4/7/2026 10:43:32 AM >>> 250 HELP 4/7/2026 10:43:32 AM <<< STARTTLS 4/7/2026 10:43:32 A
+M >>> 220 Starting TLS [4DWWyIHMN1abXcsafGSRIw.uk183] 4/7/2026 10:43:32 AM tls:TLSv1.2 connected with 256-bit EC
+DHE-RSA-AES256-GCM-SHA384 4/7/2026 10:43:32 AM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mim
+ecast.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 10:43:32
+AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:43:32 AM >>> 250-eu-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2
+026 10:43:32 AM >>> 250-AUTH PLAIN LOGIN 4/7/2026 10:43:32 AM >>> 250 HELP 4/7/2026 10:43:32 AM <<< MAIL FRO
+M: 4/7/2026 10:43:32 AM >>> 250 Sender OK [4DWWyIHMN1abXcsafGSRIw.uk183] 4/7/2026 10:43:32 AM <<< RCPT TO: 4/
+7/2026 10:43:32 AM >>> 250 Recipient OK [4DWWyIHMN1abXcsafGSRIw.uk183] 4/7/2026 10:43:32 AM <<< DATA 4/7/2026
+10:43:32 AM >>> 354 Start mail data, end with CRLF.CRLF [4DWWyIHMN1abXcsafGSRIw.uk183] 4/7/2026 10:43:32 AM <<<
+. 4/7/2026 10:43:33 AM >>> 250 SmtpThread-882715-1775558613684@uk-mta-183.uk.mimecast.lan Received OK [4DWWyIH
+MN1abXcsafGSRIw.uk183] 4/7/2026 10:43:33 AM <<< QUIT 4/7/2026 10:43:33 AM >>> 221 Service closing transmission cha
+nnel [LIBx6A7iNIO_jubdwDuUsA.uk183] 4/7/2026 10:43:33 AM closed eu-smtp-inbound-2.mimecast.com (91.220.42.241) in=6
+39 out=23711 4/7/2026 10:43:33 AM done freshfields.com/{default}
+4/7/2026 10:43:32 AM starting freshfields.com/{default} 4/7/2026 10:43:32 AM connecting from mta21.r1.rpost.net (0.0.0.0) to
+eu-smtp-inbound-1.mimecast.com (91.220.42.241) 4/7/2026 10:43:32 AM connected from 192.168.10.11:42723 4/7/2026 10:4
+3:32 AM >>> 220 eu-smtp-inbound-1.mimecast.com ESMTP; Tue, 07 Apr 2026 11:43:32 +0100 4/7/2026 10:43:32 AM <<< E
+HLO mta21.r1.rpost.net 4/7/2026 10:43:32 AM >>> 250-eu-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026 10:43:
+32 AM >>> 250-STARTTLS 4/7/2026 10:43:32 AM >>> 250 HELP 4/7/2026 10:43:32 AM <<< STARTTLS 4/7/2026 10:43:32 A
+M >>> 220 Starting TLS [mwBLpbk4OIivTgjdnDLxTQ.uk183] 4/7/2026 10:43:32 AM tls:TLSv1.2 connected with 256-bit ECDH
+E-RSA-AES256-GCM-SHA384 4/7/2026 10:43:32 AM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimeca
+st.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 10:43:32 AM
+<<< EHLO mta21.r1.rpost.net 4/7/2026 10:43:32 AM >>> 250-eu-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/7/2026
+10:43:32 AM >>> 250-AUTH PLAIN LOGIN 4/7/2026 10:43:32 AM >>> 250 HELP 4/7/2026 10:43:32 AM <<< MAIL FROM: 4/
+7/2026 10:43:32 AM >>> 250 Sender OK [mwBLpbk4OIivTgjdnDLxTQ.uk183] 4/7/2026 10:43:32 AM <<< RCPT TO: 4/7/2026
+10:43:32 AM >>> 250 Recipient OK [mwBLpbk4OIivTgjdnDLxTQ.uk183] 4/7/2026 10:43:32 AM <<< DATA 4/7/2026 10:43:32
+AM >>> 354 Start mail data, end with CRLF.CRLF [mwBLpbk4OIivTgjdnDLxTQ.uk183] 4/7/2026 10:43:32 AM <<< . 4/7/2026
+10:43:33 AM >>> 250 SmtpThread-882716-1775558613428@uk-mta-183.uk.mimecast.lan Received OK [mwBLpbk4OIivTgjdn
+DLxTQ.uk183] 4/7/2026 10:43:33 AM <<< QUIT 4/7/2026 10:43:33 AM >>> 221 Service closing transmission channel [EAHUI
+aqHP_uJy2RRXeNt8g.uk183] 4/7/2026 10:43:33 AM closed eu-smtp-inbound-1.mimecast.com (91.220.42.241) in=639 out=23
+681 4/7/2026 10:43:33 AM done freshfields.com/{default}
+4/7/2026 10:43:17 AM starting gmail.com/{default} 4/7/2026 10:43:17 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.27) 4/7/2026 10:43:17 AM connected from 192.168.10.11:42575 4/7/2026 10:43:17 AM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43d1e551b5asi32477296f8f.452 - gsmtp 4/7/2026 10:43:17 AM <<< EHLO mta2
+1.r1.rpost.net 4/7/2026 10:43:17 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 10:43:17 AM >>> 250-SI
+ZE 157286400 4/7/2026 10:43:17 AM >>> 250-8BITMIME 4/7/2026 10:43:17 AM >>> 250-STARTTLS 4/7/2026 10:43:17 AM >
+>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:43:17 AM >>> 250-PIPELINING 4/7/2026 10:43:17 AM >>> 250-CHUNKING
+4/7/2026 10:43:17 AM >>> 250 SMTPUTF8 4/7/2026 10:43:17 AM <<< STARTTLS 4/7/2026 10:43:17 AM >>> 220 2.0.0 Rea
+dy to start TLS 4/7/2026 10:43:17 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session re
+used) 4/7/2026 10:43:17 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/
+7/2026 10:43:17 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:43:17 AM >>> 250-mx.google.com at your service, [52.58.13
+1.9] 4/7/2026 10:43:17 AM >>> 250-SIZE 157286400 4/7/2026 10:43:17 AM >>> 250-8BITMIME 4/7/2026 10:43:17 AM >>> 2
+50-ENHANCEDSTATUSCODES 4/7/2026 10:43:17 AM >>> 250-PIPELINING 4/7/2026 10:43:17 AM >>> 250-CHUNKING 4/7/
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861810132915382422&simpl=msg-f:1861810132915382422
+
+2/4
+
+4/7/26, 6:18 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+2026 10:43:17 AM >>> 250 SMTPUTF8 4/7/2026 10:43:17 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 10:43:17 AM >
+>> 250 2.1.0 OK ffacd0b85a97d-43d1e551b5asi32477296f8f.452 - gsmtp 4/7/2026 10:43:17 AM <<< RCPT TO: 4/7/2026 10:4
+3:17 AM >>> 250 2.1.5 OK ffacd0b85a97d-43d1e551b5asi32477296f8f.452 - gsmtp 4/7/2026 10:43:17 AM <<< DATA 4/7/2026
+10:43:17 AM >>> 354 Go ahead ffacd0b85a97d-43d1e551b5asi32477296f8f.452 - gsmtp 4/7/2026 10:43:17 AM <<< . 4/7/2026
+10:43:17 AM >>> 250 2.0.0 OK 1775558597 ffacd0b85a97d-43d1e551b5asi32477296f8f.452 - gsmtp 4/7/2026 10:43:17 AM <<
+< QUIT 4/7/2026 10:43:17 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e551b5asi32477296f8f.452 - gsmtp 4/7/2
+026 10:43:17 AM closed gmail-smtp-in.l.google.com (142.251.127.27) in=779 out=23680 4/7/2026 10:43:24 AM done gmail.co
+m/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer eu-smtp-inbound-2.mimecast.com (91.220.42.241)
+[IP Address: 72.145.83.76] [Time Opened: 4/7/2026 10:43:52 AM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.
+r1.rpost.net] [SCRIPT_NAME: /oatv_v2/4FcEhsRPcuDhyOiwt9zBS1QJvEyeRbH7LOVs4WIXMTAy.gif] HTTP_ACCEPT:imag
+e/* HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+(KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:72.145.83.76 HTTP_X_FORWARDED_P
+ROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4dfe8-6e870b8238765df367776b60
+Accept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
+TML, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 72.145.83.76 X-Forwarded-Proto: https X-Forwarded-Port:
+443 X-Amzn-Trace-Id: Root=1-69d4dfe8-6e870b8238765df367776b60 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Ce
+rt CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12
+192.168.10.112 /oatv_v2/4FcEhsRPcuDhyOiwt9zBS1QJvEyeRbH7LOVs4WIXMTAy.gif 192.168.20.111 192.168.20.111 52152
+GET /oatv_v2/4FcEhsRPcuDhyOiwt9zBS1QJvEyeRbH7LOVs4WIXMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-I
+IS/10.0 /oatv_v2/4FcEhsRPcuDhyOiwt9zBS1QJvEyeRbH7LOVs4WIXMTAy.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Win
+dows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 72.145.83.76 https 443
+Root=1-69d4dfe8-6e870b8238765df367776b60
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer eu-smtp-inbound-1.mimecast.com (91.220.42.241)
+[IP Address: 72.145.76.1] [Time Opened: 4/7/2026 10:43:46 AM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/o78fFitwTXt36xOk6Q8fcMBqFNeK3fyexrqrEy9ZMTAy.gif] HTTP_ACCEPT:image/* HT
+TP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHT
+ML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:72.145.76.1 HTTP_X_FORWARDED_PROT
+O:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4dfe2-6d183ae83ac5c67b0fcd5198 Acce
+pt: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, l
+ike Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 72.145.76.1 X-Forwarded-Proto: https X-Forwarded-Port: 443 XAmzn-Trace-Id: Root=1-69d4dfe2-6d183ae83ac5c67b0fcd5198 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0
+CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/o78fFitwTXt36xOk6Q8fcMBqFNe
+K3fyexrqrEy9ZMTAy.gif 192.168.20.111 192.168.20.111 47944 GET /oatv_v2/o78fFitwTXt36xOk6Q8fcMBqFNeK3fyexrqrEy9Z
+MTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/o78fFitwTXt36xOk6Q8fcMBqFNeK3fyexrqrEy9ZM
+TAy.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Ch
+rome/109.0.0.0 Safari/537.36 72.145.76.1 https 443 Root=1-69d4dfe2-6d183ae83ac5c67b0fcd5198
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.3] [Time Opened: 4/7/2026 11:09:44 AM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmail.r1.
+rpost.net] [SCRIPT_NAME: /oatv_v2/OaYFnKqFQUuM1qFSCFTnLhaem9IzO4RPRxfzqlUaMTAy.gif] HTTP_ACCEPT_ENCO
+DING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko
+Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.3 HTTP_X_FORWARDED_PROTO:
+https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4e5f8-28f7038578b864501f5ddc0b AcceptEncoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.3 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Tr
+ace-Id: Root=1-69d4e5f8-28f7038578b864501f5ddc0b /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.d
+evx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112
+/oatv_v2/OaYFnKqFQUuM1qFSCFTnLhaem9IzO4RPRxfzqlUaMTAy.gif 192.168.10.14 192.168.10.14 18336 GET /oatv_v2/Oa
+YFnKqFQUuM1qFSCFTnLhaem9IzO4RPRxfzqlUaMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/
+OaYFnKqFQUuM1qFSCFTnLhaem9IzO4RPRxfzqlUaMTAy.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT
+5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.3 https 443 Root=1-69d4e5f8-28f7038578b8645
+01f5ddc0b
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861810132915382422&simpl=msg-f:1861810132915382422
+
+3/4
+
+4/7/26, 6:18 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+18K
+HtmlReceipt.htm
+125K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861810132915382422&simpl=msg-f:1861810132915382422
+
+4/4
+
+

@@ -1,0 +1,37 @@
+{
+  "index": 69,
+  "header": "# Enclosure #69: READ-RECEIPT-polsinelli-com-Team.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT_polsinelli.com-Team.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-2e61f0554c.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "ssukduang@polsinelli.com",
+  "primary_recipient_an": "Ssukduang (Polsinelli PC)",
+  "all_recipients": [
+    "ssukduang@polsinelli.com",
+    "kerskine@polsinelli.com",
+    "mcalderon@polsinelli.com",
+    "epersons@polsinelli.com",
+    "mtodd@polsinelli.com",
+    "afrazior@polsinelli.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "ssukduang@polsinelli.com": "Ssukduang (Polsinelli PC)",
+    "kerskine@polsinelli.com": "Kerskine (Polsinelli PC)",
+    "mcalderon@polsinelli.com": "McAlderon (Polsinelli PC)",
+    "epersons@polsinelli.com": "Epersons (Polsinelli PC)",
+    "mtodd@polsinelli.com": "Mtodd (Polsinelli PC)",
+    "afrazior@polsinelli.com": "Afrazior (Polsinelli PC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT_polsinelli.com-Team.pdf",
+  "patent_applications_mentioned": [
+    "12/302,778",
+    "12/302,777"
+  ]
+}

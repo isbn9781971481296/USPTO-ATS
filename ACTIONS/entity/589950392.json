@@ -1,0 +1,36 @@
+{
+  "serving_key": "589950392",
+  "canonical_key": "sebastian.mackensen@bmw.com",
+  "display_name": "Sebastian Mackensen (BMW of North America, LLC)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "BMW of North America, LLC",
+  "full_name": "Sebastian Mackensen",
+  "pronouns": null,
+  "title": "President & CEO",
+  "organization": "BMW of North America, LLC",
+  "domain": "bmw.com",
+  "addresses": {
+    "mailing_address": "300 Chestnut Ridge Rd, Woodcliff Lake, NJ 07677",
+    "business_address": "300 Chestnut Ridge Rd, Woodcliff Lake, NJ 07677",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "sebastian.mackensen@bmw.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-201-307-4000",
+      "+1-800-831-1117"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

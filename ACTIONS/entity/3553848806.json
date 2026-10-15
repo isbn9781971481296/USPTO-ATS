@@ -1,0 +1,50 @@
+{
+  "serving_key": "3553848806",
+  "canonical_key": "_eiji.katayama@aiklaw.co.jp",
+  "display_name": "Eiji Katayama (Abe, Ikubo & Katayama)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "AIK Law",
+  "full_name": "Eiji Katayama",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "AIK Law",
+  "domain": "aiklaw.co.jp",
+  "addresses": {
+    "mailing_address": "Marunouchi Mitsui Building, 2-2-2 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan",
+    "business_address": "Marunouchi Mitsui Building, 2-2-2 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan",
+    "legal_service_address": "Marunouchi Mitsui Building, 2-2-2 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan"
+  },
+  "registered_agent": {
+    "name": "Eiji Katayama",
+    "address": "Marunouchi Mitsui Building, 2-2-2 Marunouchi, Chiyoda-ku, Tokyo 100-0005, Japan",
+    "jurisdiction": "Tokyo, Japan"
+  },
+  "contact": {
+    "primary_email": "_eiji.katayama@aiklaw.co.jp",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+81-3-3273-2034"
+    ],
+    "faxes": [
+      "+81-3-3273-2046"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2328170795",
+      "canonical_key": "eiji.katayama@aiklaw.co.jp",
+      "display_name": "Eiji Katayama",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1920596647",
+      "canonical_key": "akie.ohno@aiklaw.co.jp",
+      "display_name": "Akie Ohno",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

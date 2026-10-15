@@ -1,0 +1,46 @@
+{
+  "serving_key": "3226921608",
+  "canonical_key": "gardna@gard.no",
+  "display_name": "Gard North America Inc.",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Gard North America Inc.",
+  "full_name": "Gard North America Inc.",
+  "pronouns": null,
+  "title": "Marine Insurance Provider",
+  "organization": "Gard North America Inc.",
+  "domain": "gard.no",
+  "addresses": {
+    "mailing_address": "40 Fulton Street, 4th Floor, New York, NY 10038, USA",
+    "business_address": "40 Fulton Street, 4th Floor, New York, NY 10038, USA",
+    "legal_service_address": "C T Corporation System, 28 Liberty Street, New York, NY 10005, USA"
+  },
+  "registered_agent": {
+    "name": "C T Corporation System",
+    "address": "28 Liberty Street, New York, NY 10005, USA",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "gardna@gard.no",
+    "alternative_emails": [
+      "companymail@gard.no"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1 212 425 5100"
+    ],
+    "faxes": [
+      "+1 212 425 5103"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3436203208",
+      "canonical_key": "cheryl.acker@gard.no",
+      "display_name": "Cheryl Acker",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,35 @@
+{
+  "serving_key": "3790133431",
+  "canonical_key": "jdmahle@vorys.co",
+  "display_name": "Jacob D. Mahle (Vorys, Sater, Seymour and Pease LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Vorys, Sater, Seymour and Pease LLP",
+  "full_name": "Jacob D. Mahle",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Vorys, Sater, Seymour and Pease LLP",
+  "domain": "vorys.co",
+  "addresses": {
+    "mailing_address": "301 East Fourth Street, Suite 3500, Cincinnati, OH 45202",
+    "business_address": "301 East Fourth Street, Suite 3500, Cincinnati, OH 45202",
+    "legal_service_address": "52 East Gay Street, Columbus, OH 43215"
+  },
+  "registered_agent": {
+    "name": "Vorys, Sater, Seymour and Pease LLP",
+    "address": "52 East Gay Street, Columbus, OH 43215",
+    "jurisdiction": "Ohio"
+  },
+  "contact": {
+    "primary_email": "jdmahle@vorys.co",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 513-723-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

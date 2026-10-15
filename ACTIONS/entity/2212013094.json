@@ -1,0 +1,38 @@
+{
+  "serving_key": "2212013094",
+  "canonical_key": "bkarp@paulweiss.com",
+  "display_name": "Brad S. Karp (Paul, Weiss, Rifkind, Wharton & Garrison LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+  "full_name": "Brad S. Karp",
+  "pronouns": null,
+  "title": "Chairman",
+  "organization": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+  "domain": "paulweiss.com",
+  "addresses": {
+    "mailing_address": "1285 Avenue of the Americas, New York, NY 10019-6064",
+    "business_address": "1285 Avenue of the Americas, New York, NY 10019-6064",
+    "legal_service_address": "1285 Avenue of the Americas, New York, NY 10019-6064"
+  },
+  "registered_agent": {
+    "name": "Secretary of State of New York",
+    "address": "1285 Avenue of the Americas, New York, NY 10019-6064",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "bkarp@paulweiss.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 212-373-3316",
+      "+1 212-373-3000"
+    ],
+    "faxes": [
+      "+1 212-757-3990"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

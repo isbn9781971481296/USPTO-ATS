@@ -1,0 +1,57 @@
+{
+  "serving_key": "3679142812",
+  "canonical_key": "donald.vieira@skadden.com",
+  "display_name": "Donald L. Vieira (Skadden, Arps, Slate, Meagher & Flom LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Skadden, Arps, Slate, Meagher & Flom LLP",
+  "full_name": "Donald L. Vieira",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Skadden, Arps, Slate, Meagher & Flom LLP",
+  "domain": "skadden.com",
+  "addresses": {
+    "mailing_address": "1440 New York Avenue, N.W., Washington, D.C. 20005",
+    "business_address": "1440 New York Avenue, N.W., Washington, D.C. 20005",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "donald.vieira@skadden.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-371-7124",
+      "+1 202-371-7000"
+    ],
+    "faxes": [
+      "+1 202-393-5760"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2986491379",
+      "canonical_key": "quyen.ta@skadden.com",
+      "display_name": "Quyen Ta",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "391145903",
+      "canonical_key": "david.simon@skadden.com",
+      "display_name": "David Simon",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3704790466",
+      "canonical_key": "don.vieira@skadden.com",
+      "display_name": "Donald L. Vieira",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

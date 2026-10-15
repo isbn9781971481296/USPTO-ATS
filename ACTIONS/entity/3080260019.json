@@ -1,0 +1,35 @@
+{
+  "serving_key": "3080260019",
+  "canonical_key": "kashmir.hill@nytimes.com",
+  "display_name": "Kashmir Hill (The New York Times Company)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "The New York Times Company",
+  "full_name": "Kashmir Hill",
+  "pronouns": null,
+  "title": "Technology Reporter",
+  "organization": "The New York Times Company",
+  "domain": "nytimes.com",
+  "addresses": {
+    "mailing_address": "620 Eighth Avenue, New York, NY 10018",
+    "business_address": "620 Eighth Avenue, New York, NY 10018",
+    "legal_service_address": "CT Corporation System, 28 Liberty St, New York, NY 10005"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "28 Liberty St, New York, NY 10005",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "kashmir.hill@nytimes.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-556-1234"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

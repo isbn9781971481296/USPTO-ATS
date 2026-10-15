@@ -1,0 +1,36 @@
+{
+  "serving_key": "2989169414",
+  "canonical_key": "disabilityrights@doj.ca.gov",
+  "display_name": "Disability Rights Bureau (California Department of Justice)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "California Department of Justice, Office of the Attorney General",
+  "full_name": "Disability Rights Bureau",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "California Department of Justice, Office of the Attorney General",
+  "domain": "doj.ca.gov",
+  "addresses": {
+    "mailing_address": "P.O. Box 944255, Sacramento, CA 94244-2550",
+    "business_address": "1300 I Street, Sacramento, CA 95814",
+    "legal_service_address": "1300 I Street, Sacramento, CA 95814"
+  },
+  "registered_agent": {
+    "name": "Office of the Attorney General",
+    "address": "1300 I Street, Sacramento, CA 95814",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "disabilityrights@doj.ca.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "(800) 952-5225",
+      "(916) 210-6276"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,664 @@
+Reinaldo Aguiar <kolmobilev6@gmail.com>
+
+Receipt: URGENT LEGAL NOTICE TO AMAZON & BLUE ORIGIN: Material Technological
+Obsolescence & Mandatory SEC Disclosure (USPTO #19/639,271 / #19/639,222) (Delivery
+Failure)
+Receipt <receipt@r1.rpost.net>
+To: kolmobilev6@gmail.com
+
+Wed, Apr 8, 2026 at 6:50 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered
+
+Opened
+
+(UTC*)
+
+(local)
+
+(local)
+
+alice.garber@blueorigin.com
+
+Delivery
+Failed
+
+550 5.1.1 User Unknown
+
+***
+
+***
+
+david.limp@blueorigin.com
+
+Delivery
+Failed
+
+550 5.1.1 User Unknown
+
+***
+
+***
+
+jeff.bezos@amazon.com
+
+Delivered
+HTTP-IP:54.239.6.178
+and Opened
+
+04/08/2026
+04/08/2026
+04/08/2026
+09:20:08 PM
+09:20:08 PM 11:36:30 PM
+(UTC)
+
+jordan.snow@blueorigin.com
+
+Delivery
+Failed
+
+***
+
+dhadden@fenwick.com
+
+Delivered
+HTTP-IP:135.232.19.31
+and Opened
+
+04/08/2026
+04/08/2026
+04/08/2026
+09:20:11 PM
+09:20:11 PM 09:20:21 PM
+(UTC)
+
+kolmobilev6@gmail.com
+
+Delivered to relayed;gmail-smtp-in.l.google.com
+Mail Server (142.251.127.26)
+
+04/08/2026
+04/08/2026
+09:23:37 PM
+09:23:37 PM
+(UTC)
+
+rajeev.badyal@amazon.com
+
+Delivered to relayed;amazon-smtp.amazon.com
+Mail Server (52.28.202.117)
+
+04/08/2026
+04/08/2026
+09:20:08 PM
+09:20:08 PM
+(UTC)
+
+scott.hayden@amazon.com
+
+Delivered to relayed;amazon-smtp.amazon.com
+Mail Server (52.28.202.117)
+
+04/08/2026
+04/08/2026
+09:20:08 PM
+09:20:08 PM
+(UTC)
+
+krista.settle@amazon.com
+
+Delivered to relayed;amazon-smtp.amazon.com
+Mail Server (52.28.202.117)
+
+04/08/2026
+04/08/2026
+09:20:09 PM
+09:20:09 PM
+(UTC)
+
+paul.weber@blueorigin.com
+
+Delivery
+Failed
+
+***
+
+sshamilov@fenwick.com
+
+Delivered
+HTTP-IP:72.153.153.18
+and Opened
+
+550 5.1.1 User Unknown
+
+550 5.1.1 User Unknown
+
+***
+
+***
+
+04/08/2026
+04/08/2026
+04/08/2026
+09:20:13 PM
+09:20:13 PM 09:20:21 PM
+(UTC)
+
+mauricio.uribe@knobbe.com
+
+Delivered to relayed;us-smtp-inbound-1.
+Mail Server mimecast.com (170.10.128.141)
+
+salil.bali@knobbe.com
+
+Delivery
+Failed
+
+rj.aguiar.m@gmail.com
+
+Delivered
+HTTP-IP:66.249.80.3
+and Opened
+
+04/08/2026
+04/08/2026
+09:30:14 PM
+09:30:14 PM
+(UTC)
+
+550 Invalid Recipient https://community.mimecast.
+***
+com/docs/DOC-1369#550
+[sga6mBTBP7SDnZwXbMekyA.us671]
+
+***
+
+04/08/2026
+04/08/2026
+04/08/2026
+09:23:37 PM
+09:23:37 PM 09:25:28 PM
+(UTC)
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+Reinaldo J. Aguiar Marcano <kolmobilev6@gmail.com>
+
+Subject:
+
+URGENT LEGAL NOTICE TO AMAZON & BLUE ORIGIN: Material Technological
+Obsolescence & Mandatory SEC Disclosure (USPTO #19/639,271 / #19/639,222)
+
+To:
+
+<alice.garber@blueorigin.com> <david.limp@blueorigin.com> <jeff.bezos@amazon.com>
+<jordan.snow@blueorigin.com> <dhadden@fenwick.com> <rajeev.badyal@amazon.com>
+<scott.hayden@amazon.com> <krista.settle@amazon.com>
+<paul.weber@blueorigin.com> <sshamilov@fenwick.com> <mauricio.uribe@knobbe.com>
+<salil.bali@knobbe.com>
+
+Cc:
+
+<kolmobilev6@gmail.com> <rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+2c2f2311-5b05-404d-afad-a0aa1befa1b2@SM25
+
+Received by RMail System:
+
+04/08/2026 09:20:05 PM (UTC), 04/08/2026 09:20:05 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+07332E237411377A87BEF52B5678294EEA98E3EA
+
+Message Size:
+
+6420
+
+Features Used:
+
+.
+
+File Size:
+
+File Name:
+
+976947
+
+00-Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+564080
+
+00-EMAIL-TO-EPO_Defensive-Publication-USPTO-No_19-640,945.pdf
+
+977254
+
+00-USPTO-No-19-639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+1226833
+
+01-USPTO-No-19-639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+989655
+
+02-USPTO-No-19-639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+1046169
+
+03-USPTO-No-19-639,272.pdf
+
+74260152
+
+04-ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-filed-with-the-USPTO.pdf
+
+148070
+
+05-NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud.pdf
+
+220067
+
+06-The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+07-Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+08-Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+3984588
+
+09-Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+4016046
+
+10-Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+6836715
+
+11-Letter-to-Uber-and-Emil-Michael.pdf
+
+Delivery Audit Trail
+4/8/2026 9:20:08 PM starting blueorigin.com/{default} 4/8/2026 9:20:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx
+a-00369c02.gslb.gpphosted.com (67.231.155.138) 4/8/2026 9:20:08 PM connected from 192.168.10.11:53899 4/8/2026 9:20:0
+8 PM >>> 220 mx0f-00369c02.gpphosted.com ESMTP mfa-m0235626 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/
+8/2026 9:20:08 PM >>> 250-mx0f-00369c02.gpphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/8/2
+026 9:20:08 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:08 PM >>> 250-PIPELINING 4/8/2026 9:20:08 PM >>>
+250-8BITMIME 4/8/2026 9:20:08 PM >>> 250-SIZE 157286400 4/8/2026 9:20:08 PM >>> 250 STARTTLS 4/8/2026 9:20:08 P
+M <<< STARTTLS 4/8/2026 9:20:08 PM >>> 220 2.0.0 Ready to start TLS 4/8/2026 9:20:09 PM tls:TLSv1.2 connected with 2
+56-bit ECDHE-RSA-AES256-GCM-SHA384 4/8/2026 9:20:09 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.gpph
+osted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/8/2026 9:2
+0:09 PM <<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:09 PM >>> 250-mx0f-00369c02.gpphosted.com Hello mta21.r1.rpost.ne
+t [52.58.131.9], pleased to meet you 4/8/2026 9:20:09 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:09 PM >>> 25
+0-PIPELINING 4/8/2026 9:20:09 PM >>> 250-8BITMIME 4/8/2026 9:20:09 PM >>> 250 SIZE 157286400 4/8/2026 9:20:09 P
+M <<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:20:09 PM >>> 250 2.1.0 Sender ok 4/8/2026 9:20:09 PM <<< RCPT TO:
+4/8/2026 9:20:09 PM >>> 550 5.1.1 User Unknown 4/8/2026 9:20:09 PM <<< QUIT 4/8/2026 9:20:10 PM >>> 221 2.0.0 mx0f00369c02.gpphosted.com Closing connection 4/8/2026 9:20:10 PM closed mxa-00369c02.gslb.gpphosted.com (67.231.155.13
+8) in=535 out=194 4/8/2026 9:20:11 PM done blueorigin.com/{default}
+4/8/2026 9:20:09 PM starting blueorigin.com/{default} 4/8/2026 9:20:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx
+b-00369c02.gslb.gpphosted.com (67.231.155.138) 4/8/2026 9:20:09 PM connected from 192.168.10.11:58329 4/8/2026 9:20:0
+9 PM >>> 220 mx0f-00369c02.gpphosted.com ESMTP mfa-m0235626 4/8/2026 9:20:09 PM <<< EHLO mta21.r1.rpost.net 4/
+8/2026 9:20:09 PM >>> 250-mx0f-00369c02.gpphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/8/2
+026 9:20:09 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:09 PM >>> 250-PIPELINING 4/8/2026 9:20:09 PM >>>
+250-8BITMIME 4/8/2026 9:20:09 PM >>> 250-SIZE 157286400 4/8/2026 9:20:09 PM >>> 250 STARTTLS 4/8/2026 9:20:09 P
+M <<< STARTTLS 4/8/2026 9:20:09 PM >>> 220 2.0.0 Ready to start TLS 4/8/2026 9:20:10 PM tls:TLSv1.2 connected with 2
+56-bit ECDHE-RSA-AES256-GCM-SHA384 4/8/2026 9:20:10 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.gpph
+osted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/8/2026 9:2
+0:10 PM <<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:10 PM >>> 250-mx0f-00369c02.gpphosted.com Hello mta21.r1.rpost.ne
+t [52.58.131.9], pleased to meet you 4/8/2026 9:20:10 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:10 PM >>> 25
+0-PIPELINING 4/8/2026 9:20:10 PM >>> 250-8BITMIME 4/8/2026 9:20:10 PM >>> 250 SIZE 157286400 4/8/2026 9:20:10 P
+M <<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:20:10 PM >>> 250 2.1.0 Sender ok 4/8/2026 9:20:10 PM <<< RCPT TO:
+4/8/2026 9:20:10 PM >>> 550 5.1.1 User Unknown 4/8/2026 9:20:10 PM <<< QUIT 4/8/2026 9:20:10 PM >>> 221 2.0.0 mx0f00369c02.gpphosted.com Closing connection 4/8/2026 9:20:10 PM closed mxb-00369c02.gslb.gpphosted.com (67.231.155.13
+8) in=535 out=192 4/8/2026 9:20:12 PM done blueorigin.com/{default}
+4/8/2026 9:20:08 PM starting amazon.com/{default} 4/8/2026 9:20:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to ama
+zon-smtp.amazon.com (52.28.202.117) 4/8/2026 9:20:08 PM connected from 192.168.10.11:57270 4/8/2026 9:20:08 PM >>>
+220 cluster01.eu-central-1.mail-perimeter.amazon.com ESMTP 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/8/2026
+9:20:08 PM >>> 250-cluster01.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM >>> 250-8BITMIME 4/8/2026 9:
+20:08 PM >>> 250-SIZE 41943040 4/8/2026 9:20:08 PM >>> 250 STARTTLS 4/8/2026 9:20:08 PM <<< STARTTLS 4/8/2026
+9:20:08 PM >>> 220 Go ahead with TLS 4/8/2026 9:20:08 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM
+-SHA384 4/8/2026 9:20:08 PM tls:Cert: /CN=smtp.eu-central-1.mail-perimeter.amazon.com; issuer=/C=US/O=Amazon/CN=A
+mazon RSA 2048 M04; verified=no 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:08 PM >>> 250-cluster0
+1.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM >>> 250-8BITMIME 4/8/2026 9:20:08 PM >>> 250 SIZE 4194
+3040 4/8/2026 9:20:08 PM <<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:20:08 PM >>> 250 sender ok 4/8/2026 9:20:08 P
+M <<< RCPT TO: 4/8/2026 9:20:08 PM >>> 250 recipient ok 4/8/2026 9:20:08 PM <<< DATA 4/8/2026 9:20:08 PM >>> 354 g
+o ahead 4/8/2026 9:20:08 PM <<< . 4/8/2026 9:20:08 PM >>> 250 ok: Message 113644124 accepted 4/8/2026 9:20:08 PM <<
+< QUIT 4/8/2026 9:20:08 PM >>> 221 cluster01.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM closed amazon
+-smtp.amazon.com (52.28.202.117) in=497 out=28473 4/8/2026 9:20:08 PM done amazon.com/{default}
+4/8/2026 9:20:08 PM starting blueorigin.com/{default} 4/8/2026 9:20:10 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx
+a-00369c02.gslb.gpphosted.com (67.231.155.138) 4/8/2026 9:20:10 PM connected from 192.168.10.11:44037 4/8/2026 9:20:1
+0 PM >>> 220 mx0f-00369c02.gpphosted.com ESMTP mfa-m0235625 4/8/2026 9:20:10 PM <<< EHLO mta21.r1.rpost.net 4/
+8/2026 9:20:10 PM >>> 250-mx0f-00369c02.gpphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/8/2
+026 9:20:10 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:10 PM >>> 250-PIPELINING 4/8/2026 9:20:10 PM >>>
+250-8BITMIME 4/8/2026 9:20:10 PM >>> 250-SIZE 157286400 4/8/2026 9:20:10 PM >>> 250 STARTTLS 4/8/2026 9:20:10 P
+M <<< STARTTLS 4/8/2026 9:20:10 PM >>> 220 2.0.0 Ready to start TLS 4/8/2026 9:20:11 PM tls:TLSv1.2 connected with 2
+56-bit ECDHE-RSA-AES256-GCM-SHA384 4/8/2026 9:20:11 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.gpph
+osted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/8/2026 9:2
+0:11 PM <<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:11 PM >>> 250-mx0f-00369c02.gpphosted.com Hello mta21.r1.rpost.net
+[52.58.131.9], pleased to meet you 4/8/2026 9:20:11 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:11 PM >>> 250PIPELINING 4/8/2026 9:20:11 PM >>> 250-8BITMIME 4/8/2026 9:20:11 PM >>> 250 SIZE 157286400 4/8/2026 9:20:11 PM <
+<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:20:11 PM >>> 250 2.1.0 Sender ok 4/8/2026 9:20:11 PM <<< RCPT TO: 4/8/2
+026 9:20:11 PM >>> 550 5.1.1 User Unknown 4/8/2026 9:20:11 PM <<< QUIT 4/8/2026 9:20:11 PM >>> 221 2.0.0 mx0f-0036
+
+9c02.gpphosted.com Closing connection 4/8/2026 9:20:11 PM closed mxa-00369c02.gslb.gpphosted.com (67.231.155.138) in
+=535 out=193 4/8/2026 9:20:11 PM done blueorigin.com/{default}
+4/8/2026 9:20:09 PM starting fenwick.com/{default} 4/8/2026 9:20:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxb000e6101.gslb.pphosted.com (67.231.156.18) 4/8/2026 9:20:09 PM connected from 192.168.10.11:51939 4/8/2026 9:20:09 PM
+>>> 220 mx0b-000e6101.pphosted.com ESMTP mfa-m0043755 4/8/2026 9:20:09 PM <<< EHLO mta21.r1.rpost.net 4/8/2026
+9:20:09 PM >>> 250-mx0b-000e6101.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/8/2026 9:2
+0:09 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:09 PM >>> 250-PIPELINING 4/8/2026 9:20:09 PM >>> 250-8BI
+TMIME 4/8/2026 9:20:09 PM >>> 250-SIZE 157286400 4/8/2026 9:20:09 PM >>> 250 STARTTLS 4/8/2026 9:20:09 PM <<<
+STARTTLS 4/8/2026 9:20:09 PM >>> 220 2.0.0 Ready to start TLS 4/8/2026 9:20:10 PM tls:TLSv1.2 connected with 256-bit
+ECDHE-RSA-AES256-GCM-SHA384 4/8/2026 9:20:10 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.pphosted.c
+om; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/8/2026 9:20:10 PM
+<<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:10 PM >>> 250-mx0b-000e6101.pphosted.com Hello mta21.r1.rpost.net [52.58.1
+31.9], pleased to meet you 4/8/2026 9:20:10 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:10 PM >>> 250-PIPELI
+NING 4/8/2026 9:20:10 PM >>> 250-8BITMIME 4/8/2026 9:20:10 PM >>> 250 SIZE 157286400 4/8/2026 9:20:10 PM <<< M
+AIL FROM: BODY=8BITMIME 4/8/2026 9:20:10 PM >>> 250 2.1.0 Sender ok 4/8/2026 9:20:10 PM <<< RCPT TO: 4/8/2026
+9:20:10 PM >>> 250 2.1.5 Recipient ok 4/8/2026 9:20:10 PM <<< DATA 4/8/2026 9:20:10 PM >>> 354 Enter mail, end with
+"." on a line by itself 4/8/2026 9:20:10 PM <<< . 4/8/2026 9:20:11 PM >>> 250 2.0.0 4dda3k9v09-1 Message accepted for deli
+very 4/8/2026 9:20:11 PM <<< QUIT 4/8/2026 9:20:11 PM >>> 221 2.0.0 mx0b-000e6101.pphosted.com Closing connection
+4/8/2026 9:20:11 PM closed mxb-000e6101.gslb.pphosted.com (67.231.156.18) in=635 out=28467 4/8/2026 9:20:14 PM done f
+enwick.com/{default}
+4/8/2026 9:23:32 PM starting gmail.com/{default} 4/8/2026 9:23:37 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail-s
+mtp-in.l.google.com (142.251.127.26) 4/8/2026 9:23:37 PM connected from 192.168.10.11:35797 4/8/2026 9:23:37 PM >>> 22
+0 mx.google.com ESMTP ffacd0b85a97d-43d1e540da5si41824955f8f.389 - gsmtp 4/8/2026 9:23:37 PM <<< EHLO mta21.r1.r
+post.net 4/8/2026 9:23:37 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/8/2026 9:23:37 PM >>> 250-SIZE 157
+286400 4/8/2026 9:23:37 PM >>> 250-8BITMIME 4/8/2026 9:23:37 PM >>> 250-STARTTLS 4/8/2026 9:23:37 PM >>> 250-E
+NHANCEDSTATUSCODES 4/8/2026 9:23:37 PM >>> 250-PIPELINING 4/8/2026 9:23:37 PM >>> 250-CHUNKING 4/8/2026
+9:23:37 PM >>> 250 SMTPUTF8 4/8/2026 9:23:37 PM <<< STARTTLS 4/8/2026 9:23:37 PM >>> 220 2.0.0 Ready to start TL
+S 4/8/2026 9:23:37 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reused) 4/8/2026
+9:23:37 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/8/2026 9:23:37 P
+M <<< EHLO mta21.r1.rpost.net 4/8/2026 9:23:37 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/8/2026 9:23:3
+7 PM >>> 250-SIZE 157286400 4/8/2026 9:23:37 PM >>> 250-8BITMIME 4/8/2026 9:23:37 PM >>> 250-ENHANCEDSTATU
+SCODES 4/8/2026 9:23:37 PM >>> 250-PIPELINING 4/8/2026 9:23:37 PM >>> 250-CHUNKING 4/8/2026 9:23:37 PM >>> 25
+0 SMTPUTF8 4/8/2026 9:23:37 PM <<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:23:37 PM >>> 250 2.1.0 OK ffacd0b85a
+97d-43d1e540da5si41824955f8f.389 - gsmtp 4/8/2026 9:23:37 PM <<< RCPT TO: 4/8/2026 9:23:37 PM >>> 250 2.1.5 OK ffa
+cd0b85a97d-43d1e540da5si41824955f8f.389 - gsmtp 4/8/2026 9:23:37 PM <<< DATA 4/8/2026 9:23:37 PM >>> 354 Go ahead
+ffacd0b85a97d-43d1e540da5si41824955f8f.389 - gsmtp 4/8/2026 9:23:37 PM <<< . 4/8/2026 9:23:37 PM >>> 250 2.0.0 OK 1
+775683417 ffacd0b85a97d-43d1e540da5si41824955f8f.389 - gsmtp 4/8/2026 9:23:37 PM <<< QUIT 4/8/2026 9:23:37 PM >>>
+221 2.0.0 closing connection ffacd0b85a97d-43d1e540da5si41824955f8f.389 - gsmtp 4/8/2026 9:23:37 PM closed gmail-smtp-i
+n.l.google.com (142.251.127.26) in=779 out=28473 4/8/2026 9:23:41 PM done gmail.com/{default}
+4/8/2026 9:20:08 PM starting amazon.com/{default} 4/8/2026 9:20:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to ama
+zon-smtp.amazon.com (52.28.202.117) 4/8/2026 9:20:08 PM connected from 192.168.10.11:59594 4/8/2026 9:20:08 PM >>>
+220 cluster03.eu-central-1.mail-perimeter.amazon.com ESMTP 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/8/2026
+9:20:08 PM >>> 250-cluster03.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM >>> 250-8BITMIME 4/8/2026 9:
+20:08 PM >>> 250-SIZE 41943040 4/8/2026 9:20:08 PM >>> 250 STARTTLS 4/8/2026 9:20:08 PM <<< STARTTLS 4/8/2026
+9:20:08 PM >>> 220 Go ahead with TLS 4/8/2026 9:20:08 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM
+-SHA384 4/8/2026 9:20:08 PM tls:Cert: /CN=smtp.eu-central-1.mail-perimeter.amazon.com; issuer=/C=US/O=Amazon/CN=A
+mazon RSA 2048 M04; verified=no 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:08 PM >>> 250-cluster0
+3.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM >>> 250-8BITMIME 4/8/2026 9:20:08 PM >>> 250 SIZE 4194
+3040 4/8/2026 9:20:08 PM <<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:20:08 PM >>> 250 sender ok 4/8/2026 9:20:08 P
+M <<< RCPT TO: 4/8/2026 9:20:08 PM >>> 250 recipient ok 4/8/2026 9:20:08 PM <<< DATA 4/8/2026 9:20:08 PM >>> 354 g
+o ahead 4/8/2026 9:20:08 PM <<< . 4/8/2026 9:20:08 PM >>> 250 ok: Message 112896479 accepted 4/8/2026 9:20:08 PM <<
+< QUIT 4/8/2026 9:20:08 PM >>> 221 cluster03.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM closed amazon
+-smtp.amazon.com (52.28.202.117) in=500 out=28482 4/8/2026 9:20:08 PM done amazon.com/{default}
+4/8/2026 9:20:08 PM starting amazon.com/{default} 4/8/2026 9:20:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to ama
+zon-smtp.amazon.com (52.28.202.117) 4/8/2026 9:20:08 PM connected from 192.168.10.11:41810 4/8/2026 9:20:08 PM >>>
+220 cluster01.eu-central-1.mail-perimeter.amazon.com ESMTP 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/8/2026
+9:20:08 PM >>> 250-cluster01.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM >>> 250-8BITMIME 4/8/2026 9:
+20:08 PM >>> 250-SIZE 41943040 4/8/2026 9:20:08 PM >>> 250 STARTTLS 4/8/2026 9:20:08 PM <<< STARTTLS 4/8/2026
+9:20:08 PM >>> 220 Go ahead with TLS 4/8/2026 9:20:08 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM
+-SHA384 4/8/2026 9:20:08 PM tls:Cert: /CN=smtp.eu-central-1.mail-perimeter.amazon.com; issuer=/C=US/O=Amazon/CN=A
+mazon RSA 2048 M04; verified=no 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:08 PM >>> 250-cluster0
+1.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM >>> 250-8BITMIME 4/8/2026 9:20:08 PM >>> 250 SIZE 4194
+
+3040 4/8/2026 9:20:08 PM <<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:20:08 PM >>> 250 sender ok 4/8/2026 9:20:08 P
+M <<< RCPT TO: 4/8/2026 9:20:08 PM >>> 250 recipient ok 4/8/2026 9:20:08 PM <<< DATA 4/8/2026 9:20:08 PM >>> 354 g
+o ahead 4/8/2026 9:20:08 PM <<< . 4/8/2026 9:20:08 PM >>> 250 ok: Message 112824373 accepted 4/8/2026 9:20:08 PM <<
+< QUIT 4/8/2026 9:20:08 PM >>> 221 cluster01.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM closed amazon
+-smtp.amazon.com (52.28.202.117) in=499 out=28479 4/8/2026 9:20:08 PM done amazon.com/{default}
+4/8/2026 9:20:08 PM starting amazon.com/{default} 4/8/2026 9:20:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to ama
+zon-smtp.amazon.com (52.28.202.117) 4/8/2026 9:20:08 PM connected from 192.168.10.11:41075 4/8/2026 9:20:08 PM >>>
+220 cluster01.eu-central-1.mail-perimeter.amazon.com ESMTP 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/8/2026
+9:20:08 PM >>> 250-cluster01.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM >>> 250-8BITMIME 4/8/2026 9:
+20:08 PM >>> 250-SIZE 41943040 4/8/2026 9:20:08 PM >>> 250 STARTTLS 4/8/2026 9:20:08 PM <<< STARTTLS 4/8/2026
+9:20:08 PM >>> 220 Go ahead with TLS 4/8/2026 9:20:08 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM
+-SHA384 4/8/2026 9:20:08 PM tls:Cert: /CN=smtp.eu-central-1.mail-perimeter.amazon.com; issuer=/C=US/O=Amazon/CN=A
+mazon RSA 2048 M04; verified=no 4/8/2026 9:20:08 PM <<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:08 PM >>> 250-cluster0
+1.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:08 PM >>> 250-8BITMIME 4/8/2026 9:20:08 PM >>> 250 SIZE 4194
+3040 4/8/2026 9:20:08 PM <<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:20:09 PM >>> 250 sender ok 4/8/2026 9:20:09 P
+M <<< RCPT TO: 4/8/2026 9:20:09 PM >>> 250 recipient ok 4/8/2026 9:20:09 PM <<< DATA 4/8/2026 9:20:09 PM >>> 354 g
+o ahead 4/8/2026 9:20:09 PM <<< . 4/8/2026 9:20:09 PM >>> 250 ok: Message 113487214 accepted 4/8/2026 9:20:09 PM <<
+< QUIT 4/8/2026 9:20:09 PM >>> 221 cluster01.eu-central-1.mail-perimeter.amazon.com 4/8/2026 9:20:09 PM closed amazon
+-smtp.amazon.com (52.28.202.117) in=500 out=28482 4/8/2026 9:20:09 PM done amazon.com/{default}
+4/8/2026 9:20:09 PM starting blueorigin.com/{default} 4/8/2026 9:20:10 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx
+b-00369c02.gslb.gpphosted.com (67.231.155.138) 4/8/2026 9:20:10 PM connected from 192.168.10.11:36721 4/8/2026 9:20:11
+PM >>> 220 mx0f-00369c02.gpphosted.com ESMTP mfa-m0235625 4/8/2026 9:20:11 PM <<< EHLO mta21.r1.rpost.net 4/8/
+2026 9:20:11 PM >>> 250-mx0f-00369c02.gpphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/8/20
+26 9:20:11 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:11 PM >>> 250-PIPELINING 4/8/2026 9:20:11 PM >>> 2
+50-8BITMIME 4/8/2026 9:20:11 PM >>> 250-SIZE 157286400 4/8/2026 9:20:11 PM >>> 250 STARTTLS 4/8/2026 9:20:11 PM
+<<< STARTTLS 4/8/2026 9:20:11 PM >>> 220 2.0.0 Ready to start TLS 4/8/2026 9:20:11 PM tls:TLSv1.2 connected with 256
+-bit ECDHE-RSA-AES256-GCM-SHA384 4/8/2026 9:20:11 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.gpphost
+ed.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/8/2026 9:20:11
+PM <<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:12 PM >>> 250-mx0f-00369c02.gpphosted.com Hello mta21.r1.rpost.net [52.
+58.131.9], pleased to meet you 4/8/2026 9:20:12 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:12 PM >>> 250-PI
+PELINING 4/8/2026 9:20:12 PM >>> 250-8BITMIME 4/8/2026 9:20:12 PM >>> 250 SIZE 157286400 4/8/2026 9:20:12 PM <<
+< MAIL FROM: BODY=8BITMIME 4/8/2026 9:20:12 PM >>> 250 2.1.0 Sender ok 4/8/2026 9:20:12 PM <<< RCPT TO: 4/8/2
+026 9:20:12 PM >>> 550 5.1.1 User Unknown 4/8/2026 9:20:12 PM <<< QUIT 4/8/2026 9:20:12 PM >>> 221 2.0.0 mx0f-0036
+9c02.gpphosted.com Closing connection 4/8/2026 9:20:12 PM closed mxb-00369c02.gslb.gpphosted.com (67.231.155.138) in
+=535 out=192 4/8/2026 9:20:12 PM done blueorigin.com/{default}
+4/8/2026 9:20:09 PM starting fenwick.com/{default} 4/8/2026 9:20:11 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxb000e6101.gslb.pphosted.com (67.231.156.18) 4/8/2026 9:20:11 PM connected from 192.168.10.11:47451 4/8/2026 9:20:12 PM
+>>> 220 mx0b-000e6101.pphosted.com ESMTP mfa-m0043755 4/8/2026 9:20:12 PM <<< EHLO mta21.r1.rpost.net 4/8/2026
+9:20:12 PM >>> 250-mx0b-000e6101.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/8/2026 9:2
+0:12 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:12 PM >>> 250-PIPELINING 4/8/2026 9:20:12 PM >>> 250-8BI
+TMIME 4/8/2026 9:20:12 PM >>> 250-SIZE 157286400 4/8/2026 9:20:12 PM >>> 250 STARTTLS 4/8/2026 9:20:12 PM <<<
+STARTTLS 4/8/2026 9:20:12 PM >>> 220 2.0.0 Ready to start TLS 4/8/2026 9:20:12 PM tls:TLSv1.2 connected with 256-bit
+ECDHE-RSA-AES256-GCM-SHA384 4/8/2026 9:20:12 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.pphosted.c
+om; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/8/2026 9:20:12 PM
+<<< EHLO mta21.r1.rpost.net 4/8/2026 9:20:12 PM >>> 250-mx0b-000e6101.pphosted.com Hello mta21.r1.rpost.net [52.58.1
+31.9], pleased to meet you 4/8/2026 9:20:12 PM >>> 250-ENHANCEDSTATUSCODES 4/8/2026 9:20:12 PM >>> 250-PIPELI
+NING 4/8/2026 9:20:12 PM >>> 250-8BITMIME 4/8/2026 9:20:12 PM >>> 250 SIZE 157286400 4/8/2026 9:20:12 PM <<< M
+AIL FROM: BODY=8BITMIME 4/8/2026 9:20:13 PM >>> 250 2.1.0 Sender ok 4/8/2026 9:20:13 PM <<< RCPT TO: 4/8/2026
+9:20:13 PM >>> 250 2.1.5 Recipient ok 4/8/2026 9:20:13 PM <<< DATA 4/8/2026 9:20:13 PM >>> 354 Enter mail, end with
+"." on a line by itself 4/8/2026 9:20:13 PM <<< . 4/8/2026 9:20:13 PM >>> 250 2.0.0 4dda3k9v0b-1 Message accepted for deli
+very 4/8/2026 9:20:13 PM <<< QUIT 4/8/2026 9:20:14 PM >>> 221 2.0.0 mx0b-000e6101.pphosted.com Closing connection
+4/8/2026 9:20:14 PM closed mxb-000e6101.gslb.pphosted.com (67.231.156.18) in=635 out=28473 4/8/2026 9:20:14 PM done
+fenwick.com/{default}
+4/8/2026 9:30:12 PM starting knobbe.com/{default} 4/8/2026 9:30:12 PM connecting from mta21.r1.rpost.net (0.0.0.0) to us-s
+mtp-inbound-1.mimecast.com (170.10.128.141) 4/8/2026 9:30:12 PM connected from 192.168.10.11:53492 4/8/2026 9:30:13 P
+M >>> 220 us-smtp-inbound-1.mimecast.com ESMTP; Wed, 08 Apr 2026 17:30:12 -0400 4/8/2026 9:30:13 PM <<< EHLO mt
+a21.r1.rpost.net 4/8/2026 9:30:13 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/8/2026 9:30:13 PM >>
+> 250-STARTTLS 4/8/2026 9:30:13 PM >>> 250 HELP 4/8/2026 9:30:13 PM <<< STARTTLS 4/8/2026 9:30:13 PM >>> 220
+Starting TLS [3zKwsDuYMuyplKEvas-Ztw.us61] 4/8/2026 9:30:13 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES2
+56-GCM-SHA384 4/8/2026 9:30:13 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.com; issuer
+=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/8/2026 9:30:13 PM <<< EHLO mt
+a21.r1.rpost.net 4/8/2026 9:30:13 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/8/2026 9:30:13 PM >>
+
+> 250-AUTH PLAIN LOGIN 4/8/2026 9:30:13 PM >>> 250 HELP 4/8/2026 9:30:13 PM <<< MAIL FROM: 4/8/2026 9:30:13 P
+M >>> 250 Sender OK [3zKwsDuYMuyplKEvas-Ztw.us61] 4/8/2026 9:30:13 PM <<< RCPT TO: 4/8/2026 9:30:13 PM >>> 25
+0 Recipient OK [3zKwsDuYMuyplKEvas-Ztw.us61] 4/8/2026 9:30:13 PM <<< DATA 4/8/2026 9:30:14 PM >>> 354 Start mail d
+ata, end with CRLF.CRLF [3zKwsDuYMuyplKEvas-Ztw.us61] 4/8/2026 9:30:14 PM <<< . 4/8/2026 9:30:14 PM >>> 250 Smtp
+Thread-4262111-1775683814893@us-mta-61.us.mimecast.lan Received OK [3zKwsDuYMuyplKEvas-Ztw.us61] 4/8/2026 9:30:
+14 PM <<< QUIT 4/8/2026 9:30:15 PM >>> 221 Service closing transmission channel [clB7Gm3ePhaB84FUAiKN6A.us61] 4/
+8/2026 9:30:15 PM closed us-smtp-inbound-1.mimecast.com (170.10.128.141) in=633 out=28471 4/8/2026 9:30:16 PM done k
+nobbe.com/{default}
+4/8/2026 9:30:12 PM starting knobbe.com/{default} 4/8/2026 9:30:15 PM connecting from mta21.r1.rpost.net (0.0.0.0) to us-s
+mtp-inbound-1.mimecast.com (170.10.128.141) 4/8/2026 9:30:15 PM connected from 192.168.10.11:55455 4/8/2026 9:30:15 P
+M >>> 220 us-smtp-inbound-1.mimecast.com ESMTP; Wed, 08 Apr 2026 17:30:15 -0400 4/8/2026 9:30:15 PM <<< EHLO mt
+a21.r1.rpost.net 4/8/2026 9:30:15 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/8/2026 9:30:15 PM >>
+> 250-STARTTLS 4/8/2026 9:30:15 PM >>> 250 HELP 4/8/2026 9:30:15 PM <<< STARTTLS 4/8/2026 9:30:15 PM >>> 220
+Starting TLS [sga6mBTBP7SDnZwXbMekyA.us671] 4/8/2026 9:30:15 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-A
+ES256-GCM-SHA384 4/8/2026 9:30:15 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.com; is
+suer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/8/2026 9:30:15 PM <<< EHL
+O mta21.r1.rpost.net 4/8/2026 9:30:15 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/8/2026 9:30:15 P
+M >>> 250-AUTH PLAIN LOGIN 4/8/2026 9:30:15 PM >>> 250 HELP 4/8/2026 9:30:15 PM <<< MAIL FROM: 4/8/2026 9:30:
+16 PM >>> 250 Sender OK [sga6mBTBP7SDnZwXbMekyA.us671] 4/8/2026 9:30:16 PM <<< RCPT TO: 4/8/2026 9:30:16 P
+M >>> 550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550 [sga6mBTBP7SDnZwXbMekyA.us671]
+4/8/2026 9:30:16 PM <<< QUIT 4/8/2026 9:30:16 PM >>> 221 Service closing transmission channel [sga6mBTBP7SDnZwXb
+MekyA.us671] 4/8/2026 9:30:16 PM closed us-smtp-inbound-1.mimecast.com (170.10.128.141) in=516 out=174 4/8/2026 9:3
+0:16 PM done knobbe.com/{default}
+4/8/2026 9:23:32 PM starting gmail.com/{default} 4/8/2026 9:23:37 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail-s
+mtp-in.l.google.com (142.251.127.26) 4/8/2026 9:23:37 PM connected from 192.168.10.11:42726 4/8/2026 9:23:37 PM >>> 22
+0 mx.google.com ESMTP ffacd0b85a97d-43d1e2b2a8csi41065562f8f.3 - gsmtp 4/8/2026 9:23:37 PM <<< EHLO mta21.r1.rpo
+st.net 4/8/2026 9:23:37 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/8/2026 9:23:37 PM >>> 250-SIZE 15728
+6400 4/8/2026 9:23:37 PM >>> 250-8BITMIME 4/8/2026 9:23:37 PM >>> 250-STARTTLS 4/8/2026 9:23:37 PM >>> 250-ENH
+ANCEDSTATUSCODES 4/8/2026 9:23:37 PM >>> 250-PIPELINING 4/8/2026 9:23:37 PM >>> 250-CHUNKING 4/8/2026 9:2
+3:37 PM >>> 250 SMTPUTF8 4/8/2026 9:23:37 PM <<< STARTTLS 4/8/2026 9:23:37 PM >>> 220 2.0.0 Ready to start TLS
+4/8/2026 9:23:37 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reused) 4/8/2026 9:
+23:37 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/8/2026 9:23:37 PM
+<<< EHLO mta21.r1.rpost.net 4/8/2026 9:23:37 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/8/2026 9:23:37 P
+M >>> 250-SIZE 157286400 4/8/2026 9:23:37 PM >>> 250-8BITMIME 4/8/2026 9:23:37 PM >>> 250-ENHANCEDSTATUSC
+ODES 4/8/2026 9:23:37 PM >>> 250-PIPELINING 4/8/2026 9:23:37 PM >>> 250-CHUNKING 4/8/2026 9:23:37 PM >>> 250
+SMTPUTF8 4/8/2026 9:23:37 PM <<< MAIL FROM: BODY=8BITMIME 4/8/2026 9:23:37 PM >>> 250 2.1.0 OK ffacd0b85a97
+d-43d1e2b2a8csi41065562f8f.3 - gsmtp 4/8/2026 9:23:37 PM <<< RCPT TO: 4/8/2026 9:23:37 PM >>> 250 2.1.5 OK ffacd0b
+85a97d-43d1e2b2a8csi41065562f8f.3 - gsmtp 4/8/2026 9:23:37 PM <<< DATA 4/8/2026 9:23:37 PM >>> 354 Go ahead ffacd0
+b85a97d-43d1e2b2a8csi41065562f8f.3 - gsmtp 4/8/2026 9:23:37 PM <<< . 4/8/2026 9:23:37 PM >>> 250 2.0.0 OK 177568341
+7 ffacd0b85a97d-43d1e2b2a8csi41065562f8f.3 - gsmtp 4/8/2026 9:23:37 PM <<< QUIT 4/8/2026 9:23:37 PM >>> 221 2.0.0 cl
+osing connection ffacd0b85a97d-43d1e2b2a8csi41065562f8f.3 - gsmtp 4/8/2026 9:23:37 PM closed gmail-smtp-in.l.google.co
+m (142.251.127.26) in=767 out=28473 4/8/2026 9:23:40 PM done gmail.com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer amazon-smtp.amazon.com (52.28.202.117)
+[IP Address: 54.239.6.178] [Time Opened: 4/8/2026 11:36:30 PM] [REMOTE_HOST: 192.168.10.76] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/S7DkTEES9kMrbDCegleWa3TSpVb2Ig4AcY0zomvCMTAy.gif] HTTP_ACCEPT:*/* HT
+TP_ACCEPT_ENCODING:gzip, deflate HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/4.0 (compatible; msoffice; MSOffice 16) HTTP_X_FORWARDED_FOR:54.239.6.178 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWAR
+DED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d6e67e-6374dec7404b73f41f4f1d5e HTTP_UA_CPU:AMD64 Accept:
+*/* Accept-Encoding: gzip, deflate Host: socrmail.r1.rpost.net User-Agent: Mozilla/4.0 (compatible; ms-office; MSOffice 16) XForwarded-For: 54.239.6.178 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d6e67e-6374dec74
+
+04b73f41f4f1d5e ua-cpu: AMD64 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=AD
+MIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/S7DkTEES9kMrbDCegleWa3TSpVb2Ig4AcY0zomvCMTAy.gif
+192.168.10.76 192.168.10.76 43604 GET /oatv_v2/S7DkTEES9kMrbDCegleWa3TSpVb2Ig4AcY0zomvCMTAy.gif socrmail.r1.r
+post.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/S7DkTEES9kMrbDCegleWa3TSpVb2Ig4AcY0zomvCMTAy.gif */* gzip, d
+eflate socrmail.r1.rpost.net Mozilla/4.0 (compatible; ms-office; MSOffice 16) 54.239.6.178 https 443 Root=1-69d6e67e-6374de
+c7404b73f41f4f1d5e AMD64
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-000e6101.gslb.pphosted.com (67.231.156.18)
+[IP Address: 135.232.19.31] [Time Opened: 4/8/2026 9:20:21 PM] [REMOTE_HOST: 192.168.10.76] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/GJCMKwGad4xowJQgTZtBt0uVM4Qq4eoo68RMXkSAMTAy.gif] HTTP_ACCEPT:ima
+ge/* HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
+6 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:135.232.19.31 HTTP_X_FORWARDED
+_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d6c695-565bd8a84798da51016971
+d1 Accept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+(KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 135.232.19.31 X-Forwarded-Proto: https X-ForwardedPort: 443 X-Amzn-Trace-Id: Root=1-69d6c695-565bd8a84798da51016971d1 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN
+=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/GJCMKwGad4xowJQ
+gTZtBt0uVM4Qq4eoo68RMXkSAMTAy.gif 192.168.10.76 192.168.10.76 38912 GET /oatv_v2/GJCMKwGad4xowJQgTZtBt0u
+VM4Qq4eoo68RMXkSAMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/GJCMKwGad4xowJQgTZt
+Bt0uVM4Qq4eoo68RMXkSAMTAy.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5
+37.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 135.232.19.31 https 443 Root=1-69d6c695-565bd8a84798da5101
+6971d1
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer amazon-smtp.amazon.com (52.28.202.117)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer amazon-smtp.amazon.com (52.28.202.117)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer amazon-smtp.amazon.com (52.28.202.117)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-000e6101.gslb.pphosted.com (67.231.156.18)
+[IP Address: 72.153.153.18] [Time Opened: 4/8/2026 9:20:21 PM] [REMOTE_HOST: 192.168.10.76] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/JRPYfQdCcqSKPNjvux6yaMUQECZ7IJldyTDJBrdIMTAy.gif] HTTP_ACCEPT:image/*
+HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
+TML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:72.153.153.18 HTTP_X_FORWARDED_PR
+OTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d6c695-7cc356497c39aada49164c26 A
+ccept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHT
+ML, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 72.153.153.18 X-Forwarded-Proto: https X-Forwarded-Port:
+
+443 X-Amzn-Trace-Id: Root=1-69d6c695-7cc356497c39aada49164c26 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root C
+ert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/1
+2 192.168.10.112 /oatv_v2/JRPYfQdCcqSKPNjvux6yaMUQECZ7IJldyTDJBrdIMTAy.gif 192.168.10.76 192.168.10.76 37226 G
+ET /oatv_v2/JRPYfQdCcqSKPNjvux6yaMUQECZ7IJldyTDJBrdIMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/
+10.0 /oatv_v2/JRPYfQdCcqSKPNjvux6yaMUQECZ7IJldyTDJBrdIMTAy.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows
+NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 72.153.153.18 https 443 Roo
+t=1-69d6c695-7cc356497c39aada49164c26
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer us-smtp-inbound-1.mimecast.com (170.10.128.141)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+[IP Address: 66.249.80.3] [Time Opened: 4/8/2026 9:25:28 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r1.r
+post.net] [SCRIPT_NAME: /oatv_v2/aeFIPNEhCEYM4cwN0jnclE8QAr5W91gFl3DHfj25MTAy.gif] HTTP_ACCEPT_ENCODIN
+G:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firef
+ox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.3 HTTP_X_FORWARDED_PROTO:http
+s HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d6c7c8-03a1d2c07b13c2c4238d7898 Accept-En
+coding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via
+ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.3 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-TraceId: Root=1-69d6c7c8-03a1d2c07b13c2c4238d7898 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.dev
+x.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /o
+atv_v2/aeFIPNEhCEYM4cwN0jnclE8QAr5W91gFl3DHfj25MTAy.gif 192.168.20.36 192.168.20.36 16634 GET /oatv_v2/aeFIPN
+EhCEYM4cwN0jnclE8QAr5W91gFl3DHfj25MTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/aeFIPN
+EhCEYM4cwN0jnclE8QAr5W91gFl3DHfj25MTAy.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.
+0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.3 https 443 Root=1-69d6c7c8-03a1d2c07b13c2c4238d78
+98
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+2 attachments
+DeliveryReceipt.xml
+57K
+HtmlReceipt.htm
+334K
+
+An RPost® Technology
+
+

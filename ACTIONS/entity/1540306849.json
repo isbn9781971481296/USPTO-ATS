@@ -1,0 +1,40 @@
+{
+  "serving_key": "1540306849",
+  "canonical_key": "eunotifications@hilton.com",
+  "display_name": "EU Notifications (Hilton Worldwide Holdings Inc.)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Hilton Worldwide Holdings Inc.",
+  "full_name": "EU Notifications",
+  "pronouns": null,
+  "title": "Data Protection / Legal Notifications",
+  "organization": "Hilton Worldwide Holdings Inc.",
+  "domain": "hilton.com",
+  "addresses": {
+    "mailing_address": "7930 Jones Branch Drive, McLean, VA 22102, USA",
+    "business_address": "7930 Jones Branch Drive, McLean, VA 22102, USA",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808, USA"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808, USA",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "eunotifications@hilton.com",
+    "alternative_emails": [
+      "privacy@hilton.com",
+      "legal@hilton.com"
+    ],
+    "specialized_emails": {
+      "privacy": "privacy@hilton.com"
+    },
+    "phones": [
+      "+1-703-883-1000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

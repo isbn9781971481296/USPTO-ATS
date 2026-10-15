@@ -1,0 +1,35 @@
+{
+  "serving_key": "712185904",
+  "canonical_key": "antonio.filosa@stellantis.com",
+  "display_name": "Antonio Filosa (Stellantis)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Stellantis N.V.",
+  "full_name": "Antonio Filosa",
+  "pronouns": null,
+  "title": "Chief Executive Officer, Jeep Brand",
+  "organization": "Stellantis N.V.",
+  "domain": "stellantis.com",
+  "addresses": {
+    "mailing_address": "1000 Chrysler Drive, Auburn Hills, MI 48326, USA",
+    "business_address": "Taurusavenue 1, 2132 LS Hoofddorp, Netherlands",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801, USA"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801, USA",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "antonio.filosa@stellantis.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-248-512-2950"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,36 @@
+{
+  "serving_key": "3272050506",
+  "canonical_key": "civilrights@oag.maryland.gov",
+  "display_name": "Civil Rights Division (Maryland Office of the Attorney General)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Maryland Office of the Attorney General",
+  "full_name": "Civil Rights Division",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "Maryland Office of the Attorney General",
+  "domain": "oag.maryland.gov",
+  "addresses": {
+    "mailing_address": "200 St. Paul Place, Baltimore, MD 21202",
+    "business_address": "200 St. Paul Place, Baltimore, MD 21202",
+    "legal_service_address": "200 St. Paul Place, Baltimore, MD 21202"
+  },
+  "registered_agent": {
+    "name": "Office of the Attorney General, State of Maryland",
+    "address": "200 St. Paul Place, Baltimore, MD 21202",
+    "jurisdiction": "Maryland"
+  },
+  "contact": {
+    "primary_email": "civilrights@oag.maryland.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "410-576-6300",
+      "888-743-0023"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

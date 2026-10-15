@@ -1,0 +1,44 @@
+{
+  "serving_key": "2239646243",
+  "canonical_key": "finance@lacity.org",
+  "display_name": "Office of Finance (City of Los Angeles)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "City of Los Angeles",
+  "full_name": "Office of Finance",
+  "pronouns": null,
+  "title": "Government Department",
+  "organization": "City of Los Angeles",
+  "domain": "lacity.org",
+  "addresses": {
+    "mailing_address": "200 N. Spring Street, Room 220, Los Angeles, CA 90012",
+    "business_address": "200 N. Spring Street, Room 220, Los Angeles, CA 90012",
+    "legal_service_address": "Office of the City Clerk, 200 N. Spring Street, Room 395, Los Angeles, CA 90012"
+  },
+  "registered_agent": {
+    "name": "City Clerk, City of Los Angeles",
+    "address": "200 N. Spring Street, Room 395, Los Angeles, CA 90012",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "finance@lacity.org",
+    "alternative_emails": [
+      "finance.customerservice@lacity.org"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1-844-663-4411"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "4233258639",
+      "canonical_key": "cityattorney.help@lacity.org",
+      "display_name": "Los Angeles City Attorney's Office",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,24 @@
+{
+  "index": 135,
+  "header": "# Enclosure #135: READ-RECEIPT-mayor-gallego-phoenix-gov-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/CITY-Governments-Police-and-Court-Admins/READ-RECEIPT-mayor.gallego@phoenix.gov__Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-city-governments-police-and-court-admins-read-receipt-mayor.gallego@phoenix.gov-1b7ec1fbbe.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "mayor.gallego@phoenix.gov",
+  "primary_recipient_an": "Mayor Gallego (City of Phoenix)",
+  "all_recipients": [
+    "mayor.gallego@phoenix.gov",
+    "kolmobilev6@gmail.com"
+  ],
+  "all_recipients_an": {
+    "mayor.gallego@phoenix.gov": "Mayor Gallego (City of Phoenix)",
+    "kolmobilev6@gmail.com": "Kolmobilev6 (Gmail)"
+  },
+  "date": "04132026",
+  "original_filename": "READ-RECEIPT-mayor.gallego@phoenix.gov__Tier-0.pdf",
+  "patent_applications_mentioned": []
+}

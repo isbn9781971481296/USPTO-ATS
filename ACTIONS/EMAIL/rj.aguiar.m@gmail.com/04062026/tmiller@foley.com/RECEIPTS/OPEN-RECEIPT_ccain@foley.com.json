@@ -1,0 +1,28 @@
+{
+  "index": 35,
+  "header": "# Enclosure #35: OPEN-RECEIPT-ccain-foley-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/OPEN-RECEIPT_ccain@foley.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-open-receipt-ccain@foley.com.pd-eec14f6c17.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "tmiller@foley.com",
+  "primary_recipient_an": "Tmiller (Jack Foley)",
+  "all_recipients": [
+    "tmiller@foley.com",
+    "ntsao@foley.com",
+    "ccain@foley.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "tmiller@foley.com": "Tmiller (Jack Foley)",
+    "ntsao@foley.com": "Ntsao (Jack Foley)",
+    "ccain@foley.com": "Ccain (Jack Foley)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "OPEN-RECEIPT_ccain@foley.com.pdf",
+  "patent_applications_mentioned": []
+}

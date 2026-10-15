@@ -1,0 +1,35 @@
+{
+  "serving_key": "1373808503",
+  "canonical_key": "_corporation.counsel@cityofchicago.org",
+  "display_name": "Office of the Corporation Counsel (City of Chicago)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "City of Chicago Department of Law",
+  "full_name": "Office of the Corporation Counsel",
+  "pronouns": null,
+  "title": "Corporation Counsel",
+  "organization": "City of Chicago Department of Law",
+  "domain": "cityofchicago.org",
+  "addresses": {
+    "mailing_address": "121 N. LaSalle St., Room 600, Chicago, IL 60602",
+    "business_address": "121 N. LaSalle St., Room 600, Chicago, IL 60602",
+    "legal_service_address": "121 N. LaSalle St., Room 600, Chicago, IL 60602"
+  },
+  "registered_agent": {
+    "name": "City Clerk / Corporation Counsel",
+    "address": "121 N. LaSalle St., Chicago, IL 60602",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "_corporation.counsel@cityofchicago.org",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-312-744-0200"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

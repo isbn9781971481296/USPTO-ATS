@@ -1,0 +1,95 @@
+{
+  "summary_of_pdf": "The provided document is an RPost Registered Email delivery receipt demonstrating a failed attempt by RJ Aguiar to electronically transmit a 'NOTICE OF FORMAL CRIMINAL REFERRAL' to U.S. Department of Justice (DOJ) personnel Colin McDonald and Cody Herche. The transmission logs confirm that the DOJ mail exchange servers (mx-da6.usdoj.gov and mx-dc2.usdoj.gov) rejected the delivery attempts with a '550 5.1.1 ... User Unknown' SMTP error, indicating the target email addresses are invalid or inactive.",
+  "attorneys_comments": "From an evidentiary standpoint, this Registered Receipt conclusively establishes non-delivery to the intended DOJ recipients. Under the Federal Rules of Civil Procedure, specifically FRCP 5(b)(2)(E), electronic service is only effective if the transmission is successful and the recipient has consented to such service or it is otherwise authorized by local rules. The 'User Unknown' fatal delivery errors (SMTP 550) negate any presumption of actual or constructive notice. Tactically, the sender cannot rely on this transmission to establish a timeline for administrative exhaustion or to perfect service of process. If this referral is a prerequisite to a Federal Tort Claims Act (FTCA) suit or a formal demand, the failure to effectuate delivery leaves the sender vulnerable to a motion to dismiss for failure to exhaust administrative remedies or insufficient service of process under FRCP 12(b)(4) or 12(b)(5).",
+  "recommended_next_steps": "Counsel or the pro se claimant must immediately verify the current employment status and correct contact information for the intended DOJ officials. If initiating a civil action against the United States, its agencies, or its officers, formal service must be executed strictly pursuant to FRCP 4(i), requiring delivery to the United States Attorney for the district where the action is brought and the Attorney General of the United States in Washington, D.C., via registered or certified mail. For a purely administrative criminal referral, the claimant should utilize the official DOJ Office of the Inspector General (OIG) portal or send the referral via USPS Certified Mail, Return Receipt Requested, to ensure legally cognizable proof of delivery.",
+  "tags": [
+    "FRCP 4(i)",
+    "FRCP 5(b)(2)(E)",
+    "FRCP 12(b)(5)",
+    "Evidentiary Proof of Delivery",
+    "Electronic Service Failure",
+    "Administrative Claim",
+    "DOJ Criminal Referral",
+    "SMTP 550 5.1.1 Error"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Colin McDonald",
+      "Cody Herche",
+      "Cody Matthew Herche"
+    ],
+    "companies": [
+      "RPost",
+      "DigiCert Inc",
+      "Google"
+    ],
+    "technologies": [
+      "RMail",
+      "Registered Email",
+      "SMTP",
+      "TLSv1.2",
+      "ECDHE-RSA-AES256-GCM-SHA384",
+      "ECDHE-ECDSA-AES128-GCM-SHA256"
+    ],
+    "products": [
+      "Registered Receipt"
+    ],
+    "government_offices": [
+      "U.S. Department of Justice"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Washington",
+      "District of Columbia"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": [
+      "Colin McDonald",
+      "Cody Herche"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "3133595837",
+  "basefilename": "MESSAGE-ACCEPTED-RECEIPT_Collin-McDonald-DOJ",
+  "original_filename": "MESSAGE-ACCEPTED-RECEIPT_Collin-McDonald-DOJ.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04022026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "colin.mcdonald@usdoj.gov",
+  "primary_recipient_an": "Colin McDonald (USDOJ)",
+  "all_recipients": [
+    "colin.mcdonald@usdoj.gov",
+    "cody.m.herche@usdoj.gov",
+    "cody.herche@usdoj.gov",
+    "cherche@usdoj.gov",
+    "cody.matthew.herche@usdoj.gov",
+    "cmcdonald@usdoj.gov",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "colin.mcdonald@usdoj.gov": "Colin McDonald (USDOJ)",
+    "cody.m.herche@usdoj.gov": "Cody M. Herche (USDOJ)",
+    "cody.herche@usdoj.gov": "Cody Herche (USDOJ)",
+    "cherche@usdoj.gov": "Cherche (USDOJ)",
+    "cody.matthew.herche@usdoj.gov": "Cody Matthew Herche (USDOJ)",
+    "cmcdonald@usdoj.gov": "Cmcdonald (USDOJ)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "15/728,640"
+  ]
+}

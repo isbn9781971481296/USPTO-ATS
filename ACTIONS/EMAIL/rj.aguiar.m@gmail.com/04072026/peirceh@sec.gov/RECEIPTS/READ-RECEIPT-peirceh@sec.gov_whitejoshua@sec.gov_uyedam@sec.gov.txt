@@ -1,0 +1,784 @@
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio &
+Parallel Federal Disclosures (Delivery Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 12:59 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+andrea.gacki@fincen.gov
+
+Delivery Failed
+
+Returned: Delivery
+has failed to these ***
+recipients or groups:
+
+fisherr@sec.gov
+
+Delivered and
+Opened
+
+HTTPIP:62.10.205.4
+
+04/07/2026
+03:29:55 PM
+(UTC)
+
+04/07/2026
+03:29:55 PM
+
+sam.corcos@treasury.gov
+
+Delivery Failed
+
+5.1.0 - Unknown
+address error 550'#5.1.0 Address
+rejected.' (delivery
+attempts: 0)
+
+***
+
+***
+
+peirceh@sec.gov
+
+Delivered and
+Opened
+
+HTTPIP:51.54.38.112
+
+04/07/2026
+03:29:56 PM
+(UTC)
+
+04/07/2026
+03:29:56 PM
+
+mcglossonc@sec.gov
+
+Delivery Failed
+
+550 5.1.10
+RESOLVER.ADR.
+RecipientNotFound;
+***
+Recipient not found
+by SMTP address
+lookup
+
+rj.aguiar.m@gmail.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.80.3
+
+whitejoshua@sec.gov
+
+Delivery Failed
+
+550 5.1.10
+RESOLVER.ADR.
+RecipientNotFound;
+***
+Recipient not found
+by SMTP address
+lookup
+
+uyedam@sec.gov
+
+Delivered and
+Opened
+
+HTTPIP:51.54.38.112
+
+04/07/2026
+03:39:47 PM
+(UTC)
+
+04/07/2026
+03:29:56 PM
+(UTC)
+
+Delivered (local)
+
+Opened (local)
+
+***
+04/07/2026
+03:30:23 PM
+
+04/07/2026
+03:30:25 PM
+
+***
+
+04/07/2026
+03:39:47 PM
+
+04/07/2026
+03:42:36 PM
+
+***
+
+04/07/2026
+03:29:56 PM
+
+04/07/2026
+03:30:22 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+1/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal
+Disclosures
+
+To:
+
+<andrea.gacki@fincen.gov> <fisherr@sec.gov> <sam.corcos@treasury.gov>
+<peirceh@sec.gov> <mcglossonc@sec.gov> <whitejoshua@sec.gov>
+<uyedam@sec.gov>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+3884ba90-e39a-439b-bc51-c005843bbfed@SM26
+
+Received by RMail System:
+
+04/07/2026 03:29:52 PM (UTC), 04/07/2026 03:29:52 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+6C0A37B0EB7929F7ACB96FBA8581EDD4801A26A2
+
+Message Size:
+
+8325
+
+Features Used:
+File Size:
+
+File Name:
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+6836715
+
+00__Letter-to-Uber-and-Emil-Michael.pdf
+
+976947
+
+00__Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+1195376
+
+090__USPTO_No_19-639,219__Central_Processing_Unit_Architecture_for_Native_
+Parametric_and_Symbolic_Computation.pdf
+
+948090
+
+091__USPTO_19_639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+1132462
+
+092__USPTO_19_639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+.
+
+Delivery Audit Trail
+4/7/2026 3:29:53 PM starting fincen.gov/{default} 4/7/2026 3:29:53 PM connecting from mta21.r1.rpost.net (0.0.0.0) to cemailh
+ub1in.treasury.gov (164.95.9.40) 4/7/2026 3:29:53 PM connected from 192.168.10.11:35403 4/7/2026 3:29:53 PM >>> 220 ceextmail4.treasury.gov ESMTP 4/7/2026 3:29:53 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:53 PM >>> 250-ce-extmail4.
+treasury.gov 4/7/2026 3:29:53 PM >>> 250-8BITMIME 4/7/2026 3:29:53 PM >>> 250-SIZE 52428800 4/7/2026 3:29:53 PM >
+>> 250 STARTTLS 4/7/2026 3:29:53 PM <<< STARTTLS 4/7/2026 3:29:53 PM >>> 220 Go ahead with TLS 4/7/2026 3:29:54
+PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 3:29:54 PM tls:Cert: /C=US/ST=District
+of Columbia/O=Department of Treasury/CN=cemailhub1in.treasury.gov; issuer=/C=CA/O=Entrust Limited/CN=Entrust OV TLS
+Issuing RSA CA 2; verified=no 4/7/2026 3:29:54 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-ce-extmail4.
+treasury.gov 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>> 250 SIZE 52428800 4/7/2026 3:29:54 PM <
+<< MAIL FROM: BODY=8BITMIME 4/7/2026 3:29:54 PM >>> 250 sender ok 4/7/2026 3:29:54 PM <<< RCPT TO: 4/7/2026
+3:29:54 PM >>> 250 recipient ok 4/7/2026 3:29:54 PM <<< DATA 4/7/2026 3:29:54 PM >>> 354 go ahead 4/7/2026 3:29:54 P
+M <<< . 4/7/2026 3:29:54 PM >>> 250 ok: Message 269093811 accepted 4/7/2026 3:29:54 PM <<< QUIT 4/7/2026 3:29:55 P
+M >>> 221 ce-extmail4.treasury.gov 4/7/2026 3:29:55 PM closed cemailhub1in.treasury.gov (164.95.9.40) in=403 out=31439
+4/7/2026 3:29:55 PM done fincen.gov/{default}
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+2/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+4/7/2026 3:29:53 PM starting sec.gov/{default} 4/7/2026 3:29:53 PM connecting from mta21.r1.rpost.net (0.0.0.0) to sec-gov.m
+ail.protection.outlook.com (52.101.8.50) 4/7/2026 3:29:53 PM connected from 192.168.10.11:35275 4/7/2026 3:29:53 PM >>>
+220 DS1PEPF00017E0A.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 7 Apr 2026 15:29:53 +00
+00 [08DE8F50BA0176BB] 4/7/2026 3:29:53 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-DS1PEPF00017
+E0A.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 3:29:54 PM >>> 250-SIZE 157286400 4/7/2026 3:29:54 PM >>
+> 250-PIPELINING 4/7/2026 3:29:54 PM >>> 250-DSN 4/7/2026 3:29:54 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026
+3:29:54 PM >>> 250-STARTTLS 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>> 250-BINARYMIME 4/7/
+2026 3:29:54 PM >>> 250-CHUNKING 4/7/2026 3:29:54 PM >>> 250 SMTPUTF8 4/7/2026 3:29:54 PM <<< STARTTLS 4/7/2
+026 3:29:54 PM >>> 220 2.0.0 SMTP server ready 4/7/2026 3:29:54 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AE
+S256-GCM-SHA384 4/7/2026 3:29:54 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=mail.prot
+ection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/7/2026 3:29:54 PM <<< E
+HLO mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-DS1PEPF00017E0A.mail.protection.outlook.com Hello [52.58.131.9] 4/
+7/2026 3:29:54 PM >>> 250-SIZE 157286400 4/7/2026 3:29:54 PM >>> 250-PIPELINING 4/7/2026 3:29:54 PM >>> 250-DSN
+4/7/2026 3:29:54 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >
+>> 250-BINARYMIME 4/7/2026 3:29:54 PM >>> 250-CHUNKING 4/7/2026 3:29:54 PM >>> 250 SMTPUTF8 4/7/2026 3:29:54
+PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 3:29:54 PM >>> 250 2.1.0 Sender OK 4/7/2026 3:29:54 PM <
+<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 3:29:54 PM >>> 250 2.1.5 Recipient OK 4/7/2026 3:29:54 PM
+<<< DATA 4/7/2026 3:29:54 PM >>> 354 Start mail input; end with . 4/7/2026 3:29:54 PM <<< . 4/7/2026 3:29:55 PM >>> 25
+0 2.6.0 [InternalId=51114405808523, Hostname=PH8PR09MB9823.namprd09.prod.outlook.com] 41192 bytes in 0.053, 755.116
+KB/sec Queued mail for delivery 4/7/2026 3:29:55 PM <<< QUIT 4/7/2026 3:29:55 PM >>> 221 2.0.0 Service closing transmi
+ssion channel 4/7/2026 3:29:55 PM closed sec-gov.mail.protection.outlook.com (52.101.8.50) in=924 out=31453 4/7/2026 3:2
+9:55 PM done sec.gov/{default}
+4/7/2026 3:29:53 PM starting treasury.gov/{default} 4/7/2026 3:29:53 PM connecting from mta21.r1.rpost.net (0.0.0.0) to cwma
+ilhub1in.treasury.gov (166.123.9.40) 4/7/2026 3:29:53 PM connected from 192.168.10.11:38103 4/7/2026 3:29:54 PM >>> 220
+sv-extmail5.treasury.gov ESMTP 4/7/2026 3:29:54 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-sv-extma
+il5.treasury.gov 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>> 250-SIZE 52428800 4/7/2026 3:29:54 PM
+>>> 250 STARTTLS 4/7/2026 3:29:54 PM <<< STARTTLS 4/7/2026 3:29:54 PM >>> 220 Go ahead with TLS 4/7/2026 3:29:5
+4 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 3:29:54 PM tls:Cert: /C=US/ST=Distri
+ct of Columbia/O=Department of Treasury/CN=cwmailhub1in.treasury.gov; issuer=/C=CA/O=Entrust Limited/CN=Entrust OV
+TLS Issuing RSA CA 2; verified=no 4/7/2026 3:29:54 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:55 PM >>> 250-sv-ext
+mail5.treasury.gov 4/7/2026 3:29:55 PM >>> 250-8BITMIME 4/7/2026 3:29:55 PM >>> 250 SIZE 52428800 4/7/2026 3:29:55
+PM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 3:29:55 PM >>> 250 sender ok 4/7/2026 3:29:55 PM <<< RCPT TO: 4/7/2
+026 3:29:55 PM >>> 250 recipient ok 4/7/2026 3:29:55 PM <<< DATA 4/7/2026 3:29:55 PM >>> 354 go ahead 4/7/2026 3:29:
+55 PM <<< . 4/7/2026 3:29:56 PM >>> 250 ok: Message 163813778 accepted 4/7/2026 3:29:56 PM <<< QUIT 4/7/2026 3:29:
+56 PM >>> 221 sv-extmail5.treasury.gov 4/7/2026 3:29:56 PM closed cwmailhub1in.treasury.gov (166.123.9.40) in=403 out=3
+1439 4/7/2026 3:29:56 PM done treasury.gov/{default}
+4/7/2026 3:29:53 PM starting sec.gov/{default} 4/7/2026 3:29:53 PM connecting from mta21.r1.rpost.net (0.0.0.0) to sec-gov.m
+ail.protection.outlook.com (52.101.8.50) 4/7/2026 3:29:53 PM connected from 192.168.10.11:38567 4/7/2026 3:29:54 PM >>>
+220 DS1PEPF00017E07.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 7 Apr 2026 15:29:53 +000
+0 [08DE8F5D25C969DD] 4/7/2026 3:29:54 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-DS1PEPF00017E
+07.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 3:29:54 PM >>> 250-SIZE 157286400 4/7/2026 3:29:54 PM >>>
+250-PIPELINING 4/7/2026 3:29:54 PM >>> 250-DSN 4/7/2026 3:29:54 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:
+29:54 PM >>> 250-STARTTLS 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>> 250-BINARYMIME 4/7/20
+26 3:29:54 PM >>> 250-CHUNKING 4/7/2026 3:29:54 PM >>> 250 SMTPUTF8 4/7/2026 3:29:54 PM <<< STARTTLS 4/7/202
+6 3:29:54 PM >>> 220 2.0.0 SMTP server ready 4/7/2026 3:29:54 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES2
+56-GCM-SHA384 4/7/2026 3:29:54 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=mail.protec
+tion.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/7/2026 3:29:54 PM <<< EHL
+O mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-DS1PEPF00017E07.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2
+026 3:29:54 PM >>> 250-SIZE 157286400 4/7/2026 3:29:54 PM >>> 250-PIPELINING 4/7/2026 3:29:54 PM >>> 250-DSN 4/
+7/2026 3:29:54 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>
+> 250-BINARYMIME 4/7/2026 3:29:54 PM >>> 250-CHUNKING 4/7/2026 3:29:54 PM >>> 250 SMTPUTF8 4/7/2026 3:29:54
+PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 3:29:54 PM >>> 250 2.1.0 Sender OK 4/7/2026 3:29:54 PM <
+<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 3:29:55 PM >>> 250 2.1.5 Recipient OK 4/7/2026 3:29:55 PM
+<<< DATA 4/7/2026 3:29:55 PM >>> 354 Start mail input; end with . 4/7/2026 3:29:55 PM <<< . 4/7/2026 3:29:56 PM >>> 25
+0 2.6.0 [InternalId=50573239928416, Hostname=PH8PR09MB10063.namprd09.prod.outlook.com] 41183 bytes in 0.204, 197.0
+76 KB/sec Queued mail for delivery 4/7/2026 3:29:56 PM <<< QUIT 4/7/2026 3:29:56 PM >>> 221 2.0.0 Service closing trans
+mission channel 4/7/2026 3:29:56 PM closed sec-gov.mail.protection.outlook.com (52.101.8.50) in=925 out=31453 4/7/2026 3:
+29:56 PM done sec.gov/{default}
+4/7/2026 3:29:53 PM starting sec.gov/{default} 4/7/2026 3:29:53 PM connecting from mta21.r1.rpost.net (0.0.0.0) to sec-gov.m
+ail.protection.outlook.com (52.101.8.50) 4/7/2026 3:29:54 PM connected from 192.168.10.11:57829 4/7/2026 3:29:54 PM >>>
+220 DS1PEPF00017E08.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 7 Apr 2026 15:29:53 +000
+0 [08DE8F4499B324FE] 4/7/2026 3:29:54 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-DS1PEPF00017E
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+3/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+08.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 3:29:54 PM >>> 250-SIZE 157286400 4/7/2026 3:29:54 PM >>>
+250-PIPELINING 4/7/2026 3:29:54 PM >>> 250-DSN 4/7/2026 3:29:54 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:
+29:54 PM >>> 250-STARTTLS 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>> 250-BINARYMIME 4/7/20
+26 3:29:54 PM >>> 250-CHUNKING 4/7/2026 3:29:54 PM >>> 250 SMTPUTF8 4/7/2026 3:29:54 PM <<< STARTTLS 4/7/202
+6 3:29:54 PM >>> 220 2.0.0 SMTP server ready 4/7/2026 3:29:54 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES2
+56-GCM-SHA384 4/7/2026 3:29:54 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=mail.protec
+tion.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/7/2026 3:29:54 PM <<< EHL
+O mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-DS1PEPF00017E08.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2
+026 3:29:54 PM >>> 250-SIZE 157286400 4/7/2026 3:29:54 PM >>> 250-PIPELINING 4/7/2026 3:29:54 PM >>> 250-DSN 4/
+7/2026 3:29:54 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>
+> 250-BINARYMIME 4/7/2026 3:29:54 PM >>> 250-CHUNKING 4/7/2026 3:29:54 PM >>> 250 SMTPUTF8 4/7/2026 3:29:54
+PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 3:29:55 PM >>> 250 2.1.0 Sender OK 4/7/2026 3:29:55 PM <
+<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 3:29:55 PM >>> 250 2.1.5 Recipient OK 4/7/2026 3:29:55 PM
+<<< DATA 4/7/2026 3:29:55 PM >>> 354 Start mail input; end with . 4/7/2026 3:29:55 PM <<< . 4/7/2026 3:29:56 PM >>> 25
+0 2.6.0 [InternalId=91938069956656, Hostname=DS0PR09MB10904.namprd09.prod.outlook.com] 41203 bytes in 0.192, 209.4
+91 KB/sec Queued mail for delivery 4/7/2026 3:29:56 PM <<< QUIT 4/7/2026 3:29:56 PM >>> 221 2.0.0 Service closing trans
+mission channel 4/7/2026 3:29:56 PM closed sec-gov.mail.protection.outlook.com (52.101.8.50) in=925 out=31462 4/7/2026 3:
+29:56 PM done sec.gov/{default}
+4/7/2026 3:39:46 PM starting gmail.com/{default}4/7/2026 3:39:46 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail-s
+mtp-in.l.google.com (142.251.127.26)4/7/2026 3:39:46 PM connected from 192.168.10.11:511924/7/2026 3:39:46 PM >>> 220
+mx.google.com ESMTP ffacd0b85a97d-43d1e4f160bsi35563975f8f.251 - gsmtp4/7/2026 3:39:46 PM <<< EHLO mta21.r1.rpos
+t.net4/7/2026 3:39:46 PM >>> 250-mx.google.com at your service, [52.58.131.9]4/7/2026 3:39:46 PM >>> 250-SIZE 1572864
+004/7/2026 3:39:46 PM >>> 250-8BITMIME4/7/2026 3:39:46 PM >>> 250-STARTTLS4/7/2026 3:39:46 PM >>> 250-ENHANC
+EDSTATUSCODES4/7/2026 3:39:46 PM >>> 250-PIPELINING4/7/2026 3:39:46 PM >>> 250-CHUNKING4/7/2026 3:39:46 P
+M >>> 250 SMTPUTF84/7/2026 3:39:46 PM <<< STARTTLS4/7/2026 3:39:46 PM >>> 220 2.0.0 Ready to start TLS4/7/2026
+3:39:47 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reused)4/7/2026 3:39:47 PM
+tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no4/7/2026 3:39:47 PM <<< EHLO
+mta21.r1.rpost.net4/7/2026 3:39:47 PM >>> 250-mx.google.com at your service, [52.58.131.9]4/7/2026 3:39:47 PM >>> 250SIZE 1572864004/7/2026 3:39:47 PM >>> 250-8BITMIME4/7/2026 3:39:47 PM >>> 250-ENHANCEDSTATUSCODES4/7/202
+6 3:39:47 PM >>> 250-PIPELINING4/7/2026 3:39:47 PM >>> 250-CHUNKING4/7/2026 3:39:47 PM >>> 250 SMTPUTF84/7/2
+026 3:39:47 PM <<< MAIL FROM: BODY=8BITMIME4/7/2026 3:39:47 PM >>> 250 2.1.0 OK ffacd0b85a97d-43d1e4f160bsi3
+5563975f8f.251 - gsmtp4/7/2026 3:39:47 PM <<< RCPT TO:4/7/2026 3:39:47 PM >>> 250 2.1.5 OK ffacd0b85a97d-43d1e4f1
+60bsi35563975f8f.251 - gsmtp4/7/2026 3:39:47 PM <<< DATA4/7/2026 3:39:47 PM >>> 354 Go ahead ffacd0b85a97d-43d1e4
+f160bsi35563975f8f.251 - gsmtp4/7/2026 3:39:47 PM <<< .4/7/2026 3:39:47 PM >>> 250 2.0.0 OK 1775576387 ffacd0b85a97
+d-43d1e4f160bsi35563975f8f.251 - gsmtp4/7/2026 3:39:47 PM <<< QUIT4/7/2026 3:39:47 PM >>> 221 2.0.0 closing connecti
+on ffacd0b85a97d-43d1e4f160bsi35563975f8f.251 - gsmtp4/7/2026 3:39:47 PM closed gmail-smtp-in.l.google.com (142.251.12
+7.26) in=779 out=314334/7/2026 3:40:11 PM done gmail.com/{default}
+4/7/2026 3:29:54 PM starting sec.gov/{default} 4/7/2026 3:29:54 PM connecting from mta21.r1.rpost.net (0.0.0.0) to sec-gov.m
+ail.protection.outlook.com (52.101.8.50) 4/7/2026 3:29:54 PM connected from 192.168.10.11:44673 4/7/2026 3:29:54 PM >>>
+220 DS1PEPF00017E09.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 7 Apr 2026 15:29:54 +000
+0 [08DE8F381EF1F478] 4/7/2026 3:29:54 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-DS1PEPF00017E
+09.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 3:29:54 PM >>> 250-SIZE 157286400 4/7/2026 3:29:54 PM >>>
+250-PIPELINING 4/7/2026 3:29:54 PM >>> 250-DSN 4/7/2026 3:29:54 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:
+29:54 PM >>> 250-STARTTLS 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>> 250-BINARYMIME 4/7/20
+26 3:29:54 PM >>> 250-CHUNKING 4/7/2026 3:29:54 PM >>> 250 SMTPUTF8 4/7/2026 3:29:54 PM <<< STARTTLS 4/7/202
+6 3:29:54 PM >>> 220 2.0.0 SMTP server ready 4/7/2026 3:29:54 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES2
+56-GCM-SHA384 4/7/2026 3:29:54 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=mail.protec
+tion.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/7/2026 3:29:54 PM <<< EHL
+O mta21.r1.rpost.net 4/7/2026 3:29:55 PM >>> 250-DS1PEPF00017E09.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2
+026 3:29:55 PM >>> 250-SIZE 157286400 4/7/2026 3:29:55 PM >>> 250-PIPELINING 4/7/2026 3:29:55 PM >>> 250-DSN 4/
+7/2026 3:29:55 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:29:55 PM >>> 250-8BITMIME 4/7/2026 3:29:55 PM >>
+> 250-BINARYMIME 4/7/2026 3:29:55 PM >>> 250-CHUNKING 4/7/2026 3:29:55 PM >>> 250 SMTPUTF8 4/7/2026 3:29:55
+PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 3:29:55 PM >>> 250 2.1.0 Sender OK 4/7/2026 3:29:55 PM <
+<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 3:29:55 PM >>> 250 2.1.5 Recipient OK 4/7/2026 3:29:55 PM
+<<< DATA 4/7/2026 3:29:55 PM >>> 354 Start mail input; end with . 4/7/2026 3:29:55 PM <<< . 4/7/2026 3:29:56 PM >>> 25
+0 2.6.0 [InternalId=60894046340057, Hostname=PH8PR09MB10094.namprd09.prod.outlook.com] 41194 bytes in 0.202, 198.6
+58 KB/sec Queued mail for delivery 4/7/2026 3:29:56 PM <<< QUIT 4/7/2026 3:29:56 PM >>> 221 2.0.0 Service closing trans
+mission channel 4/7/2026 3:29:56 PM closed sec-gov.mail.protection.outlook.com (52.101.8.50) in=925 out=31465 4/7/2026 3:
+29:56 PM done sec.gov/{default}
+4/7/2026 3:29:54 PM starting sec.gov/{default} 4/7/2026 3:29:54 PM connecting from mta21.r1.rpost.net (0.0.0.0) to sec-gov.m
+ail.protection.outlook.com (52.101.8.50) 4/7/2026 3:29:54 PM connected from 192.168.10.11:47350 4/7/2026 3:29:54 PM >>>
+220 DS1PEPF00017E08.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 7 Apr 2026 15:29:53 +000
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+4/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+0 [08DE8F4499B32586] 4/7/2026 3:29:54 PM <<< EHLO mta21.r1.rpost.net 4/7/2026 3:29:54 PM >>> 250-DS1PEPF00017E
+08.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 3:29:54 PM >>> 250-SIZE 157286400 4/7/2026 3:29:54 PM >>>
+250-PIPELINING 4/7/2026 3:29:54 PM >>> 250-DSN 4/7/2026 3:29:54 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:
+29:54 PM >>> 250-STARTTLS 4/7/2026 3:29:54 PM >>> 250-8BITMIME 4/7/2026 3:29:54 PM >>> 250-BINARYMIME 4/7/20
+26 3:29:54 PM >>> 250-CHUNKING 4/7/2026 3:29:54 PM >>> 250 SMTPUTF8 4/7/2026 3:29:54 PM <<< STARTTLS 4/7/202
+6 3:29:54 PM >>> 220 2.0.0 SMTP server ready 4/7/2026 3:29:55 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES2
+56-GCM-SHA384 4/7/2026 3:29:55 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=mail.protec
+tion.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/7/2026 3:29:55 PM <<< EHL
+O mta21.r1.rpost.net 4/7/2026 3:29:55 PM >>> 250-DS1PEPF00017E08.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2
+026 3:29:55 PM >>> 250-SIZE 157286400 4/7/2026 3:29:55 PM >>> 250-PIPELINING 4/7/2026 3:29:55 PM >>> 250-DSN 4/
+7/2026 3:29:55 PM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 3:29:55 PM >>> 250-8BITMIME 4/7/2026 3:29:55 PM >>
+> 250-BINARYMIME 4/7/2026 3:29:55 PM >>> 250-CHUNKING 4/7/2026 3:29:55 PM >>> 250 SMTPUTF8 4/7/2026 3:29:55
+PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 3:29:55 PM >>> 250 2.1.0 Sender OK 4/7/2026 3:29:55 PM <
+<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 3:29:55 PM >>> 250 2.1.5 Recipient OK 4/7/2026 3:29:55 PM
+<<< DATA 4/7/2026 3:29:55 PM >>> 354 Start mail input; end with . 4/7/2026 3:29:55 PM <<< . 4/7/2026 3:29:56 PM >>> 25
+0 2.6.0 [InternalId=102980430874014, Hostname=MW4PR09MB10230.namprd09.prod.outlook.com] 41140 bytes in 0.162, 24
+6.829 KB/sec Queued mail for delivery 4/7/2026 3:29:56 PM <<< QUIT 4/7/2026 3:29:56 PM >>> 221 2.0.0 Service closing tr
+ansmission channel 4/7/2026 3:29:56 PM closed sec-gov.mail.protection.outlook.com (52.101.8.50) in=926 out=31450 4/7/202
+6 3:29:56 PM done sec.gov/{default}
+From:postmaster@treasury.gov:Delivery has failed to these recipients or groups: Andrea.Gacki@treasury.gov Your message c
+ouldn't be delivered because you don't have permission to send to this recipient. Ask the recipient's email admin to grant you p
+ermission and then try again. ------------------------------------------------------------------------- Content-Type: message/delivery-status Repo
+rting-MTA: dns;D98EXCMBox12.do.treas.gov Received-From-MTA: dns;d26mailgate1p_in.do.treas.gov Arrival-Date: Tue, 7 Ap
+r 2026 15:30:07 +0000 Final-Recipient: rfc822;Andrea.Gacki@treasury.gov Action: failed Status: 5.7.129 Diagnostic-Code: smt
+p;550 5.7.129 RESOLVER.RST.RestrictedToRecipientsPermission; not authorized to send to recipient because the sender is
+n't on the recipient's list of senders to accept mail from
+From:postmaster@sec.gov:Your message has been delivered to the following recipients: fisherr@sec.gov Subject: Registere
+d: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+[IP Address: 62.10.205.4] [Time Opened: 4/7/2026 3:30:23 PM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r1.
+rpost.net] [SCRIPT_NAME: /oatv_v3/iaixI6f3TNuSIiLM9bwQT8HUPloJaH7s7cIZ1Dq7MjAx.gif] HTTP_ACCEPT:image/avif,im
+age/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACCEPT_
+LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=YgbMi49xrbxEO8UYOPOPgCRUqRSKY8bE/rUalVNIE8+bqCwQ+
+wx9Mb0F7uJH4DFmsHt9WKL5a15kk6cXLTK4i2goXCJqFYE34V7LggedINesKDP0MAKgJG0arQ7eeSc31psUp0D2DNcqcuTM
+IwH1b04MTnjQioiVmqg7jO4bI69t; AWSALBTGCORS=YgbMi49xrbxEO8UYOPOPgCRUqRSKY8bE/rUalVNIE8+bqCwQ+wx9M
+b0F7uJH4DFmsHt9WKL5a15kk6cXLTK4i2goXCJqFYE34V7LggedINesKDP0MAKgJG0arQ7eeSc31psUp0D2DNcqcuTMIwH1b
+04MTnjQioiVmqg7jO4bI69t; AWSALB=tjMq/WQqH+JQrmoXayKyf8ZtJ4XA1lLzUPP0Ofpl41chPznNrUoQG8r7YTTSdram/g0D
+mhxvDJshZPreZ6cm3UcG2lw59ADE556WbA0KpBN5QoVp4W5JYqe4Iv2V; AWSALBCORS=tjMq/WQqH+JQrmoXayKyf8ZtJ4
+XA1lLzUPP0Ofpl41chPznNrUoQG8r7YTTSdram/g0DmhxvDJshZPreZ6cm3UcG2lw59ADE556WbA0KpBN5QoVp4W5JYqe4Iv
+2V HTTP_HOST:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0 (Wi
+ndows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36 HTTP_X_FOR
+WARDED_FOR:62.10.205.4 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TR
+ACE_ID:Root=1-69d5230f-252d81ae77aa254073cc6913 HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google Chrome";v="14
+2", "Chromium";v="142" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_UA_FULL_VER
+SION:"142.0.7444.162" HTTP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="142.0.7444.162" HTTP_SEC_CH_UA_MOB
+ILE:?0 HTTP_SEC_CH_UA_MODEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:Windows HTTP_SEC_CH_UA_PLATFOR
+M_VERSION:15.0.0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:i
+mage HTTP_PRIORITY:i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzi
+p, deflate, br, zstd Accept-Language: en-US,en;q=0.9 Cookie: AWSALBTG=YgbMi49xrbxEO8UYOPOPgCRUqRSKY8bE/rUal
+VNIE8+bqCwQ+wx9Mb0F7uJH4DFmsHt9WKL5a15kk6cXLTK4i2goXCJqFYE34V7LggedINesKDP0MAKgJG0arQ7eeSc31psU
+p0D2DNcqcuTMIwH1b04MTnjQioiVmqg7jO4bI69t; AWSALBTGCORS=YgbMi49xrbxEO8UYOPOPgCRUqRSKY8bE/rUalVNIE
+8+bqCwQ+wx9Mb0F7uJH4DFmsHt9WKL5a15kk6cXLTK4i2goXCJqFYE34V7LggedINesKDP0MAKgJG0arQ7eeSc31psUp0D2
+DNcqcuTMIwH1b04MTnjQioiVmqg7jO4bI69t; AWSALB=tjMq/WQqH+JQrmoXayKyf8ZtJ4XA1lLzUPP0Ofpl41chPznNrUoQG8r
+7YTTSdram/g0DmhxvDJshZPreZ6cm3UcG2lw59ADE556WbA0KpBN5QoVp4W5JYqe4Iv2V; AWSALBCORS=tjMq/WQqH+JQ
+rmoXayKyf8ZtJ4XA1lLzUPP0Ofpl41chPznNrUoQG8r7YTTSdram/g0DmhxvDJshZPreZ6cm3UcG2lw59ADE556WbA0KpBN5Q
+oVp4W5JYqe4Iv2V Host: socrmail.r1.rpost.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Windows NT 1
+0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36 X-Forwarded-For: 62.10.20
+5.4 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d5230f-252d81ae77aa254073cc6913 sec-chua: "Not;A Brand";v="99", "Google Chrome";v="142", "Chromium";v="142" sec-ch-ua-arch: x64 sec-ch-ua-bitness: 64 sec-ch-u
+a-full-version: "142.0.7444.162" sec-ch-ua-full-version-list: "Chrome";v="142.0.7444.162" sec-ch-ua-mobile: ?0 sec-ch-ua-mod
+el: Surface Pro sec-ch-ua-platform: Windows sec-ch-ua-platform-version: 15.0.0 sec-fetch-site: same-site sec-fetch-mode: nocors sec-fetch-dest: image priority: i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=
+ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v3/iaixI6f3TNuSIiLM9bwQT8HUPloJaH7s7cIZ1Dq7MjAx.gif 19
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+5/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+2.168.20.111 192.168.20.111 57674 GET /oatv_v3/iaixI6f3TNuSIiLM9bwQT8HUPloJaH7s7cIZ1Dq7MjAx.gif socrmail.r1.rpost.n
+et 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v3/iaixI6f3TNuSIiLM9bwQT8HUPloJaH7s7cIZ1Dq7MjAx.gif image/avif,image/web
+p,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 AWSALBTG=YgbMi49xrbxEO8UYOPO
+PgCRUqRSKY8bE/rUalVNIE8+bqCwQ+wx9Mb0F7uJH4DFmsHt9WKL5a15kk6cXLTK4i2goXCJqFYE34V7LggedINesKDP0MA
+KgJG0arQ7eeSc31psUp0D2DNcqcuTMIwH1b04MTnjQioiVmqg7jO4bI69t; AWSALBTGCORS=YgbMi49xrbxEO8UYOPOPgCR
+UqRSKY8bE/rUalVNIE8+bqCwQ+wx9Mb0F7uJH4DFmsHt9WKL5a15kk6cXLTK4i2goXCJqFYE34V7LggedINesKDP0MAKgJG
+0arQ7eeSc31psUp0D2DNcqcuTMIwH1b04MTnjQioiVmqg7jO4bI69t; AWSALB=tjMq/WQqH+JQrmoXayKyf8ZtJ4XA1lLzUPP0
+Ofpl41chPznNrUoQG8r7YTTSdram/g0DmhxvDJshZPreZ6cm3UcG2lw59ADE556WbA0KpBN5QoVp4W5JYqe4Iv2V; AWSALB
+CORS=tjMq/WQqH+JQrmoXayKyf8ZtJ4XA1lLzUPP0Ofpl41chPznNrUoQG8r7YTTSdram/g0DmhxvDJshZPreZ6cm3UcG2lw59
+ADE556WbA0KpBN5QoVp4W5JYqe4Iv2V socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0 (Windows NT 10.0;
+Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36 62.10.205.4 https 443 Root=1-6
+9d5230f-252d81ae77aa254073cc6913 "Not;A Brand";v="99", "Google Chrome";v="142", "Chromium";v="142" x64 64 "142.0.74
+44.162" "Chrome";v="142.0.7444.162" ?0 Surface Pro Windows 15.0.0 same-site no-cors image i
+From:"Mail Delivery System" :The following message to was undeliverable. The reason for the problem: 5.1.0 - Unknown addr
+ess error 550-'#5.1.0 Address rejected.'
+From:postmaster@sec.gov:Your message has been delivered to the following recipients: peirceh@sec.gov Subject: Registere
+d: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+[IP Address: 51.54.38.112] [Time Opened: 4/7/2026 3:30:25 PM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v3/zjUO8VwOuSowl8h2yn4IVdMYh5LJ9Ihq6xL0HWvrMjAx.gif] HTTP_ACCEPT:image/avi
+f,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACCE
+PT_LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=pB1de5NooUolkeMYHoBnReOafMYe6GSXEcGshM+PmvkM
+a2wYwfm4lr2uJU7S/AsjnAsnUrJi6XS5Uorl92y8RDh5cphziU9P2i53AaP7ARPpgEy/naeSXJ42NIwd7xKOYUf3jYZmQF1f77KR/
+FRso14JGO+xHS9yd7HfAZVqNz8I; AWSALBTGCORS=pB1de5NooUolkeMYHoBnReOafMYe6GSXEcGshM+PmvkMa2wYwf
+m4lr2uJU7S/AsjnAsnUrJi6XS5Uorl92y8RDh5cphziU9P2i53AaP7ARPpgEy/naeSXJ42NIwd7xKOYUf3jYZmQF1f77KR/FRso14
+JGO+xHS9yd7HfAZVqNz8I; AWSALB=W/OlT1C4bH7xz6F3g/YHnp5qKY/RLEu8e2rMvIr6U3KnXqwtwX4tgMAmXW+L9Qyzz5
+ZKLrSu+skV5XXOV1RixfOO+17l+eaUWfyR2Z8dcpWqnzk9sOr0vaiPSCuq; AWSALBCORS=W/OlT1C4bH7xz6F3g/YHnp5qK
+Y/RLEu8e2rMvIr6U3KnXqwtwX4tgMAmXW+L9Qyzz5ZKLrSu+skV5XXOV1RixfOO+17l+eaUWfyR2Z8dcpWqnzk9sOr0vaiPSC
+uq HTTP_HOST:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0 (Win
+dows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36 HTTP_X_FORWAR
+DED_FOR:51.54.38.112 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE
+_ID:Root=1-69d52311-655e639c4480e2a66fd839b2 HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google Chrome";v="141", "Ch
+romium";v="141" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_UA_FULL_VERSION:"
+141.0.7390.0" HTTP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="141.0.7390.0" HTTP_SEC_CH_UA_MOBILE:?0 HTT
+P_SEC_CH_UA_MODEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:Windows HTTP_SEC_CH_UA_PLATFORM_VERSIO
+N:15.0.0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image HTTP_
+PRIORITY:u=1, i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzip, deflat
+e, br, zstd Accept-Language: en-US,en;q=0.9 Cookie: AWSALBTG=pB1de5NooUolkeMYHoBnReOafMYe6GSXEcGshM+Pmv
+kMa2wYwfm4lr2uJU7S/AsjnAsnUrJi6XS5Uorl92y8RDh5cphziU9P2i53AaP7ARPpgEy/naeSXJ42NIwd7xKOYUf3jYZmQF1f77K
+R/FRso14JGO+xHS9yd7HfAZVqNz8I; AWSALBTGCORS=pB1de5NooUolkeMYHoBnReOafMYe6GSXEcGshM+PmvkMa2wY
+wfm4lr2uJU7S/AsjnAsnUrJi6XS5Uorl92y8RDh5cphziU9P2i53AaP7ARPpgEy/naeSXJ42NIwd7xKOYUf3jYZmQF1f77KR/FRso
+14JGO+xHS9yd7HfAZVqNz8I; AWSALB=W/OlT1C4bH7xz6F3g/YHnp5qKY/RLEu8e2rMvIr6U3KnXqwtwX4tgMAmXW+L9Qyz
+z5ZKLrSu+skV5XXOV1RixfOO+17l+eaUWfyR2Z8dcpWqnzk9sOr0vaiPSCuq; AWSALBCORS=W/OlT1C4bH7xz6F3g/YHnp5q
+KY/RLEu8e2rMvIr6U3KnXqwtwX4tgMAmXW+L9Qyzz5ZKLrSu+skV5XXOV1RixfOO+17l+eaUWfyR2Z8dcpWqnzk9sOr0vaiPS
+Cuq Host: socrmail.r1.rpost.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x6
+4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36 X-Forwarded-For: 51.54.38.112 X-ForwardedProto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d52311-655e639c4480e2a66fd839b2 sec-ch-ua: "Not;A Bran
+d";v="99", "Google Chrome";v="141", "Chromium";v="141" sec-ch-ua-arch: x64 sec-ch-ua-bitness: 64 sec-ch-ua-full-version:
+"141.0.7390.0" sec-ch-ua-full-version-list: "Chrome";v="141.0.7390.0" sec-ch-ua-mobile: ?0 sec-ch-ua-model: Surface Pro secch-ua-platform: Windows sec-ch-ua-platform-version: 15.0.0 sec-fetch-site: same-site sec-fetch-mode: no-cors sec-fetch-dest:
+image priority: u=1, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=AD
+MIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v3/zjUO8VwOuSowl8h2yn4IVdMYh5LJ9Ihq6xL0HWvrMjAx.gif 192.168.20.111 1
+92.168.20.111 27570 GET /oatv_v3/zjUO8VwOuSowl8h2yn4IVdMYh5LJ9Ihq6xL0HWvrMjAx.gif socrmail.r1.rpost.net 443 1 HT
+TP/1.1 Microsoft-IIS/10.0 /oatv_v3/zjUO8VwOuSowl8h2yn4IVdMYh5LJ9Ihq6xL0HWvrMjAx.gif image/avif,image/webp,image/
+apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 AWSALBTG=pB1de5NooUolkeMYHoBnReOafM
+Ye6GSXEcGshM+PmvkMa2wYwfm4lr2uJU7S/AsjnAsnUrJi6XS5Uorl92y8RDh5cphziU9P2i53AaP7ARPpgEy/naeSXJ42NIwd7
+xKOYUf3jYZmQF1f77KR/FRso14JGO+xHS9yd7HfAZVqNz8I; AWSALBTGCORS=pB1de5NooUolkeMYHoBnReOafMYe6GSX
+EcGshM+PmvkMa2wYwfm4lr2uJU7S/AsjnAsnUrJi6XS5Uorl92y8RDh5cphziU9P2i53AaP7ARPpgEy/naeSXJ42NIwd7xKOYUf
+3jYZmQF1f77KR/FRso14JGO+xHS9yd7HfAZVqNz8I; AWSALB=W/OlT1C4bH7xz6F3g/YHnp5qKY/RLEu8e2rMvIr6U3KnXqwt
+wX4tgMAmXW+L9Qyzz5ZKLrSu+skV5XXOV1RixfOO+17l+eaUWfyR2Z8dcpWqnzk9sOr0vaiPSCuq; AWSALBCORS=W/OlT1
+C4bH7xz6F3g/YHnp5qKY/RLEu8e2rMvIr6U3KnXqwtwX4tgMAmXW+L9Qyzz5ZKLrSu+skV5XXOV1RixfOO+17l+eaUWfyR2Z8
+dcpWqnzk9sOr0vaiPSCuq socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0 (Windows NT 10.0; Win64; x64) Ap
+pleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36 51.54.38.112 https 443 Root=1-69d52311-655e639
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+6/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+c4480e2a66fd839b2 "Not;A Brand";v="99", "Google Chrome";v="141", "Chromium";v="141" x64 64 "141.0.7390.0" "Chrome";v
+="141.0.7390.0" ?0 Surface Pro Windows 15.0.0 same-site no-cors image u=1, i
+From:postmaster@sec.gov:Delivery has failed to these recipients or groups: mcglossonc@sec.gov The email address you en
+tered couldn't be found. Please check the recipient's email address and try to resend the message. If the problem continues, p
+lease contact your email admin. Diagnostic information for administrators: Generating server: D1-WP-19EXCH01.AD.SEC.GO
+V mcglossonc@sec.gov Remote Server returned '550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SM
+TP address lookup' Original message headers: Received: from D1-WP-19EXCH01.AD.SEC.GOV (172.25.0.15) by D1-WP-19E
+XCH01.AD.SEC.GOV (172.25.0.15) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_2
+56_GCM_SHA384) id 15.2.2562.37; Tue, 7 Apr 2026 11:31:32 -0400 Received: from SA9PR09CU002.outbound.protection.outl
+ook.com (172.25.196.30) by D1-WP-19EXCH01.AD.SEC.GOV (172.25.0.15) with Microsoft SMTP Server (version=TLS1_2, ci
+pher=TL...[truncated]
+[IP Address: 51.54.38.120] [Time Opened: 4/7/2026 3:30:22 PM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v3/KZcJeDkJtfTGbI67dpyidd1mUvjKulOQirbFKqmUMjAx.gif] HTTP_ACCEPT:image/avif,
+image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACCEP
+T_LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=n+X4llyi9gm+PmwRzvcXNMaXeHw//upZN+aqec7xkTeZ/tZwLZ
+GCwALKl+V5ApW63naAT6xGa2gHjop1GB3iIV9jO+fdCC6e9pOg+dA9oGOZOkvM8wfwxSoO8maJYhvdvzQOJufaL13TrptsIeY
+w3Lz0QcbrrEtzcN1kUp/6q6zw; AWSALBTGCORS=n+X4llyi9gm+PmwRzvcXNMaXeHw//upZN+aqec7xkTeZ/tZwLZGCwALKl+
+V5ApW63naAT6xGa2gHjop1GB3iIV9jO+fdCC6e9pOg+dA9oGOZOkvM8wfwxSoO8maJYhvdvzQOJufaL13TrptsIeYw3Lz0Qcbr
+rEtzcN1kUp/6q6zw; AWSALB=n8KP+L7836zKlKpQNDoK4/UXIGvm2Pfn4SznrhE0sGCx6AxhrRMtrs3SKryBeQ2BQoPVZIqhT
++NwKz31ITYN9swijYc31vlBMlV3cZwuu5cnRm51r/bheFiVkA2U; AWSALBCORS=n8KP+L7836zKlKpQNDoK4/UXIGvm2Pfn4
+SznrhE0sGCx6AxhrRMtrs3SKryBeQ2BQoPVZIqhT+NwKz31ITYN9swijYc31vlBMlV3cZwuu5cnRm51r/bheFiVkA2U HTTP_HO
+ST:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.
+0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36 HTTP_X_FORWARDED_FO
+R:51.54.38.120 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root
+=1-69d5230e-39941717336c94220cac3206 HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google Chrome";v="142", "Chromiu
+m";v="142" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_UA_FULL_VERSION:"142.0.
+7444.175" HTTP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="142.0.7444.175" HTTP_SEC_CH_UA_MOBILE:?0 HTTP
+_SEC_CH_UA_MODEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:Windows HTTP_SEC_CH_UA_PLATFORM_VERSIO
+N:15.0.0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image HTTP_
+PRIORITY:i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzip, deflate, br,
+zstd Accept-Language: en-US,en;q=0.9 Cookie: AWSALBTG=n+X4llyi9gm+PmwRzvcXNMaXeHw//upZN+aqec7xkTeZ/tZwLZ
+GCwALKl+V5ApW63naAT6xGa2gHjop1GB3iIV9jO+fdCC6e9pOg+dA9oGOZOkvM8wfwxSoO8maJYhvdvzQOJufaL13TrptsIeY
+w3Lz0QcbrrEtzcN1kUp/6q6zw; AWSALBTGCORS=n+X4llyi9gm+PmwRzvcXNMaXeHw//upZN+aqec7xkTeZ/tZwLZGCwALKl+
+V5ApW63naAT6xGa2gHjop1GB3iIV9jO+fdCC6e9pOg+dA9oGOZOkvM8wfwxSoO8maJYhvdvzQOJufaL13TrptsIeYw3Lz0Qcbr
+rEtzcN1kUp/6q6zw; AWSALB=n8KP+L7836zKlKpQNDoK4/UXIGvm2Pfn4SznrhE0sGCx6AxhrRMtrs3SKryBeQ2BQoPVZIqhT
++NwKz31ITYN9swijYc31vlBMlV3cZwuu5cnRm51r/bheFiVkA2U; AWSALBCORS=n8KP+L7836zKlKpQNDoK4/UXIGvm2Pfn4
+SznrhE0sGCx6AxhrRMtrs3SKryBeQ2BQoPVZIqhT+NwKz31ITYN9swijYc31vlBMlV3cZwuu5cnRm51r/bheFiVkA2U Host: socr
+mail.r1.rpost.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
+537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36 X-Forwarded-For: 51.54.38.120 X-Forwarded-Proto: https
+X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d5230e-39941717336c94220cac3206 sec-ch-ua: "Not;A Brand";v="99", "G
+oogle Chrome";v="142", "Chromium";v="142" sec-ch-ua-arch: x64 sec-ch-ua-bitness: 64 sec-ch-ua-full-version: "142.0.7444.1
+75" sec-ch-ua-full-version-list: "Chrome";v="142.0.7444.175" sec-ch-ua-mobile: ?0 sec-ch-ua-model: Surface Pro sec-ch-ua-pl
+atform: Windows sec-ch-ua-platform-version: 15.0.0 sec-fetch-site: same-site sec-fetch-mode: no-cors sec-fetch-dest: image
+priority: i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /L
+M/W3SVC/12 192.168.20.30 /oatv_v3/KZcJeDkJtfTGbI67dpyidd1mUvjKulOQirbFKqmUMjAx.gif 192.168.10.14 192.168.10.14
+24840 GET /oatv_v3/KZcJeDkJtfTGbI67dpyidd1mUvjKulOQirbFKqmUMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsof
+t-IIS/10.0 /oatv_v3/KZcJeDkJtfTGbI67dpyidd1mUvjKulOQirbFKqmUMjAx.gif image/avif,image/webp,image/apng,image/svg+x
+ml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 AWSALBTG=n+X4llyi9gm+PmwRzvcXNMaXeHw//upZN+aqec7xk
+TeZ/tZwLZGCwALKl+V5ApW63naAT6xGa2gHjop1GB3iIV9jO+fdCC6e9pOg+dA9oGOZOkvM8wfwxSoO8maJYhvdvzQOJufaL
+13TrptsIeYw3Lz0QcbrrEtzcN1kUp/6q6zw; AWSALBTGCORS=n+X4llyi9gm+PmwRzvcXNMaXeHw//upZN+aqec7xkTeZ/tZwLZ
+GCwALKl+V5ApW63naAT6xGa2gHjop1GB3iIV9jO+fdCC6e9pOg+dA9oGOZOkvM8wfwxSoO8maJYhvdvzQOJufaL13TrptsIeY
+w3Lz0QcbrrEtzcN1kUp/6q6zw; AWSALB=n8KP+L7836zKlKpQNDoK4/UXIGvm2Pfn4SznrhE0sGCx6AxhrRMtrs3SKryBeQ2B
+QoPVZIqhT+NwKz31ITYN9swijYc31vlBMlV3cZwuu5cnRm51r/bheFiVkA2U; AWSALBCORS=n8KP+L7836zKlKpQNDoK4/UXI
+Gvm2Pfn4SznrhE0sGCx6AxhrRMtrs3SKryBeQ2BQoPVZIqhT+NwKz31ITYN9swijYc31vlBMlV3cZwuu5cnRm51r/bheFiVkA2U
+socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+like Gecko) Chrome/142.0.7444.175 Safari/537.36 51.54.38.120 https 443 Root=1-69d5230e-39941717336c94220cac3206 "No
+t;A Brand";v="99", "Google Chrome";v="142", "Chromium";v="142" x64 64 "142.0.7444.175" "Chrome";v="142.0.7444.175" ?0
+Surface Pro Windows 15.0.0 same-site no-cors image i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+7/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+[IP Address: 66.249.80.3] [Time Opened: 4/7/2026 3:42:36 PM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r1.
+rpost.net] [SCRIPT_NAME: /oatv_v2/IdLv40BxtZ86Vq2ZaML6E7izrWzn7yfK4B3PytLUMjAx.gif] HTTP_ACCEPT_ENCODIN
+G:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firef
+ox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.3 HTTP_X_FORWARDED_PROTO:http
+s HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d525ec-29bec9940ae0481b6ff941ce Accept-Enc
+oding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via g
+gpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.3 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-I
+d: Root=1-69d525ec-29bec9940ae0481b6ff941ce /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 25
+6 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/IdLv40BxtZ86Vq2ZaML6E7izrWzn7yfK4B3PytL
+UMjAx.gif 192.168.20.111 192.168.20.111 49058 GET /oatv_v2/IdLv40BxtZ86Vq2ZaML6E7izrWzn7yfK4B3PytLUMjAx.gif socr
+mail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/IdLv40BxtZ86Vq2ZaML6E7izrWzn7yfK4B3PytLUMjAx.gif gzip,
+deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+66.249.80.3 https 443 Root=1-69d525ec-29bec9940ae0481b6ff941ce
+From:postmaster@sec.gov:Delivery has failed to these recipients or groups: whitejoshua@sec.gov The email address you ent
+ered couldn't be found. Please check the recipient's email address and try to resend the message. If the problem continues, pl
+ease contact your email admin. Diagnostic information for administrators: Generating server: D1-WP-19EXCH01.AD.SEC.GO
+V whitejoshua@sec.gov Remote Server returned '550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SM
+TP address lookup' Original message headers: Received: from D1-WP-19EXCH02.AD.SEC.GOV (172.25.0.16) by D1-WP-19E
+XCH01.AD.SEC.GOV (172.25.0.15) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_2
+56_GCM_SHA384) id 15.2.2562.37; Tue, 7 Apr 2026 11:31:46 -0400 Received: from SA9PR09CU002.outbound.protection.outl
+ook.com (172.25.196.30) by D1-WP-19EXCH02.AD.SEC.GOV (172.25.0.16) with Microsoft SMTP Server (version=TLS1_2, ci
+pher...[truncated]
+[IP Address: 51.54.38.123] [Time Opened: 4/7/2026 3:30:22 PM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v3/FZGniXtFDxJWOM0LRHdpbpM1NvQpfBrAYoxKUdKaMjAx.gif] HTTP_ACCEPT:imag
+e/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_A
+CCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=5yAo9h2x0Y1EBLcwR5Zs1v1TtrRhpyHg1Ilw+ZWSPdb48
+Lad4Af4AOyAthrocCxud128ojslO6US9pCHHZ+9rrXOR7svUEKVbHxdF/IiOZiMenP5njMlmTd9DtC8n3n1xtLP12hOEPtMl/zNlsz
+uAKAeH2fXqBzt0C1j6PwHAWy8; AWSALBTGCORS=5yAo9h2x0Y1EBLcwR5Zs1v1TtrRhpyHg1Ilw+ZWSPdb48Lad4Af4AOy
+AthrocCxud128ojslO6US9pCHHZ+9rrXOR7svUEKVbHxdF/IiOZiMenP5njMlmTd9DtC8n3n1xtLP12hOEPtMl/zNlszuAKAeH2fX
+qBzt0C1j6PwHAWy8; AWSALB=O0sluPaEaHVPen004rlVYdIberQe3wKblBHIf0RlJid8U73RRVhnjAPirDC9b/gRvAAxovjOa9Jo
+w8J8zuK+IVcDkpZ+I34zZZAkGnHKjLS83ER4XPRxhA/dwost; AWSALBCORS=O0sluPaEaHVPen004rlVYdIberQe3wKblBHIf0
+RlJid8U73RRVhnjAPirDC9b/gRvAAxovjOa9Jow8J8zuK+IVcDkpZ+I34zZZAkGnHKjLS83ER4XPRxhA/dwost HTTP_HOST:soc
+rmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0 (Macintosh; Intel Mac O
+S X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:51.5
+4.38.123 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69
+d5230e-6aeca8833483db04527333e0 HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google Chrome";v="135", "Chromium";v="1
+35" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_UA_FULL_VERSION:"135.0.0.0" HT
+TP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="135.0.0.0" HTTP_SEC_CH_UA_MOBILE:?0 HTTP_SEC_CH_UA_MO
+DEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:macOS HTTP_SEC_CH_UA_PLATFORM_VERSION:10.15.0 HTTP_SEC
+_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image HTTP_PRIORITY:u=1, i Ac
+cept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzip, deflate, br, zstd Accept-La
+nguage: en-US,en;q=0.9 Cookie: AWSALBTG=5yAo9h2x0Y1EBLcwR5Zs1v1TtrRhpyHg1Ilw+ZWSPdb48Lad4Af4AOyAthrocC
+xud128ojslO6US9pCHHZ+9rrXOR7svUEKVbHxdF/IiOZiMenP5njMlmTd9DtC8n3n1xtLP12hOEPtMl/zNlszuAKAeH2fXqBzt0C1
+j6PwHAWy8; AWSALBTGCORS=5yAo9h2x0Y1EBLcwR5Zs1v1TtrRhpyHg1Ilw+ZWSPdb48Lad4Af4AOyAthrocCxud128ojslO6
+US9pCHHZ+9rrXOR7svUEKVbHxdF/IiOZiMenP5njMlmTd9DtC8n3n1xtLP12hOEPtMl/zNlszuAKAeH2fXqBzt0C1j6PwHAWy8;
+AWSALB=O0sluPaEaHVPen004rlVYdIberQe3wKblBHIf0RlJid8U73RRVhnjAPirDC9b/gRvAAxovjOa9Jow8J8zuK+IVcDkpZ+I3
+4zZZAkGnHKjLS83ER4XPRxhA/dwost; AWSALBCORS=O0sluPaEaHVPen004rlVYdIberQe3wKblBHIf0RlJid8U73RRVhnjAPir
+DC9b/gRvAAxovjOa9Jow8J8zuK+IVcDkpZ+I34zZZAkGnHKjLS83ER4XPRxhA/dwost Host: socrmail.r1.rpost.net Referer: hX
+Xps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like
+Gecko) Chrome/135.0.0.0 Safari/537.36 X-Forwarded-For: 51.54.38.123 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-A
+mzn-Trace-Id: Root=1-69d5230e-6aeca8833483db04527333e0 sec-ch-ua: "Not;A Brand";v="99", "Google Chrome";v="135", "C
+hromium";v="135" sec-ch-ua-arch: x64 sec-ch-ua-bitness: 64 sec-ch-ua-full-version: "135.0.0.0" sec-ch-ua-full-version-list: "Ch
+rome";v="135.0.0.0" sec-ch-ua-mobile: ?0 sec-ch-ua-model: Surface Pro sec-ch-ua-platform: macOS sec-ch-ua-platform-versi
+on: 10.15.0 sec-fetch-site: same-site sec-fetch-mode: no-cors sec-fetch-dest: image priority: u=1, i /LM/W3SVC/12/ROOT 256
+2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.r
+post.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v3/FZGniXtFDxJWOM0LRHdpbpM1NvQpfBrAYoxKUdKaMjAx.gif 192.168.
+10.14 192.168.10.14 11630 GET /oatv_v3/FZGniXtFDxJWOM0LRHdpbpM1NvQpfBrAYoxKUdKaMjAx.gif socrmail.r1.rpost.net
+443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v3/FZGniXtFDxJWOM0LRHdpbpM1NvQpfBrAYoxKUdKaMjAx.gif image/avif,image/
+webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 AWSALBTG=5yAo9h2x0Y1EBLcw
+R5Zs1v1TtrRhpyHg1Ilw+ZWSPdb48Lad4Af4AOyAthrocCxud128ojslO6US9pCHHZ+9rrXOR7svUEKVbHxdF/IiOZiMenP5njMlm
+Td9DtC8n3n1xtLP12hOEPtMl/zNlszuAKAeH2fXqBzt0C1j6PwHAWy8; AWSALBTGCORS=5yAo9h2x0Y1EBLcwR5Zs1v1TtrR
+hpyHg1Ilw+ZWSPdb48Lad4Af4AOyAthrocCxud128ojslO6US9pCHHZ+9rrXOR7svUEKVbHxdF/IiOZiMenP5njMlmTd9DtC8n3n
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+8/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+1xtLP12hOEPtMl/zNlszuAKAeH2fXqBzt0C1j6PwHAWy8; AWSALB=O0sluPaEaHVPen004rlVYdIberQe3wKblBHIf0RlJid8U73
+RRVhnjAPirDC9b/gRvAAxovjOa9Jow8J8zuK+IVcDkpZ+I34zZZAkGnHKjLS83ER4XPRxhA/dwost; AWSALBCORS=O0sluPaE
+aHVPen004rlVYdIberQe3wKblBHIf0RlJid8U73RRVhnjAPirDC9b/gRvAAxovjOa9Jow8J8zuK+IVcDkpZ+I34zZZAkGnHKjLS83E
+R4XPRxhA/dwost socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Apple
+WebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 51.54.38.123 https 443 Root=1-69d5230e-6aeca8833483
+db04527333e0 "Not;A Brand";v="99", "Google Chrome";v="135", "Chromium";v="135" x64 64 "135.0.0.0" "Chrome";v="135.0.
+0.0" ?0 Surface Pro macOS 10.15.0 same-site no-cors image u=1, i
+From:postmaster@sec.gov:Your message has been delivered to the following recipients: uyedam@sec.gov Subject: Register
+ed: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+[IP Address: 51.54.38.112] [Time Opened: 4/7/2026 3:30:22 PM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v3/MfVDhmJWjV9JjWernCvbKLzRSAtPgc2fTKbfe4sAMjAx.gif] HTTP_ACCEPT:image/a
+vif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACC
+EPT_LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=75JmcxLB5KWypygf2dPRjMsmDp9d8f1OfxFuVkmw9O3t2fr
+uA+L3FsRIMyZ7R19t6QimN07DwH0xtEfaVEvUH0/zrbgcheWMnNbKLrqXqWGGzWsneyIaSFrYK3bbQeFlpK92TukB4BUwMtO
+cj4LF4lZpPL2hv31agfdA2IaqZqNJ; AWSALBTGCORS=75JmcxLB5KWypygf2dPRjMsmDp9d8f1OfxFuVkmw9O3t2fruA+L3Fs
+RIMyZ7R19t6QimN07DwH0xtEfaVEvUH0/zrbgcheWMnNbKLrqXqWGGzWsneyIaSFrYK3bbQeFlpK92TukB4BUwMtOcj4LF4lZ
+pPL2hv31agfdA2IaqZqNJ; AWSALB=6nHNCk6xx7BpOys3vtz/NDwsCimOVoLtiBCCBUQvFEuZ5fDmDnJ4/jNQhu3ADpLejzVh
+RC6MpUH3lY1EFtVaRLyfPJg7Yw68LIFpveHgcwYDVu/EDn5n0jlQcFLh; AWSALBCORS=6nHNCk6xx7BpOys3vtz/NDwsCim
+OVoLtiBCCBUQvFEuZ5fDmDnJ4/jNQhu3ADpLejzVhRC6MpUH3lY1EFtVaRLyfPJg7Yw68LIFpveHgcwYDVu/EDn5n0jlQcFLh
+HTTP_HOST:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0 (Windo
+ws NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36 HTTP_X_FORWAR
+DED_FOR:51.54.38.112 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE
+_ID:Root=1-69d5230e-470434994724b6bd7ae54adb HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google Chrome";v="142", "C
+hromium";v="142" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_UA_FULL_VERSIO
+N:"142.0.7444.163" HTTP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="142.0.7444.163" HTTP_SEC_CH_UA_MOBIL
+E:?0 HTTP_SEC_CH_UA_MODEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:Windows HTTP_SEC_CH_UA_PLATFORM
+_VERSION:15.0.0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:ima
+ge HTTP_PRIORITY:i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzip, d
+eflate, br, zstd Accept-Language: en-US,en;q=0.9 Cookie: AWSALBTG=75JmcxLB5KWypygf2dPRjMsmDp9d8f1OfxFuVkmw9
+O3t2fruA+L3FsRIMyZ7R19t6QimN07DwH0xtEfaVEvUH0/zrbgcheWMnNbKLrqXqWGGzWsneyIaSFrYK3bbQeFlpK92TukB4B
+UwMtOcj4LF4lZpPL2hv31agfdA2IaqZqNJ; AWSALBTGCORS=75JmcxLB5KWypygf2dPRjMsmDp9d8f1OfxFuVkmw9O3t2fruA
++L3FsRIMyZ7R19t6QimN07DwH0xtEfaVEvUH0/zrbgcheWMnNbKLrqXqWGGzWsneyIaSFrYK3bbQeFlpK92TukB4BUwMtOcj
+4LF4lZpPL2hv31agfdA2IaqZqNJ; AWSALB=6nHNCk6xx7BpOys3vtz/NDwsCimOVoLtiBCCBUQvFEuZ5fDmDnJ4/jNQhu3ADp
+LejzVhRC6MpUH3lY1EFtVaRLyfPJg7Yw68LIFpveHgcwYDVu/EDn5n0jlQcFLh; AWSALBCORS=6nHNCk6xx7BpOys3vtz/ND
+wsCimOVoLtiBCCBUQvFEuZ5fDmDnJ4/jNQhu3ADpLejzVhRC6MpUH3lY1EFtVaRLyfPJg7Yw68LIFpveHgcwYDVu/EDn5n0jlQ
+cFLh Host: socrmail.r1.rpost.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x6
+4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36 X-Forwarded-For: 51.54.38.112 X-Forward
+ed-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d5230e-470434994724b6bd7ae54adb sec-ch-ua: "Not;A Br
+and";v="99", "Google Chrome";v="142", "Chromium";v="142" sec-ch-ua-arch: x64 sec-ch-ua-bitness: 64 sec-ch-ua-full-versio
+n: "142.0.7444.163" sec-ch-ua-full-version-list: "Chrome";v="142.0.7444.163" sec-ch-ua-mobile: ?0 sec-ch-ua-model: Surface
+Pro sec-ch-ua-platform: Windows sec-ch-ua-platform-version: 15.0.0 sec-fetch-site: same-site sec-fetch-mode: no-cors sec-fet
+ch-dest: image priority: i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN
+=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v3/MfVDhmJWjV9JjWernCvbKLzRSAtPgc2fTKbfe4sAMjAx.gif 192.168.20.
+111 192.168.20.111 37564 GET /oatv_v3/MfVDhmJWjV9JjWernCvbKLzRSAtPgc2fTKbfe4sAMjAx.gif socrmail.r1.rpost.net 443
+1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v3/MfVDhmJWjV9JjWernCvbKLzRSAtPgc2fTKbfe4sAMjAx.gif image/avif,image/webp,i
+mage/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 AWSALBTG=75JmcxLB5KWypygf2dPRj
+MsmDp9d8f1OfxFuVkmw9O3t2fruA+L3FsRIMyZ7R19t6QimN07DwH0xtEfaVEvUH0/zrbgcheWMnNbKLrqXqWGGzWsneyIaS
+FrYK3bbQeFlpK92TukB4BUwMtOcj4LF4lZpPL2hv31agfdA2IaqZqNJ; AWSALBTGCORS=75JmcxLB5KWypygf2dPRjMsmDp9
+d8f1OfxFuVkmw9O3t2fruA+L3FsRIMyZ7R19t6QimN07DwH0xtEfaVEvUH0/zrbgcheWMnNbKLrqXqWGGzWsneyIaSFrYK3bb
+QeFlpK92TukB4BUwMtOcj4LF4lZpPL2hv31agfdA2IaqZqNJ; AWSALB=6nHNCk6xx7BpOys3vtz/NDwsCimOVoLtiBCCBUQvF
+EuZ5fDmDnJ4/jNQhu3ADpLejzVhRC6MpUH3lY1EFtVaRLyfPJg7Yw68LIFpveHgcwYDVu/EDn5n0jlQcFLh; AWSALBCORS=6n
+HNCk6xx7BpOys3vtz/NDwsCimOVoLtiBCCBUQvFEuZ5fDmDnJ4/jNQhu3ADpLejzVhRC6MpUH3lY1EFtVaRLyfPJg7Yw68LIF
+pveHgcwYDVu/EDn5n0jlQcFLh socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0 (Windows NT 10.0; Win64; x6
+4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36 51.54.38.112 https 443 Root=1-69d5230e470434994724b6bd7ae54adb "Not;A Brand";v="99", "Google Chrome";v="142", "Chromium";v="142" x64 64 "142.0.7444.163"
+"Chrome";v="142.0.7444.163" ?0 Surface Pro Windows 15.0.0 same-site no-cors image i
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:18618355670549143…
+
+9/10
+
+4/7/26, 1:09 PM
+
+Gmail - Receipt: FWD: [UBER & eBay]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Fa…
+
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+61K
+HtmlReceipt.htm
+356K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861835567054914353&simpl=msg-f:1861835567054914…
+
+10/10
+
+

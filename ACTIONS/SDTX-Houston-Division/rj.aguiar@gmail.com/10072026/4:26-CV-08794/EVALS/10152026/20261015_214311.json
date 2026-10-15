@@ -1,0 +1,78 @@
+{
+  "analysis_timestamp": "20261015_214311",
+  "application_number": "4:26-CV-08794",
+  "mode": "SDTX_FEDERAL_LITIGATION",
+  "winners": {
+    "01__": "01__4:26-CV-08794-ADVISORY-CONCISE-10152026.tex",
+    "02__": "02__4:26-CV-08794-PROPOSED-ORDER-10152026.pdf",
+    "03__": "03__4:26-CV-08794-DECLARATION-10152026.pdf",
+    "04__": "04__4:26-CV-08794-EXHIBIT-INDEX-10152026.pdf"
+  },
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Federal Court Responsive Pleading",
+    "evaluated_candidates": [
+      "01__4:26-CV-08794-ADVISORY-BALANCED-10152026.tex",
+      "01__4:26-CV-08794-ADVISORY-CONCISE-10152026.tex",
+      "01__4:26-CV-08794-ADVISORY-DEFERENTIAL-10152026.tex",
+      "01__4:26-CV-08794-ADVISORY-EXHAUSTIVE-10152026.tex",
+      "01__4:26-CV-08794-ADVISORY-INQUIRY-10152026.tex",
+      "01__4:26-CV-08794-ADVISORY-PROCEDURAL-10152026.tex"
+    ],
+    "winner": "01__4:26-CV-08794-ADVISORY-CONCISE-10152026.tex",
+    "collective_statement_most_likely_to_succeed": "The panel unanimously selects Candidate 2 (CONCISE) as the most likely to succeed. This candidate perfectly balances deferential decorum with precise federal litigation strategy. By styling the filing as both an Advisory and a 'Motion to Correct Docket Omission,' it properly prompts judicial action rather than merely placing a passive letter on the docket. Crucially, Candidate 2 requests the exact appropriate equitable remedy\u2014docketing the missing motion 'nunc pro tunc' to the date of receipt\u2014and smartly includes an alternative request for leave to re-file without penalty for untimeliness. This ensures the pro se plaintiff's substantive rights and deadlines are preserved even if the Clerk's office has permanently lost the physical document. The tone is clinical and objective, avoiding the aggressive accusations seen in Candidate 4, while remaining far more legally rigorous than Candidate 5. It strictly complies with FRCP and SDTX Local Rules, including the mandatory Certificate of Conference and Certificate of Service.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "All candidates generally adhere to SDTX formatting (margins, double-spacing, captions) and include the required signature blocks and certificates. Candidate 2 excels in R-05 (Structured Prayer for Relief) by requesting nunc pro tunc docketing and alternative leave to re-file. Candidate 4 violates R-20 (Deferential Decorum) with aggressive language accusing the Clerk of depriving due process. Candidate 3 fails the prime directive by completely missing the core factual deficiency (the omitted motion to reconsider).",
+    "candidate_scores": [
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-CONCISE-10152026.tex",
+        "rank": 1,
+        "score": 95.0,
+        "cleanliness_and_arguments": "Excellent, clinical writing style. Accurately identifies the clerical error without assigning malicious intent. The legal framing of the relief (nunc pro tunc and alternative leave to re-file) is highly sophisticated and standard for federal appellate litigators.",
+        "risks_and_liabilities": "Low risk. The motion is highly deferential and provides the Court with easy, practical avenues to cure the docketing defect without embarrassing the Clerk's office.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-BALANCED-10152026.tex",
+        "rank": 2,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Very good explanation of the docketing error. The prayer for relief is clear, but lacks the specific 'nunc pro tunc' language and the explicit request to waive untimeliness penalties found in Candidate 2.",
+        "risks_and_liabilities": "Low risk. It effectively communicates the issue, though the alternative relief is slightly less protective of the plaintiff's deadlines.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-PROCEDURAL-10152026.tex",
+        "rank": 3,
+        "score": 88.0,
+        "cleanliness_and_arguments": "Solid procedural citations, specifically referencing FRCP 4(c)(3). However, the prayer for relief is a bit too brief and lacks the protective alternative remedies.",
+        "risks_and_liabilities": "Low risk. Procedurally sound but strategically slightly weaker than Candidate 2.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-INQUIRY-10152026.tex",
+        "rank": 4,
+        "score": 82.0,
+        "cleanliness_and_arguments": "Polite and deferential, but slightly too informal ('politely inquire'). It reads more like a letter to the Clerk than a formal motion to correct the docket.",
+        "risks_and_liabilities": "Low risk of offending the Court, but moderate risk that the Court takes no formal action because it is framed merely as an 'inquiry'.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-EXHAUSTIVE-10152026.tex",
+        "rank": 5,
+        "score": 70.0,
+        "cleanliness_and_arguments": "Overly aggressive tone. Using phrases like 'rigorous audit', 'entirely failed', and claiming the omission 'deprives Plaintiff of due process' is unnecessarily combative for a simple clerical error.",
+        "risks_and_liabilities": "High risk of alienating the Court and the Clerk's office. Violates the spirit of R-20 (Deferential Decorum).",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-DEFERENTIAL-10152026.tex",
+        "rank": 6,
+        "score": 60.0,
+        "cleanliness_and_arguments": "Fundamentally flawed. It completely misses the primary issue (the missing Motion to Reconsider) and only focuses on renaming Document 11.",
+        "risks_and_liabilities": "High strategic risk. By failing to notify the Court of the missing substantive motion, the plaintiff risks waiving their right to reconsideration or missing critical deadlines.",
+        "ats_points_addressed": false
+      }
+    ]
+  },
+  "non_substantive_evaluations": {}
+}

@@ -1,0 +1,38 @@
+{
+  "index": 72,
+  "header": "# Enclosure #72: READ-RECEIPT-vera-time-com-sam-jacobs-time-com-letters-time-com-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/MEDIA/__Time-Magazine/READ-RECEIPT_vera@time.com_sam.jacobs@time.com_letters@time.com__Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-4b70cf7be4.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "vera@time.com",
+  "primary_recipient_an": "Vera Mindy Chokalingam (Time)",
+  "all_recipients": [
+    "vera@time.com",
+    "_sam.jacobs@time.com",
+    "_letters@time.com",
+    "alex.altman@time.com",
+    "massimo.calabresi@time.com",
+    "sam.jacobs@time.com",
+    "letters@time.com",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "vera@time.com": "Vera Mindy Chokalingam (Time)",
+    "_sam.jacobs@time.com": "Sam Jacobs (Time)",
+    "_letters@time.com": "Letters (Time)",
+    "alex.altman@time.com": "Alex Altman (Time)",
+    "massimo.calabresi@time.com": "Massimo Calabresi (Time)",
+    "sam.jacobs@time.com": "Sam Jacobs (Time)",
+    "letters@time.com": "Letters (Time)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04172026",
+  "original_filename": "READ-RECEIPT_vera@time.com_sam.jacobs@time.com_letters@time.com__Tier-0.pdf",
+  "patent_applications_mentioned": []
+}

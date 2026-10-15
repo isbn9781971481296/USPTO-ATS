@@ -1,0 +1,30 @@
+{
+  "index": 188,
+  "header": "# Enclosure #188: EMAIL-TO-h-iwase-nishimura-com-k-fujii-nishimura-com-n-ishikawa-nishimura-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/EMAIL-TO-h.iwase@nishimura.com_k.fujii@nishimura.com_n.ishikawa@nishimura.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-b064ba5425.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "h.iwase@nishimura.com",
+  "primary_recipient_an": "H. Iwase (Hiroyuki Nishimura)",
+  "all_recipients": [
+    "h.iwase@nishimura.com",
+    "_k.fujii@nishimura.com",
+    "n.ishikawa@nishimura.com",
+    "k.fujii@nishimura.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "h.iwase@nishimura.com": "H. Iwase (Hiroyuki Nishimura)",
+    "_k.fujii@nishimura.com": "K. Fujii (Hiroyuki Nishimura)",
+    "n.ishikawa@nishimura.com": "Ishikawa Toyonobu (Hiroyuki Nishimura)",
+    "k.fujii@nishimura.com": "K. Fujii (Hiroyuki Nishimura)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "EMAIL-TO-h.iwase@nishimura.com_k.fujii@nishimura.com_n.ishikawa@nishimura.com.pdf",
+  "patent_applications_mentioned": []
+}

@@ -1,0 +1,40 @@
+{
+  "serving_key": "4253023357",
+  "canonical_key": "scott@mobilerider.com",
+  "display_name": "Scott (MobileRider Networks)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "MobileRider Networks, LLC",
+  "full_name": "Scott",
+  "pronouns": null,
+  "title": "Executive",
+  "organization": "MobileRider Networks, LLC",
+  "domain": "mobilerider.com",
+  "addresses": {
+    "mailing_address": "Salt Lake City, UT 84101",
+    "business_address": "Salt Lake City, UT 84101",
+    "legal_service_address": "Registered Agent - MobileRider Networks, LLC, Utah"
+  },
+  "registered_agent": {
+    "name": "Registered Agent - MobileRider Networks, LLC",
+    "address": "Salt Lake City, UT",
+    "jurisdiction": "Utah"
+  },
+  "contact": {
+    "primary_email": "scott@mobilerider.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "507285539",
+      "canonical_key": "noah@mobilerider.com",
+      "display_name": "Noah Dinkin",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

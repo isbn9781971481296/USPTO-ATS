@@ -1,0 +1,48 @@
+{
+  "serving_key": "2877658106",
+  "canonical_key": "alexandre.ziegler@safrangroup.com",
+  "display_name": "Alexandre Ziegler (Safran S.A.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Safran S.A.",
+  "full_name": "Alexandre Ziegler",
+  "pronouns": null,
+  "title": "Senior Executive Vice President",
+  "organization": "Safran S.A.",
+  "domain": "safrangroup.com",
+  "addresses": {
+    "mailing_address": "2 boulevard du G\u00e9n\u00e9ral Martial Valin, 75015 Paris, France",
+    "business_address": "2 boulevard du G\u00e9n\u00e9ral Martial Valin, 75015 Paris, France",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "alexandre.ziegler@safrangroup.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 1 40 60 80 80"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "750464524",
+      "canonical_key": "_olivier.andries@safrangroup.com",
+      "display_name": "Olivier Andri\u00e8s",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1862608029",
+      "canonical_key": "olivier.andries@safrangroup.com",
+      "display_name": "Olivier Andri\u00e8s",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,26 @@
+{
+  "index": 103,
+  "header": "# Enclosure #103: EMAIL-TO-awalsh-orrick-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/EMAIL-TO-awalsh@orrick.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-email-to-awalsh@orrick.com.pdf-6f5762d8f2.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "awalsh@orrick.com",
+  "primary_recipient_an": "Awalsh (Abuse)",
+  "all_recipients": [
+    "awalsh@orrick.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "awalsh@orrick.com": "Awalsh (Abuse)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "EMAIL-TO-awalsh@orrick.com.pdf",
+  "patent_applications_mentioned": [
+    "19/559,608"
+  ]
+}

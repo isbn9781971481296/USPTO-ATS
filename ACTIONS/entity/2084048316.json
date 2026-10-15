@@ -1,0 +1,47 @@
+{
+  "serving_key": "2084048316",
+  "canonical_key": "_yutaka.miyoshi@morihamada.com",
+  "display_name": "Yutaka Miyoshi (Mori Hamada & Matsumoto)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Mori Hamada & Matsumoto",
+  "full_name": "Yutaka Miyoshi",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Mori Hamada & Matsumoto",
+  "domain": "morihamada.com",
+  "addresses": {
+    "mailing_address": "Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan",
+    "business_address": "Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan",
+    "legal_service_address": "Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan"
+  },
+  "registered_agent": {
+    "name": "Mori Hamada & Matsumoto",
+    "address": "Marunouchi Park Building, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo 100-8222, Japan",
+    "jurisdiction": "Japan"
+  },
+  "contact": {
+    "primary_email": "_yutaka.miyoshi@morihamada.com",
+    "alternative_emails": [
+      "yutaka.miyoshi@mhm-global.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+81-3-6212-8330",
+      "+81-3-6212-8301"
+    ],
+    "faxes": [
+      "+81-3-6212-8230"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3950737807",
+      "canonical_key": "akira.marumo@morihamada.com",
+      "display_name": "Akira Marumo",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

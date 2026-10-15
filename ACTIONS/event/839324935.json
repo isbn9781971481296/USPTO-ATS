@@ -1,0 +1,122 @@
+{
+  "summary_of_pdf": "This document is a certified RPost Registered Email delivery receipt serving as evidentiary proof of service for a 'Formal Notice of Proprietary Rights' and 'Initiation of Provisional Rights Period.' The notice was served upon executive leadership at Safran Group, Thales Group, and Sanofi. It asserts intellectual property claims, establishes actual notice for provisional rights under 35 U.S.C. \u00a7 154(d), and references a 'U.S. Defense Intellectual Property Blockade,' supported by attached portfolios of patent applications and defensive publications.",
+  "attorneys_comments": "This instrument provides highly robust, court-admissible forensic evidence of actual notice to foreign corporate executives, satisfying the stringent actual notice requirements of 35 U.S.C. \u00a7 154(d) for the accrual of provisional rights. The cryptographic and SMTP tracking data contained herein effectively neutralizes any prospective 'lack of notice' defenses under FRCP 8(c) in future infringement proceedings before the SDTX or the ITC. The strategic inclusion of defense-related terminology and the targeting of major European defense and pharmaceutical contractors (Safran, Thales, Sanofi) suggest a sophisticated multi-jurisdictional posture, potentially implicating 28 U.S.C. \u00a7 1498 if the accused technologies are procured by the U.S. Department of Defense. The evidentiary strength of this receipt is excellent, though counsel must ensure the underlying patent applications successfully issue as patents with claims substantially identical to those in the published applications to monetize these provisional rights.",
+  "recommended_next_steps": "1. Preserve this RPost receipt and all associated cryptographic metadata in a secure, immutable litigation hold to satisfy FRE 901 authentication requirements. 2. Monitor the pending USPTO applications referenced in the attachments for issuance to immediately convert provisional rights into actionable infringement claims. 3. Draft and serve a follow-up preservation demand (spoliation notice) to the named executives to prevent the destruction of relevant technical documents. 4. Evaluate potential 28 U.S.C. \u00a7 1498 and DFARS 227.7004 implications if the accused entities are supplying the referenced technologies to the U.S. Government.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "DFARS 227.7004",
+    "Federal Rules of Evidence 901",
+    "Provisional Rights",
+    "Actual Notice",
+    "Evidentiary Proof of Delivery",
+    "Patent Infringement",
+    "Formal Demand Letter",
+    "Foreign Corporate Defendants",
+    "Litigation Hold Trigger"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar JR",
+      "Alexandre Ziegler",
+      "Herve Derrey",
+      "Olivier Andries",
+      "Patrice Caine",
+      "Isabelle Simon",
+      "Paul Hudson",
+      "Roy Papatheodorou",
+      "Jeff Bezos",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "Safran Group",
+      "Thales Alenia Space",
+      "Thales Group",
+      "Sanofi",
+      "Amazon",
+      "RPost",
+      "Mimecast Services Limited",
+      "Cisco Systems Inc.",
+      "Sectigo Limited",
+      "DigiCert Inc",
+      "Google Trust Services"
+    ],
+    "technologies": [
+      "U.S. Defense Intellectual Property"
+    ],
+    "products": [
+      "RPost Registered Email"
+    ],
+    "government_offices": [
+      "EPO (European Patent Office)"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Brussels",
+      "Copenhagen",
+      "Madrid",
+      "Paris",
+      "London",
+      "San Jose, California",
+      "Ile-de-France"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "839324935",
+  "basefilename": "READ-RECEIPT-herve.derrey@thalesaleniaspace.com_olivier.andries@safrangroup.com_roy.papatheodorou@sanofi.com",
+  "original_filename": "READ-RECEIPT-herve.derrey@thalesaleniaspace.com_olivier.andries@safrangroup.com_roy.papatheodorou@sanofi.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04142026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "herve.derrey@thalesaleniaspace.com",
+  "primary_recipient_an": "Herve Derrey (Thales Alenia Space)",
+  "all_recipients": [
+    "herve.derrey@thalesaleniaspace.com",
+    "_olivier.andries@safrangroup.com",
+    "jeff.bezos@amazon.com",
+    "patrice.caine@thalesgroup.com",
+    "roy.papatheodorou@sanofi.com",
+    "paul.hudson@sanofi.com",
+    "isabelle.simon@thalesgroup.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "olivier.andries@safrangroup.com",
+    "alexandre.ziegler@safrangroup.com",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "herve.derrey@thalesaleniaspace.com": "Herve Derrey (Thales Alenia Space)",
+    "_olivier.andries@safrangroup.com": "Olivier Andries (Safran Group)",
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "patrice.caine@thalesgroup.com": "Patrice Caine (Thales Group)",
+    "roy.papatheodorou@sanofi.com": "Roy Papatheodorou (Sanofi S.A.)",
+    "paul.hudson@sanofi.com": "Paul Hudson (Sanofi S.A.)",
+    "isabelle.simon@thalesgroup.com": "Isabelle Simon (Thales Group)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "olivier.andries@safrangroup.com": "Olivier Andries (Safran Group)",
+    "alexandre.ziegler@safrangroup.com": "Alexandre Ziegler (Safran Group)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "15/728,640"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "index": 14,
+  "header": "# Enclosure #14: READ-RECEIPT-ch-klein-sap-com-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT-ch.klein@sap.com_Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-ch.klein@sap.com-t-5b50002982.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "ch.klein@sap.com",
+  "primary_recipient_an": "Ch Klein (SAP SE)",
+  "all_recipients": [
+    "ch.klein@sap.com",
+    "jeff.bezos@amazon.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "ch.klein@sap.com": "Ch Klein (SAP SE)",
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04162026",
+  "original_filename": "READ-RECEIPT-ch.klein@sap.com_Tier-0.pdf",
+  "patent_applications_mentioned": []
+}

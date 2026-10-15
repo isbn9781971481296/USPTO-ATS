@@ -1,0 +1,28 @@
+{
+  "index": 125,
+  "header": "# Enclosure #125: READ-RECEIPT-jwaldrop-kasowitz-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT-jwaldrop@kasowitz.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-8b9829a0eb.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jwaldrop@kasowitz.com",
+  "primary_recipient_an": "Jwaldrop (Kasowitz LLP)",
+  "all_recipients": [
+    "jwaldrop@kasowitz.com",
+    "john.haynes@alston.com",
+    "us-smtpjwaldrop@kasowitz.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jwaldrop@kasowitz.com": "Jwaldrop (Kasowitz LLP)",
+    "john.haynes@alston.com": "UTC* (Alston)",
+    "us-smtpjwaldrop@kasowitz.com": "Us Smtpjwaldrop (Kasowitz LLP)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT-jwaldrop@kasowitz.com.pdf",
+  "patent_applications_mentioned": []
+}

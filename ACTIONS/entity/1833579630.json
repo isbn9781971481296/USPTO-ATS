@@ -1,0 +1,35 @@
+{
+  "serving_key": "1833579630",
+  "canonical_key": "sitam4640@direct.kelsey-seybold.com",
+  "display_name": "sitam4640 (Kelsey-Seybold Clinic)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Kelsey-Seybold Clinic",
+  "full_name": "sitam4640",
+  "pronouns": null,
+  "title": "Healthcare Provider / Staff",
+  "organization": "Kelsey-Seybold Clinic",
+  "domain": "direct.kelsey-seybold.com",
+  "addresses": {
+    "mailing_address": "11511 Shadow Creek Pkwy, Pearland, TX 77584",
+    "business_address": "11511 Shadow Creek Pkwy, Pearland, TX 77584",
+    "legal_service_address": "CT Corporation System, 1999 Bryan St., Ste. 900, Dallas, TX 75201"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1999 Bryan St., Ste. 900, Dallas, TX 75201",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "sitam4640@direct.kelsey-seybold.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "713-442-0000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

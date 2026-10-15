@@ -1,0 +1,35 @@
+{
+  "serving_key": "1367851914",
+  "canonical_key": "city.attorney@atlantaga.gov",
+  "display_name": "City Attorney (City of Atlanta Department of Law)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "City of Atlanta Department of Law",
+  "full_name": "City Attorney",
+  "pronouns": null,
+  "title": "City Attorney",
+  "organization": "City of Atlanta Department of Law",
+  "domain": "atlantaga.gov",
+  "addresses": {
+    "mailing_address": "55 Trinity Avenue SW, Suite 5000, Atlanta, GA 30303",
+    "business_address": "55 Trinity Avenue SW, Suite 5000, Atlanta, GA 30303",
+    "legal_service_address": "55 Trinity Avenue SW, Suite 5000, Atlanta, GA 30303"
+  },
+  "registered_agent": {
+    "name": "City Attorney / Mayor of Atlanta",
+    "address": "55 Trinity Avenue SW, Atlanta, GA 30303",
+    "jurisdiction": "Georgia"
+  },
+  "contact": {
+    "primary_email": "city.attorney@atlantaga.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-404-330-6270"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

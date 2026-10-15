@@ -1,0 +1,42 @@
+{
+  "serving_key": "1465754837",
+  "canonical_key": "cmorton@robinskaplan.com",
+  "display_name": "Cyrus A. Morton (Robins Kaplan LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Robins Kaplan LLP",
+  "full_name": "Cyrus A. Morton",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Robins Kaplan LLP",
+  "domain": "robinskaplan.com",
+  "addresses": {
+    "mailing_address": "800 LaSalle Avenue, Suite 2800, Minneapolis, MN 55402",
+    "business_address": "800 LaSalle Avenue, Suite 2800, Minneapolis, MN 55402",
+    "legal_service_address": "800 LaSalle Avenue, Suite 2800, Minneapolis, MN 55402"
+  },
+  "registered_agent": {
+    "name": "Robins Kaplan LLP",
+    "address": "800 LaSalle Avenue, Suite 2800, Minneapolis, MN 55402",
+    "jurisdiction": "Minnesota"
+  },
+  "contact": {
+    "primary_email": "cmorton@robinskaplan.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 612-349-8500"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "4176969152",
+      "canonical_key": "jholdreith@robinskaplan.com",
+      "display_name": "Jake M. Holdreith",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

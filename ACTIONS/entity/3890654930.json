@@ -1,0 +1,33 @@
+{
+  "serving_key": "3890654930",
+  "canonical_key": "loretta.king@state.nm.us",
+  "display_name": "Loretta King (State of New Mexico)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "State of New Mexico",
+  "full_name": "Loretta King",
+  "pronouns": null,
+  "title": "Official / Employee",
+  "organization": "State of New Mexico",
+  "domain": "state.nm.us",
+  "addresses": {
+    "mailing_address": "State Capitol, 490 Old Santa Fe Trail, Santa Fe, NM 87501",
+    "business_address": "State Capitol, 490 Old Santa Fe Trail, Santa Fe, NM 87501",
+    "legal_service_address": "New Mexico Office of the Attorney General, 408 Galisteo Street, Villagra Building, Santa Fe, NM 87501"
+  },
+  "registered_agent": {
+    "name": "New Mexico Office of the Attorney General",
+    "address": "408 Galisteo Street, Villagra Building, Santa Fe, NM 87501",
+    "jurisdiction": "New Mexico"
+  },
+  "contact": {
+    "primary_email": "loretta.king@state.nm.us",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

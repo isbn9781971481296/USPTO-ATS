@@ -1,0 +1,60 @@
+{
+  "serving_key": "595293831",
+  "canonical_key": "surias@akingump.com",
+  "display_name": "Sergio Urias (Akin Gump Strauss Hauer & Feld LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Akin Gump Strauss Hauer & Feld LLP",
+  "full_name": "Sergio Urias",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Akin Gump Strauss Hauer & Feld LLP",
+  "domain": "akingump.com",
+  "addresses": {
+    "mailing_address": "One Bryant Park, New York, NY 10036",
+    "business_address": "One Bryant Park, New York, NY 10036",
+    "legal_service_address": "CT Corporation System, 1999 Bryan St., Ste. 900, Dallas, TX 75201"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1999 Bryan St., Ste. 900, Dallas, TX 75201",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "surias@akingump.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 212 872 1000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "856911224",
+      "canonical_key": "_mchan@akingump.com",
+      "display_name": "M. Chan",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2090769839",
+      "canonical_key": "dvondle@akingump.com",
+      "display_name": "David Vondle",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3244233626",
+      "canonical_key": "_dvondle@akingump.com",
+      "display_name": "David P. Vondle",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2480220854",
+      "canonical_key": "mchan@akingump.com",
+      "display_name": "M. Chan",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

@@ -1,0 +1,28 @@
+{
+  "index": 40,
+  "header": "# Enclosure #40: DOWNLOAD-RECEIPT-marcus-burnside-chamberlainlaw-com-HIGH-LIABILITY.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/DOWNLOAD-RECEIPT-marcus.burnside@chamberlainlaw.com__HIGH-LIABILITY.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-908494f180.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "DOWNLOAD-RECEIPT",
+  "subtype": "download_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "marcus.burnside@chamberlainlaw.com",
+  "primary_recipient_an": "Marcus Burnside (chamberlainlaw.com)",
+  "all_recipients": [
+    "marcus.burnside@chamberlainlaw.com",
+    "miller@foley.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "marcus.burnside@chamberlainlaw.com": "Marcus Burnside (chamberlainlaw.com)",
+    "miller@foley.com": "Hugh Miller Foley (Jack Foley)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "DOWNLOAD-RECEIPT-marcus.burnside@chamberlainlaw.com__HIGH-LIABILITY.pdf",
+  "patent_applications_mentioned": []
+}

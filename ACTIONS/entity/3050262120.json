@@ -1,0 +1,42 @@
+{
+  "serving_key": "3050262120",
+  "canonical_key": "rena.reiss@marriott.com",
+  "display_name": "Rena Reiss (Marriott International, Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Marriott International, Inc.",
+  "full_name": "Rena Reiss",
+  "pronouns": null,
+  "title": "Executive Vice President and General Counsel",
+  "organization": "Marriott International, Inc.",
+  "domain": "marriott.com",
+  "addresses": {
+    "mailing_address": "7750 Wisconsin Avenue, Bethesda, MD 20814",
+    "business_address": "7750 Wisconsin Avenue, Bethesda, MD 20814",
+    "legal_service_address": "c/o The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "rena.reiss@marriott.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-301-380-3000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1435575429",
+      "canonical_key": "tony.capuano@marriott.com",
+      "display_name": "Anthony Capuano",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

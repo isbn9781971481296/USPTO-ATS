@@ -1,0 +1,42 @@
+{
+  "serving_key": "3614956163",
+  "canonical_key": "stuart.levey@oracle.com",
+  "display_name": "Stuart Levey (Oracle Corporation)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Oracle Corporation",
+  "full_name": "Stuart Levey",
+  "pronouns": null,
+  "title": "Executive Vice President and Chief Legal Officer",
+  "organization": "Oracle Corporation",
+  "domain": "oracle.com",
+  "addresses": {
+    "mailing_address": "2300 Oracle Way, Austin, TX 78741",
+    "business_address": "2300 Oracle Way, Austin, TX 78741",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "stuart.levey@oracle.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-737-867-1000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "739712050",
+      "canonical_key": "safra.catz@oracle.com",
+      "display_name": "Safra Catz",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

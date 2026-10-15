@@ -1,0 +1,35 @@
+{
+  "serving_key": "1292790869",
+  "canonical_key": "andrea.gacki@treasury.gov",
+  "display_name": "Andrea Gacki (U.S. Department of the Treasury)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "U.S. Department of the Treasury",
+  "full_name": "Andrea Gacki",
+  "pronouns": "she/her",
+  "title": "Director",
+  "organization": "U.S. Department of the Treasury",
+  "domain": "treasury.gov",
+  "addresses": {
+    "mailing_address": "1500 Pennsylvania Avenue, NW, Washington, DC 20220",
+    "business_address": "1500 Pennsylvania Avenue, NW, Washington, DC 20220",
+    "legal_service_address": "U.S. Department of Justice, 950 Pennsylvania Avenue, NW, Washington, DC 20530 (pursuant to Fed. R. Civ. P. 4(i))"
+  },
+  "registered_agent": {
+    "name": "U.S. Attorney General / Office of the General Counsel (for service of process on federal officials)",
+    "address": "950 Pennsylvania Avenue, NW, Washington, DC 20530",
+    "jurisdiction": "Federal / Washington, D.C."
+  },
+  "contact": {
+    "primary_email": "andrea.gacki@treasury.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-202-622-2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

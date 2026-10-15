@@ -1,0 +1,61 @@
+{
+  "summary_of_pdf": "This document is a certified RPost delivery and read receipt confirming that Mark McCarty of Alston & Bird received and opened an inquiry regarding intellectual property representation for a 47-patent portfolio and parallel federal disclosures involving Huawei. The receipt establishes a definitive timeline of delivery and actual notice.",
+  "attorneys_comments": "From an evidentiary standpoint, this certified receipt provides robust, verifiable proof of actual notice and delivery, satisfying authentication requirements under Federal Rule of Evidence 901(b)(9). The detailed audit trail, which captures the recipient's IP address (166.198.157.16), User-Agent string (iPhone OS 18_7), and exact timestamp of opening, effectively precludes any credible denial of receipt by the target counsel. Tactically, this establishes a definitive timeline for the firm's conflict-of-interest review. This is particularly sensitive and material given Huawei's restricted status under U.S. export controls and the referenced 'Parallel Federal Disclosures,' which may implicate national security or procurement fraud reporting obligations. The primary limitation of this instrument is that it merely proves receipt of the inquiry and does not, in itself, establish an attorney-client relationship or confirm conflict clearance.",
+  "recommended_next_steps": "Preserve the native electronic receipt and all associated metadata to ensure admissibility under FRE 901 and 1001. Calendar a follow-up communication pending Alston & Bird's internal conflict check under ABA Model Rule 1.7. Prepare the substantive patent portfolio and federal disclosure materials for secure, privileged transmission upon formal execution of an engagement agreement.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "FRE 901 Authentication",
+    "Conflict of Interest Check",
+    "ABA Model Rule 1.7",
+    "Patent Portfolio Representation",
+    "Federal Disclosures",
+    "Export Control Compliance",
+    "Pre-Litigation Correspondence"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Mark McCarty",
+      "R.J. Aguiar"
+    ],
+    "companies": [
+      "Huawei",
+      "Alston & Bird",
+      "RPost"
+    ],
+    "technologies": [
+      "iPhone",
+      "iOS 18.7",
+      "RMail"
+    ],
+    "products": [],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Alston & Bird"
+    ],
+    "attorneys": [
+      "Mark McCarty"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "2749513670",
+  "basefilename": "READ-RECEIPT-mark.mccarty@alston.com",
+  "original_filename": "READ-RECEIPT-mark.mccarty@alston.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "mark.mccarty@alston.com",
+  "primary_recipient_an": "Mark McCarty (Alston)",
+  "all_recipients": [
+    "mark.mccarty@alston.com"
+  ],
+  "all_recipients_an": {
+    "mark.mccarty@alston.com": "Mark McCarty (Alston)"
+  },
+  "patent_applications": []
+}

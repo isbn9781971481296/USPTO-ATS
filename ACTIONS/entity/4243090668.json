@@ -1,0 +1,66 @@
+{
+  "serving_key": "4243090668",
+  "canonical_key": "frank-erich.hufnagel@freshfields.com",
+  "display_name": "Frank-Erich Hufnagel (Freshfields Bruckhaus Deringer LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Freshfields Bruckhaus Deringer LLP",
+  "full_name": "Frank-Erich Hufnagel",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Freshfields Bruckhaus Deringer LLP",
+  "domain": "freshfields.com",
+  "addresses": {
+    "mailing_address": "Feldm\u00fchleplatz 1, 40545 D\u00fcsseldorf, Germany",
+    "business_address": "Feldm\u00fchleplatz 1, 40545 D\u00fcsseldorf, Germany",
+    "legal_service_address": "Feldm\u00fchleplatz 1, 40545 D\u00fcsseldorf, Germany"
+  },
+  "registered_agent": {
+    "name": "Freshfields Bruckhaus Deringer LLP",
+    "address": "Feldm\u00fchleplatz 1, 40545 D\u00fcsseldorf, Germany",
+    "jurisdiction": "Germany"
+  },
+  "contact": {
+    "primary_email": "frank-erich.hufnagel@freshfields.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+49 211 49 79 0"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "933612998",
+      "canonical_key": "christopher.stothers@freshfields.com",
+      "display_name": "Christopher Stothers",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3513857768",
+      "canonical_key": "zofia.aszendorf@freshfields.com",
+      "display_name": "Zofia Aszendorf",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1435067275",
+      "canonical_key": "giles.pratt@freshfields.com",
+      "display_name": "Giles Pratt",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2953169914",
+      "canonical_key": "_giles.pratt@freshfields.com",
+      "display_name": "Giles Pratt",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "878092705",
+      "canonical_key": "lutz.riede@freshfields.com",
+      "display_name": "Lutz Riede",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

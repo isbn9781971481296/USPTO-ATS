@@ -1,0 +1,29 @@
+{
+  "index": 137,
+  "header": "# Enclosure #137: Notice-to-Amazon.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/notices/__Legal-Notices-Sent-on-May-7-2026/__Attachments/Notice_to_Amazon.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-notices-legal-notices-sent-on-may-7-2026-attachments-notice-to-amazon.pdf-963b9f3ff7.pdf",
+  "pdf_exists": true,
+  "category": "letter",
+  "prefix_hint": "LETTER",
+  "subtype": "letter",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "davidz@amazon.com",
+  "primary_recipient_an": "Davidz (Amazon.com, Inc.)",
+  "all_recipients": [
+    "davidz@amazon.com"
+  ],
+  "all_recipients_an": {
+    "davidz@amazon.com": "Davidz (Amazon.com, Inc.)"
+  },
+  "date": "05072026",
+  "original_filename": "Notice_to_Amazon.pdf",
+  "patent_applications_mentioned": [
+    "19/559,745",
+    "19/559,959",
+    "19/560,069",
+    "19/571,566",
+    "19/638,466",
+    "19/658,570"
+  ]
+}

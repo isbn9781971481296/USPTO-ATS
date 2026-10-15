@@ -1,0 +1,83 @@
+{
+  "summary_of_pdf": "The provided document is an RPost Registered Email receipt serving as verifiable evidentiary proof of delivery, opening, and content transmission for a communication titled 'RE [Huawei]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures'. It establishes an incontrovertible timeline confirming that on April 6, 2026, prospective client correspondence regarding a substantial patent portfolio and associated federal disclosures was successfully delivered to and opened by specific attorneys at Orrick and Jenner & Block.",
+  "attorneys_comments": "This RPost receipt constitutes highly probative, admissible evidence of actual notice, satisfying the authentication requirements for electronic communications under the Federal Rules of Evidence (FRE 901). By cryptographically confirming both 'Delivered' and 'Opened' statuses with corresponding IP addresses and UTC timestamps, it precludes any plausible deniability by the recipient counsel regarding their receipt of the Huawei-related IP representation inquiry. Tactically, should a dispute arise concerning the timing of disclosures, the attachment of professional duties to a prospective client (e.g., ABA Model Rule 1.18), or the receipt of sensitive federal disclosure materials, this instrument provides an unassailable evidentiary baseline. The reference to 'Parallel Federal Disclosures' alongside a '47-Patent Portfolio' involving a restricted entity (Huawei) suggests high-stakes compliance implications, potentially implicating export control regulations or national security dimensions, thereby heightening the critical nature of this documented receipt.",
+  "recommended_next_steps": "Counsel must immediately preserve the native RPost receipt email and its cryptographic attachments in a secure, tamper-evident litigation hold to ensure admissibility. Cross-reference the recipient list against internal conflict-of-interest databases to evaluate any prospective client duties triggered under ABA Model Rule 1.18. Given the involvement of Huawei and 'Federal Disclosures', it is imperative to review the transmitted substantive materials for compliance with the Export Administration Regulations (EAR) and to assess any mandatory reporting or disclosure obligations.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Prospective Client Communication",
+    "ABA Model Rule 1.18",
+    "Patent Portfolio Representation",
+    "Federal Rules of Evidence - Authentication",
+    "FRE 901",
+    "Electronic Discovery",
+    "Huawei IP Inquiry",
+    "Federal Disclosures"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "R.J. Aguiar",
+      "D. Williams",
+      "A. Swaminathan",
+      "C. Cariello",
+      "J. Rosenkranz",
+      "R. Jacobsen"
+    ],
+    "companies": [
+      "Huawei",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "Cryptographic Email Authentication",
+      "HTTP"
+    ],
+    "products": [
+      "RMail",
+      "RPost Registered Email"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Orrick",
+      "Jenner & Block"
+    ],
+    "attorneys": [
+      "D. Williams",
+      "A. Swaminathan",
+      "C. Cariello",
+      "J. Rosenkranz",
+      "R. Jacobsen"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "2751675155",
+  "basefilename": "Tier-1__READ-RECEIPT-jrosenkranz@orrick.com",
+  "original_filename": "Tier-1__READ-RECEIPT-jrosenkranz@orrick.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jrosenkranz@orrick.com",
+  "primary_recipient_an": "Jrosenkranz (Abuse)",
+  "all_recipients": [
+    "jrosenkranz@orrick.com",
+    "dwilliams@jenner.com",
+    "ccariello@orrick.com",
+    "rjacobsen@orrick.com",
+    "aswaminathan@orrick.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jrosenkranz@orrick.com": "Jrosenkranz (Abuse)",
+    "dwilliams@jenner.com": "UTC* (Kendall Nicole Jenner)",
+    "ccariello@orrick.com": "Ccariello (Abuse)",
+    "rjacobsen@orrick.com": "Rjacobsen (Abuse)",
+    "aswaminathan@orrick.com": "Aswaminathan (Abuse)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

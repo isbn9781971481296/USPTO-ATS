@@ -1,0 +1,133 @@
+{
+  "summary_of_pdf": "The provided document is a cryptographic RPost Registered Email receipt serving as evidentiary proof of delivery for an 'Urgent Legal Notice' transmitted by Reinaldo J. Aguiar Marcano on April 8, 2026. The notice was successfully delivered to and opened by senior executives at T-Mobile and their outside litigation counsel at WilmerHale, Alston & Bird, and Holland & Knight. The communication asserts claims of material technological obsolescence, demands mandatory SEC disclosures, and provides formal actual notice of a portfolio of pending USPTO patent applications pertaining to high-radix and parametric cellular and satellite communication systems. The transmission includes voluminous attachments alleging interstate wire fraud, formal criminal referrals, and a Department of Defense license grant, establishing a foundation for willful infringement and provisional damages.",
+  "attorneys_comments": "This RPost receipt constitutes highly probative, self-authenticating electronic evidence of actual notice under Federal Rules of Evidence 901 and 803(6). Tactically, the sender has successfully established an incontrovertible timeline of actual knowledge regarding the enumerated USPTO applications, which is highly relevant for accruing provisional rights under 35 U.S.C. \u00a7 154(d) and establishing the scienter requisite for willful infringement under 35 U.S.C. \u00a7 284. The inclusion of SEC disclosure demands and criminal referrals indicates an aggressive, asymmetric litigation strategy designed to exert leverage via corporate governance and compliance channels. However, the scattershot nature of the attachments\u2014combining criminal referrals, DoD grants, and whistleblower correspondence\u2014suggests a potentially pro se or highly unorthodox claimant. While this may present vulnerabilities in the claimant's ability to meet the rigorous pleading standards of Twombly and Iqbal, the defense must treat the establishment of actual notice with the utmost gravity to mitigate downstream liabilities.",
+  "recommended_next_steps": "First, immediately institute a comprehensive litigation hold encompassing all T-Mobile personnel and outside counsel identified in the receipt to prevent spoliation of evidence. Second, direct patent prosecution counsel to conduct a privileged freedom-to-operate (FTO) and validity analysis of the cited USPTO applications (e.g., 19/639,255) to assess the substantive merit of the 'technological obsolescence' assertions. Third, convene with corporate securities counsel to evaluate whether the claimant's assertions trigger any mandatory 8-K or 10-K material risk disclosure obligations under current SEC regulations. Finally, monitor the USPTO dockets for the cited applications to anticipate potential issuance and evaluate the strategic viability of filing a preemptive declaratory judgment action for non-infringement in a favorable venue.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "35 U.S.C. \u00a7 284",
+    "35 U.S.C. \u00a7 287",
+    "Fed. R. Evid. 803(6)",
+    "Fed. R. Evid. 901",
+    "Patent Infringement",
+    "Willful Infringement",
+    "SEC Material Risk Disclosure",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "Interstate Wire Fraud",
+    "Whistleblower Claim",
+    "Administrative Claim"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo J. Aguiar Marcano",
+      "Amanda Rosen",
+      "Brittany Amadi",
+      "John Saw",
+      "Joseph Mueller",
+      "David Frist",
+      "Joshua Krumholz",
+      "Srini Gopalan",
+      "Mark Nelson",
+      "Melissa Jobe",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Colin McDonald",
+      "Cody Matthew Herche",
+      "Emil Michael",
+      "Heidi Shyu"
+    ],
+    "companies": [
+      "T-Mobile",
+      "Uber",
+      "RPost",
+      "Proofpoint",
+      "Mimecast",
+      "Microsoft",
+      "Google"
+    ],
+    "technologies": [
+      "High-Radix and Parametric Cellular Communication System",
+      "High-Radix and Parametric Satellite Communication System"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [
+      "USPTO",
+      "SEC",
+      "Department of Defense",
+      "EPO"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "WilmerHale",
+      "Alston & Bird",
+      "Holland & Knight",
+      "Foley",
+      "KKC"
+    ],
+    "attorneys": [
+      "Brittany Amadi",
+      "Joseph Mueller",
+      "David Frist",
+      "Joshua Krumholz",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/640,945",
+    "19/639,255",
+    "19/639,265",
+    "19/639,258",
+    "19/639,272"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "1021340863",
+  "basefilename": "READ-RECEIPT-t-Mobile__HIGH-LIABILITY",
+  "original_filename": "READ-RECEIPT-t-Mobile__HIGH-LIABILITY.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04082026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "david.frist@alston.com",
+  "primary_recipient_an": "David Frist (Alston)",
+  "all_recipients": [
+    "david.frist@alston.com",
+    "joseph.mueller@wilmerhale.com",
+    "joshua.krumholz@hklaw.com",
+    "john.saw@tmobile.com",
+    "srini.gopalan@t-mobile.com",
+    "brittany.amadi@wilmerhale.com",
+    "melissa.jobe@t-mobile.com",
+    "amanda.rosen@t-mobile.com",
+    "john.saw@t-mobile.com",
+    "mark.nelson@t-mobile.com",
+    "mark.nelson@tmobile.com",
+    "kolmobilev6@gmail.com"
+  ],
+  "all_recipients_an": {
+    "david.frist@alston.com": "David Frist (Alston)",
+    "joseph.mueller@wilmerhale.com": "Joseph Mueller (Microsoft Corporation)",
+    "joshua.krumholz@hklaw.com": "Joshua Krumholz (hklaw.com)",
+    "john.saw@tmobile.com": "John Saw (T-Mobile US)",
+    "srini.gopalan@t-mobile.com": "Srini Gopalan (T-mobile)",
+    "brittany.amadi@wilmerhale.com": "Brittany Amadi (Microsoft Corporation)",
+    "melissa.jobe@t-mobile.com": "Melissa Jobe (T-mobile)",
+    "amanda.rosen@t-mobile.com": "Amanda Rosen (T-mobile)",
+    "john.saw@t-mobile.com": "John Saw (T-mobile)",
+    "mark.nelson@t-mobile.com": "Mark Nelson (T-mobile)",
+    "mark.nelson@tmobile.com": "Mark Nelson (T-Mobile US)",
+    "kolmobilev6@gmail.com": "Kolmobilev6 (Gmail)"
+  },
+  "patent_applications": [
+    "19/639,255",
+    "19/639,265",
+    "19/639,258",
+    "19/639,272"
+  ]
+}

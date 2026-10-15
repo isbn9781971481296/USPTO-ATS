@@ -1,0 +1,54 @@
+{
+  "serving_key": "4019067023",
+  "canonical_key": "craig.martell@lmco.com",
+  "display_name": "Craig Martell (Lockheed Martin Corporation)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Lockheed Martin Corporation",
+  "full_name": "Craig Martell",
+  "pronouns": null,
+  "title": "Employee",
+  "organization": "Lockheed Martin Corporation",
+  "domain": "lmco.com",
+  "addresses": {
+    "mailing_address": "6801 Rockledge Drive, Bethesda, MD 20817",
+    "business_address": "6801 Rockledge Drive, Bethesda, MD 20817",
+    "legal_service_address": "CSC-Lawyers Incorporating Service Company, 7 St. Paul Street, Suite 820, Baltimore, MD 21202"
+  },
+  "registered_agent": {
+    "name": "CSC-Lawyers Incorporating Service Company",
+    "address": "7 St. Paul Street, Suite 820, Baltimore, MD 21202",
+    "jurisdiction": "Maryland"
+  },
+  "contact": {
+    "primary_email": "craig.martell@lmco.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-301-897-6000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1739765362",
+      "canonical_key": "valerie.browning@lmco.com",
+      "display_name": "Valerie Browning",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3208981730",
+      "canonical_key": "_kevin.j.oconnor@lmco.com",
+      "display_name": "Kevin J. O'Connor",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "4096408517",
+      "canonical_key": "kevin.j.oconnor@lmco.com",
+      "display_name": "Kevin J. O'Connor",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

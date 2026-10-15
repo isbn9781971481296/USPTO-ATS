@@ -1,0 +1,43 @@
+{
+  "index": 104,
+  "header": "# Enclosure #104: READ-RECEIPT-ATT.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/__TIER-1/READ-RECEIPT-ATT.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-tier-1-read-receipt-att.pdf-a0eb52b5c6.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "david.benyacar@arnoldporter.com",
+  "primary_recipient_an": "David Benyacar (arnoldporter.com)",
+  "all_recipients": [
+    "david.benyacar@arnoldporter.com",
+    "wkadaba@ktslaw.com",
+    "cshenk@sidley.com",
+    "david.mccombs@haynesboone.com",
+    "liv.herriot@sidley.com",
+    "scott.frank@att.com",
+    "nikhil.marathe@att.com",
+    "david.mcatee@att.com",
+    "kolmobilev6@gmail.com"
+  ],
+  "all_recipients_an": {
+    "david.benyacar@arnoldporter.com": "David Benyacar (arnoldporter.com)",
+    "wkadaba@ktslaw.com": "Wkadaba (ktslaw.com)",
+    "cshenk@sidley.com": "Cshenk (Sidley Austin LLP)",
+    "david.mccombs@haynesboone.com": "David McCombs (haynesboone.com)",
+    "liv.herriot@sidley.com": "Liv Herriot (Sidley Austin LLP)",
+    "scott.frank@att.com": "Scott Frank (ATT)",
+    "nikhil.marathe@att.com": "Nikhil Marathe (ATT)",
+    "david.mcatee@att.com": "David McAtee (ATT)",
+    "kolmobilev6@gmail.com": "Kolmobilev6 (Gmail)"
+  },
+  "date": "04082026",
+  "original_filename": "READ-RECEIPT-ATT.pdf",
+  "patent_applications_mentioned": [
+    "19/639,255",
+    "19/639,265",
+    "19/639,258",
+    "19/639,272"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "index": 6,
+  "header": "# Enclosure #6: READ-RECEIPT-Best-Buy-CEO-and-CLO-HIGH-LIABILITY.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/__HIGH-Legal-Liability/READ-RECEIPT-Best-Buy-CEO-and-CLO__HIGH-LIABILITY.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-high-legal-liability-read-receipt-b-b3ccb507b9.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "todd.hartman@bestbuy.com",
+  "primary_recipient_an": "Todd Hartman (Best Buy Co., Inc.)",
+  "all_recipients": [
+    "todd.hartman@bestbuy.com",
+    "corie.barry@bestbuy.com",
+    "jholdreith@robinskaplan.com",
+    "cmorton@robinskaplan.com",
+    "lisa.caldwell@klarquist.com",
+    "chris.carraway@klarquist.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "smtpthread-60825481775761307013@us-mta-322.us",
+    "smtpthread-59680301775761305373@us-mta-604.us"
+  ],
+  "all_recipients_an": {
+    "todd.hartman@bestbuy.com": "Todd Hartman (Best Buy Co., Inc.)",
+    "corie.barry@bestbuy.com": "Corie Barry (Best Buy Co., Inc.)",
+    "jholdreith@robinskaplan.com": "Jholdreith (Robins Kaplan LLP)",
+    "cmorton@robinskaplan.com": "Cmorton (Robins Kaplan LLP)",
+    "lisa.caldwell@klarquist.com": "Lisa Caldwell (Klarquist Sparkman, LLP)",
+    "chris.carraway@klarquist.com": "Chris Carraway (Klarquist Sparkman, LLP)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "smtpthread-60825481775761307013@us-mta-322.us": "Smtpthread (Us-mta-322)",
+    "smtpthread-59680301775761305373@us-mta-604.us": "Smtpthread (Us-mta-604)"
+  },
+  "date": "04092026",
+  "original_filename": "READ-RECEIPT-Best-Buy-CEO-and-CLO__HIGH-LIABILITY.pdf",
+  "patent_applications_mentioned": [
+    "17/757,610"
+  ]
+}

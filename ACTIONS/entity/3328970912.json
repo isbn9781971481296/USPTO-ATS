@@ -1,0 +1,66 @@
+{
+  "serving_key": "3328970912",
+  "canonical_key": "investor_relations@cisco.com",
+  "display_name": "Investor Relations (Cisco Systems, Inc.)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Cisco Systems, Inc.",
+  "full_name": "Investor Relations",
+  "pronouns": null,
+  "title": "Corporate Communications",
+  "organization": "Cisco Systems, Inc.",
+  "domain": "cisco.com",
+  "addresses": {
+    "mailing_address": "170 West Tasman Dr., San Jose, CA 95134",
+    "business_address": "170 West Tasman Dr., San Jose, CA 95134",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "investor_relations@cisco.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-408-526-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "578043401",
+      "canonical_key": "relations@cisco.com",
+      "display_name": "Cisco Systems, Inc.",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2964042612",
+      "canonical_key": "jowarner@cisco.com",
+      "display_name": "Jo Warner",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2088283682",
+      "canonical_key": "bod@cisco.com",
+      "display_name": "Board of Directors",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1561405291",
+      "canonical_key": "agrieco@cisco.com",
+      "display_name": "Anthony Grieco",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "4010094607",
+      "canonical_key": "psirt@cisco.com",
+      "display_name": "Product Security Incident Response Team",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

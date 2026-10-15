@@ -1,0 +1,40 @@
+{
+  "serving_key": "2941389171",
+  "canonical_key": "giorgio.fossati@stellantis.com",
+  "display_name": "Giorgio Fossati (Stellantis N.V.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Stellantis N.V.",
+  "full_name": "Giorgio Fossati",
+  "pronouns": null,
+  "title": "General Counsel",
+  "organization": "Stellantis N.V.",
+  "domain": "stellantis.com",
+  "addresses": {
+    "mailing_address": "Taurusavenue 1, 2132 LS Hoofddorp, Netherlands",
+    "business_address": "Taurusavenue 1, 2132 LS Hoofddorp, Netherlands",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "giorgio.fossati@stellantis.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "712185904",
+      "canonical_key": "antonio.filosa@stellantis.com",
+      "display_name": "Antonio Filosa",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

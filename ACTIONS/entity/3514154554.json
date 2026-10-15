@@ -1,0 +1,35 @@
+{
+  "serving_key": "3514154554",
+  "canonical_key": "snadella@microsoft.com",
+  "display_name": "Satya Nadella (Microsoft Corporation)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Microsoft Corporation",
+  "full_name": "Satya Nadella",
+  "pronouns": null,
+  "title": "Chairman and Chief Executive Officer",
+  "organization": "Microsoft Corporation",
+  "domain": "microsoft.com",
+  "addresses": {
+    "mailing_address": "One Microsoft Way, Redmond, WA 98052-6399",
+    "business_address": "One Microsoft Way, Redmond, WA 98052-6399",
+    "legal_service_address": "c/o Corporation Service Company, 300 Deschutes Way SW, Suite 208 MC-INV01, Tumwater, WA 98501"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "300 Deschutes Way SW, Suite 208 MC-INV01, Tumwater, WA 98501",
+    "jurisdiction": "Washington"
+  },
+  "contact": {
+    "primary_email": "snadella@microsoft.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-425-882-8080"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

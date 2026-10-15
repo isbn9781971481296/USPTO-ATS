@@ -1,0 +1,24 @@
+{
+  "index": 145,
+  "header": "# Enclosure #145: READ-RECEIPT-bruce-goldner-skadden-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT-bruce.goldner@skadden.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-e6bf1c7385.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "bruce.goldner@skadden.com",
+  "primary_recipient_an": "Bruce Goldner (Skadden)",
+  "all_recipients": [
+    "bruce.goldner@skadden.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "bruce.goldner@skadden.com": "Bruce Goldner (Skadden)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "READ-RECEIPT-bruce.goldner@skadden.com.pdf",
+  "patent_applications_mentioned": []
+}

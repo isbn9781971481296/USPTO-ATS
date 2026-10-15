@@ -1,0 +1,35 @@
+{
+  "serving_key": "2116768465",
+  "canonical_key": "_roy_holliman@nal.com",
+  "display_name": "Roy Holliman (North American Lighting, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "North American Lighting, Inc.",
+  "full_name": "Roy Holliman",
+  "pronouns": null,
+  "title": "Corporate Contact",
+  "organization": "North American Lighting, Inc.",
+  "domain": "nal.com",
+  "addresses": {
+    "mailing_address": "2275 S Main St, Paris, IL 61944",
+    "business_address": "2275 S Main St, Paris, IL 61944",
+    "legal_service_address": "CT Corporation System, 208 S LaSalle St, Suite 814, Chicago, IL 60604"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "208 S LaSalle St, Suite 814, Chicago, IL 60604",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "_roy_holliman@nal.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-217-465-6600"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

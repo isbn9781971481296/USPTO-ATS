@@ -1,0 +1,50 @@
+{
+  "index": 140,
+  "header": "# Enclosure #140: READ-RECEIPT-MAERSK-et-Al-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT-MAERSK-et-Al__Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-30dda04b59.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "cheryl.acker@gard.no",
+  "primary_recipient_an": "Cheryl Acker (Garden)",
+  "all_recipients": [
+    "cheryl.acker@gard.no",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "legal@euronav.com",
+    "ymeniere@epo.org",
+    "ir@maersk.com",
+    "gianni.onorato@msc.com",
+    "marc.lipman@lloyds.com",
+    "gardna@gard.no",
+    "nsimon@epo.org",
+    "lba@frontmgt.no",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "cheryl.acker@gard.no": "Cheryl Acker (Garden)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "legal@euronav.com": "Legal (Abuse)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "ir@maersk.com": "Ir (A.P. Moller - Maersk A/S)",
+    "gianni.onorato@msc.com": "Gianni Onorato (Divya Quamara)",
+    "marc.lipman@lloyds.com": "Marc Lipman (Lloyds Bank plc)",
+    "gardna@gard.no": "Gardna (Garden)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "lba@frontmgt.no": "Lba (frontmgt.no)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04102026",
+  "original_filename": "READ-RECEIPT-MAERSK-et-Al__Tier-0.pdf",
+  "patent_applications_mentioned": [
+    "15/728,640"
+  ]
+}

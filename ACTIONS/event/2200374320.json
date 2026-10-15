@@ -1,0 +1,92 @@
+{
+  "summary_of_pdf": "RPost Registered Email receipt providing irrefutable evidentiary proof of delivery, message content, and actual notice of a prospective client inquiry sent by RJ Aguiar to attorneys at Munck Wilson. The inquiry seeks IP representation for a 47-patent portfolio while simultaneously disclosing highly sensitive parallel federal actions, including an SEC whistleblower complaint (TCR 17742-648-351-976), formal criminal referrals for interstate wire fraud and whistleblower retaliation against specific individuals (Cody Matthew Herche, Colin McDonald), and prior communications with other counsel (Foley) and whistleblower advocacy groups (GAP, KKC).",
+  "attorneys_comments": "This instrument establishes absolute evidentiary proof of delivery and actual notice to Munck Wilson attorneys via RPost's cryptographic tracking, neutralizing any future 'failure to receive' defenses. Tactically, the prospective client is heavily papering the file with explosive collateral litigation, including SEC whistleblower claims and formal criminal referrals against individuals designated as 'Honorable' (suggesting potential judicial officers, ALJs, or senior agency officials). The inclusion of prior communications with Foley & Lardner, the Government Accountability Project, and KKC indicates a highly volatile, multi-front, and potentially vexatious litigation posture. Counsel must immediately recognize the ABA Model Rule 1.18 (Duties to Prospective Client) implications. The substantive claims appear sprawling, blending patent prosecution with 18 U.S.C. \u00a7 1343 (Wire Fraud) and 18 U.S.C. \u00a7 1513 (Retaliation). The primary liability for receiving counsel is inadvertent entanglement in the whistleblower's retaliation claims or failure to properly handle the SEC TCR disclosures.",
+  "recommended_next_steps": "1. Immediately initiate comprehensive conflict checks against all named entities (Aguiar, Herche, McDonald, Foley, GAP, KKC). 2. Quarantine the SEC TCR and criminal referral attachments to prevent unauthorized internal dissemination or inadvertent waiver of any applicable privileges. 3. Draft and transmit a formal, unambiguous non-engagement letter via certified means to preclude the formation of an implied attorney-client relationship and to explicitly disclaim any tolling of statutes of limitations. 4. Do not provide any substantive legal assessment of the patent portfolio or the criminal referrals in the declination correspondence.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "SEC Whistleblower (TCR)",
+    "15 U.S.C. \u00a7 78u-6",
+    "18 U.S.C. \u00a7 1343 (Wire Fraud)",
+    "18 U.S.C. \u00a7 1513 (Whistleblower Retaliation)",
+    "ABA Model Rule 1.18 (Prospective Client)",
+    "Patent Prosecution",
+    "Criminal Referral",
+    "Administrative Claim"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "M. McCabe",
+      "S. Khoshbin"
+    ],
+    "companies": [
+      "RPost",
+      "Munck Wilson",
+      "Foley",
+      "Google",
+      "Barracuda Networks, Inc.",
+      "DigiCert Inc"
+    ],
+    "technologies": [
+      "RMail",
+      "SMTP",
+      "TLSv1.2",
+      "ECDHE-RSA-AES256-GCM-SHA384",
+      "ECDHE-ECDSA-AES128-GCM-SHA256"
+    ],
+    "products": [
+      "Surface Pro",
+      "Google Chrome",
+      "Mozilla Firefox"
+    ],
+    "government_offices": [
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project (GAP)"
+    ],
+    "prominent_locations": [
+      "Campbell, California"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Munck Wilson",
+      "Foley",
+      "KKC"
+    ],
+    "attorneys": [
+      "Terrell Miller",
+      "Vanessa Miller",
+      "M. McCabe",
+      "S. Khoshbin"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "2200374320",
+  "basefilename": "READ-RECEIPT_mmccabe@munckwilson.com",
+  "original_filename": "READ-RECEIPT_mmccabe@munckwilson.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "mmccabe@munckwilson.com",
+  "primary_recipient_an": "Mmccabe (munckwilson.com)",
+  "all_recipients": [
+    "mmccabe@munckwilson.com",
+    "skhoshbin@munckwilson.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "mmccabe@munckwilson.com": "Mmccabe (munckwilson.com)",
+    "skhoshbin@munckwilson.com": "Skhoshbin (munckwilson.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

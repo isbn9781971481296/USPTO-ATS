@@ -1,0 +1,35 @@
+{
+  "index": 74,
+  "header": "# Enclosure #74: EMAIL-TO-behrhart-tesla-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/__Legal-Notices-Sent-on-May-7-2026/EMAIL-TO-behrhart@tesla.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-fc725205af.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "legal@tesla.com",
+  "primary_recipient_an": "Legal (Tesla, Inc.)",
+  "all_recipients": [
+    "legal@tesla.com",
+    "behrhart@tesla.com",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "legal@tesla.com": "Legal (Tesla, Inc.)",
+    "behrhart@tesla.com": "Behrhart (Tesla, Inc.)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "05072026",
+  "original_filename": "EMAIL-TO-behrhart@tesla.com.pdf",
+  "patent_applications_mentioned": [
+    "19/560,042",
+    "19/571,566",
+    "19/638,466",
+    "19/559,608",
+    "19/559,972",
+    "19/658,570"
+  ]
+}

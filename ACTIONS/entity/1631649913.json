@@ -1,0 +1,33 @@
+{
+  "serving_key": "1631649913",
+  "canonical_key": "sanjeev.mehta@verizon.com",
+  "display_name": "Sanjeev Mehta (Verizon Communications Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Verizon Communications Inc.",
+  "full_name": "Sanjeev Mehta",
+  "pronouns": null,
+  "title": "Associate General Counsel",
+  "organization": "Verizon Communications Inc.",
+  "domain": "verizon.com",
+  "addresses": {
+    "mailing_address": "One Verizon Way, Basking Ridge, NJ 07920",
+    "business_address": "1095 Avenue of the Americas, New York, NY 10036",
+    "legal_service_address": "Corporation Trust Center, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "Corporation Trust Center, 1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "sanjeev.mehta@verizon.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,75 @@
+{
+  "summary_of_pdf": "This document is a certified RMail delivery and read receipt serving as evidentiary proof that an 'Urgent Legal Notice' was successfully delivered to and opened by Sanjeev Mehta at Verizon on April 8, 2026. The underlying notice asserts claims of 'Material Technological Obsolescence' and demands 'Mandatory SEC Disclosure' in connection with five specified USPTO patent applications, establishing a foundation for actual notice and potential willful infringement.",
+  "attorneys_comments": "This certified receipt is a highly valuable evidentiary artifact. By utilizing RPost's registered email technology, the sender has secured a robust, legally admissible audit trail\u2014complete with IP addresses, server routing data, and precise timestamps\u2014that effectively neutralizes any 'failure to receive' or 'spam folder' defenses typically raised by corporate defendants. From a tactical standpoint, this perfects actual notice under 35 U.S.C. \u00a7 154(d) for provisional rights and lays the groundwork for enhanced damages for willful infringement under 35 U.S.C. \u00a7 284 once the patents issue. Furthermore, the explicit reference to 'Mandatory SEC Disclosure' indicates a sophisticated pressure strategy designed to force Verizon's general counsel to evaluate the dispute for materiality under SEC Regulation S-K, thereby escalating the dispute to the C-suite and board level. Counsel must ensure the native XML and HTML attachments are preserved in their unaltered state to satisfy authentication requirements under Federal Rule of Evidence 901(b)(9).",
+  "recommended_next_steps": "1. Preserve the native DeliveryReceipt.xml and HtmlReceipt.htm files in a secure, write-protected litigation hold environment to ensure admissibility under FRE 901. 2. Monitor Verizon's upcoming SEC 10-Q and 10-K filings to determine if the asserted technological obsolescence and IP risks were disclosed to shareholders. 3. Track the prosecution status of the five cited USPTO applications to immediately file suit upon issuance, leveraging this receipt to claim pre-issuance damages under 35 U.S.C. \u00a7 154(d). 4. Draft a preservation demand letter to Verizon's Office of the General Counsel referencing this specific tracking number (46792AA33B2727257AA0518676687965E1925902) to trigger spoliation liabilities if internal communications regarding this notice are destroyed.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Pre-Litigation Demand",
+    "35 U.S.C. \u00a7 154(d)",
+    "35 U.S.C. \u00a7 284",
+    "Willful Infringement",
+    "SEC Material Risk Disclosure",
+    "Federal Rules of Evidence 901",
+    "Corporate Governance",
+    "Patent Prosecution"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Sanjeev Mehta"
+    ],
+    "companies": [
+      "Verizon",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "RPost Technology",
+      "Registered Email"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [
+    "19/640,945",
+    "19/639,255",
+    "19/639,265",
+    "19/639,258",
+    "19/639,272"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "1631649913",
+  "basefilename": "READ-RECEIPT-sanjeev.mehta@verizon.com",
+  "original_filename": "READ-RECEIPT-sanjeev.mehta@verizon.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04082026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "sanjeev.mehta@verizon.com",
+  "primary_recipient_an": "Sanjeev Mehta (Verizon Communications)",
+  "all_recipients": [
+    "sanjeev.mehta@verizon.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "sanjeev.mehta@verizon.com": "Sanjeev Mehta (Verizon Communications)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "19/639,255",
+    "19/639,265",
+    "19/639,258",
+    "19/639,272"
+  ]
+}

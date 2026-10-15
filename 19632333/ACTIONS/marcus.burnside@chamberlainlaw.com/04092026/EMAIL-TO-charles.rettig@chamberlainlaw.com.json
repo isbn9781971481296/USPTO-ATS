@@ -1,0 +1,44 @@
+{
+  "index": 132,
+  "header": "# Enclosure #132: EMAIL-TO-charles-rettig-chamberlainlaw-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/EMAIL-TO-charles.rettig@chamberlainlaw.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-f22f847063.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "marcus.burnside@chamberlainlaw.com",
+  "primary_recipient_an": "Marcus Burnside (chamberlainlaw.com)",
+  "all_recipients": [
+    "marcus.burnside@chamberlainlaw.com",
+    "david.aughtry@chamberlainlaw.com",
+    "charles.rettig@chamberlainlaw.com",
+    "c.kirchner@chamberlainlaw.com",
+    "larry.campagna@chamberlainlaw.com",
+    "aly.dossa@chamberlainlaw.com",
+    "zpritchard@zanpritchardlaw.com",
+    "habeeb.gnaim@chamberlainlaw.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "marcus.burnside@chamberlainlaw.com": "Marcus Burnside (chamberlainlaw.com)",
+    "david.aughtry@chamberlainlaw.com": "David Aughtry (chamberlainlaw.com)",
+    "charles.rettig@chamberlainlaw.com": "Charles Rettig (chamberlainlaw.com)",
+    "c.kirchner@chamberlainlaw.com": "C. Kirchner (chamberlainlaw.com)",
+    "larry.campagna@chamberlainlaw.com": "Larry Campagna (chamberlainlaw.com)",
+    "aly.dossa@chamberlainlaw.com": "Aly Dossa (chamberlainlaw.com)",
+    "zpritchard@zanpritchardlaw.com": "Zpritchard (zanpritchardlaw.com)",
+    "habeeb.gnaim@chamberlainlaw.com": "Habeeb Gnaim (chamberlainlaw.com)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "EMAIL-TO-charles.rettig@chamberlainlaw.com.pdf",
+  "patent_applications_mentioned": [
+    "19/632,333",
+    "19/640,945",
+    "19/559,957"
+  ]
+}

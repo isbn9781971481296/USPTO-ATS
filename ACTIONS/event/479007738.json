@@ -1,0 +1,104 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Receipt serving as cryptographic, court-admissible proof of delivery for a formal notice of proprietary rights sent by RJ Aguiar, Jr. to IBM executives, including CEO Arvind Krishna. The underlying communication asserts intellectual property rights concerning quantum-centric supercomputing and hybrid cloud architectures, explicitly seeking to trigger the provisional rights period under 35 U.S.C. \u00a7 154(d) and demanding corporate due diligence. The receipt verifies the exact time of delivery, server routing, and the specific attachments transmitted, which include references to European Patent Office (EPO) defensive publications and prior notices to Amazon.",
+  "attorneys_comments": "This instrument is a highly formalized evidentiary record designed to establish actual notice, a prerequisite for accruing provisional damages under 35 U.S.C. \u00a7 154(d) and a foundational element for pleading willful infringement. The tactical deployment of RPost provides robust, self-authenticating metadata (SMTP logs, IP tracking, and cryptographic timestamps) that will easily satisfy the authentication requirements of Federal Rule of Evidence 901, effectively preempting any 'failure to notify' or 'spoliation' defenses by the recipient. The inclusion of attachments referencing Amazon and the EPO suggests a coordinated, multi-jurisdictional enforcement posture. However, the sender's utilization of a standard Gmail address, despite the sophisticated delivery mechanism, may indicate a pro se litigant or a non-practicing entity (NPE) operating without retained outside counsel. While the evidentiary strength of the delivery is unassailable, substantive liability will hinge entirely on the validity, enforceability, and claim construction of the underlying patent applications referenced in the 'D132' portfolio.",
+  "recommended_next_steps": "1. Preserve this RPost receipt and all associated metadata in a secure, tamper-evident repository to ensure evidentiary integrity. 2. Initiate a comprehensive Freedom to Operate (FTO) and validity analysis on the sender's referenced patent portfolio (D132) and any associated published applications. 3. Institute an immediate litigation hold on all internal communications and development documents regarding quantum-centric supercomputing and hybrid cloud architectures. 4. Draft a formal, non-substantive acknowledgment of receipt that explicitly reserves all rights, defenses, and counterclaims, avoiding any admissions of validity or infringement.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Provisional Rights",
+    "Patent Infringement",
+    "Formal Demand Letter",
+    "Evidentiary Proof of Delivery",
+    "Willful Infringement",
+    "FRE 901 Authentication",
+    "Quantum Computing",
+    "Hybrid Cloud Architecture",
+    "Actual Notice"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Arvind Krishna",
+      "Jeff Bezos",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "IBM",
+      "Amazon",
+      "RPost",
+      "Proofpoint, Inc.",
+      "Sectigo Limited",
+      "Google"
+    ],
+    "technologies": [
+      "Quantum-Centric Supercomputing",
+      "Hybrid Cloud Architectures",
+      "Registered Email",
+      "Cryptographic Timestamping"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [
+      "European Patent Office (EPO)"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "California",
+      "Great Britain"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "479007738",
+  "basefilename": "READ-RECEIPT-2__arvind.krishna@ibm.com",
+  "original_filename": "READ-RECEIPT-2__arvind.krishna@ibm.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04162026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jeff.bezos@amazon.com",
+  "primary_recipient_an": "Jeff Bezos (Amazon.com, Inc.)",
+  "all_recipients": [
+    "jeff.bezos@amazon.com",
+    "arvind.krishna@ibm.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "akrishna@ibm.com",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "arvind.krishna@ibm.com": "Arvind Krishna (International Business Machines Corporation)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "akrishna@ibm.com": "Arvind Krishna (International Business Machines Corporation)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

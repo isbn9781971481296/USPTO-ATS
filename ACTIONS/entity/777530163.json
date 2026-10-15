@@ -1,0 +1,35 @@
+{
+  "serving_key": "777530163",
+  "canonical_key": "gianni.onorato@msc.com",
+  "display_name": "Gianni Onorato (MSC Cruises)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "MSC Cruises",
+  "full_name": "Gianni Onorato",
+  "pronouns": null,
+  "title": "Chief Executive Officer",
+  "organization": "MSC Cruises",
+  "domain": "msc.com",
+  "addresses": {
+    "mailing_address": "Avenue Eug\u00e8ne-Pittard 16, 1206 Geneva, Switzerland",
+    "business_address": "Avenue Eug\u00e8ne-Pittard 16, 1206 Geneva, Switzerland",
+    "legal_service_address": "c/o CT Corporation System, 1200 South Pine Island Road, Plantation, FL 33324"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1200 South Pine Island Road, Plantation, FL 33324",
+    "jurisdiction": "Florida"
+  },
+  "contact": {
+    "primary_email": "gianni.onorato@msc.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+41 22 703 88 88"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

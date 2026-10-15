@@ -1,0 +1,56 @@
+{
+  "serving_key": "4207758035",
+  "canonical_key": "_k.fujii@nishimura.com",
+  "display_name": "K. Fujii (Nishimura & Asahi)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Nishimura & Asahi",
+  "full_name": "K. Fujii",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Nishimura & Asahi",
+  "domain": "nishimura.com",
+  "addresses": {
+    "mailing_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "business_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "legal_service_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan"
+  },
+  "registered_agent": {
+    "name": "Nishimura & Asahi (Head Office)",
+    "address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "jurisdiction": "Tokyo, Japan"
+  },
+  "contact": {
+    "primary_email": "_k.fujii@nishimura.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+81-3-6250-6200"
+    ],
+    "faxes": [
+      "+81-3-6250-7200"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3765045850",
+      "canonical_key": "n.ishikawa@nishimura.com",
+      "display_name": "N. Ishikawa",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1937574300",
+      "canonical_key": "h.iwase@nishimura.com",
+      "display_name": "Hitomi Iwase",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2898481022",
+      "canonical_key": "k.fujii@nishimura.com",
+      "display_name": "K. Fujii",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

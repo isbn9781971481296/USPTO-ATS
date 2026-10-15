@@ -1,0 +1,73 @@
+{
+  "summary_of_pdf": "This document is a Registered Email serving as a formal legal notice of an alleged systemic privacy breach and whistleblower retaliation. The sender, Reinaldo Aguiar Marcano, asserts that following his submission of whistleblower reports to the IRS, OFAC, FinCEN, and the SEC, the reported entities improperly influenced the IRS to issue a retaliatory CP14 notice against him. The communication provides actual notice to an IRS official, Dottie Romo, and references concurrent administrative appeals filed with the IRS, CRCO, and TIGTA.",
+  "attorneys_comments": "Upon review of this instrument, the claimant's utilization of RPost Registered Email provides a highly verifiable, cryptographically sealed evidentiary timestamp and proof of delivery, which will be instrumental in authenticating the communication under Federal Rule of Evidence 901. Procedurally, the claimant is attempting to establish a prima facie case of whistleblower retaliation by alleging a close temporal proximity (less than two weeks) between his protected disclosures to federal financial regulators and an adverse administrative action (the IRS CP14 notice). However, the substantive allegation that private entities weaponized the Internal Revenue Service as a 'tool of retaliation' presents a formidable evidentiary burden, requiring clear and convincing proof of improper third-party influence over federal agency adjudications. While direct communication with an individual IRS employee outside of formal docketing channels may be procedurally irregular, it effectively establishes actual notice. Counsel must carefully monitor the exhaustion of administrative remedies before TIGTA and the CRCO prior to seeking judicial review or injunctive relief in a United States District Court.",
+  "recommended_next_steps": "1. Preserve the RPost Registered Email receipt and associated cryptographic metadata to ensure admissibility under FRE 901. 2. Formally docket the retaliation claim under the statutory frameworks of 26 U.S.C. \u00a7 7623 (IRS Whistleblower Office) and the Dodd-Frank Wall Street Reform and Consumer Protection Act, ensuring all procedural prerequisites are met. 3. Exhaust all administrative remedies with TIGTA and the CRCO to preclude a failure-to-exhaust defense by the Government under the Administrative Procedure Act (APA). 4. Review the underlying CP14 Notice to determine if a petition to the United States Tax Court or a refund suit under 28 U.S.C. \u00a7 1346 is the appropriate procedural vehicle to toll any impending collection actions.",
+  "tags": [
+    "Whistleblower Retaliation",
+    "26 U.S.C. \u00a7 7623",
+    "Administrative Procedure Act (APA)",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "Administrative Claim",
+    "IRS CP14 Notice",
+    "TIGTA Investigation",
+    "FRE 901 Authentication",
+    "Dodd-Frank Whistleblower Program"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo Aguiar Marcano",
+      "RJ Aguiar, JR.",
+      "Dottie Romo"
+    ],
+    "companies": [
+      "Goldman Sachs",
+      "Google",
+      "RPost"
+    ],
+    "technologies": [
+      "Aerospace technologies",
+      "SatComm technologies",
+      "Fleet-logistic technologies",
+      "Registered Email"
+    ],
+    "products": [
+      "RPost Registered Email"
+    ],
+    "government_offices": [
+      "Internal Revenue Service (IRS)",
+      "Office of Foreign Assets Control (OFAC)",
+      "Financial Crimes Enforcement Network (FinCEN)",
+      "Securities and Exchange Commission (SEC)",
+      "Treasury Inspector General for Tax Administration (TIGTA)",
+      "CRCO"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "366622657",
+  "basefilename": "EMAIL-TO_dottie.romo@irs.gov",
+  "original_filename": "EMAIL-TO_dottie.romo@irs.gov.pdf",
+  "category": "email",
+  "subtype": "sent_email",
+  "date": "04142026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "dottie.romo@irs.gov",
+  "primary_recipient_an": "Dottie Romo (Internal Revenue Service)",
+  "all_recipients": [
+    "dottie.romo@irs.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "dottie.romo@irs.gov": "Dottie Romo (Internal Revenue Service)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

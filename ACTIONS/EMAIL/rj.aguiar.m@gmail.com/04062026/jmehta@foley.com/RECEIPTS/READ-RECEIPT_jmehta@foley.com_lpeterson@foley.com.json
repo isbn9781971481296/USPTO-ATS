@@ -1,0 +1,26 @@
+{
+  "index": 37,
+  "header": "# Enclosure #37: READ-RECEIPT-jmehta-foley-com-lpeterson-foley-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT_jmehta@foley.com_lpeterson@foley.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-jmehta@foley.com-l-242372f2d8.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jmehta@foley.com",
+  "primary_recipient_an": "Jmehta (Jack Foley)",
+  "all_recipients": [
+    "jmehta@foley.com",
+    "lpeterson@foley.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jmehta@foley.com": "Jmehta (Jack Foley)",
+    "lpeterson@foley.com": "Lpeterson (Jack Foley)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT_jmehta@foley.com_lpeterson@foley.com.pdf",
+  "patent_applications_mentioned": []
+}

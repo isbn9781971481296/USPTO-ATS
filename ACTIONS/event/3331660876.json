@@ -1,0 +1,64 @@
+{
+  "summary_of_pdf": "This document is an RMail registered email receipt providing cryptographic and forensic proof of delivery and opening of a formal legal notice sent by RJ Aguiar, Jr. to Christophe P\u00e9rillat at Valeo on April 16, 2026. The underlying communication serves as actual notice of proprietary rights and initiates a provisional rights period under 35 U.S.C. \u00a7 154(d) concerning intellectual property directed to covert optical exfiltration via vehicular LED assemblies. It further demands due diligence, effectively placing the recipient on notice to preserve relevant evidence and avoid willful infringement.",
+  "attorneys_comments": "This registered receipt constitutes highly persuasive, court-admissible evidence of actual notice, satisfying the stringent requirements of 35 U.S.C. \u00a7 154(d) for the accrual of pre-issuance reasonable royalty damages. The forensic audit trail\u2014detailing the recipient's IP address (66.249.93.226), exact time of opening (04/16/2026 09:34:02 PM UTC), and HTTP headers\u2014forecloses any credible defense of non-receipt or lack of knowledge by Valeo's executive leadership. Procedurally, this instrument establishes a definitive temporal anchor for provisional damages and triggers immediate evidentiary preservation duties for Valeo and NAL. The subject matter indicates high-stakes intersection of automotive lighting and cybersecurity (optical side-channel exfiltration), suggesting potential dual-use or defense implications if these components are integrated into government fleet vehicles.",
+  "recommended_next_steps": "1. Securely archive the native DeliveryReceipt.xml and HtmlReceipt.htm files in a write-once, read-many (WORM) evidentiary vault to satisfy FRE 901 authentication requirements. 2. Monitor the prosecution of the underlying USPTO patent application to ensure claims issue with substantial identity to the published claims, a prerequisite for \u00a7 154(d) recovery. 3. Transmit a formal litigation hold letter to Valeo and NAL's General Counsel, explicitly referencing this confirmed delivery to maximize spoliation leverage. 4. Initiate technical monitoring of Valeo and NAL's vehicular LED product lines for infringing optical exfiltration capabilities.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Provisional Rights",
+    "Actual Notice",
+    "Evidentiary Proof of Delivery",
+    "Patent Infringement",
+    "Willful Infringement",
+    "Duty to Preserve Evidence",
+    "Federal Rules of Evidence 901",
+    "Automotive Cybersecurity",
+    "Formal Demand Letter"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Christophe Perillat"
+    ],
+    "companies": [
+      "Valeo",
+      "NAL",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "Vehicular LED Assemblies",
+      "Covert Optical Exfiltration"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "3331660876",
+  "basefilename": "READ-RECEIPT_christophe.perillat@valeo.com",
+  "original_filename": "READ-RECEIPT_christophe.perillat@valeo.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04162026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "christophe.perillat@valeo.com",
+  "primary_recipient_an": "Christophe Perillat (Valeo)",
+  "all_recipients": [
+    "christophe.perillat@valeo.com",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "christophe.perillat@valeo.com": "Christophe Perillat (Valeo)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

@@ -1,0 +1,37 @@
+{
+  "serving_key": "2138701918",
+  "canonical_key": "ir@sinopec.com",
+  "display_name": "Investor Relations (China Petroleum & Chemical Corporation)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "China Petroleum & Chemical Corporation",
+  "full_name": "Investor Relations",
+  "pronouns": null,
+  "title": "Investor Relations",
+  "organization": "China Petroleum & Chemical Corporation",
+  "domain": "sinopec.com",
+  "addresses": {
+    "mailing_address": "22 Chaoyangmen North Street, Chaoyang District, Beijing, 100728, China",
+    "business_address": "22 Chaoyangmen North Street, Chaoyang District, Beijing, 100728, China",
+    "legal_service_address": "22 Chaoyangmen North Street, Chaoyang District, Beijing, 100728, China"
+  },
+  "registered_agent": {
+    "name": "Company Secretary",
+    "address": "22 Chaoyangmen North Street, Chaoyang District, Beijing, 100728, China",
+    "jurisdiction": "People's Republic of China"
+  },
+  "contact": {
+    "primary_email": "ir@sinopec.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+86 10 5996 0028"
+    ],
+    "faxes": [
+      "+86 10 5996 0386"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

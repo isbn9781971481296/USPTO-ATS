@@ -1,0 +1,40 @@
+{
+  "index": 139,
+  "header": "# Enclosure #139: READ-RECEIPT-FAA-IAH-Tier-1.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/READ-RECEIPT-FAA-IAH__Tier-1.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-read-receipt-faa-iah-tier-1.pdf-479b8166ab.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jim.szczesniak@houstontx.gov",
+  "primary_recipient_an": "Jim Szczesniak (houstontx.gov)",
+  "all_recipients": [
+    "jim.szczesniak@houstontx.gov",
+    "arturo.michel@houstontx.gov",
+    "taneesha.marshall@faa.gov",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jim.szczesniak@houstontx.gov": "Jim Szczesniak (houstontx.gov)",
+    "arturo.michel@houstontx.gov": "Arturo Michel (houstontx.gov)",
+    "taneesha.marshall@faa.gov": "Taneesha Marshall (Federal Aviation Administration)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04102026",
+  "original_filename": "READ-RECEIPT-FAA-IAH__Tier-1.pdf",
+  "patent_applications_mentioned": []
+}

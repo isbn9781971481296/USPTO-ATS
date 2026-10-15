@@ -1,0 +1,132 @@
+{
+  "summary_of_pdf": "The document is an RPost Registered Receipt serving as evidentiary proof of delivery for a formal demand letter and notice of proprietary rights sent by RJ Aguiar, Jr. to executives at Valeo, Hella, Forvia, and North American Lighting (NAL). The underlying communication asserts intellectual property rights concerning 'covert optical exfiltration via vehicular LED assemblies' and explicitly triggers the provisional rights period under 35 U.S.C. \u00a7 154(d), providing actual notice of a portfolio of patent applications to the targeted automotive lighting manufacturers.",
+  "attorneys_comments": "This RPost receipt is a highly effective evidentiary instrument for establishing 'actual notice' under 35 U.S.C. \u00a7 154(d) (provisional rights) and 35 U.S.C. \u00a7 287 (limitation on damages). The cryptographic tracking of delivery, server handshakes, and open-tracking (e.g., confirming the email was opened by sustainability.hella@forvia.com) preempts any 'failure to notify' or 'lack of knowledge' defenses typically raised by accused infringers. The inclusion of the patent application portfolio (ISBN-9781971481296) and EPO defensive publications in the attachments solidifies the foundation for willful infringement claims and enhanced damages under 35 U.S.C. \u00a7 284 if the targets fail to conduct competent due diligence. Procedurally, while relying on a pro se or individual Gmail address for formal service may invite minor scrutiny regarding the sender's corporate standing, the substantive notice remains legally intact and admissible under FRE 803(6) (Business Records Exception) and FRE 901 (Authentication).",
+  "recommended_next_steps": "1. Preserve the native .xml and .htm receipt files, along with their cryptographic hashes, in a secure litigation hold to ensure admissibility under FRE 901. 2. Monitor the USPTO docket for the underlying applications to ensure swift issuance, thereby crystallizing the \u00a7 154(d) reasonable royalty damages accrued from the date of this notice. 3. Prepare a draft complaint for the SDTX or the ITC (if importation of the accused LED assemblies is involved) naming Valeo, Hella, and NAL, alleging willful infringement and seeking enhanced damages based on this documented actual notice. 4. Calendar a follow-up communication to demand the results of the recipients' internal due diligence investigations.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "35 U.S.C. \u00a7 287",
+    "35 U.S.C. \u00a7 284",
+    "FRE 803(6)",
+    "FRE 901",
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Formal Demand Letter",
+    "Patent Infringement",
+    "Provisional Rights",
+    "Willful Infringement",
+    "Automotive Lighting Technology",
+    "Cybersecurity Exfiltration"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar JR",
+      "Christophe Perillat",
+      "Deb Oberlee",
+      "Roy Holliman",
+      "Jeff Bezos",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "Valeo",
+      "Hella GmbH & Co. KGaA",
+      "Forvia",
+      "North American Lighting (NAL)",
+      "RPost",
+      "Google",
+      "Microsoft Corporation",
+      "Amazon",
+      "Cisco Systems Inc.",
+      "DigiCert Inc.",
+      "Corporation Service Company"
+    ],
+    "technologies": [
+      "Vehicular LED Assemblies",
+      "Covert Optical Exfiltration",
+      "Registered Email",
+      "Cryptographic Tracking",
+      "TLSv1.2",
+      "ECDHE-RSA-AES256-GCM-SHA384"
+    ],
+    "products": [
+      "RPost Registered Receipt",
+      "RMail"
+    ],
+    "government_offices": [
+      "European Patent Office (EPO)"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Nordrhein-Westfalen",
+      "San Jose, California",
+      "Redmond, Washington"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "1868314610",
+  "basefilename": "READ-RECEIPT-christophe.perillat@valeo.com_deb_oberlee@nal.com_roy_holliman@nal.com_Tier-1",
+  "original_filename": "READ-RECEIPT-christophe.perillat@valeo.com_deb_oberlee@nal.com_roy_holliman@nal.com_Tier-1.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04162026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "christophe.perillat@valeo.com",
+  "primary_recipient_an": "Christophe Perillat (Valeo)",
+  "all_recipients": [
+    "christophe.perillat@valeo.com",
+    "_deb_oberlee@nal.com",
+    "_roy_holliman@nal.com",
+    "jeff.bezos@amazon.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "sustainability.hella@forvia.com",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "oberlee@nal.com",
+    "holliman@nal.com",
+    "gphilpott@epo.org",
+    "info@hella.com",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "deb_oberlee@nal.com",
+    "roy_holliman@nal.com"
+  ],
+  "all_recipients_an": {
+    "christophe.perillat@valeo.com": "Christophe Perillat (Valeo)",
+    "_deb_oberlee@nal.com": "Deb Oberlee (Nalchik)",
+    "_roy_holliman@nal.com": "Roy Holliman (Nalchik)",
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "sustainability.hella@forvia.com": "Sustainability Hella (Forvia SE)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "oberlee@nal.com": "Oberlee (Nalchik)",
+    "holliman@nal.com": "Holliman (Nalchik)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "info@hella.com": "Info (Hella)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "deb_oberlee@nal.com": "Deb Oberlee (Nalchik)",
+    "roy_holliman@nal.com": "Roy Holliman (Nalchik)"
+  },
+  "patent_applications": []
+}

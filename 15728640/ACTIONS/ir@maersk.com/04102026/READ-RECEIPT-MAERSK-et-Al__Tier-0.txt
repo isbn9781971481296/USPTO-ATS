@@ -1,0 +1,494 @@
+4/10/26, 1:32 PM
+
+Gmail - Receipt: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KN…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF
+PROPRIETARY RIGHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35
+U.S.C. § 154(d) REGARDING MARITIME STEGANOGRAPHY, DUAL-PURPOSE
+LOGISTICS, AND RISK UNDERWRITING (Delivery Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Fri, Apr 10, 2026 at 1:26 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+Delivery confirmed by
+recipient mail server at
+maersk.com
+
+Delivered
+
+Delivered
+
+(UTC*)
+
+(local)
+
+04/10/2026
+04:20:34 PM
+(UTC)
+
+04/10/2026
+04:20:34 PM
+
+ir@maersk.com
+
+Delivered to
+Mailbox
+
+gianni.onorato@msc.com
+
+550 5.1.10 RESOLVER.ADR.
+RecipientNotFound; Recipient
+Delivery Failed gianni.onorato@msc.com not ***
+found by SMTP address
+lookup
+
+lba@frontmgt.no
+
+Delivered and
+Opened
+
+HTTP-IP:88.88.89.142
+
+04/10/2026
+04:20:34 PM
+(UTC)
+
+04/10/2026
+04:20:34 PM
+
+legal@euronav.com
+
+Delivered to
+Mailbox
+
+Delivery confirmed by
+recipient mail server at
+euronav.com
+
+04/10/2026
+04:20:34 PM
+(UTC)
+
+04/10/2026
+04:20:34 PM
+
+gardna@gard.no
+
+Delivered and
+Opened
+
+HTTP-IP:48.209.223.79
+
+04/10/2026
+04:20:34 PM
+(UTC)
+
+04/10/2026
+04:20:34 PM
+
+Delivered to
+Mail Server
+
+250 2.0.0 4dcmscx8en-1
+Message accepted for
+04/10/2026
+delivery mxa04:20:35 PM
+00164201.gslb.pphosted.com (UTC)
+(185.132.182.87)
+
+04/10/2026
+04:20:35 PM
+
+Delivered to
+Mail Server
+
+250 2.0.0 OK 1775838056
+ffacd0b85a97d04/10/2026
+43d63ea5f09si6542466f8f.379
+04:20:56 PM
+- gsmtp gmail-smtp(UTC)
+in.l.google.com
+(142.251.127.26)
+
+04/10/2026
+04:20:56 PM
+
+marc.lipman@lloyds.com
+
+rj.aguiar.m+legal@gmail.com
+
+Opened (local)
+
+***
+
+04/10/2026
+05:12:04 PM
+
+04/10/2026
+04:22:07 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862109072543400750&simpl=msg-f:1862109072543400750
+
+1/6
+
+4/10/26, 1:32 PM
+
+Gmail - Receipt: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KN…
+
+Message Envelope
+From:
+
+RJ Aguiar JR. <rj.aguiar.m+legal@gmail.com>
+
+Subject:
+
+CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY
+RIGHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d)
+REGARDING MARITIME STEGANOGRAPHY, DUAL-PURPOSE LOGISTICS, AND RISK
+UNDERWRITING
+
+To:
+
+<ir@maersk.com> <gianni.onorato@msc.com> <lba@frontmgt.no>
+<legal@euronav.com> <gardna@gard.no> <marc.lipman@lloyds.com>
+
+Cc:
+
+<rj.aguiar.m+legal@gmail.com>
+
+Bcc:
+Network ID:
+
+b3c43675-0fc1-42c2-8b41-2525327d47c0@SM26
+
+Received by RMail System:
+
+04/10/2026 04:20:16 PM (UTC), 04/10/2026 04:20:16 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+D4115FC2FB5338C8346DAE1722D260A038C3B80B
+
+Message Size:
+
+3322
+
+Features Used:
+File Size:
+
+File Name:
+
+124856
+
+MARITIME_IP_RISK_NOTICE.pdf
+
+74260152
+
+04-ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-filed-with-the-USPTO.pdf
+
+645171
+
+00__DEFENSIVE-PUBLICATION-EMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_tvilela@epo.org.pdf
+
+1342177
+
+D132_Parts-I_II_and_III-The_DOJ-Alumni_Network_v0408.4.pdf
+
+.
+
+Delivery Audit Trail
+4/10/2026 4:20:34 PM starting maersk.com/{default} 4/10/2026 4:20:34 PM connecting from mta21.r1.rpost.net (0.0.0.0) to ma
+ersk-com.mail.protection.outlook.com (52.101.68.27) 4/10/2026 4:20:34 PM connected from 192.168.10.11:58390 4/10/2026 4:
+20:34 PM >>> 220 DU2PEPF00028D0A.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10 Apr 202
+6 16:20:33 +0000 [08DE8F85D843DFB1] 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250
+-DU2PEPF00028D0A.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2
+026 4:20:34 PM >>> 250-PIPELINING 4/10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTAT
+USCODES 4/10/2026 4:20:34 PM >>> 250-STARTTLS 4/10/2026 4:20:34 PM >>> 250-8BITMIME 4/10/2026 4:20:34 PM >>>
+250-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34 PM >>> 250 SMTPUTF8 4/10/2026 4:20:34
+PM <<< STARTTLS 4/10/2026 4:20:34 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:20:34 PM tls:TLSv1.2 connected
+with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:20:34 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Micr
+osoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=
+no 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250-DU2PEPF00028D0A.mail.protection.o
+utlook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2026 4:20:34 PM >>> 250-PIPELINING
+4/10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:20:34 PM >>>
+250-8BITMIME 4/10/2026 4:20:34 PM >>> 250-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34
+PM >>> 250 SMTPUTF8 4/10/2026 4:20:34 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:20:34 PM >>>
+250 2.1.0 Sender OK 4/10/2026 4:20:34 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:20:34 PM >>
+> 250 2.1.5 Recipient OK 4/10/2026 4:20:34 PM <<< DATA 4/10/2026 4:20:34 PM >>> 354 Start mail input; end with . 4/10/20
+26 4:20:34 PM <<< . 4/10/2026 4:20:34 PM >>> 250 2.6.0 [InternalId=154537218279043, Hostname=PR3P107MB0557.EURP
+107.PROD.OUTLOOK.COM] 30086 bytes in 0.098, 297.123 KB/sec Queued mail for delivery 4/10/2026 4:20:34 PM <<< QUI
+T 4/10/2026 4:20:34 PM >>> 221 2.0.0 Service closing transmission channel 4/10/2026 4:20:34 PM closed maersk-com.mail.
+protection.outlook.com (52.101.68.27) in=925 out=18989 4/10/2026 4:20:34 PM done maersk.com/{default}
+4/10/2026 4:20:34 PM starting msc.com/{default} 4/10/2026 4:20:34 PM connecting from mta21.r1.rpost.net (0.0.0.0) to msc-c
+om.mail.protection.outlook.com (52.101.73.12) 4/10/2026 4:20:34 PM connected from 192.168.10.11:60631 4/10/2026 4:20:34
+PM >>> 220 AM3PEPF0000A79B.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10 Apr 2026 16:2
+0:33 +0000 [08DE95B707DB41AF] 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250-AM3
+PEPF0000A79B.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2026
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862109072543400750&simpl=msg-f:1862109072543400750
+
+2/6
+
+4/10/26, 1:32 PM
+
+Gmail - Receipt: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KN…
+
+4:20:34 PM >>> 250-PIPELINING 4/10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTATUS
+CODES 4/10/2026 4:20:34 PM >>> 250-STARTTLS 4/10/2026 4:20:34 PM >>> 250-8BITMIME 4/10/2026 4:20:34 PM >>> 25
+0-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34 PM >>> 250 SMTPUTF8 4/10/2026 4:20:34 P
+M <<< STARTTLS 4/10/2026 4:20:34 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:20:34 PM tls:TLSv1.2 connected wit
+h 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:20:34 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microso
+ft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no
+4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250-AM3PEPF0000A79B.mail.protection.outl
+ook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2026 4:20:34 PM >>> 250-PIPELINING 4/
+10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:20:34 PM >>> 2
+50-8BITMIME 4/10/2026 4:20:34 PM >>> 250-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34 P
+M >>> 250 SMTPUTF8 4/10/2026 4:20:34 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:20:34 PM >>> 2
+50 2.1.0 Sender OK 4/10/2026 4:20:34 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:20:34 PM >>>
+250 2.1.5 Recipient OK 4/10/2026 4:20:34 PM <<< DATA 4/10/2026 4:20:34 PM >>> 354 Start mail input; end with . 4/10/202
+6 4:20:34 PM <<< . 4/10/2026 4:20:35 PM >>> 250 2.6.0 [InternalId=99020471010083, Hostname=SA9P104MB0436.NAMP1
+04.PROD.OUTLOOK.COM] 29994 bytes in 0.345, 84.837 KB/sec Queued mail for delivery 4/10/2026 4:20:35 PM <<< QUIT
+4/10/2026 4:20:35 PM >>> 221 2.0.0 Service closing transmission channel 4/10/2026 4:20:35 PM closed msc-com.mail.prote
+ction.outlook.com (52.101.73.12) in=923 out=19016 4/10/2026 4:20:35 PM done msc.com/{default}
+4/10/2026 4:20:34 PM starting frontmgt.no/{default} 4/10/2026 4:20:34 PM connecting from mta21.r1.rpost.net (0.0.0.0) to front
+mgt-no.mail.protection.outlook.com (52.101.179.0) 4/10/2026 4:20:34 PM connected from 192.168.10.11:58527 4/10/2026 4:2
+0:34 PM >>> 220 SV1PEPF000005F1.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10 Apr 2026
+16:20:33 +0000 [08DE8F35B3F3AE14] 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250SV1PEPF000005F1.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/20
+26 4:20:34 PM >>> 250-PIPELINING 4/10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTAT
+USCODES 4/10/2026 4:20:34 PM >>> 250-STARTTLS 4/10/2026 4:20:34 PM >>> 250-8BITMIME 4/10/2026 4:20:34 PM >>>
+250-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34 PM >>> 250 SMTPUTF8 4/10/2026 4:20:34
+PM <<< STARTTLS 4/10/2026 4:20:34 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:20:34 PM tls:TLSv1.2 connected
+with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:20:34 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Micr
+osoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=
+no 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250-SV1PEPF000005F1.mail.protection.o
+utlook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2026 4:20:34 PM >>> 250-PIPELINING
+4/10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:20:34 PM >>>
+250-8BITMIME 4/10/2026 4:20:34 PM >>> 250-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34
+PM >>> 250 SMTPUTF8 4/10/2026 4:20:34 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:20:34 PM >>>
+250 2.1.0 Sender OK 4/10/2026 4:20:34 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:20:34 PM >>
+> 250 2.1.5 Recipient OK 4/10/2026 4:20:34 PM <<< DATA 4/10/2026 4:20:34 PM >>> 354 Start mail input; end with . 4/10/20
+26 4:20:34 PM <<< . 4/10/2026 4:20:34 PM >>> 250 2.6.0 [InternalId=35107062684837, Hostname=OS6P279MB0746.NORP
+279.PROD.OUTLOOK.COM] 29996 bytes in 0.114, 255.402 KB/sec Queued mail for delivery 4/10/2026 4:20:34 PM <<< QUIT
+4/10/2026 4:20:34 PM >>> 221 2.0.0 Service closing transmission channel 4/10/2026 4:20:34 PM closed frontmgt-no.mail.prot
+ection.outlook.com (52.101.179.0) in=924 out=18995 4/10/2026 4:20:34 PM done frontmgt.no/{default}
+4/10/2026 4:20:34 PM starting euronav.com/{default} 4/10/2026 4:20:34 PM connecting from mta21.r1.rpost.net (0.0.0.0) to eur
+onav-com.mail.protection.outlook.com (52.101.73.30) 4/10/2026 4:20:34 PM connected from 192.168.10.11:48995 4/10/2026
+4:20:34 PM >>> 220 AMS0EPF000001AD.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10 Apr 2
+026 16:20:33 +0000 [08DE8FC34D224CA1] 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 2
+50-AMS0EPF000001AD.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/1
+0/2026 4:20:34 PM >>> 250-PIPELINING 4/10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDS
+TATUSCODES 4/10/2026 4:20:34 PM >>> 250-STARTTLS 4/10/2026 4:20:34 PM >>> 250-8BITMIME 4/10/2026 4:20:34 PM
+>>> 250-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34 PM >>> 250 SMTPUTF8 4/10/2026 4:
+20:34 PM <<< STARTTLS 4/10/2026 4:20:34 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:20:34 PM tls:TLSv1.2 conne
+cted with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:20:34 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=
+Microsoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verifi
+ed=no 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250-AMS0EPF000001AD.mail.protecti
+on.outlook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2026 4:20:34 PM >>> 250-PIPELINI
+NG 4/10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:20:34 PM
+>>> 250-8BITMIME 4/10/2026 4:20:34 PM >>> 250-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:2
+0:34 PM >>> 250 SMTPUTF8 4/10/2026 4:20:34 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:20:34 PM
+>>> 250 2.1.0 Sender OK 4/10/2026 4:20:34 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:20:34 P
+M >>> 250 2.1.5 Recipient OK 4/10/2026 4:20:34 PM <<< DATA 4/10/2026 4:20:34 PM >>> 354 Start mail input; end with . 4/
+10/2026 4:20:34 PM <<< . 4/10/2026 4:20:34 PM >>> 250 2.6.0 <3zNjcrRKh42ejHGdpLlIlhbraXDccNyZwuFRhJiWMTAy@r1.r
+post.net> [InternalId=31031138721982, Hostname=DBBP191MB2458.EURP191.PROD.OUTLOOK.COM] 29893 bytes in 0.19
+1, 152.584 KB/sec Queued mail for delivery 4/10/2026 4:20:34 PM <<< QUIT 4/10/2026 4:20:34 PM >>> 221 2.0.0 Service cl
+osing transmission channel 4/10/2026 4:20:34 PM closed euronav-com.mail.protection.outlook.com (52.101.73.30) in=924 out
+=19001 4/10/2026 4:20:34 PM done euronav.com/{default}
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862109072543400750&simpl=msg-f:1862109072543400750
+
+3/6
+
+4/10/26, 1:32 PM
+
+Gmail - Receipt: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KN…
+
+4/10/2026 4:20:34 PM starting gard.no/{default} 4/10/2026 4:20:34 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gard-no.
+mail.protection.outlook.com (52.101.68.39) 4/10/2026 4:20:34 PM connected from 192.168.10.11:42950 4/10/2026 4:20:34 PM
+>>> 220 DU2PEPF00028CFC.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10 Apr 2026 16:20:33
++0000 [08DE8F848A10A87D] 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250-DU2PEPF
+00028CFC.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2026 4:20:34
+PM >>> 250-PIPELINING 4/10/2026 4:20:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTATUSCODES
+4/10/2026 4:20:34 PM >>> 250-STARTTLS 4/10/2026 4:20:34 PM >>> 250-8BITMIME 4/10/2026 4:20:34 PM >>> 250-BINAR
+YMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34 PM >>> 250 SMTPUTF8 4/10/2026 4:20:34 PM <<< S
+TARTTLS 4/10/2026 4:20:34 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:20:34 PM tls:TLSv1.2 connected with 256-bit
+ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:20:34 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Corpor
+ation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/10/2026
+4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250-DU2PEPF00028CFC.mail.protection.outlook.com H
+ello [52.58.131.9] 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2026 4:20:34 PM >>> 250-PIPELINING 4/10/2026 4:2
+0:34 PM >>> 250-DSN 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:20:34 PM >>> 250-8BITMI
+ME 4/10/2026 4:20:34 PM >>> 250-BINARYMIME 4/10/2026 4:20:34 PM >>> 250-CHUNKING 4/10/2026 4:20:34 PM >>> 25
+0 SMTPUTF8 4/10/2026 4:20:34 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:20:34 PM >>> 250 2.1.0
+Sender OK 4/10/2026 4:20:34 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:20:34 PM >>> 250 2.1.
+5 Recipient OK 4/10/2026 4:20:34 PM <<< DATA 4/10/2026 4:20:34 PM >>> 354 Start mail input; end with . 4/10/2026 4:20:3
+4 PM <<< . 4/10/2026 4:20:34 PM >>> 250 2.6.0 <5MrTO8S1PoVuDZM8t3F3LWplsEmDuAof2dQF7fJaMTAy@r1.rpost.net>
+[InternalId=76892799515590, Hostname=AS8PR02MB8948.eurprd02.prod.outlook.com] 29991 bytes in 0.060, 484.670 KB/sec
+Queued mail for delivery 4/10/2026 4:20:34 PM <<< QUIT 4/10/2026 4:20:34 PM >>> 221 2.0.0 Service closing transmission
+channel 4/10/2026 4:20:34 PM closed gard-no.mail.protection.outlook.com (52.101.68.39) in=925 out=18992 4/10/2026 4:20:3
+4 PM done gard.no/{default}
+4/10/2026 4:20:34 PM starting lloyds.com/{default} 4/10/2026 4:20:34 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxa00164201.gslb.pphosted.com (185.132.182.87) 4/10/2026 4:20:34 PM connected from 192.168.10.11:42948 4/10/2026 4:20:34
+PM >>> 220 mx07-00164201.pphosted.com ESMTP mfa-m0044123 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/1
+0/2026 4:20:34 PM >>> 250-mx07-00164201.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/10/
+2026 4:20:34 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:20:34 PM >>> 250-PIPELINING 4/10/2026 4:20:34 PM >
+>> 250-8BITMIME 4/10/2026 4:20:34 PM >>> 250-SIZE 157286400 4/10/2026 4:20:34 PM >>> 250 STARTTLS 4/10/2026 4:2
+0:34 PM <<< STARTTLS 4/10/2026 4:20:34 PM >>> 220 2.0.0 Ready to start TLS 4/10/2026 4:20:34 PM tls:TLSv1.2 connect
+ed with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:20:34 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./
+CN=*.gslb.pphosted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=n
+o 4/10/2026 4:20:34 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:34 PM >>> 250-mx07-00164201.pphosted.com Hello m
+ta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/10/2026 4:20:34 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026
+4:20:34 PM >>> 250-PIPELINING 4/10/2026 4:20:34 PM >>> 250-8BITMIME 4/10/2026 4:20:34 PM >>> 250 SIZE 15728640
+0 4/10/2026 4:20:34 PM <<< MAIL FROM: BODY=8BITMIME 4/10/2026 4:20:34 PM >>> 250 2.1.0 Sender ok 4/10/2026 4:2
+0:34 PM <<< RCPT TO: 4/10/2026 4:20:34 PM >>> 250 2.1.5 Recipient ok 4/10/2026 4:20:34 PM <<< DATA 4/10/2026 4:20:
+34 PM >>> 354 Enter mail, end with "." on a line by itself 4/10/2026 4:20:34 PM <<< . 4/10/2026 4:20:35 PM >>> 250 2.0.0 4
+dcmscx8en-1 Message accepted for delivery 4/10/2026 4:20:35 PM <<< QUIT 4/10/2026 4:20:35 PM >>> 221 2.0.0 mx07-00
+164201.pphosted.com Closing connection 4/10/2026 4:20:35 PM closed mxa-00164201.gslb.pphosted.com (185.132.182.87) i
+n=635 out=18978 4/10/2026 4:20:35 PM done lloyds.com/{default}
+4/10/2026 4:20:43 PM starting gmail.com/{default} 4/10/2026 4:20:55 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.26) 4/10/2026 4:20:55 PM connected from 192.168.10.11:40783 4/10/2026 4:20:55 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43d63ea5f09si6542466f8f.379 - gsmtp 4/10/2026 4:20:55 PM <<< EHLO mta2
+1.r1.rpost.net 4/10/2026 4:20:55 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/10/2026 4:20:55 PM >>> 250-SI
+ZE 157286400 4/10/2026 4:20:55 PM >>> 250-8BITMIME 4/10/2026 4:20:55 PM >>> 250-STARTTLS 4/10/2026 4:20:55 PM
+>>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:20:55 PM >>> 250-PIPELINING 4/10/2026 4:20:55 PM >>> 250-CHUNKIN
+G 4/10/2026 4:20:55 PM >>> 250 SMTPUTF8 4/10/2026 4:20:55 PM <<< STARTTLS 4/10/2026 4:20:55 PM >>> 220 2.0.0 R
+eady to start TLS 4/10/2026 4:20:55 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/10/2026 4:20:55 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/10/2026 4:20:55 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:55 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/10/2026 4:20:55 PM >>> 250-SIZE 157286400 4/10/2026 4:20:55 PM >>> 250-8BITMIME 4/10/2026 4:20:55 PM >>>
+250-ENHANCEDSTATUSCODES 4/10/2026 4:20:55 PM >>> 250-PIPELINING 4/10/2026 4:20:55 PM >>> 250-CHUNKING 4/
+10/2026 4:20:55 PM >>> 250 SMTPUTF8 4/10/2026 4:20:55 PM <<< MAIL FROM: BODY=8BITMIME 4/10/2026 4:20:55 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43d63ea5f09si6542466f8f.379 - gsmtp 4/10/2026 4:20:55 PM <<< RCPT TO: 4/10/2026 4:2
+0:55 PM >>> 250 2.1.5 OK ffacd0b85a97d-43d63ea5f09si6542466f8f.379 - gsmtp 4/10/2026 4:20:55 PM <<< DATA 4/10/2026
+4:20:55 PM >>> 354 Go ahead ffacd0b85a97d-43d63ea5f09si6542466f8f.379 - gsmtp 4/10/2026 4:20:55 PM <<< . 4/10/2026
+4:20:56 PM >>> 250 2.0.0 OK 1775838056 ffacd0b85a97d-43d63ea5f09si6542466f8f.379 - gsmtp 4/10/2026 4:20:56 PM <<<
+QUIT 4/10/2026 4:20:56 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d63ea5f09si6542466f8f.379 - gsmtp 4/10/202
+6 4:20:56 PM closed gmail-smtp-in.l.google.com (142.251.127.26) in=773 out=18993 4/10/2026 4:21:00 PM done gmail.com/{d
+efault}
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862109072543400750&simpl=msg-f:1862109072543400750
+
+4/6
+
+4/10/26, 1:32 PM
+
+Gmail - Receipt: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KN…
+
+From:postmaster@maersk.com:Your message has been delivered to the following recipients: ir@maersk.com Subject: Regist
+ered: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KNOWL
+EDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING MARITIME STEGANOGRAPHY, DUAL-PURPOSE L
+OGISTICS, AND RISK UNDERWRITING
+From:postmaster@msc.com:[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0
+a8b-8e6a-88e1-ef488fee0470] Your message to gianni.onorato@msc.com couldn't be delivered. gianni.onorato wasn't found at
+msc.com. rcptcgPiOTL73bBqfKqX. . . Office 365 gianni.onorato Action Required Recipient Unknown To address How to Fix It
+The address may be misspelled or may not exist. Try one or more of the following: * Send the message again following these
+steps: In Outlook, open this non-delivery report (NDR) and choose Send Again from the Report ribbon. In Outlook on the web,
+select this NDR, then select the link "To send this message again, click here." Then delete and retype the entire recipient addr
+ess. If prompted with an Auto-Complete List suggestion don't select it. After typing the complete address, click Send. * Contac
+t the recipient (by phone, for example) to check that the address exists and is correct. * T...[truncated]
+From:postmaster@frontmgt.no:Your message has been delivered to the following recipients: lba@frontmgt.no Subject: Regist
+ered: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KNOWL
+EDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING MARITIME STEGANOGRAPHY, DUAL-PURPOSE L
+OGISTICS, AND RISK UNDERWRITING
+[IP Address: 88.88.89.142] [Time Opened: 4/10/2026 5:12:04 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/wQ1oekLhsGZHfh7W4NQ1WQa24K87TGSi3dDB3gOPMTAy.gif] HTTP_ACCEPT:im
+age/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=
+0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-GB,en;q=0.9 HTTP_HOST:socrmail.r1.rpo
+st.net HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
+Gecko) Mobile/15E148 HTTP_X_FORWARDED_FOR:88.88.89.142 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWA
+RDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d92f64-59f8f1d17af56cb330330138 HTTP_SEC_FETCH_SITE:cros
+s-site HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,im
+age/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-E
+ncoding: gzip, deflate, br Accept-Language: en-GB,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPhone; CPU
+iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 88.88.89.142 X
+-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d92f64-59f8f1d17af56cb330330138 sec-fetch-site:
+cross-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root
+Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/
+12 192.168.10.112 /oatv_v2/wQ1oekLhsGZHfh7W4NQ1WQa24K87TGSi3dDB3gOPMTAy.gif 192.168.10.173 192.168.10.173 2
+378 GET /oatv_v2/wQ1oekLhsGZHfh7W4NQ1WQa24K87TGSi3dDB3gOPMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Micr
+osoft-IIS/10.0 /oatv_v2/wQ1oekLhsGZHfh7W4NQ1WQa24K87TGSi3dDB3gOPMTAy.gif image/webp,image/avif,image/jxl,imag
+e/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-GB,en;q=0.9
+socrmail.r1.rpost.net Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)
+Mobile/15E148 88.88.89.142 https 443 Root=1-69d92f64-59f8f1d17af56cb330330138 cross-site image no-cors u=5, i
+From:postmaster@euronav.com:Your message has been delivered to the following recipients: legal@euronav.com Subject: Re
+gistered: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KNO
+WLEDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING MARITIME STEGANOGRAPHY, DUAL-PURPOS
+E LOGISTICS, AND RISK UNDERWRITING
+From:postmaster@gard.no:Your message has been delivered to the following recipients: cheryl.acker@gard.no Subject: Regis
+tered: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KNOWL
+EDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING MARITIME STEGANOGRAPHY, DUAL-PURPOSE L
+OGISTICS, AND RISK UNDERWRITING
+[IP Address: 48.209.223.79] [Time Opened: 4/10/2026 4:22:07 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrma
+il.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/5MrTO8S1PoVuDZM8t3F3LWplsEmDuAof2dQF7fJaMTAy.gif] HTTP_ACCEPT:imag
+e/* HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+(KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:48.209.223.79 HTTP_X_FORWARDED_
+PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d923af-676ee8011369a38703ca3e1
+8 Accept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (K
+HTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 48.209.223.79 X-Forwarded-Proto: https X-Forwarded-P
+ort: 443 X-Amzn-Trace-Id: Root=1-69d923af-676ee8011369a38703ca3e18 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Roo
+t Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SV
+C/12 192.168.10.112 /oatv_v2/5MrTO8S1PoVuDZM8t3F3LWplsEmDuAof2dQF7fJaMTAy.gif 192.168.10.173 192.168.10.173 1
+7382 GET /oatv_v2/5MrTO8S1PoVuDZM8t3F3LWplsEmDuAof2dQF7fJaMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Micro
+soft-IIS/10.0 /oatv_v2/5MrTO8S1PoVuDZM8t3F3LWplsEmDuAof2dQF7fJaMTAy.gif image/* socrmail.r1.rpost.net Mozilla/5.0
+(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 48.209.223.79 http
+s 443 Root=1-69d923af-676ee8011369a38703ca3e18
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862109072543400750&simpl=msg-f:1862109072543400750
+
+5/6
+
+4/10/26, 1:32 PM
+
+Gmail - Receipt: CORRECTED: [MAERSK/MSC/LLOYDS et Al.] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUAL KN…
+
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxa-00164201.gslb.pphosted.com (185.132.182.87)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+35K
+HtmlReceipt.htm
+217K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862109072543400750&simpl=msg-f:1862109072543400750
+
+6/6
+
+

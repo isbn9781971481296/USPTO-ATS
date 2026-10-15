@@ -1,0 +1,83 @@
+{
+  "serving_key": "2742143103",
+  "canonical_key": "_yang.youngjune@kimchang.com",
+  "display_name": "Young June Yang (Kim & Chang)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Kim & Chang",
+  "full_name": "Young June Yang",
+  "pronouns": null,
+  "title": "Senior Attorney",
+  "organization": "Kim & Chang",
+  "domain": "kimchang.com",
+  "addresses": {
+    "mailing_address": "39, Sajik-ro 8-gil, Jongno-gu, Seoul 03170, South Korea",
+    "business_address": "39, Sajik-ro 8-gil, Jongno-gu, Seoul 03170, South Korea",
+    "legal_service_address": "39, Sajik-ro 8-gil, Jongno-gu, Seoul 03170, South Korea"
+  },
+  "registered_agent": {
+    "name": "Kim & Chang",
+    "address": "39, Sajik-ro 8-gil, Jongno-gu, Seoul 03170, South Korea",
+    "jurisdiction": "Seoul, South Korea"
+  },
+  "contact": {
+    "primary_email": "_yang.youngjune@kimchang.com",
+    "alternative_emails": [
+      "yjyang@kimchang.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+82-2-3703-1114"
+    ],
+    "faxes": [
+      "+82-2-737-9091",
+      "+82-2-737-9092"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "4166286769",
+      "canonical_key": "kdlee@kimchang.com",
+      "display_name": "K.D. Lee",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3230306728",
+      "canonical_key": "monica.leeu@kimchang.com",
+      "display_name": "Monica Leeu",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1191010318",
+      "canonical_key": "yang.youngjune@kimchang.com",
+      "display_name": "Young June Yang",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3046158963",
+      "canonical_key": "ickwon@kimchang.com",
+      "display_name": "I.C. Kwon",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1263460620",
+      "canonical_key": "ducksoon.chang@kimchang.com",
+      "display_name": "Duck-Soon Chang",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3387726723",
+      "canonical_key": "_ickwon@kimchang.com",
+      "display_name": "I.C. Kwon",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1485978239",
+      "canonical_key": "_kdlee@kimchang.com",
+      "display_name": "K.D. Lee",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

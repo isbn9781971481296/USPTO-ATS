@@ -1,0 +1,36 @@
+{
+  "index": 65,
+  "header": "# Enclosure #65: MESSAGE-ACCEPTED-RECEIPT-Collin-McDonald-DOJ.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/MESSAGE-ACCEPTED-RECEIPT_Collin-McDonald-DOJ.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-ab23773380.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "colin.mcdonald@usdoj.gov",
+  "primary_recipient_an": "Colin McDonald (USDOJ)",
+  "all_recipients": [
+    "colin.mcdonald@usdoj.gov",
+    "cody.m.herche@usdoj.gov",
+    "cody.herche@usdoj.gov",
+    "cherche@usdoj.gov",
+    "cody.matthew.herche@usdoj.gov",
+    "cmcdonald@usdoj.gov",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "colin.mcdonald@usdoj.gov": "Colin McDonald (USDOJ)",
+    "cody.m.herche@usdoj.gov": "Cody M. Herche (USDOJ)",
+    "cody.herche@usdoj.gov": "Cody Herche (USDOJ)",
+    "cherche@usdoj.gov": "Cherche (USDOJ)",
+    "cody.matthew.herche@usdoj.gov": "Cody Matthew Herche (USDOJ)",
+    "cmcdonald@usdoj.gov": "Cmcdonald (USDOJ)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04022026",
+  "original_filename": "MESSAGE-ACCEPTED-RECEIPT_Collin-McDonald-DOJ.pdf",
+  "patent_applications_mentioned": [
+    "15/728,640"
+  ]
+}

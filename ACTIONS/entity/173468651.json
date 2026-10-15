@@ -1,0 +1,37 @@
+{
+  "serving_key": "173468651",
+  "canonical_key": "bart.biggers@sidley.com",
+  "display_name": "Bart Biggers (Sidley Austin LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Sidley Austin LLP",
+  "full_name": "Bart Biggers",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Sidley Austin LLP",
+  "domain": "sidley.com",
+  "addresses": {
+    "mailing_address": "2021 McKinney Avenue, Suite 2000, Dallas, TX 75201",
+    "business_address": "2021 McKinney Avenue, Suite 2000, Dallas, TX 75201",
+    "legal_service_address": "2021 McKinney Avenue, Suite 2000, Dallas, TX 75201"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "208 S LaSalle St, Suite 814, Chicago, IL 60604",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "bart.biggers@sidley.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 214 981 3300"
+    ],
+    "faxes": [
+      "+1 214 981 3400"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

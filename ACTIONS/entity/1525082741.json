@@ -1,0 +1,42 @@
+{
+  "serving_key": "1525082741",
+  "canonical_key": "smurphy5@mazdausa.com",
+  "display_name": "S. Murphy (Mazda North American Operations)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Mazda Motor of America, Inc.",
+  "full_name": "S. Murphy",
+  "pronouns": null,
+  "title": "Representative",
+  "organization": "Mazda Motor of America, Inc.",
+  "domain": "mazdausa.com",
+  "addresses": {
+    "mailing_address": "200 Spectrum Center Dr, Suite 100, Irvine, CA 92618",
+    "business_address": "200 Spectrum Center Dr, Suite 100, Irvine, CA 92618",
+    "legal_service_address": "C T Corporation System, 330 N Brand Blvd, Suite 700, Glendale, CA 91203"
+  },
+  "registered_agent": {
+    "name": "C T Corporation System",
+    "address": "330 N Brand Blvd, Suite 700, Glendale, CA 91203",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "smurphy5@mazdausa.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-800-222-5500"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "241176351",
+      "canonical_key": "jguyton@mazdausa.com",
+      "display_name": "Jeffrey Guyton",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

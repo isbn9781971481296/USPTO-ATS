@@ -1,0 +1,82 @@
+{
+  "summary_of_pdf": "The document is an RPost registered email receipt establishing evidentiary proof of delivery for an inquiry regarding intellectual property representation. Sent by RJ Aguiar to Holly Saporito at Alston & Bird on April 6, 2026, the communication seeks counsel for a 47-patent portfolio while simultaneously disclosing highly sensitive parallel federal actions. These actions include SEC whistleblower complaints (TCR 17742-648-351-976), formal criminal referrals involving DoD officials, and alleged retaliation claims.",
+  "attorneys_comments": "This RPost receipt provides cryptographically verifiable proof of delivery, message content, and time of receipt, satisfying authentication requirements under Federal Rules of Evidence (FRE) 901 and 902. Tactically, the prospective client is establishing a rigid paper trail of notice. The attachments reveal a highly radioactive prospective client entangled in multi-agency federal disputes, including SEC whistleblower retaliation, criminal referrals against named individuals (Herche, McDonald), and DoD licensing issues involving Under Secretary Heidi Shyu. The mention of a 'Heidi Shyu License Grant' strongly implicates 28 U.S.C. \u00a7 1498 (government use of patents) and complex DFARS data rights disputes. The sender's scattershot approach\u2014evidenced by attachments showing simultaneous outreach to Foley & Lardner, the Government Accountability Project, and KKC\u2014indicates a distressed, high-risk plaintiff profile. Reviewing these attachments triggers ABA Model Rule 1.18 duties to a prospective client and risks disqualifying the firm from representing the DoD contractors or government entities involved.",
+  "recommended_next_steps": "Immediately quarantine the email and its attachments; do not distribute or review the substantive PDF contents to prevent the imputation of confidential information under ABA Model Rule 1.18. Initiate a firm-wide, expedited conflicts check against all named entities, including the Department of Defense, Heidi Shyu, Cody Matthew Herche, Colin McDonald, and the SEC. Assuming the firm declines representation due to the extreme risk profile, draft and transmit a formal, unequivocal non-engagement letter to RJ Aguiar immediately to preclude the formation of an implied attorney-client relationship.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "FRE 901",
+    "FRE 902",
+    "28 U.S.C. \u00a7 1498",
+    "DFARS 227.7004",
+    "Whistleblower Retaliation",
+    "SEC TCR 17742-648-351-976",
+    "Interstate Wire Fraud",
+    "ABA Model Rule 1.18",
+    "Prospective Client Notice",
+    "Patent Prosecution",
+    "Government Licensing"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Holly Saporito",
+      "Heidi Shyu",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "RPost",
+      "Mimecast",
+      "Google"
+    ],
+    "technologies": [
+      "47-Patent Portfolio",
+      "RMail Registered Email"
+    ],
+    "products": [
+      "The Heidi Shyu License Grant"
+    ],
+    "government_offices": [
+      "Department of Defense",
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Alston & Bird",
+      "Foley & Lardner",
+      "KKC"
+    ],
+    "attorneys": [
+      "Holly Saporito",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "75237788",
+  "basefilename": "READ-RECEIPT-holly.saporito@alston.com",
+  "original_filename": "READ-RECEIPT-holly.saporito@alston.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "holly.saporito@alston.com",
+  "primary_recipient_an": "Holly Saporito (Alston)",
+  "all_recipients": [
+    "holly.saporito@alston.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "holly.saporito@alston.com": "Holly Saporito (Alston)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

@@ -1,0 +1,35 @@
+{
+  "serving_key": "3331660876",
+  "canonical_key": "christophe.perillat@valeo.com",
+  "display_name": "Christophe P\u00e9rillat (Valeo)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Valeo SE",
+  "full_name": "Christophe P\u00e9rillat",
+  "pronouns": null,
+  "title": "Chief Executive Officer",
+  "organization": "Valeo SE",
+  "domain": "valeo.com",
+  "addresses": {
+    "mailing_address": "43 rue Bayen, 75017 Paris, France",
+    "business_address": "43 rue Bayen, 75017 Paris, France",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "christophe.perillat@valeo.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 1 40 55 20 20"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

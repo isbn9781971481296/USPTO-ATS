@@ -1,0 +1,35 @@
+{
+  "serving_key": "1260724772",
+  "canonical_key": "thuermer@fr.com",
+  "display_name": "Thuermer (Fish & Richardson P.C.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Fish & Richardson P.C.",
+  "full_name": "Thuermer",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Fish & Richardson P.C.",
+  "domain": "fr.com",
+  "addresses": {
+    "mailing_address": "1 Marina Park Drive, Boston, MA 02210",
+    "business_address": "1 Marina Park Drive, Boston, MA 02210",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "thuermer@fr.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 617-542-5070"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

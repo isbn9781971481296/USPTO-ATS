@@ -1,0 +1,81 @@
+{
+  "summary_of_pdf": "The document is a cryptographically verifiable RPost Registered Receipt confirming the successful delivery and opening of an email sent by Reinaldo J. Aguiar Marcano to the IRS Exempt Organizations division (eoclass@irs.gov) on April 15, 2026. The transmitted email contained an urgent IRS Form 13909 (Tax-Exempt Organization Complaint) and explicitly asserted federal whistleblower status alongside a stated fear of retaliation.",
+  "attorneys_comments": "This instrument provides highly authenticated, court-admissible evidentiary proof of delivery and receipt of a federal whistleblower complaint. From a tactical litigation perspective, the RPost audit trail and server logs satisfy the authentication requirements of Federal Rules of Evidence 901 and 902(13)/(14), effectively neutralizing any potential 'non-receipt' defenses. It establishes a definitive, unassailable timestamp for the commencement of protected activity, which is the foundational element for any subsequent retaliation claims under federal whistleblower statutes (e.g., 26 U.S.C. \u00a7 7623). The primary limitation is that while the receipt conclusively proves the transmission and opening of the Form 13909, it does not independently substantiate the substantive merits of the underlying tax-exempt fraud allegations or the imminence of the retaliatory threat.",
+  "recommended_next_steps": "1. Immediately institute a strict litigation hold to preserve the native email file (.eml) and its attached DeliveryReceipt.xml and HtmlReceipt.htm files to maintain cryptographic integrity for evidentiary admission under FRE 902. 2. Draft a comprehensive chronological matrix detailing the client's protected activities and any subsequent adverse actions to establish a prima facie case for retaliation. 3. Monitor the IRS Exempt Organizations division for administrative docketing and prepare supplemental evidentiary disclosures as required.",
+  "tags": [
+    "26 U.S.C. \u00a7 7623",
+    "Federal Whistleblower Protection",
+    "IRS Form 13909",
+    "Evidentiary Proof of Delivery",
+    "Administrative Claim",
+    "FRE 901 Authentication",
+    "FRE 902(14) Electronic Evidence",
+    "Tax-Exempt Organization Fraud",
+    "Retaliation Claim"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Reinaldo J. Aguiar Marcano"
+    ],
+    "companies": [
+      "RPost",
+      "Google",
+      "Entrust Limited"
+    ],
+    "technologies": [
+      "RMail",
+      "Registered Receipt",
+      "TLSv1.2",
+      "ECDHE-RSA-AES256-GCM-SHA384",
+      "GoogleImageProxy"
+    ],
+    "products": [
+      "IRS Form 13909",
+      "Gmail"
+    ],
+    "government_offices": [
+      "Internal Revenue Service (IRS)",
+      "Department of Treasury"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "District of Columbia"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "1041598461",
+  "basefilename": "READ-RECEIPT-eoclass@irs.gov",
+  "original_filename": "READ-RECEIPT-eoclass@irs.gov.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04152026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "eoclass@irs.gov",
+  "primary_recipient_an": "Eoclass (Internal Revenue Service)",
+  "all_recipients": [
+    "eoclass@irs.gov",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "eoclass@irs.gov": "Eoclass (Internal Revenue Service)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

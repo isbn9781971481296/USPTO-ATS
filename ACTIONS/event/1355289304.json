@@ -1,0 +1,95 @@
+{
+  "summary_of_pdf": "The document is an RMail cryptographic proof of delivery and file share download receipt. It establishes an evidentiary record that on April 10, 2026, Christoph Feddersen of L3Harris successfully downloaded a suite of legal and technical documents transmitted by RJ Aguiar, Jr. The downloaded files constitute a formal notice of intellectual property rights, assertions of technical obsolescence regarding GNSS architectures, a demand for non-patent literature (NPL) indexing, and a portfolio of patent applications filed with the USPTO. The transmission serves to establish verifiable actual notice regarding potential patent infringement and associated IP liabilities.",
+  "attorneys_comments": "From a litigation and evidentiary standpoint, this RMail receipt is a critical artifact. It establishes indisputable actual notice to L3Harris of the sender's intellectual property rights and the alleged technical obsolescence of current GNSS architectures. Under 35 U.S.C. \u00a7 154(d) and \u00a7 287, establishing actual notice is paramount for the accrual of provisional rights and pre-suit damages. Furthermore, in the context of defense contracting, this notice implicates potential liabilities under 28 U.S.C. \u00a7 1498 if the allegedly infringing GNSS technologies are utilized in U.S. Government procurements, thereby triggering DFARS 227.7004 obligations. The inclusion of a 'Portfolio of Patent Applications filed with the USPTO' and EPO defensive publications suggests a sophisticated, multi-jurisdictional IP strategy. The evidentiary strength of this receipt is exceptionally high; RMail provides verifiable audit trails that satisfy authentication requirements under Federal Rule of Evidence 901. However, the substantive strength of the underlying claims remains dependent on the actual contents of the downloaded PDFs, the validity of the technical obsolescence claims, and the issuance status of the pending USPTO applications.",
+  "recommended_next_steps": "1. Preserve this RMail receipt and its associated metadata in a secure, immutable litigation hold repository to ensure admissibility under FRE 901. 2. Monitor the pending USPTO patent applications referenced in the downloaded portfolio for issuance, as actual notice has now been served for potential 35 U.S.C. \u00a7 154(d) provisional damages. 3. Conduct a comprehensive freedom-to-operate (FTO) and infringement analysis mapping the claims of the pending applications against L3Harris's GNSS architectures. 4. If representing the sender, prepare a draft complaint for patent infringement and/or an administrative claim under 28 U.S.C. \u00a7 1498, pending patent issuance. 5. If representing L3Harris, immediately initiate an internal review of the GNSS IP Liability Notice, assess potential DFARS disclosure obligations regarding government contracts, and prepare defensive invalidity or non-infringement positions.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "35 U.S.C. \u00a7 154(d)",
+    "35 U.S.C. \u00a7 287",
+    "28 U.S.C. \u00a7 1498",
+    "DFARS 227.7004",
+    "Federal Rule of Evidence 901",
+    "Patent Infringement",
+    "Formal Demand Letter",
+    "GNSS Architecture",
+    "Defensive Publication",
+    "Non-Patent Literature (NPL)"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Christoph Feddersen",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "L3Harris",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "GNSS Architectures",
+      "Non-Patent Literature (NPL)"
+    ],
+    "products": [
+      "RMail",
+      "RMail FileShare",
+      "Gmail"
+    ],
+    "government_offices": [
+      "United States Patent and Trademark Office (USPTO)",
+      "European Patent Office (EPO)",
+      "Department of Justice (DOJ)"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "1355289304",
+  "basefilename": "DOWNLOAD-RECEIPT-christoph.feddersen@l3harris.com__Tier-0",
+  "original_filename": "DOWNLOAD-RECEIPT-christoph.feddersen@l3harris.com__Tier-0.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04102026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "christoph.feddersen@l3harris.com",
+  "primary_recipient_an": "Christoph Feddersen (L3Harris Technologies)",
+  "all_recipients": [
+    "christoph.feddersen@l3harris.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "rmenidjel@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "02__defensive-publication-email-with-receiptepo_gphilpott@epo.org",
+    "org_srowan@epo.org",
+    "_rmenidjel@epo.org",
+    "_ymeniere@epo.org"
+  ],
+  "all_recipients_an": {
+    "christoph.feddersen@l3harris.com": "Christoph Feddersen (L3Harris Technologies)",
+    "srowan@epo.org": "Local (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Local (European Patent Office)",
+    "rmenidjel@epo.org": "Local (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "02__defensive-publication-email-with-receiptepo_gphilpott@epo.org": "Defensive Publication Email With Receiptepo Gphilpott (European Patent Office)",
+    "org_srowan@epo.org": "Local (European Patent Office)",
+    "_rmenidjel@epo.org": "Local (European Patent Office)",
+    "_ymeniere@epo.org": "Local (European Patent Office)"
+  },
+  "patent_applications": []
+}

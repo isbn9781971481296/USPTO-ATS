@@ -1,0 +1,52 @@
+{
+  "index": 121,
+  "header": "# Enclosure #121: READ-RECEIPT-Big-Pharma-Top-5-HIGH-LIABILITY.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/__HIGH-Legal-Liability/READ-RECEIPT-Big-Pharma-Top-5__HIGH-LIABILITY.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-d241342a3b.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "albert.bourla@pfizer.com",
+  "primary_recipient_an": "Albert Bourla (Pfizer Inc.)",
+  "all_recipients": [
+    "albert.bourla@pfizer.com",
+    "mark.selwyn@wilmerhale.com",
+    "bill.anderson@bayer.com",
+    "karen.lynch@cvshealth.com",
+    "witty@uhg.com",
+    "jgalotto@wc.com",
+    "sam.khichi@cvshealth.com",
+    "doug.lankler@pfizer.com",
+    "dricks@lilly.com",
+    "anat@lilly.com",
+    "ksudol@kkr.com",
+    "czaetta@uhg.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "andrew_witty@uhg.com"
+  ],
+  "all_recipients_an": {
+    "albert.bourla@pfizer.com": "Albert Bourla (Pfizer Inc.)",
+    "mark.selwyn@wilmerhale.com": "Mark Selwyn (Microsoft Corporation)",
+    "bill.anderson@bayer.com": "Bill Anderson (Amazon.com, Inc.)",
+    "karen.lynch@cvshealth.com": "Karen Lynch (cvshealth.com)",
+    "witty@uhg.com": "Witty (UHG)",
+    "jgalotto@wc.com": "Jgalotto (WPEngine, Inc.)",
+    "sam.khichi@cvshealth.com": "Sam Khichi (cvshealth.com)",
+    "doug.lankler@pfizer.com": "Doug Lankler (Pfizer Inc.)",
+    "dricks@lilly.com": "Dricks (Lilly)",
+    "anat@lilly.com": "Anat Ashkenazi (Lilly)",
+    "ksudol@kkr.com": "Ksudol (Abuse)",
+    "czaetta@uhg.com": "Czaetta (UHG)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "andrew_witty@uhg.com": "Andrew Witty (UHG)"
+  },
+  "date": "04092026",
+  "original_filename": "READ-RECEIPT-Big-Pharma-Top-5__HIGH-LIABILITY.pdf",
+  "patent_applications_mentioned": [
+    "11/708,715"
+  ]
+}

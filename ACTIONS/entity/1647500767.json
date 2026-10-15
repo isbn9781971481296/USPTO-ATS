@@ -1,0 +1,52 @@
+{
+  "serving_key": "1647500767",
+  "canonical_key": "us-smtpjohn.haynes@alston.com",
+  "display_name": "John Haynes (Alston & Bird LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Alston & Bird LLP",
+  "full_name": "John Haynes",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Alston & Bird LLP",
+  "domain": "alston.com",
+  "addresses": {
+    "mailing_address": "One Atlantic Center, 1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309-3424",
+    "business_address": "One Atlantic Center, 1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309-3424",
+    "legal_service_address": "One Atlantic Center, 1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309-3424"
+  },
+  "registered_agent": {
+    "name": "Alston & Bird LLP",
+    "address": "One Atlantic Center, 1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309-3424",
+    "jurisdiction": "Georgia"
+  },
+  "contact": {
+    "primary_email": "us-smtpjohn.haynes@alston.com",
+    "alternative_emails": [
+      "john.haynes@alston.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1 404 881 7000"
+    ],
+    "faxes": [
+      "+1 404 881 7777"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2649484435",
+      "canonical_key": "david.frist@alston.com",
+      "display_name": "David Frist",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1112994938",
+      "canonical_key": "john.haynes@alston.com",
+      "display_name": "John Haynes",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

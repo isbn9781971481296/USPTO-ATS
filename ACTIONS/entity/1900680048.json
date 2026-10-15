@@ -1,0 +1,35 @@
+{
+  "serving_key": "1900680048",
+  "canonical_key": "_lhines@cov.com",
+  "display_name": "L. Hines (Covington & Burling LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Covington & Burling LLP",
+  "full_name": "L. Hines",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Covington & Burling LLP",
+  "domain": "cov.com",
+  "addresses": {
+    "mailing_address": "One CityCenter, 850 Tenth Street, NW, Washington, DC 20001-4956",
+    "business_address": "One CityCenter, 850 Tenth Street, NW, Washington, DC 20001-4956",
+    "legal_service_address": "1090 Vermont Ave NW, Washington, DC 20005"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "1090 Vermont Ave NW, Washington, DC 20005",
+    "jurisdiction": "District of Columbia"
+  },
+  "contact": {
+    "primary_email": "_lhines@cov.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-662-6000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

@@ -1,0 +1,93 @@
+{
+  "summary_of_pdf": "The document is an RMail secure file share download receipt serving as evidentiary proof that a recipient at The New York Times (beshadl@nytimes.com) successfully downloaded a formal notice of proprietary rights and pending claims under 35 U.S.C. \u00a7 154(d). The transmitted files include a portfolio of USPTO patent applications, a defensive publication receipt involving European Patent Office (EPO) officials, a document detailing media IP liability, and a report on a 'DOJ Alumni Network.' The primary legal purpose is to establish actual notice of published patent applications to accrue potential reasonable royalty damages under \u00a7 154(d) and to warn of intellectual property liabilities regarding source protection and side-channel threats.",
+  "attorneys_comments": "This RMail download receipt constitutes highly probative, time-stamped documentary evidence of actual notice, a strict prerequisite for recovering reasonable royalties for pre-issuance infringement under 35 U.S.C. \u00a7 154(d). By confirming the exact date and time (April 10, 2026, 08:58:47 PM Local) the recipient downloaded the 'Portfolio of Patent Applications filed with the USPTO' and the 'MEDIA_IP_LIABILITY' memorandum, the sender has effectively anchored the timeline for provisional rights. Tactically, this is a sophisticated maneuver to impute knowledge of pending claims\u2014specifically concerning steganographic anchoring and acoustic side-channel threats\u2014onto a major media entity. The inclusion of a defensive publication receipt involving European Patent Office (EPO) officials further demonstrates a coordinated international IP strategy. However, while this receipt proves delivery and download under Fed. R. Evid. 901, it does not inherently prove that the recipient read or understood the contents, nor does it establish that the pending claims will ultimately issue in a substantially identical form, which is the secondary statutory requirement of \u00a7 154(d). Counsel must ensure the underlying patent applications are published and that the claims ultimately granted are substantially identical to those in the published applications to leverage this notice effectively in any subsequent SDTX or Fifth Circuit litigation.",
+  "recommended_next_steps": "1. Preserve this RMail receipt and its associated metadata in a secure, tamper-evident repository as foundational evidence of actual notice under 35 U.S.C. \u00a7 154(d). 2. Monitor the prosecution of the referenced USPTO patent applications to ensure the claims ultimately issued are substantially identical to the published claims, thereby perfecting the provisional rights. 3. Conduct a targeted infringement analysis to determine if the recipient or their affiliates are practicing the claimed inventions (e.g., steganographic anchoring, acoustic side-channel mitigation). 4. Prepare a formal follow-up communication or cease-and-desist letter upon the issuance of the patents, referencing this exact download date to demand reasonable royalties from April 11, 2026, forward.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Provisional Patent Rights",
+    "Actual Notice",
+    "Evidentiary Proof of Delivery",
+    "Patent Infringement",
+    "Media IP Liability",
+    "Fed. R. Evid. 901",
+    "Defensive Publication",
+    "Formal Demand Letter"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "beshadl",
+      "gphilpott",
+      "nsimon",
+      "srowan",
+      "rmenidjel",
+      "ymeniere",
+      "tvilela"
+    ],
+    "companies": [
+      "RMail",
+      "RPost",
+      "The New York Times",
+      "Google"
+    ],
+    "technologies": [
+      "Source Protection Vulnerabilities",
+      "Steganographic Anchoring",
+      "Acoustic Side-Channel Threats"
+    ],
+    "products": [
+      "RMail FileShare",
+      "Gmail"
+    ],
+    "government_offices": [
+      "United States Patent and Trademark Office (USPTO)",
+      "European Patent Office (EPO)",
+      "Department of Justice (DOJ)"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "2656023657",
+  "basefilename": "READ-RECEIPT_beshadl@nytimes.com__Tier-1",
+  "original_filename": "READ-RECEIPT_beshadl@nytimes.com__Tier-1.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04102026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "beshadl@nytimes.com",
+  "primary_recipient_an": "Beshadl (Nytimes)",
+  "all_recipients": [
+    "beshadl@nytimes.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "rmenidjel@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "00__defensive-publication-email-with-receiptepo_gphilpott@epo.org",
+    "org_srowan@epo.org",
+    "_rmenidjel@epo.org",
+    "_ymeniere@epo.org"
+  ],
+  "all_recipients_an": {
+    "beshadl@nytimes.com": "Beshadl (Nytimes)",
+    "srowan@epo.org": "Local (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Local (European Patent Office)",
+    "rmenidjel@epo.org": "Local (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "00__defensive-publication-email-with-receiptepo_gphilpott@epo.org": "Defensive Publication Email With Receiptepo Gphilpott (European Patent Office)",
+    "org_srowan@epo.org": "Local (European Patent Office)",
+    "_rmenidjel@epo.org": "Local (European Patent Office)",
+    "_ymeniere@epo.org": "Local (European Patent Office)"
+  },
+  "patent_applications": []
+}

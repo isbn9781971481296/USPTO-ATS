@@ -109,6 +109,7 @@
         <nav class="nav nav-pills mb-3">
             <a class="nav-link active" href="/">ATS Dashboard</a>
             <a class="nav-link" href="examiners.html">Examiner Change-Request Log & Accumulative Rules</a>
+        <a class="nav-link" href="entities.html">Entity Directory & Legal Service Ledger</a>
         </nav>
     </div>
     
@@ -411,6 +412,34 @@
         }
         if (rawHash.startsWith('#')) rawHash = rawHash.substring(1);
 
+        // 1. Direct CRC32 Event Key Resolution (Decoupled from email-containing paths)
+        if (/^evt-\d+$/.test(rawHash)) {
+            const eventKey = rawHash.substring(4);
+            showDocViewerSpinner('Resolving document asset via CRC32 key...');
+            fetch('ACTIONS/event/' + eventKey + '.json')
+                .then(r => r.json())
+                .then(data => {
+                    const el = document.getElementById(eventKey);
+                    const resolvedPath = data.canonical_rel_pdf || data.rel_pdf || (el ? el.getAttribute('data-doc-path') : '');
+                    if (resolvedPath) {
+                        showDocViewer(resolvedPath, eventKey, eventKey, data);
+                    } else {
+                        hideDocViewerSpinner();
+                        hideDocViewer();
+                    }
+                })
+                .catch(err => {
+                    const el = document.getElementById(eventKey);
+                    if (el && el.getAttribute('data-doc-path')) {
+                        showDocViewer(el.getAttribute('data-doc-path'), eventKey, eventKey);
+                    } else {
+                        hideDocViewerSpinner();
+                        hideDocViewer();
+                    }
+                });
+            return;
+        }
+
         let docCandidate = '';
         if (rawHash.startsWith('a--') && (rawHash.includes('__pdf') || rawHash.includes('__xml'))) {
             docCandidate = decodePdfDomId(rawHash);
@@ -431,8 +460,17 @@
             docCandidate = decodeURIComponent(docCandidate).trim();
         } catch (e) {}
 
+        let eventKey = null;
+        const el = document.getElementById(rawHash);
+        if (el && el.hasAttribute('data-event-key')) {
+            eventKey = el.getAttribute('data-event-key');
+            if (!docCandidate || !(/\.(pdf|xml)$/i.test(docCandidate))) {
+                docCandidate = el.getAttribute('data-doc-path') || docCandidate;
+            }
+        }
+
         if (/\.(pdf|xml)$/i.test(docCandidate)) {
-            showDocViewer(docCandidate, rawHash);
+            showDocViewer(docCandidate, rawHash, eventKey);
         } else {
             hideDocViewer();
         }
@@ -471,7 +509,12 @@
         }
     }
 
-    function showDocViewer(docPath, hashId) {
+    function showDocViewerByKey(eventKey) {
+        history.pushState(null, '', '#' + eventKey);
+        checkDocViewerHash();
+    }
+
+    function showDocViewer(docPath, hashId, eventKey = null, preloadedData = null) {
         const viewer = document.getElementById('docViewerContainer');
         const mainContent = document.getElementById('mainDashboardContent');
         const titleEl = document.getElementById('docViewerTitle');
@@ -493,26 +536,11 @@
 
         showDocViewerSpinner(isXml ? 'Rendering XML docket asset...' : 'Rendering PDF docket asset...');
 
+        let innerDocHtml = '';
         if (isXml) {
-            frameHost.innerHTML = `
-                <div id="docViewerSpinner" class="d-flex flex-column justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100" style="background-color: #2b2e38; z-index: 10; color: #ffffff;">
-                    <div class="spinner-border text-light mb-3" style="width: 3.5rem; height: 3.5rem;" role="status">
-                        <span class="visually-hidden">Loading document...</span>
-                    </div>
-                    <div class="fs-5 fw-bold text-light">Loading Document...</div>
-                    <div class="text-white-50 small mt-1">Rendering XML docket asset...</div>
-                </div>
-                <iframe src="${docPath}" width="100%" onload="hideDocViewerSpinner()" style="height: 85vh; min-height: 600px; border: none; background: #ffffff;"></iframe>
-            `;
+            innerDocHtml = `<iframe src="${docPath}" width="100%" onload="hideDocViewerSpinner()" style="height: 85vh; min-height: 600px; border: none; background: #ffffff;"></iframe>`;
         } else {
-            frameHost.innerHTML = `
-                <div id="docViewerSpinner" class="d-flex flex-column justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100" style="background-color: #2b2e38; z-index: 10; color: #ffffff;">
-                    <div class="spinner-border text-light mb-3" style="width: 3.5rem; height: 3.5rem;" role="status">
-                        <span class="visually-hidden">Loading document...</span>
-                    </div>
-                    <div class="fs-5 fw-bold text-light">Loading Document...</div>
-                    <div class="text-white-50 small mt-1">Rendering PDF docket asset...</div>
-                </div>
+            innerDocHtml = `
                 <object data="${docPath}" type="application/pdf" width="100%" height="800" onload="hideDocViewerSpinner()" style="min-height: 85vh; border: none; display: block;">
                     <div class="p-4 text-center bg-light">
                         <p class="fs-5 text-dark">Your browser does not support inline PDF viewing.</p>
@@ -521,6 +549,65 @@
                 </object>
             `;
             setTimeout(hideDocViewerSpinner, 800);
+        }
+
+        let spinnerHtml = `
+            <div id="docViewerSpinner" class="d-flex flex-column justify-content-center align-items-center position-absolute top-0 start-0 w-100 h-100" style="background-color: #2b2e38; z-index: 10; color: #ffffff;">
+                <div class="spinner-border text-light mb-3" style="width: 3.5rem; height: 3.5rem;" role="status">
+                    <span class="visually-hidden">Loading document...</span>
+                </div>
+                <div class="fs-5 fw-bold text-light">Loading Document...</div>
+                <div class="text-white-50 small mt-1">Rendering docket asset...</div>
+            </div>
+        `;
+
+        if (!eventKey) {
+            frameHost.innerHTML = spinnerHtml + innerDocHtml;
+        } else {
+            // Augmented Mode: Render split pane with SDTX Litigator Analysis
+            frameHost.innerHTML = spinnerHtml + `
+                <div class="row m-0 p-0" style="height: 85vh; min-height: 600px;">
+                    <div class="col-md-3 p-4 overflow-auto bg-light border-end" id="augmentedPanel" style="height: 100%;">
+                        <div class="spinner-border spinner-border-sm text-primary" role="status"></div> Loading augmented intelligence...
+                    </div>
+                    <div class="col-md-9 p-0" style="height: 100%;">
+                        ${innerDocHtml}
+                    </div>
+                </div>
+            `;
+            
+            const renderAugmented = (data) => {
+                const tagsHtml = (data.tags || []).map(t => `<span class="badge bg-secondary mb-1 me-1">${t}</span>`).join('');
+                const appsHtml = (data.mentioned_uspto_applications || []).map(a => `<span class="badge bg-info text-dark mb-1 me-1">${a}</span>`).join('');
+                document.getElementById('augmentedPanel').innerHTML = `
+                    <h5 class="fw-bold mb-3 text-primary">⚖️ SDTX Litigator Analysis</h5>
+                    <h6 class="fw-bold mb-1">Executive Summary</h6>
+                    <p class="small text-muted mb-3">${data.summary_of_pdf || 'No summary.'}</p>
+                    
+                    <h6 class="fw-bold mb-1">Attorney Comments</h6>
+                    <p class="small text-muted mb-3">${data.attorneys_comments || 'None.'}</p>
+                    
+                    <h6 class="fw-bold mb-1">Recommended Next Steps</h6>
+                    <p class="small text-muted mb-3">${data.recommended_next_steps || 'None.'}</p>
+                    
+                    <h6 class="fw-bold mb-1">Tags & Classifications</h6>
+                    <div class="mb-3">${tagsHtml || '<span class="text-muted small">None</span>'}</div>
+                    
+                    <h6 class="fw-bold mb-1">Cross-Linked Applications</h6>
+                    <div class="mb-3">${appsHtml || '<span class="text-muted small">None</span>'}</div>
+                `;
+            };
+
+            if (preloadedData) {
+                renderAugmented(preloadedData);
+            } else {
+                fetch('ACTIONS/event/' + eventKey + '.json')
+                    .then(r => r.json())
+                    .then(data => renderAugmented(data))
+                    .catch(err => {
+                        document.getElementById('augmentedPanel').innerHTML = `<p class="text-danger small">Failed to load augmented intelligence.</p>`;
+                    });
+            }
         }
     }
 

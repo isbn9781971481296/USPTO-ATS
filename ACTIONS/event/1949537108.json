@@ -1,0 +1,118 @@
+{
+  "summary_of_pdf": "The provided document is an RPost Registered Email receipt serving as evidentiary proof of delivery for a formal legal demand and notice of proprietary rights. The underlying communication asserts actual knowledge of pending patent claims under 35 U.S.C. \u00a7 154(d) pertaining to maritime steganography, dual-purpose logistics, and risk underwriting. The notice was directed to executive and legal contacts at major maritime shipping and insurance entities, including Maersk, MSC, Frontline, Euronav, Gard, and Lloyd's, accompanied by a portfolio of USPTO patent applications and defensive publications.",
+  "attorneys_comments": "This RPost receipt is a critical evidentiary instrument for establishing 'actual notice' under 35 U.S.C. \u00a7 154(d), which is a strict statutory prerequisite for recovering reasonable royalty damages for pre-issuance infringement of a published patent application. The SMTP audit trail provides robust, court-admissible metadata confirming successful delivery to Maersk, Euronav, and Lloyd's, as well as definitive 'opened' status for Frontline and Gard (including IP addresses and user-agent strings). However, a fatal delivery failure occurred for MSC (gianni.onorato@msc.com) due to an invalid SMTP address, leaving MSC without perfected actual notice via this specific transmission. Procedurally, this instrument lays the evidentiary foundation for enhanced damages and willful infringement posturing in future Article III proceedings, provided the claims ultimately issuing from the USPTO are substantially identical to those in the published applications.",
+  "recommended_next_steps": "1. Immediately effectuate alternative service of the \u00a7 154(d) notice upon MSC (Mediterranean Shipping Company) via registered mail or a verified corporate counsel email address to cure the delivery failure and toll the provisional damages clock. 2. Docket the confirmed delivery dates (April 10, 2026) for Maersk, Frontline, Euronav, Gard, and Lloyd's to anchor the damages calculation period. 3. Monitor the pending USPTO applications to ensure strict compliance with the 'substantially identical' requirement of 35 U.S.C. \u00a7 154(d)(2) during prosecution. 4. Prepare preliminary claim charts mapping the published claims to the recipients' maritime logistics and underwriting platforms to substantiate the infringement allegations.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Provisional Patent Rights",
+    "Actual Notice",
+    "Evidentiary Proof of Delivery",
+    "Patent Infringement",
+    "Maritime Logistics",
+    "Risk Underwriting",
+    "Willful Infringement",
+    "Federal Rules of Evidence Rule 901",
+    "Defensive Publication"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Gianni Onorato",
+      "Marc Lipman",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "Maersk",
+      "MSC",
+      "Frontline Management",
+      "Euronav",
+      "Gard",
+      "Lloyd's",
+      "RPost",
+      "Microsoft Corporation",
+      "Google",
+      "DigiCert Inc",
+      "Proofpoint, Inc.",
+      "Sectigo Limited"
+    ],
+    "technologies": [
+      "Maritime Steganography",
+      "Dual-Purpose Logistics",
+      "Risk Underwriting",
+      "RMail Registered Email",
+      "SMTP",
+      "TLSv1.2"
+    ],
+    "products": [
+      "Office 365",
+      "Microsoft ESMTP MAIL Service"
+    ],
+    "government_offices": [
+      "USPTO",
+      "EPO",
+      "DOJ"
+    ],
+    "institutions": [
+      "DOJ Alumni Network"
+    ],
+    "prominent_locations": [
+      "Washington",
+      "Redmond",
+      "California"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "1949537108",
+  "basefilename": "READ-RECEIPT-MAERSK-et-Al__Tier-0",
+  "original_filename": "READ-RECEIPT-MAERSK-et-Al__Tier-0.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04102026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "cheryl.acker@gard.no",
+  "primary_recipient_an": "Cheryl Acker (Garden)",
+  "all_recipients": [
+    "cheryl.acker@gard.no",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "legal@euronav.com",
+    "ymeniere@epo.org",
+    "ir@maersk.com",
+    "gianni.onorato@msc.com",
+    "marc.lipman@lloyds.com",
+    "gardna@gard.no",
+    "nsimon@epo.org",
+    "lba@frontmgt.no",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "cheryl.acker@gard.no": "Cheryl Acker (Garden)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "legal@euronav.com": "Legal (Abuse)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "ir@maersk.com": "Ir (A.P. Moller - Maersk A/S)",
+    "gianni.onorato@msc.com": "Gianni Onorato (Divya Quamara)",
+    "marc.lipman@lloyds.com": "Marc Lipman (Lloyds Bank plc)",
+    "gardna@gard.no": "Gardna (Garden)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "lba@frontmgt.no": "Lba (frontmgt.no)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "15/728,640"
+  ]
+}

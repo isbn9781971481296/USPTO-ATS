@@ -1,0 +1,48 @@
+{
+  "serving_key": "774007445",
+  "canonical_key": "paul.castor@viasat.com",
+  "display_name": "Paul Castor (Viasat, Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Viasat, Inc.",
+  "full_name": "Paul Castor",
+  "pronouns": null,
+  "title": "In-House Counsel",
+  "organization": "Viasat, Inc.",
+  "domain": "viasat.com",
+  "addresses": {
+    "mailing_address": "6155 El Camino Real, Carlsbad, CA 92009",
+    "business_address": "6155 El Camino Real, Carlsbad, CA 92009",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "paul.castor@viasat.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-760-476-2200"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2440194470",
+      "canonical_key": "mark.dankberg@viasat.com",
+      "display_name": "Mark Dankberg",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3295650698",
+      "canonical_key": "robert.blair@viasat.com",
+      "display_name": "Robert Blair",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

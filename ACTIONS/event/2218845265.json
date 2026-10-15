@@ -1,0 +1,70 @@
+{
+  "summary_of_pdf": "This document is a cryptographic RMail File Share Download Notice serving as evidentiary proof of delivery and receipt. It confirms that on April 9, 2026, Carmen Turner, an official at Fort Bend County, Texas, successfully downloaded a formal notice of proprietary rights and actual knowledge of pending claims under 35 U.S.C. \u00a7 154(d). The downloaded files include a Department of Defense license grant associated with Hon. Heidi Shyu and USPTO Application No. 19/559,608, which pertains to geographically distributed ledgers, dual-purpose logistics, and acoustic side-channel exploits.",
+  "attorneys_comments": "This RMail receipt constitutes highly probative, authenticated documentary evidence of 'actual notice' under 35 U.S.C. \u00a7 154(d), a strict statutory prerequisite for the recovery of reasonable royalties for pre-issuance patent infringement. From an evidentiary standpoint, the third-party cryptographic audit trail provided by RPost satisfies the authentication requirements of Federal Rules of Evidence 901 and 902, effectively neutralizing any plausible deniability by the recipient regarding receipt of the patent application. Tactically, serving this notice upon a municipal entity (Fort Bend County) alongside a Department of Defense license grant suggests a complex jurisdictional posture. If the County's utilization of the accused technology is conducted by or for the United States with its authorization and consent, liability may shift to the federal government under 28 U.S.C. \u00a7 1498(a), necessitating exclusive jurisdiction in the Court of Federal Claims. Conversely, if the County is acting independently, counsel must navigate potential state governmental immunity defenses, though Texas counties typically do not enjoy Eleventh Amendment sovereign immunity in federal patent disputes. The primary vulnerability remains the statutory requirement that the claims ultimately issuing from USPTO App. No. 19/559,608 must be 'substantially identical' to the published claims to perfect the \u00a7 154(d) damages window.",
+  "recommended_next_steps": "First, preserve the native RMail receipt, associated metadata, and the exact copies of the transmitted PDF files in a secure litigation hold to ensure admissibility under FRE 902(13) or (14). Second, closely monitor the prosecution of USPTO App. No. 19/559,608 to ensure that any claim amendments do not destroy the 'substantially identical' requirement necessary to preserve the \u00a7 154(d) provisional rights. Third, initiate a discreet factual investigation into Fort Bend County's procurement and deployment of the accused spatial ledger and acoustic side-channel technologies to determine whether their use is federally funded or mandated, which would dictate whether to prepare a complaint for the Southern District of Texas or an administrative claim/suit under 28 U.S.C. \u00a7 1498(a).",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498(a)",
+    "FRE 901",
+    "FRE 902",
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Provisional Rights",
+    "Patent Infringement",
+    "Formal Demand Letter",
+    "Government Procurement"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Carmen Turner",
+      "Heidi Shyu"
+    ],
+    "companies": [
+      "RMail",
+      "RPost"
+    ],
+    "technologies": [
+      "Spatial Ledgers",
+      "Dual-Purpose Logistics",
+      "Acoustic Side-Channel Exploits",
+      "Geographically Distributed Ledger"
+    ],
+    "products": [],
+    "government_offices": [
+      "Department of Defense",
+      "Fort Bend County, TX"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Fort Bend County, Texas"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [
+    "19/559,608"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "2218845265",
+  "basefilename": "DOWNLOAD-RECEIPT-carmen.turner@fortbendcountytx.gov_HIGH-LIABILITY",
+  "original_filename": "DOWNLOAD-RECEIPT-carmen.turner@fortbendcountytx.gov_HIGH-LIABILITY.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "carmen.turner@fortbendcountytx.gov",
+  "primary_recipient_an": "Carmen Turner (Fort Bend County, Texas)",
+  "all_recipients": [
+    "carmen.turner@fortbendcountytx.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "carmen.turner@fortbendcountytx.gov": "Carmen Turner (Fort Bend County, Texas)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

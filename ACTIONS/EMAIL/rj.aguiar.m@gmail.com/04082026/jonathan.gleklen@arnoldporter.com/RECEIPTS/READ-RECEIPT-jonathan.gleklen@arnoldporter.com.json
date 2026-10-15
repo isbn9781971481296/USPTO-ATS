@@ -1,0 +1,38 @@
+{
+  "index": 93,
+  "header": "# Enclosure #93: READ-RECEIPT-jonathan-gleklen-arnoldporter-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT-jonathan.gleklen@arnoldporter.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-654c5f10bd.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jonathan.gleklen@arnoldporter.com",
+  "primary_recipient_an": "Jonathan Gleklen (arnoldporter.com)",
+  "all_recipients": [
+    "jonathan.gleklen@arnoldporter.com",
+    "srosenberg@gibsondunn.com",
+    "mbettinger@sidley.com",
+    "ayang@gibsondunn.com",
+    "peter.danias@arnoldporter.com",
+    "mrajavel@paloaltonetworks.com",
+    "mvalcich@paloaltonetworks.com",
+    "ir@paloaltonetworks.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jonathan.gleklen@arnoldporter.com": "Jonathan Gleklen (arnoldporter.com)",
+    "srosenberg@gibsondunn.com": "Srosenberg (gibsondunn.com)",
+    "mbettinger@sidley.com": "Mbettinger (Sidley Austin LLP)",
+    "ayang@gibsondunn.com": "Ayang (gibsondunn.com)",
+    "peter.danias@arnoldporter.com": "Peter Danias (arnoldporter.com)",
+    "mrajavel@paloaltonetworks.com": "Mrajavel (paloaltonetworks.com)",
+    "mvalcich@paloaltonetworks.com": "Mvalcich (paloaltonetworks.com)",
+    "ir@paloaltonetworks.com": "Ir (paloaltonetworks.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04082026",
+  "original_filename": "READ-RECEIPT-jonathan.gleklen@arnoldporter.com.pdf",
+  "patent_applications_mentioned": []
+}

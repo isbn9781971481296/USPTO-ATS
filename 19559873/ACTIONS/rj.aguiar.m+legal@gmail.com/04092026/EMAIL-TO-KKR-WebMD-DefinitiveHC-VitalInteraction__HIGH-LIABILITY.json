@@ -1,0 +1,49 @@
+{
+  "index": 118,
+  "header": "# Enclosure #118: EMAIL-TO-KKR-WebMD-DefinitiveHC-VitalInteraction-HIGH-LIABILITY.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/EMAIL-TO-KKR-WebMD-DefinitiveHC-VitalInteraction__HIGH-LIABILITY.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-f975691ed0.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "sdevarakonda@fr.com",
+  "primary_recipient_an": "Sdevarakonda (France)",
+  "all_recipients": [
+    "sdevarakonda@fr.com",
+    "avanhoesen@jenner.com",
+    "llesser@stblaw.com",
+    "cmorris@tebra.com",
+    "lwalsh@internetbrands.com",
+    "jparis@definitivehc.com",
+    "bchapman@vitalinteraction.com",
+    "ksudol@kkr.com",
+    "sstackhouse@epic.com",
+    "frank.jimenez@gehealthcare.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "sdevarakonda@fr.com": "Sdevarakonda (France)",
+    "avanhoesen@jenner.com": "Avanhoesen (Kendall Nicole Jenner)",
+    "llesser@stblaw.com": "Llesser (stblaw.com)",
+    "cmorris@tebra.com": "Cmorris (Tebrau)",
+    "lwalsh@internetbrands.com": "Lwalsh (internetbrands.com)",
+    "jparis@definitivehc.com": "Jparis (definitivehc.com)",
+    "bchapman@vitalinteraction.com": "Bchapman (vitalinteraction.com)",
+    "ksudol@kkr.com": "Ksudol (Abuse)",
+    "sstackhouse@epic.com": "Sstackhouse (Epic)",
+    "frank.jimenez@gehealthcare.com": "Frank Jimenez (gehealthcare.com)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "EMAIL-TO-KKR-WebMD-DefinitiveHC-VitalInteraction__HIGH-LIABILITY.pdf",
+  "patent_applications_mentioned": [
+    "19/640,945",
+    "19/632,333",
+    "19/559,873",
+    "19/559,958"
+  ]
+}

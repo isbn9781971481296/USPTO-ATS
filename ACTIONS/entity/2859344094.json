@@ -1,0 +1,37 @@
+{
+  "serving_key": "2859344094",
+  "canonical_key": "_shunji_matsuda@noandt.com",
+  "display_name": "Shunji Matsuda (Nishimura & Asahi)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Nagashima Ohno & Tsunematsu",
+  "full_name": "Shunji Matsuda",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Nagashima Ohno & Tsunematsu",
+  "domain": "noandt.com",
+  "addresses": {
+    "mailing_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "business_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "legal_service_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan"
+  },
+  "registered_agent": {
+    "name": "Nishimura & Asahi (Headquarters)",
+    "address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "jurisdiction": "Tokyo, Japan"
+  },
+  "contact": {
+    "primary_email": "_shunji_matsuda@noandt.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+81-3-6250-6200"
+    ],
+    "faxes": [
+      "+81-3-6250-7200"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

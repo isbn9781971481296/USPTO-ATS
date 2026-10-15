@@ -1,0 +1,35 @@
+{
+  "serving_key": "2203196698",
+  "canonical_key": "jhemann@cooley.com",
+  "display_name": "John Hemann (Cooley LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Cooley LLP",
+  "full_name": "John Hemann",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Cooley LLP",
+  "domain": "cooley.com",
+  "addresses": {
+    "mailing_address": "3 Embarcadero Center, 20th Floor, San Francisco, CA 94111",
+    "business_address": "3 Embarcadero Center, 20th Floor, San Francisco, CA 94111",
+    "legal_service_address": "CT Corporation System, 330 N Brand Blvd, Suite 700, Glendale, CA 91203"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "330 N Brand Blvd, Suite 700, Glendale, CA 91203",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "jhemann@cooley.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 415-693-2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

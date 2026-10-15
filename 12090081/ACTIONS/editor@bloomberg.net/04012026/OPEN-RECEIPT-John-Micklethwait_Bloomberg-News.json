@@ -1,0 +1,28 @@
+{
+  "index": 182,
+  "header": "# Enclosure #182: OPEN-RECEIPT-John-Micklethwait-Bloomberg-News.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/OPEN-RECEIPT-John-Micklethwait_Bloomberg-News.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-open-receipt-john-micklethwait-bloo-98796d6dec.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "editor@bloomberg.net",
+  "primary_recipient_an": "Editor (Bloomberg News)",
+  "all_recipients": [
+    "editor@bloomberg.net",
+    "micklethwait@bloomberg.net",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "editor@bloomberg.net": "Editor (Bloomberg News)",
+    "micklethwait@bloomberg.net": "Richard John Micklethwait (Bloomberg News)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04012026",
+  "original_filename": "OPEN-RECEIPT-John-Micklethwait_Bloomberg-News.pdf",
+  "patent_applications_mentioned": [
+    "12/090,081"
+  ]
+}

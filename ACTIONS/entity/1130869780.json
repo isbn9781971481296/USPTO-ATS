@@ -1,0 +1,40 @@
+{
+  "serving_key": "1130869780",
+  "canonical_key": "_undra.n.robinson.civ@mail.mil",
+  "display_name": "Undra N. Robinson (U.S. Department of Defense)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "U.S. Department of Defense",
+  "full_name": "Undra N. Robinson",
+  "pronouns": null,
+  "title": "Civilian Employee",
+  "organization": "U.S. Department of Defense",
+  "domain": "mail.mil",
+  "addresses": {
+    "mailing_address": "1400 Defense Pentagon, Washington, DC 20301-1400",
+    "business_address": "1400 Defense Pentagon, Washington, DC 20301-1400",
+    "legal_service_address": "Office of the General Counsel, 1600 Defense Pentagon, Washington, DC 20301-1600"
+  },
+  "registered_agent": {
+    "name": "Office of the General Counsel, Department of Defense",
+    "address": "1600 Defense Pentagon, Washington, DC 20301-1600",
+    "jurisdiction": "Federal"
+  },
+  "contact": {
+    "primary_email": "_undra.n.robinson.civ@mail.mil",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3587713169",
+      "canonical_key": "emil.michael@mail.mil",
+      "display_name": "Emil Michael",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,44 @@
+{
+  "serving_key": "3760487526",
+  "canonical_key": "lisa.caldwell@klarquist.com",
+  "display_name": "Lisa Caldwell (Klarquist Sparkman, LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Klarquist Sparkman, LLP",
+  "full_name": "Lisa Caldwell",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Klarquist Sparkman, LLP",
+  "domain": "klarquist.com",
+  "addresses": {
+    "mailing_address": "121 SW Salmon Street, Suite 1600, Portland, OR 97204",
+    "business_address": "121 SW Salmon Street, Suite 1600, Portland, OR 97204",
+    "legal_service_address": "121 SW Salmon Street, Suite 1600, Portland, OR 97204"
+  },
+  "registered_agent": {
+    "name": "Managing Partner, Klarquist Sparkman, LLP",
+    "address": "121 SW Salmon Street, Suite 1600, Portland, OR 97204",
+    "jurisdiction": "Oregon"
+  },
+  "contact": {
+    "primary_email": "lisa.caldwell@klarquist.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-503-595-5300"
+    ],
+    "faxes": [
+      "+1-503-595-5301"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3888787925",
+      "canonical_key": "chris.carraway@klarquist.com",
+      "display_name": "Christopher J. Carraway",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

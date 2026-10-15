@@ -1,0 +1,35 @@
+{
+  "serving_key": "3384709385",
+  "canonical_key": "sustainability.hella@forvia.com",
+  "display_name": "Sustainability Department (HELLA / FORVIA)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "HELLA GmbH & Co. KGaA (FORVIA Group)",
+  "full_name": "Sustainability Department",
+  "pronouns": null,
+  "title": "Sustainability Contact",
+  "organization": "HELLA GmbH & Co. KGaA (FORVIA Group)",
+  "domain": "forvia.com",
+  "addresses": {
+    "mailing_address": "Rixbecker Str. 75, 59552 Lippstadt, Germany",
+    "business_address": "Rixbecker Str. 75, 59552 Lippstadt, Germany",
+    "legal_service_address": "Rixbecker Str. 75, 59552 Lippstadt, Germany"
+  },
+  "registered_agent": {
+    "name": "HELLA GmbH & Co. KGaA Legal Department",
+    "address": "Rixbecker Str. 75, 59552 Lippstadt, Germany",
+    "jurisdiction": "Germany"
+  },
+  "contact": {
+    "primary_email": "sustainability.hella@forvia.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+49 2941 38 0"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

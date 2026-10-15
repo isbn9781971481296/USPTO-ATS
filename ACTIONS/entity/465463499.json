@@ -1,0 +1,35 @@
+{
+  "serving_key": "465463499",
+  "canonical_key": "media@opd.wi.gov",
+  "display_name": "Media Relations (Wisconsin State Public Defender's Office)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Wisconsin State Public Defender's Office",
+  "full_name": "Media Relations",
+  "pronouns": null,
+  "title": "Media Contact",
+  "organization": "Wisconsin State Public Defender's Office",
+  "domain": "opd.wi.gov",
+  "addresses": {
+    "mailing_address": "PO Box 7923, Madison, WI 53707-7923",
+    "business_address": "17 S. Fairchild St., 5th Floor, Madison, WI 53703",
+    "legal_service_address": "17 S. Fairchild St., 5th Floor, Madison, WI 53703"
+  },
+  "registered_agent": {
+    "name": "Katie R. York, State Public Defender",
+    "address": "17 S. Fairchild St., 5th Floor, Madison, WI 53703",
+    "jurisdiction": "Wisconsin"
+  },
+  "contact": {
+    "primary_email": "media@opd.wi.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-608-266-0087"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

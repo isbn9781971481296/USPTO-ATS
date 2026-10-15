@@ -1,0 +1,415 @@
+4/9/26, 3:41 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP
+Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Failure)
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 8:27 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered
+
+(UTC*)
+
+(local)
+
+04/07/2026
+relayed;mail.kimchang.com
+11:27:48 AM
+(210.205.3.250)
+(UTC)
+
+04/07/2026
+11:27:48 AM
+
+04/07/2026
+11:27:47 AM
+(UTC)
+
+04/07/2026
+11:27:47 AM
+
+***
+
+***
+
+ducksoon.chang@kimchang.com
+
+Delivered to
+Mail Server
+
+ickwon@kimchang.com
+
+Delivered and
+HTTP-IP:210.205.3.242
+Opened
+
+yang.youngjune@kimchang.com
+
+Delivery
+Failed
+
+550 5.1.10
+RESOLVER.ADR.
+RecipientNotFound;
+Recipient not found by
+SMTP address lookup
+
+kdlee@kimchang.com
+
+Delivered to
+Mail Server
+
+04/07/2026
+relayed;mail.kimchang.com
+11:27:47 AM
+(210.205.3.250)
+(UTC)
+
+04/07/2026
+11:27:47 AM
+
+monica.leeu@kimchang.com
+
+Delivery
+Failed
+
+550 5.1.10
+RESOLVER.ADR.
+RecipientNotFound;
+Recipient not found by
+SMTP address lookup
+
+***
+
+***
+
+rj.aguiar.m@gmail.com
+
+Delivered and
+HTTP-IP:66.249.80.2
+Opened
+
+04/07/2026
+11:33:54 AM
+(UTC)
+
+04/07/2026
+11:33:54 AM
+
+Opened (local)
+
+04/07/2026
+11:32:12 AM
+
+04/07/2026
+12:22:54 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<ducksoon.chang@kimchang.com> <ickwon@kimchang.com>
+<yang.youngjune@kimchang.com> <kdlee@kimchang.com>
+<monica.leeu@kimchang.com>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818478755801467&simpl=msg-f:1861818478755801467
+
+1/5
+
+4/9/26, 3:41 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+Bcc:
+Network ID:
+
+e0db9ee8-5ec5-4dd8-81f4-1368c9a9682f@SM26
+
+Received by RMail System:
+
+04/07/2026 11:27:42 AM (UTC), 04/07/2026 11:27:42 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+FF9B614F2DB616D7A3297AB8FB36B07237F7705B
+
+Message Size:
+
+4207
+
+Features Used:
+File Size:
+
+File Name:
+
+1132462
+
+092__USPTO_19_639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+976947
+
+00__Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+1195376
+
+090__USPTO_No_19-639,219__Central_Processing_Unit_Architecture_for_Native_
+Parametric_and_Symbolic_Computation.pdf
+
+948090
+
+091__USPTO_19_639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+.
+
+Delivery Audit Trail
+4/7/2026 11:27:43 AM starting kimchang.com/{default} 4/7/2026 11:27:43 AM connecting from mta21.r1.rpost.net (0.0.0.0) to m
+ail.kimchang.com (210.205.3.250) 4/7/2026 11:27:43 AM connected from 192.168.10.11:43452 4/7/2026 11:27:44 AM >>> 220
+ESMTP AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:44 AM >>>
+250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM >>> 250-STARTTLS 4/7/2026 11:27:44 AM >>> 250-SIZE 513
+80224 4/7/2026 11:27:44 AM >>> 250-PIPELINING 4/7/2026 11:27:44 AM >>> 250 8BITMIME 4/7/2026 11:27:44 AM <<< ST
+ARTTLS 4/7/2026 11:27:44 AM >>> 220 ready for tls 4/7/2026 11:27:45 AM tls:TLSv1.2 connected with 256-bit ECDHE-RSAAES256-GCM-SHA384 4/7/2026 11:27:45 AM tls:Cert: /C=KR/ST=Seoul/L=Jongno-gu/O=Law offices of Kim & Chang/CN=ma
+il.kimchang.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 11:
+27:45 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:45 AM >>> 250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:4
+5 AM >>> 250-SIZE 51380224 4/7/2026 11:27:45 AM >>> 250-PIPELINING 4/7/2026 11:27:45 AM >>> 250 8BITMIME 4/7/20
+26 11:27:45 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:27:45 AM >>> 250 [Sniper] OK 4/7/2026 11:27:45 AM <<<
+RCPT TO: 4/7/2026 11:27:46 AM >>> 250 [Sniper] OK 4/7/2026 11:27:46 AM <<< DATA 4/7/2026 11:27:46 AM >>> 354 [Snip
+er] input your message ... 4/7/2026 11:27:46 AM <<< . 4/7/2026 11:27:48 AM >>> 250 [Sniper] OK 1775561267 snipe-queue 2
+1823 4/7/2026 11:27:48 AM <<< QUIT 4/7/2026 11:27:48 AM >>> 221 [Sniper] closing connection 4/7/2026 11:27:48 AM close
+d mail.kimchang.com (210.205.3.250) in=410 out=24277 4/7/2026 11:27:48 AM done kimchang.com/{default}
+4/7/2026 11:27:43 AM starting kimchang.com/{default} 4/7/2026 11:27:43 AM connecting from mta21.r1.rpost.net (0.0.0.0) to m
+ail.kimchang.com (210.205.3.250) 4/7/2026 11:27:43 AM connected from 192.168.10.11:42049 4/7/2026 11:27:44 AM >>> 220
+ESMTP AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:44 AM >>>
+250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM >>> 250-STARTTLS 4/7/2026 11:27:44 AM >>> 250-SIZE 513
+80224 4/7/2026 11:27:44 AM >>> 250-PIPELINING 4/7/2026 11:27:44 AM >>> 250 8BITMIME 4/7/2026 11:27:44 AM <<< ST
+ARTTLS 4/7/2026 11:27:44 AM >>> 220 ready for tls 4/7/2026 11:27:45 AM tls:TLSv1.2 connected with 256-bit ECDHE-RSAAES256-GCM-SHA384 4/7/2026 11:27:45 AM tls:Cert: /C=KR/ST=Seoul/L=Jongno-gu/O=Law offices of Kim & Chang/CN=ma
+il.kimchang.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 11:
+27:45 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:45 AM >>> 250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:4
+5 AM >>> 250-SIZE 51380224 4/7/2026 11:27:45 AM >>> 250-PIPELINING 4/7/2026 11:27:45 AM >>> 250 8BITMIME 4/7/20
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818478755801467&simpl=msg-f:1861818478755801467
+
+2/5
+
+4/9/26, 3:41 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+26 11:27:45 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:27:45 AM >>> 250 [Sniper] OK 4/7/2026 11:27:45 AM <<<
+RCPT TO: 4/7/2026 11:27:46 AM >>> 250 [Sniper] OK 4/7/2026 11:27:46 AM <<< DATA 4/7/2026 11:27:46 AM >>> 354 [Snip
+er] input your message ... 4/7/2026 11:27:46 AM <<< . 4/7/2026 11:27:47 AM >>> 250 [Sniper] OK 1775561267 snipe-queue 1
+414673 4/7/2026 11:27:47 AM <<< QUIT 4/7/2026 11:27:48 AM >>> 221 [Sniper] closing connection 4/7/2026 11:27:48 AM clo
+sed mail.kimchang.com (210.205.3.250) in=412 out=24253 4/7/2026 11:27:48 AM done kimchang.com/{default}
+4/7/2026 11:27:43 AM starting kimchang.com/{default} 4/7/2026 11:27:43 AM connecting from mta21.r1.rpost.net (0.0.0.0) to m
+ail.kimchang.com (210.205.3.250) 4/7/2026 11:27:43 AM connected from 192.168.10.11:59050 4/7/2026 11:27:44 AM >>> 220
+ESMTP AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:44 AM >>>
+250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM >>> 250-STARTTLS 4/7/2026 11:27:44 AM >>> 250-SIZE 513
+80224 4/7/2026 11:27:44 AM >>> 250-PIPELINING 4/7/2026 11:27:44 AM >>> 250 8BITMIME 4/7/2026 11:27:44 AM <<< ST
+ARTTLS 4/7/2026 11:27:44 AM >>> 220 ready for tls 4/7/2026 11:27:45 AM tls:TLSv1.2 connected with 256-bit ECDHE-RSAAES256-GCM-SHA384 4/7/2026 11:27:45 AM tls:Cert: /C=KR/ST=Seoul/L=Jongno-gu/O=Law offices of Kim & Chang/CN=ma
+il.kimchang.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 11:
+27:45 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:45 AM >>> 250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:4
+5 AM >>> 250-SIZE 51380224 4/7/2026 11:27:45 AM >>> 250-PIPELINING 4/7/2026 11:27:45 AM >>> 250 8BITMIME 4/7/20
+26 11:27:45 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:27:45 AM >>> 250 [Sniper] OK 4/7/2026 11:27:45 AM <<<
+RCPT TO: 4/7/2026 11:27:46 AM >>> 250 [Sniper] OK 4/7/2026 11:27:46 AM <<< DATA 4/7/2026 11:27:46 AM >>> 354 [Snip
+er] input your message ... 4/7/2026 11:27:46 AM <<< . 4/7/2026 11:27:47 AM >>> 250 [Sniper] OK 1775561267 snipe-queue 2
+1825 4/7/2026 11:27:47 AM <<< QUIT 4/7/2026 11:27:48 AM >>> 221 [Sniper] closing connection 4/7/2026 11:27:48 AM close
+d mail.kimchang.com (210.205.3.250) in=410 out=24277 4/7/2026 11:27:48 AM done kimchang.com/{default}
+4/7/2026 11:27:43 AM starting kimchang.com/{default} 4/7/2026 11:27:43 AM connecting from mta21.r1.rpost.net (0.0.0.0) to m
+ail.kimchang.com (210.205.3.250) 4/7/2026 11:27:43 AM connected from 192.168.10.11:34786 4/7/2026 11:27:44 AM >>> 220
+ESMTP AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:44 AM >>>
+250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM >>> 250-STARTTLS 4/7/2026 11:27:44 AM >>> 250-SIZE 513
+80224 4/7/2026 11:27:44 AM >>> 250-PIPELINING 4/7/2026 11:27:44 AM >>> 250 8BITMIME 4/7/2026 11:27:44 AM <<< ST
+ARTTLS 4/7/2026 11:27:44 AM >>> 220 ready for tls 4/7/2026 11:27:45 AM tls:TLSv1.2 connected with 256-bit ECDHE-RSAAES256-GCM-SHA384 4/7/2026 11:27:45 AM tls:Cert: /C=KR/ST=Seoul/L=Jongno-gu/O=Law offices of Kim & Chang/CN=ma
+il.kimchang.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 11:
+27:45 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:45 AM >>> 250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:4
+5 AM >>> 250-SIZE 51380224 4/7/2026 11:27:45 AM >>> 250-PIPELINING 4/7/2026 11:27:45 AM >>> 250 8BITMIME 4/7/20
+26 11:27:45 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:27:45 AM >>> 250 [Sniper] OK 4/7/2026 11:27:45 AM <<<
+RCPT TO: 4/7/2026 11:27:46 AM >>> 250 [Sniper] OK 4/7/2026 11:27:46 AM <<< DATA 4/7/2026 11:27:46 AM >>> 354 [Snip
+er] input your message ... 4/7/2026 11:27:46 AM <<< . 4/7/2026 11:27:47 AM >>> 250 [Sniper] OK 1775561267 snipe-queue 1
+414672 4/7/2026 11:27:47 AM <<< QUIT 4/7/2026 11:27:48 AM >>> 221 [Sniper] closing connection 4/7/2026 11:27:48 AM clo
+sed mail.kimchang.com (210.205.3.250) in=412 out=24250 4/7/2026 11:27:48 AM done kimchang.com/{default}
+4/7/2026 11:27:43 AM starting kimchang.com/{default} 4/7/2026 11:27:43 AM connecting from mta21.r1.rpost.net (0.0.0.0) to m
+ail.kimchang.com (210.205.3.250) 4/7/2026 11:27:43 AM connected from 192.168.10.11:45688 4/7/2026 11:27:44 AM >>> 220
+ESMTP AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:44 AM >>>
+250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:44 AM >>> 250-STARTTLS 4/7/2026 11:27:44 AM >>> 250-SIZE 513
+80224 4/7/2026 11:27:44 AM >>> 250-PIPELINING 4/7/2026 11:27:44 AM >>> 250 8BITMIME 4/7/2026 11:27:44 AM <<< ST
+ARTTLS 4/7/2026 11:27:44 AM >>> 220 ready for tls 4/7/2026 11:27:45 AM tls:TLSv1.2 connected with 256-bit ECDHE-RSAAES256-GCM-SHA384 4/7/2026 11:27:45 AM tls:Cert: /C=KR/ST=Seoul/L=Jongno-gu/O=Law offices of Kim & Chang/CN=ma
+il.kimchang.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/7/2026 11:
+27:45 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:27:45 AM >>> 250-AntiSpam Service Enterprise Edition 4/7/2026 11:27:4
+5 AM >>> 250-SIZE 51380224 4/7/2026 11:27:45 AM >>> 250-PIPELINING 4/7/2026 11:27:45 AM >>> 250 8BITMIME 4/7/20
+26 11:27:45 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:27:45 AM >>> 250 [Sniper] OK 4/7/2026 11:27:45 AM <<<
+RCPT TO: 4/7/2026 11:27:46 AM >>> 250 [Sniper] OK 4/7/2026 11:27:46 AM <<< DATA 4/7/2026 11:27:46 AM >>> 354 [Snip
+er] input your message ... 4/7/2026 11:27:46 AM <<< . 4/7/2026 11:27:47 AM >>> 250 [Sniper] OK 1775561267 snipe-queue 2
+1824 4/7/2026 11:27:47 AM <<< QUIT 4/7/2026 11:27:48 AM >>> 221 [Sniper] closing connection 4/7/2026 11:27:48 AM close
+d mail.kimchang.com (210.205.3.250) in=410 out=24268 4/7/2026 11:27:48 AM done kimchang.com/{default}
+4/7/2026 11:33:53 AM starting gmail.com/{default} 4/7/2026 11:33:54 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmailsmtp-in.l.google.com (142.251.127.26) 4/7/2026 11:33:54 AM connected from 192.168.10.11:45952 4/7/2026 11:33:54 AM >>>
+220 mx.google.com ESMTP ffacd0b85a97d-43d1e52aefbsi31639090f8f.349 - gsmtp 4/7/2026 11:33:54 AM <<< EHLO mta21.r
+1.rpost.net 4/7/2026 11:33:54 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 11:33:54 AM >>> 250-SIZE
+157286400 4/7/2026 11:33:54 AM >>> 250-8BITMIME 4/7/2026 11:33:54 AM >>> 250-STARTTLS 4/7/2026 11:33:54 AM >>>
+250-ENHANCEDSTATUSCODES 4/7/2026 11:33:54 AM >>> 250-PIPELINING 4/7/2026 11:33:54 AM >>> 250-CHUNKING 4/
+7/2026 11:33:54 AM >>> 250 SMTPUTF8 4/7/2026 11:33:54 AM <<< STARTTLS 4/7/2026 11:33:54 AM >>> 220 2.0.0 Ready
+to start TLS 4/7/2026 11:33:54 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reuse
+d) 4/7/2026 11:33:54 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/7/20
+26 11:33:54 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:33:54 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/
+7/2026 11:33:54 AM >>> 250-SIZE 157286400 4/7/2026 11:33:54 AM >>> 250-8BITMIME 4/7/2026 11:33:54 AM >>> 250-EN
+HANCEDSTATUSCODES 4/7/2026 11:33:54 AM >>> 250-PIPELINING 4/7/2026 11:33:54 AM >>> 250-CHUNKING 4/7/2026 1
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818478755801467&simpl=msg-f:1861818478755801467
+
+3/5
+
+4/9/26, 3:41 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+1:33:54 AM >>> 250 SMTPUTF8 4/7/2026 11:33:54 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:33:54 AM >>> 250
+2.1.0 OK ffacd0b85a97d-43d1e52aefbsi31639090f8f.349 - gsmtp 4/7/2026 11:33:54 AM <<< RCPT TO: 4/7/2026 11:33:54 AM
+>>> 250 2.1.5 OK ffacd0b85a97d-43d1e52aefbsi31639090f8f.349 - gsmtp 4/7/2026 11:33:54 AM <<< DATA 4/7/2026 11:33:54
+AM >>> 354 Go ahead ffacd0b85a97d-43d1e52aefbsi31639090f8f.349 - gsmtp 4/7/2026 11:33:54 AM <<< . 4/7/2026 11:33:54
+AM >>> 250 2.0.0 OK 1775561634 ffacd0b85a97d-43d1e52aefbsi31639090f8f.349 - gsmtp 4/7/2026 11:33:54 AM <<< QUIT 4/
+7/2026 11:33:54 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e52aefbsi31639090f8f.349 - gsmtp 4/7/2026 11:33:
+54 AM closed gmail-smtp-in.l.google.com (142.251.127.26) in=779 out=24259 4/7/2026 11:33:58 AM done gmail.com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mail.kimchang.com (210.205.3.250)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mail.kimchang.com (210.205.3.250)
+[IP Address: 210.205.3.242] [Time Opened: 4/7/2026 11:32:12 AM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmail.
+r1.rpost.net] [SCRIPT_NAME: /oatv_v2/jmbmZYoIvrtikqwc3vKNg5wbdFQCvHg1cORuqownMTAy.gif] HTTP_ACCEPT:image/
+webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.n
+et HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Geck
+o) Mobile/15E148 HTTP_X_FORWARDED_FOR:210.205.3.242 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARD
+ED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4eb3c-6afd9c5f10b1240e773c6f1a HTTP_SEC_FETCH_SITE:cross-si
+te HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image Accept: image/webp,image/avif,image/jxl,image/hei
+c,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate, br Ac
+cept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac O
+S X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 210.205.3.242 X-Forwarded-Proto: https XForwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d4eb3c-6afd9c5f10b1240e773c6f1a Sec-Fetch-Site: cross-site Sec-Fetch-M
+ode: no-cors Sec-Fetch-Dest: image /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 0
+CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v2/jmbmZ
+YoIvrtikqwc3vKNg5wbdFQCvHg1cORuqownMTAy.gif 192.168.10.14 192.168.10.14 50916 GET /oatv_v2/jmbmZYoIvrtikqwc3v
+KNg5wbdFQCvHg1cORuqownMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/jmbmZYoIvrtikqwc3v
+KNg5wbdFQCvHg1cORuqownMTAy.gif image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,imag
+e/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (iPhone; CPU
+iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 210.205.3.242 https 443 Root=169d4eb3c-6afd9c5f10b1240e773c6f1a cross-site no-cors image
+From:postmaster@KimChang.com:Delivery has failed to these recipients or groups: yang.youngjune@kimchang.com The em
+ail address you entered couldn't be found. Please check the recipient's email address and try to resend the message. If the pr
+oblem continues, please contact your email admin. Diagnostic information for administrators: Generating server: ECM4.KimCh
+ang.com yang.youngjune@kimchang.com Remote Server returned '550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipien
+t not found by SMTP address lookup' Original message headers: Received: from ECM8.KimChang.com (10.10.210.18) by EC
+M4.KimChang.com (10.10.210.14) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256
+_GCM_SHA384) id 15.2.2562.35; Tue, 7 Apr 2026 20:27:50 +0900 Received: from ddei.localdomain (10.10.210.152) by ECM8.
+KimChang.com (10.10.210.18) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_...
+[truncated]
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mail.kimchang.com (210.205.3.250)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mail.kimchang.com (210.205.3.250)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+[IP Address: 66.249.80.2] [Time Opened: 4/7/2026 12:22:54 PM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/0CsR5LVEqVvnXHVA9aJmjHY4VLyL3x0JoLxOd7mqMTAy.gif] HTTP_ACCEPT_ENC
+ODING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Geck
+o Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.2 HTTP_X_FORWARDED_PROT
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818478755801467&simpl=msg-f:1861818478755801467
+
+4/5
+
+4/9/26, 3:41 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+O:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4f71e-0beb837651f6fa2838f82258 Accep
+t-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.2 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Tr
+ace-Id: Root=1-69d4f71e-0beb837651f6fa2838f82258 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 o
+n 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/0CsR5LVEqVvnXHVA9aJmjHY4VLyL3x0Jo
+LxOd7mqMTAy.gif 192.168.20.111 192.168.20.111 63480 GET /oatv_v2/0CsR5LVEqVvnXHVA9aJmjHY4VLyL3x0JoLxOd7mq
+MTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/0CsR5LVEqVvnXHVA9aJmjHY4VLyL3x0JoLxOd7
+mqMTAy.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com Go
+ogleImageProxy) 66.249.80.2 https 443 Root=1-69d4f71e-0beb837651f6fa2838f82258
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+28K
+HtmlReceipt.htm
+176K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818478755801467&simpl=msg-f:1861818478755801467
+
+5/5
+
+

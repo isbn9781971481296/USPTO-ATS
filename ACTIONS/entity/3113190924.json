@@ -1,0 +1,49 @@
+{
+  "serving_key": "3113190924",
+  "canonical_key": "finance@seattle.gov",
+  "display_name": "City of Seattle Finance",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "City of Seattle",
+  "full_name": "City of Seattle Department of Finance and Administrative Services",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "City of Seattle",
+  "domain": "seattle.gov",
+  "addresses": {
+    "mailing_address": "PO Box 94669, Seattle, WA 98124-4669",
+    "business_address": "700 5th Ave, Suite 4200, Seattle, WA 98104",
+    "legal_service_address": "Office of the City Clerk, 600 4th Ave, 3rd Floor, Seattle, WA 98104"
+  },
+  "registered_agent": {
+    "name": "Office of the City Clerk (Service of Process)",
+    "address": "600 4th Ave, 3rd Floor, Seattle, WA 98104",
+    "jurisdiction": "Washington"
+  },
+  "contact": {
+    "primary_email": "finance@seattle.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "(206) 684-8484",
+      "(206) 684-2489"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "49914885",
+      "canonical_key": "attorney@seattle.gov",
+      "display_name": "Seattle City Attorney",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1449438653",
+      "canonical_key": "city.attorney@seattle.gov",
+      "display_name": "Ann Davison",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

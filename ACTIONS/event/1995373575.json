@@ -1,0 +1,67 @@
+{
+  "summary_of_pdf": "The provided instrument is an RMail File Share Download Notice, functioning as a cryptographic evidentiary receipt. It confirms that on April 7, 2026, an individual at the Polsinelli law firm (ssukduang@polsinelli.com) downloaded a document entitled '02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf'. The underlying transmission pertains to an inquiry for intellectual property representation involving a 47-patent portfolio, parallel federal disclosures, and SpaceX.",
+  "attorneys_comments": "From a trial and evidentiary perspective, this RMail receipt is a highly valuable artifact for establishing actual notice and scienter. Under the Federal Rules of Evidence (specifically FRE 901 and 902), the cryptographic and metadata trails inherent to RPost services provide robust authentication of delivery and receipt. The downloaded document's title suggests severe allegations, including interstate wire fraud (18 U.S.C. \u00a7 1343) and whistleblower retaliation, explicitly tied to an SEC Tip, Complaint, and Referral (TCR). By confirming that counsel at Polsinelli has downloaded this file, the sender has effectively locked in a timeline of knowledge. This establishes actual notice of the SEC TCR and criminal referral, which may trigger mandatory reporting obligations, SEC material risk disclosure considerations, and potentially implicate ABA Model Rule 1.16 (Declining or Terminating Representation) or Rule 8.3 if the disclosures involve ongoing fraudulent conduct by a client. In the SDTX, such authenticated read-receipts are routinely admitted to defeat claims of lack of notice in both complex commercial litigation and federal whistleblower actions.",
+  "recommended_next_steps": "1. Preserve the native .eml file and all associated cryptographic metadata to ensure admissibility under FRE 901 and 902. 2. Document the exact time of receipt to establish a definitive timeline of actual notice for the Polsinelli firm regarding the SEC TCR and criminal referral. 3. Assess whether Polsinelli's receipt of these disclosures creates an un-waivable conflict of interest or triggers mandatory withdrawal if they currently represent the target entity (SpaceX). 4. Prepare a formal litigation hold encompassing all communications with the SEC, the Polsinelli firm, and any entities associated with the 47-patent portfolio.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Federal Rules of Evidence Rule 901",
+    "Federal Rules of Evidence Rule 902",
+    "18 U.S.C. \u00a7 1343",
+    "Interstate Wire Fraud",
+    "Whistleblower Retaliation",
+    "SEC TCR",
+    "SEC Material Risk Disclosure",
+    "ABA Model Rule 1.16",
+    "ABA Model Rule 8.3",
+    "Patent Portfolio Representation",
+    "SpaceX"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "S. Sukduang"
+    ],
+    "companies": [
+      "SpaceX",
+      "RPost"
+    ],
+    "technologies": [],
+    "products": [
+      "RMail Secure service",
+      "RMail FileShare"
+    ],
+    "government_offices": [
+      "Securities and Exchange Commission (SEC)"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Polsinelli"
+    ],
+    "attorneys": [
+      "S. Sukduang"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "1995373575",
+  "basefilename": "DOWNLOAD-RECEIPT-ssukduang@polsinelli.com",
+  "original_filename": "DOWNLOAD-RECEIPT-ssukduang@polsinelli.com.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "ssukduang@polsinelli.com",
+  "primary_recipient_an": "Ssukduang (Polsinelli PC)",
+  "all_recipients": [
+    "ssukduang@polsinelli.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "ssukduang@polsinelli.com": "Ssukduang (Polsinelli PC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

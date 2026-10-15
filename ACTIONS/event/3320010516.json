@@ -1,0 +1,81 @@
+{
+  "summary_of_pdf": "This document is a formal pre-suit demand letter and Notice of Actual Knowledge sent by Reinaldo J. Aguiar Marcano to Microsoft Corporation. The letter asserts potential infringement of four pending U.S. patent applications related to optical computing, disaggregated computing, and encryption technologies. The claimant seeks to establish actual notice to preserve provisional rights for reasonable royalties under 35 U.S.C. \u00a7 154(d), offers licensing discussions, and demands a substantive response within fifteen business days.",
+  "attorneys_comments": "This instrument is strategically designed to trigger provisional rights under 35 U.S.C. \u00a7 154(d). By providing 'actual notice' of the pending patent applications, the claimant preserves the right to seek a reasonable royalty for pre-issuance activities, strictly contingent upon the USPTO ultimately issuing claims that are substantially identical to those in the published applications. Evidentiarily, the demand is highly generalized; it lacks claim charts or specific reads on Microsoft's accused instrumentalities, merely gesturing toward broad operational categories such as 'cloud services.' Procedurally, because the patents have not yet issued, there is no current cause of action for patent infringement under 35 U.S.C. \u00a7 271. Furthermore, this letter does not create a justiciable controversy sufficient to support a Declaratory Judgment action by Microsoft under 28 U.S.C. \u00a7 2201. The claimant's inclusion of a published book of inventions is an unconventional method of establishing actual knowledge, though legally sufficient for notice purposes. Immediate liability is negligible, but the long-term royalty exposure necessitates vigilant monitoring of the USPTO prosecution dockets.",
+  "recommended_next_steps": "1. Docket the four listed USPTO application numbers and monitor their prosecution histories for allowances, rejections, or substantive claim amendments. 2. Provide a brief, non-substantive acknowledgment of receipt to maintain professional decorum, expressly denying any infringement, liability, or obligation to license. 3. Task patent counsel with conducting a preliminary prior art search targeting the published claims to prepare for potential Post-Grant Review (PGR) or Inter Partes Review (IPR) proceedings should the claims issue. 4. Refrain from filing a Declaratory Judgment action, as the lack of issued patents precludes subject matter jurisdiction under Article III and 28 U.S.C. \u00a7 2201.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "35 U.S.C. \u00a7 271",
+    "28 U.S.C. \u00a7 2201",
+    "Pre-Suit Demand Letter",
+    "Notice of Actual Knowledge",
+    "Provisional Rights",
+    "Patent Infringement",
+    "FRCP 8",
+    "USPTO Prosecution Monitoring"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo J. Aguiar Marcano"
+    ],
+    "companies": [
+      "Microsoft Corporation",
+      "Microsoft"
+    ],
+    "technologies": [
+      "Optical Computing Architecture",
+      "Physically Disaggregated Computing",
+      "Geographical and Orientation-Based Encryption",
+      "Steganographic Anchors",
+      "Cloud Computing",
+      "Cloud Services"
+    ],
+    "products": [
+      "Microsoft Azure",
+      "ISBN 9781971481296 Portfolio of Patent Applications Submitted to the USPTO"
+    ],
+    "government_offices": [
+      "United States Patent and Trademark Office",
+      "USPTO"
+    ],
+    "institutions": [
+      "SCOTXWatch.org"
+    ],
+    "prominent_locations": [
+      "Redmond, WA",
+      "Katy, Texas"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": [
+      "Reinaldo J. Aguiar Marcano"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/560,038",
+    "19/562,845",
+    "19/658,570",
+    "19/559,849"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "3320010516",
+  "basefilename": "Notice_to_Microsoft",
+  "original_filename": "Notice_to_Microsoft.pdf",
+  "category": "letter",
+  "subtype": "letter",
+  "date": "05072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "buscond@microsoft.com",
+  "primary_recipient_an": "Buscond (Microsoft Corporation)",
+  "all_recipients": [
+    "buscond@microsoft.com"
+  ],
+  "all_recipients_an": {
+    "buscond@microsoft.com": "Buscond (Microsoft Corporation)"
+  },
+  "patent_applications": [
+    "19/560,038",
+    "19/562,845",
+    "19/658,570",
+    "19/559,849"
+  ]
+}

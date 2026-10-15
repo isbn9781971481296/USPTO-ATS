@@ -1,0 +1,35 @@
+{
+  "serving_key": "2187549676",
+  "canonical_key": "alaine@mocj.nyc.gov",
+  "display_name": "Alaine (Mayor's Office of Criminal Justice)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Mayor's Office of Criminal Justice",
+  "full_name": "Alaine",
+  "pronouns": null,
+  "title": "Official",
+  "organization": "Mayor's Office of Criminal Justice",
+  "domain": "mocj.nyc.gov",
+  "addresses": {
+    "mailing_address": "1 Centre Street, Room 1012 North, New York, NY 10007",
+    "business_address": "1 Centre Street, Room 1012 North, New York, NY 10007",
+    "legal_service_address": "New York City Law Department, 100 Church Street, New York, NY 10007"
+  },
+  "registered_agent": {
+    "name": "New York City Corporation Counsel",
+    "address": "100 Church Street, New York, NY 10007",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "alaine@mocj.nyc.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-646-576-3500"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

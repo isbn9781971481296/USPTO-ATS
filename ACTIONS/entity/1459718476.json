@@ -1,0 +1,37 @@
+{
+  "serving_key": "1459718476",
+  "canonical_key": "michael.devries@kirkland.com",
+  "display_name": "Michael De Vries (Kirkland & Ellis LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Kirkland & Ellis LLP",
+  "full_name": "Michael De Vries",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Kirkland & Ellis LLP",
+  "domain": "kirkland.com",
+  "addresses": {
+    "mailing_address": "555 South Flower Street, Suite 3700, Los Angeles, CA 90071",
+    "business_address": "555 South Flower Street, Suite 3700, Los Angeles, CA 90071",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "michael.devries@kirkland.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 213-680-8400"
+    ],
+    "faxes": [
+      "+1 213-680-8500"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

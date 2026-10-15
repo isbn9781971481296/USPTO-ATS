@@ -1,0 +1,49 @@
+{
+  "index": 21,
+  "header": "# Enclosure #21: READ-RECEIPT-Jeff-Bezos.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/__HIGH-Legal-Liability/READ-RECEIPT-Jeff-Bezos.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-ca784f088d.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jeff.bezos@amazon.com",
+  "primary_recipient_an": "Jeff Bezos (Amazon.com, Inc.)",
+  "all_recipients": [
+    "jeff.bezos@amazon.com",
+    "david.limp@blueorigin.com",
+    "salil.bali@knobbe.com",
+    "mauricio.uribe@knobbe.com",
+    "sshamilov@fenwick.com",
+    "dhadden@fenwick.com",
+    "krista.settle@amazon.com",
+    "paul.weber@blueorigin.com",
+    "alice.garber@blueorigin.com",
+    "scott.hayden@amazon.com",
+    "rajeev.badyal@amazon.com",
+    "jordan.snow@blueorigin.com",
+    "kolmobilev6@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "david.limp@blueorigin.com": "David Limp (Blue Origin)",
+    "salil.bali@knobbe.com": "Salil Bali (Knobbe Martens)",
+    "mauricio.uribe@knobbe.com": "Mauricio Uribe (Knobbe Martens)",
+    "sshamilov@fenwick.com": "Sshamilov (Fenwick & West LLP)",
+    "dhadden@fenwick.com": "Dhadden (Fenwick & West LLP)",
+    "krista.settle@amazon.com": "Krista Settle (Amazon.com, Inc.)",
+    "paul.weber@blueorigin.com": "Paul Weber (Blue Origin)",
+    "alice.garber@blueorigin.com": "Alice Garber (Blue Origin)",
+    "scott.hayden@amazon.com": "Scott Hayden (Amazon.com, Inc.)",
+    "rajeev.badyal@amazon.com": "Rajeev Badyal (Amazon.com, Inc.)",
+    "jordan.snow@blueorigin.com": "Jordan Snow (Blue Origin)",
+    "kolmobilev6@gmail.com": "Kolmobilev6 (Gmail)"
+  },
+  "date": "04082026",
+  "original_filename": "READ-RECEIPT-Jeff-Bezos.pdf",
+  "patent_applications_mentioned": [
+    "19/639,271",
+    "19/639,222"
+  ]
+}

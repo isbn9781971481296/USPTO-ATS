@@ -1,0 +1,50 @@
+{
+  "serving_key": "1522611650",
+  "canonical_key": "mayer@newyorker.com",
+  "display_name": "Jane Mayer (The New Yorker)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "The New Yorker",
+  "full_name": "Jane Mayer",
+  "pronouns": "she/her",
+  "title": "Chief Washington Correspondent",
+  "organization": "The New Yorker",
+  "domain": "newyorker.com",
+  "addresses": {
+    "mailing_address": "1 World Trade Center, New York, NY 10007",
+    "business_address": "1 World Trade Center, New York, NY 10007",
+    "legal_service_address": "CT Corporation System, 28 Liberty St, New York, NY 10005"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System (for Advance Magazine Publishers Inc.)",
+    "address": "28 Liberty St, New York, NY 10005",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "mayer@newyorker.com",
+    "alternative_emails": [
+      "jane_mayer@newyorker.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-286-2860"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1259896264",
+      "canonical_key": "davidson@newyorker.com",
+      "display_name": "Amy Davidson Sorkin",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "520157671",
+      "canonical_key": "amy_davidson@newyorker.com",
+      "display_name": "Amy Davidson Sorkin",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

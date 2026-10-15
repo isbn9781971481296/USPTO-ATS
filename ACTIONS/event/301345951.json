@@ -1,0 +1,98 @@
+{
+  "summary_of_pdf": "This instrument is a cryptographic RPost Registered Email delivery receipt, serving as self-authenticating evidentiary proof of transmission and actual notice. The underlying communication is an inquiry for intellectual property representation directed to Australian counsel, asserting a 47-patent portfolio, a purported Department of Defense license grant involving Under Secretary Heidi Shyu, and parallel federal whistleblower disclosures. The attachments indicate highly contentious parallel proceedings, including SEC whistleblower retaliation claims (TCR 17742-648-351-976) and formal criminal referrals for interstate wire fraud against named individuals.",
+  "attorneys_comments": "From a tactical litigation standpoint, this receipt establishes indisputable actual notice to recipients Grant Fisher and Stephen Stern (both of whom successfully received and opened the transmission), while documenting a server-side rejection for David Yates. Evidentiary-wise, the RPost receipt and its native XML/HTML attachments are highly robust, satisfying the authentication requirements of FRE 901(b)(9) and the business records exception under FRE 803(6). Substantively, the underlying claims present a volatile matrix of liabilities. The entanglement of the US Department of Defense and Lockheed Martin strongly implicates 28 U.S.C. \u00a7 1498, potentially stripping the district court of jurisdiction in favor of the United States Court of Federal Claims if the government has authorized or consented to the use of the patented technologies. Furthermore, the inclusion of 'Formal Criminal Referrals' and whistleblower retaliation claims suggests a highly adversarial posture by the sender, necessitating rigorous Rule 11 vetting before any adoption of these claims to avoid professional sanctions.",
+  "recommended_next_steps": "1. Secure and preserve the native DeliveryReceipt.xml and HtmlReceipt.htm files to maintain an unbroken evidentiary chain of custody. 2. Execute a comprehensive conflicts check encompassing the US Department of Defense, Lockheed Martin, Corrs Chambers Westgarth, Foley & Lardner, and the named individuals (Herche, McDonald). 3. Conduct a preliminary patent prosecution history review of the listed 19-series USPTO applications to verify subject matter, assignment, and current prosecution status. 4. Assess the applicability of 28 U.S.C. \u00a7 1498 regarding the 'Heidi Shyu License Grant' to determine proper jurisdictional venue (SDTX vs. Court of Federal Claims).",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "FRE 803(6) Business Records",
+    "FRE 901 Authentication",
+    "28 U.S.C. \u00a7 1498",
+    "Patent Infringement",
+    "Whistleblower Retaliation",
+    "18 U.S.C. \u00a7 1343 Wire Fraud",
+    "SEC Material Risk Disclosure",
+    "DoD IP Licensing",
+    "FRCP Rule 11 Vetting",
+    "Actual Notice"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "David Yates",
+      "Grant Fisher",
+      "Stephen Stern",
+      "Heidi Shyu",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "Lockheed Martin",
+      "RPost",
+      "Corrs",
+      "Foley",
+      "KKC"
+    ],
+    "technologies": [
+      "High-Radix and Parametric Satellite Communication System",
+      "Central Processing Unit Architecture for Native Parametric and Symbolic Computation",
+      "High-Radix and Parametric Cellular Communication System"
+    ],
+    "products": [],
+    "government_offices": [
+      "US Department of Defense",
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Corrs",
+      "Foley",
+      "KKC"
+    ],
+    "attorneys": [
+      "David Yates",
+      "Grant Fisher",
+      "Stephen Stern",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Cody Matthew Herche",
+      "Colin McDonald"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,265",
+    "19/639,219",
+    "19/639,255"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "301345951",
+  "basefilename": "READ-RECEIPT-grant.fisher@corrs.com.au-and-team",
+  "original_filename": "READ-RECEIPT-grant.fisher@corrs.com.au-and-team.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "stephen.stern@corrs.com.au",
+  "primary_recipient_an": "Stephen Stern (Corrs)",
+  "all_recipients": [
+    "stephen.stern@corrs.com.au",
+    "grant.fisher@corrs.com.au",
+    "david.yates@corrs.com.au",
+    "grant.fisher@corrs.com.au-and-team",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "stephen.stern@corrs.com.au": "Stephen Stern (Corrs)",
+    "grant.fisher@corrs.com.au": "Grant Fisher (Corrs)",
+    "david.yates@corrs.com.au": "David Yates (Corrs)",
+    "grant.fisher@corrs.com.au-and-team": "Grant Fisher (Corrs)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

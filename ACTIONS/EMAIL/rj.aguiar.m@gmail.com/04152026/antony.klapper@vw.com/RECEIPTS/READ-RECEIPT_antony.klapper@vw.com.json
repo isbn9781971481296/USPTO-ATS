@@ -1,0 +1,26 @@
+{
+  "index": 79,
+  "header": "# Enclosure #79: READ-RECEIPT-antony-klapper-vw-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT_antony.klapper@vw.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-antony.klapper@vw.-dcc829135f.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "antony.klapper@vw.com",
+  "primary_recipient_an": "Antony Klapper (Amazon.com, Inc.)",
+  "all_recipients": [
+    "antony.klapper@vw.com",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "antony.klapper@vw.com": "Antony Klapper (Amazon.com, Inc.)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04152026",
+  "original_filename": "READ-RECEIPT_antony.klapper@vw.com.pdf",
+  "patent_applications_mentioned": []
+}

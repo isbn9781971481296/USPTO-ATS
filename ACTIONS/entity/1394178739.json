@@ -1,0 +1,37 @@
+{
+  "serving_key": "1394178739",
+  "canonical_key": "legal@euronav.com",
+  "display_name": "Legal Department (Euronav NV)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Euronav NV",
+  "full_name": "Legal Department",
+  "pronouns": null,
+  "title": "Corporate Legal Department",
+  "organization": "Euronav NV",
+  "domain": "euronav.com",
+  "addresses": {
+    "mailing_address": "De Gerlachekaai 20, 2000 Antwerp, Belgium",
+    "business_address": "De Gerlachekaai 20, 2000 Antwerp, Belgium",
+    "legal_service_address": "De Gerlachekaai 20, 2000 Antwerp, Belgium"
+  },
+  "registered_agent": {
+    "name": "Euronav NV (Registered Office)",
+    "address": "De Gerlachekaai 20, 2000 Antwerp, Belgium",
+    "jurisdiction": "Belgium"
+  },
+  "contact": {
+    "primary_email": "legal@euronav.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+32 3 247 44 11"
+    ],
+    "faxes": [
+      "+32 3 247 44 09"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

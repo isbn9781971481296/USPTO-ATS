@@ -1,0 +1,145 @@
+{
+  "summary_of_pdf": "This document is a certified RPost delivery receipt evidencing the transmission of a 'Formal Notice of Defensive Publication and Prior Art Disclosure' by RJ Aguiar, Jr. to general counsels and intellectual property partners at major financial institutions and law firms. The transmission asserts patent rights over high-radix financial communications, discloses prior art to preempt third-party patenting under the Leahy-Smith America Invents Act, and serves highly adversarial attachments, including formal criminal referrals for interstate wire fraud, whistleblower complaints, and a purported Department of Defense license grant.",
+  "attorneys_comments": "From a tactical and evidentiary standpoint, the sender is utilizing a registered email service to establish an immutable chain of custody and verifiable proof of actual and constructive notice under 35 U.S.C. \u00a7 154(d) and 35 U.S.C. \u00a7 122. This is a calculated maneuver likely intended to trigger willful infringement liabilities or establish prior art under 35 U.S.C. \u00a7 102. The inclusion of 'Formal Criminal Referrals' and whistleblower documents suggests a highly escalated, potentially vexatious litigation posture, blending patent prosecution with allegations of procurement fraud. While delivery failures to key IP counsel (e.g., Sterne Kessler, Fish & Richardson) weaken the absolute notice argument, successful delivery and 'Opened' status to in-house counsel at Citi, Goldman Sachs, and JPMorgan Chase establishes actual notice. The tactical implication is a setup for a multi-defendant patent infringement or trade secret misappropriation suit, potentially implicating government contracts under 28 U.S.C. \u00a7 1498 given the referenced DoD license.",
+  "recommended_next_steps": "1. Institute an immediate, comprehensive litigation hold preserving all received documents, attachments, and metadata. 2. Direct patent prosecution counsel to conduct a clearance and prior art review of the disclosed USPTO applications (19/639,255; 19/639,265; 19/640,945) against current and pipeline financial communication architectures. 3. Refer the criminal referral and whistleblower attachments to white-collar defense counsel to assess any SEC Material Risk Disclosure obligations or ABA Model Rule 8.3 reporting duties. 4. Refrain from direct communication with the sender to avoid waiving jurisdictional defenses; route all correspondence exclusively through outside litigation counsel.",
+  "tags": [
+    "35 U.S.C. \u00a7 102",
+    "35 U.S.C. \u00a7 122",
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "Patent Infringement",
+    "Defensive Publication",
+    "Prior Art Disclosure",
+    "Evidentiary Proof of Delivery",
+    "Constructive Notice",
+    "Willful Infringement",
+    "Procurement Fraud",
+    "Interstate Wire Fraud",
+    "Whistleblower Complaint",
+    "SEC Material Risk Disclosure",
+    "ABA Model Rule 8.3"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Adam Meshel",
+      "Ellen Patterson",
+      "Kathryn Ruemmler",
+      "E. Mar",
+      "J. Strand",
+      "J. Eisenstein",
+      "Stacey Friedman",
+      "Lauren Mogensen",
+      "S. Devarakonda",
+      "K. Cole",
+      "Heidi Shyu",
+      "Colin McDonald",
+      "Cody Matthew Herche",
+      "Emil Michael",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "Citi",
+      "Citigroup Inc.",
+      "Wells Fargo",
+      "Goldman Sachs",
+      "JPMorgan Chase",
+      "Bank of America",
+      "Uber",
+      "RPost",
+      "Mimecast",
+      "Proofpoint",
+      "Microsoft Corporation",
+      "Broadcom Inc."
+    ],
+    "technologies": [
+      "Architectures for Transactional Integrity",
+      "Forensic Ownership Detection",
+      "High-Radix Secure Financial Communications",
+      "High-Radix and Parametric P2P-RF Communication System",
+      "High-Radix and Parametric Satellite Communication System",
+      "High-Radix and Parametric Cellular Communication System"
+    ],
+    "products": [
+      "RPost Registered Email"
+    ],
+    "government_offices": [
+      "Department of Defense",
+      "United States Patent and Trademark Office",
+      "European Patent Office"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "New York",
+      "Delaware",
+      "London",
+      "California",
+      "Washington"
+    ],
+    "courts": [],
+    "law_firms": [
+      "FBM",
+      "Wolf Greenfield",
+      "Sterne Kessler",
+      "Fish & Richardson",
+      "Moore & Van Allen",
+      "Foley"
+    ],
+    "attorneys": [
+      "Adam Meshel",
+      "Ellen Patterson",
+      "Kathryn Ruemmler",
+      "Stacey Friedman",
+      "Lauren Mogensen",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/640,945",
+    "19/639,255",
+    "19/639,265"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "2112734945",
+  "basefilename": "READ-RECEIPT-Chase-GS__HIGH-LIABILITY",
+  "original_filename": "READ-RECEIPT-Chase-GS__HIGH-LIABILITY.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jeisenstein@sternekessler.com",
+  "primary_recipient_an": "Jeisenstein (Sterne, Kessler, Goldstein & Fox)",
+  "all_recipients": [
+    "jeisenstein@sternekessler.com",
+    "sdevarakonda@fr.com",
+    "jstrand@wolfgreenfield.com",
+    "kcole@mvalaw.com",
+    "adam.meshel@citi.com",
+    "lauren.mogensen@bofa.com",
+    "stacey.friedman@jpmchase.com",
+    "ellen.patterson@wellsfargo.com",
+    "emar@fbm.com",
+    "kathryn.ruemmler@gs.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jeisenstein@sternekessler.com": "Jeisenstein (Sterne, Kessler, Goldstein & Fox)",
+    "sdevarakonda@fr.com": "Sdevarakonda (France)",
+    "jstrand@wolfgreenfield.com": "Jstrand (wolfgreenfield.com)",
+    "kcole@mvalaw.com": "Kcole (mvalaw.com)",
+    "adam.meshel@citi.com": "Adam Meshel (Citigroup Inc.)",
+    "lauren.mogensen@bofa.com": "Lauren Mogensen (Amazon.com, Inc.)",
+    "stacey.friedman@jpmchase.com": "Stacey Friedman (jpmchase.com)",
+    "ellen.patterson@wellsfargo.com": "Ellen Patterson (wellsfargo.com)",
+    "emar@fbm.com": "Emar (FBM)",
+    "kathryn.ruemmler@gs.com": "Kathryn Ruemmler (Gs)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

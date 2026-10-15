@@ -1,0 +1,35 @@
+{
+  "serving_key": "701897280",
+  "canonical_key": "brett.gerry@boeing.com",
+  "display_name": "Brett Gerry (The Boeing Company)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "The Boeing Company",
+  "full_name": "Brett Gerry",
+  "pronouns": null,
+  "title": "Chief Legal Officer and Executive Vice President, Global Compliance",
+  "organization": "The Boeing Company",
+  "domain": "boeing.com",
+  "addresses": {
+    "mailing_address": "929 Long Bridge Drive, Arlington, VA 22202",
+    "business_address": "929 Long Bridge Drive, Arlington, VA 22202",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "brett.gerry@boeing.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-703-414-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

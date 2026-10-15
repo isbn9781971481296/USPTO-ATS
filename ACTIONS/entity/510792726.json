@@ -1,0 +1,48 @@
+{
+  "serving_key": "510792726",
+  "canonical_key": "police.chief@phoenix.gov",
+  "display_name": "Chief of Police (Phoenix Police Department)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "City of Phoenix",
+  "full_name": "Michael Sullivan",
+  "pronouns": null,
+  "title": "Interim Chief of Police",
+  "organization": "City of Phoenix",
+  "domain": "phoenix.gov",
+  "addresses": {
+    "mailing_address": "620 W. Washington St., Phoenix, AZ 85003",
+    "business_address": "620 W. Washington St., Phoenix, AZ 85003",
+    "legal_service_address": "City Clerk, 200 W. Washington St., 15th Floor, Phoenix, AZ 85003"
+  },
+  "registered_agent": {
+    "name": "City Clerk, City of Phoenix",
+    "address": "200 W. Washington St., 15th Floor, Phoenix, AZ 85003",
+    "jurisdiction": "Arizona"
+  },
+  "contact": {
+    "primary_email": "police.chief@phoenix.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "602-262-6741"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1236839211",
+      "canonical_key": "city.attorney@phoenix.gov",
+      "display_name": "City Attorney",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2790490266",
+      "canonical_key": "finance@phoenix.gov",
+      "display_name": "Finance Department",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,36 @@
+{
+  "serving_key": "347200708",
+  "canonical_key": "acp@ilag.gov",
+  "display_name": "Address Confidentiality Program (Illinois Attorney General's Office)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Illinois Attorney General's Office",
+  "full_name": "Address Confidentiality Program",
+  "pronouns": null,
+  "title": "Government Program",
+  "organization": "Illinois Attorney General's Office",
+  "domain": "ilag.gov",
+  "addresses": {
+    "mailing_address": "100 West Randolph Street, Chicago, IL 60601",
+    "business_address": "100 West Randolph Street, Chicago, IL 60601",
+    "legal_service_address": "100 West Randolph Street, Chicago, IL 60601"
+  },
+  "registered_agent": {
+    "name": "Office of the Illinois Attorney General",
+    "address": "100 West Randolph Street, Chicago, IL 60601",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "acp@ilag.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "1-312-814-3000",
+      "1-844-832-1394"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

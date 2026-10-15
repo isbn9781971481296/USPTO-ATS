@@ -1,0 +1,67 @@
+{
+  "summary_of_pdf": "The document is an RMail Delivery and Open Receipt serving as evidentiary proof that an email titled 'RE [SpaceX]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures' was successfully delivered to and opened by an attorney at the Polsinelli law firm (epersons@polsinelli.com) on April 8, 2026. It provides a cryptographically verifiable audit trail establishing actual notice of the communication regarding a substantial patent portfolio and associated federal disclosures.",
+  "attorneys_comments": "This RMail receipt provides irrefutable, court-admissible proof of delivery and actual notice (opened/read status) to Polsinelli counsel. Under the Federal Rules of Evidence, specifically FRE 901(b)(9), the detailed audit trail\u2014including IP addresses, HTTP headers, and tracking numbers\u2014authenticates the digital record. Tactically, this precludes any plausible deniability by the recipient regarding the inquiry or the 'Parallel Federal Disclosures' involving SpaceX. If these disclosures contain material risk information, allegations of infringement, or 35 U.S.C. \u00a7 154(d) provisional rights notices, this receipt establishes the exact moment the recipient's duty to investigate was triggered. Depending on Polsinelli's relationship with SpaceX, this actual knowledge may implicate ABA Model Rule 8.3 or SEC Material Risk Disclosure obligations. Furthermore, if SpaceX is operating under federal contracts, this notice establishes a timeline relevant to potential 28 U.S.C. \u00a7 1498 claims or DFARS 227.7004 administrative demands.",
+  "recommended_next_steps": "1. Preserve the native DeliveryReceipt.xml and HtmlReceipt.htm files in a secure, write-once litigation hold environment to maintain chain of custody for FRE 901 authentication. 2. Calendar a follow-up communication with Polsinelli counsel citing this read-receipt if no response is received within the standard 14-day window. 3. Assess whether the 'Parallel Federal Disclosures' require formal administrative claims under DFARS 227.7004 or 28 U.S.C. \u00a7 1498, assuming SpaceX is acting as a government contractor. 4. Prepare a draft preservation demand letter to SpaceX directly, referencing this confirmed communication with their presumed outside counsel.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "FRE 901 Authentication",
+    "Patent Infringement",
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "DFARS 227.7004",
+    "ABA Model Rule 8.3",
+    "SEC Material Risk Disclosure",
+    "FRCP 5",
+    "Federal Disclosures",
+    "IP Representation Inquiry"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "E. Persons"
+    ],
+    "companies": [
+      "SpaceX",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "RMail",
+      "47-Patent Portfolio"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Polsinelli"
+    ],
+    "attorneys": [
+      "E. Persons"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "4262236812",
+  "basefilename": "READ-RECEIPT-epersons@polsinelli.com",
+  "original_filename": "READ-RECEIPT-epersons@polsinelli.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "epersons@polsinelli.com",
+  "primary_recipient_an": "Epersons (Polsinelli PC)",
+  "all_recipients": [
+    "epersons@polsinelli.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "epersons@polsinelli.com": "Epersons (Polsinelli PC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

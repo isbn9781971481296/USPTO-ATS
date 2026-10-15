@@ -1,0 +1,69 @@
+{
+  "summary_of_pdf": "Evidentiary receipt confirming the delivery and opening of a formal notice regarding defensive publication and prior art disclosure. The underlying notice, directed to counsel at Sidley Austin LLP, establishes a definitive timeline for prior art concerning aerospace supply chain integrity, optical avionics buses, and forensic ownership tracing, laying the groundwork for 35 U.S.C. \u00a7 102 defenses and potential DFARS compliance challenges.",
+  "attorneys_comments": "This RMail receipt constitutes robust, admissible electronic evidence of actual notice under the Federal Rules of Evidence. The forensic audit trail, including IP address (99.6.53.53) and user-agent data, conclusively defeats any subsequent denial of receipt by opposing counsel. Tactically, this perfects the record for a defensive publication, effectively neutralizing subsequent patent claims on the specified aerospace architectures under 35 U.S.C. \u00a7 102. Furthermore, by placing a major defense contractor's counsel on actual notice, it triggers heightened duties of disclosure to the USPTO under 37 C.F.R. \u00a7 1.56 and potentially implicates DFARS reporting requirements for supply chain integrity. The primary limitation is that this instrument merely proves delivery and receipt; it does not independently establish the substantive merit or enabling nature of the underlying prior art disclosure.",
+  "recommended_next_steps": "Preserve the DeliveryReceipt.xml and HtmlReceipt.htm attachments in their native formats to maintain cryptographic integrity for evidentiary authentication under FRE 901. Docket the April 13, 2026, read-receipt date as the definitive date of actual notice. Monitor USPTO filings by Sidley Austin clients in the aerospace sector to ensure compliance with their duty of candor (37 C.F.R. \u00a7 1.56) regarding this disclosed prior art. Prepare a defensive strategy under 28 U.S.C. \u00a7 1498 should the technology be integrated into federal procurement programs without authorization.",
+  "tags": [
+    "35 U.S.C. \u00a7 102",
+    "37 C.F.R. \u00a7 1.56",
+    "28 U.S.C. \u00a7 1498",
+    "Evidentiary Proof of Delivery",
+    "Prior Art Disclosure",
+    "Defensive Publication",
+    "DFARS Compliance",
+    "Aerospace Supply Chain",
+    "FRE 901 Authentication",
+    "Actual Notice",
+    "Patent Prosecution Duty of Candor"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Bart Biggers"
+    ],
+    "companies": [
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "Aerospace Supply Chain Integrity",
+      "Optical Avionics Buses",
+      "Forensic Ownership Tracing",
+      "RMail Registered Email"
+    ],
+    "products": [
+      "iPhone"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Sidley Austin LLP"
+    ],
+    "attorneys": [
+      "Bart Biggers"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "173468651",
+  "basefilename": "READ-RECEIPT_bart.biggers@sidley.com",
+  "original_filename": "READ-RECEIPT_bart.biggers@sidley.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "bart.biggers@sidley.com",
+  "primary_recipient_an": "Bart Biggers (Sidley Austin LLP)",
+  "all_recipients": [
+    "bart.biggers@sidley.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "bart.biggers@sidley.com": "Bart Biggers (Sidley Austin LLP)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

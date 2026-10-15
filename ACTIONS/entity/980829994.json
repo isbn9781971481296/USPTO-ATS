@@ -1,0 +1,35 @@
+{
+  "serving_key": "980829994",
+  "canonical_key": "dgottschalk@familytreecares.com",
+  "display_name": "Daniel Gottschalk (Family Tree In-Home Care)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Family Tree In-Home Care",
+  "full_name": "Daniel Gottschalk",
+  "pronouns": null,
+  "title": "President & Co-CEO",
+  "organization": "Family Tree In-Home Care",
+  "domain": "familytreecares.com",
+  "addresses": {
+    "mailing_address": "2500 West Loop South, Suite 400, Houston, TX 77027",
+    "business_address": "2500 West Loop South, Suite 400, Houston, TX 77027",
+    "legal_service_address": "2500 West Loop South, Suite 400, Houston, TX 77027"
+  },
+  "registered_agent": {
+    "name": "Corporate Secretary / Legal Department",
+    "address": "2500 West Loop South, Suite 400, Houston, TX 77027",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "dgottschalk@familytreecares.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "(713) 333-9991"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

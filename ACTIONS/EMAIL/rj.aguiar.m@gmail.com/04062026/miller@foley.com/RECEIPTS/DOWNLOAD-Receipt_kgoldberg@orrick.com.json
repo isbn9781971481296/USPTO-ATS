@@ -1,0 +1,26 @@
+{
+  "index": 38,
+  "header": "# Enclosure #38: DOWNLOAD-Receipt-kgoldberg-orrick-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/DOWNLOAD-Receipt_kgoldberg@orrick.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-b62c88726a.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "DOWNLOAD-RECEIPT",
+  "subtype": "download_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "miller@foley.com",
+  "primary_recipient_an": "Hugh Miller Foley (Jack Foley)",
+  "all_recipients": [
+    "miller@foley.com",
+    "kgoldberg@orrick.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "miller@foley.com": "Hugh Miller Foley (Jack Foley)",
+    "kgoldberg@orrick.com": "Kgoldberg (Abuse)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "DOWNLOAD-Receipt_kgoldberg@orrick.com.pdf",
+  "patent_applications_mentioned": []
+}

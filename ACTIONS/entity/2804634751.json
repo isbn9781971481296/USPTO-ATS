@@ -1,0 +1,35 @@
+{
+  "serving_key": "2804634751",
+  "canonical_key": "xuan@workrise.com",
+  "display_name": "Xuan Yong (Workrise)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Workrise Technologies Inc.",
+  "full_name": "Xuan Yong",
+  "pronouns": null,
+  "title": "Co-Founder & Chief Executive Officer",
+  "organization": "Workrise Technologies Inc.",
+  "domain": "workrise.com",
+  "addresses": {
+    "mailing_address": "111 Congress Ave, Austin, TX 78701",
+    "business_address": "111 Congress Ave, Austin, TX 78701",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "xuan@workrise.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 512-501-5452"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

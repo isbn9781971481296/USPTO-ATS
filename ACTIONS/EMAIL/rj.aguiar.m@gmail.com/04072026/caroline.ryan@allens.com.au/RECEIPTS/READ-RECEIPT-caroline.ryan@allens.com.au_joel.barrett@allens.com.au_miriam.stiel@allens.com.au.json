@@ -1,0 +1,34 @@
+{
+  "index": 185,
+  "header": "# Enclosure #185: READ-RECEIPT-caroline-ryan-allens-com-au-joel-barrett-allens-com-au-miriam-stiel-allens-com-au.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT-caroline.ryan@allens.com.au_joel.barrett@allens.com.au_miriam.stiel@allens.com.au.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-3c02bf704f.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "caroline.ryan@allens.com.au",
+  "primary_recipient_an": "Caroline Ryan (Allens)",
+  "all_recipients": [
+    "caroline.ryan@allens.com.au",
+    "_joel.barrett@allens.com.au",
+    "miriam.stiel@allens.com.au",
+    "joel.barrett@allens.com.au",
+    "rj.aguiar.m@gmail.com",
+    "smtpthread-39395781775563601434@au-mta-38.au",
+    "smtpthread-51155731775563601564@au-mta-69.au"
+  ],
+  "all_recipients_an": {
+    "caroline.ryan@allens.com.au": "Caroline Ryan (Allens)",
+    "_joel.barrett@allens.com.au": "Joel Barrett (Allens)",
+    "miriam.stiel@allens.com.au": "Miriam Stiel (Allens)",
+    "joel.barrett@allens.com.au": "Joel Barrett (Allens)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "smtpthread-39395781775563601434@au-mta-38.au": "Smtpthread (Au-mta-38)",
+    "smtpthread-51155731775563601564@au-mta-69.au": "Smtpthread (Au-mta-69)"
+  },
+  "date": "04072026",
+  "original_filename": "READ-RECEIPT-caroline.ryan@allens.com.au_joel.barrett@allens.com.au_miriam.stiel@allens.com.au.pdf",
+  "patent_applications_mentioned": []
+}

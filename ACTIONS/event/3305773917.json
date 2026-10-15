@@ -1,0 +1,111 @@
+{
+  "summary_of_pdf": "The document is an RPost Registered Email receipt establishing verifiable evidentiary proof of delivery for a highly sensitive communication from RJ Aguiar to attorneys at the law firm Kim & Chang. The underlying transmission seeks intellectual property representation regarding a 47-patent portfolio and transmits parallel federal disclosures. The attachments indicate a complex dispute involving United States Department of Defense (DoD) licensing, Lockheed Martin, multiple USPTO patent applications for advanced communication and computational architectures, formal criminal referrals for wire fraud and whistleblower retaliation, and an SEC Tips, Complaints, and Referrals (TCR) submission.",
+  "attorneys_comments": "This RPost receipt serves as a self-authenticating digital artifact under Federal Rule of Evidence 902, providing irrefutable proof of delivery, message content, and constructive notice to the recipients at Kim & Chang. The evidentiary footprint confirms that Ic Kwon successfully opened the transmission, while deliveries to Yang Young-june and Monica Lee failed due to SMTP resolution errors. The substantive attachments reveal a highly volatile procedural posture, intertwining high-value defense technologies with severe allegations of procurement fraud, whistleblower retaliation, and SEC violations. The inclusion of a 'Heidi Shyu License Grant' suggests potential 28 U.S.C. \u00a7 1498(a) claims for unauthorized use of patented inventions by or for the United States, or complex DFARS technical data rights disputes. Receiving counsel must navigate this matter with extreme caution, as the transmission of formal criminal referrals and SEC TCR data may trigger mandatory reporting obligations or ethical considerations under ABA Model Rules 1.6 and 8.3.",
+  "recommended_next_steps": "1. Preserve the RPost receipt, along with its native XML and HTML attachments, in a secure, tamper-evident litigation hold environment to maintain an unbroken chain of custody. 2. Immediately cure the delivery failures to Yang Young-june and Monica Lee via alternative service methods if their notice is procedurally or tactically required. 3. Conduct a preliminary substantive review of the attached USPTO applications and the DoD license grant to assess the viability of 28 U.S.C. \u00a7 1498 claims against the U.S. Government. 4. Evaluate the SEC TCR and formal criminal referrals to determine if parallel administrative stays, sealed filings, or protective orders are necessary to protect the client's whistleblower status and mitigate retaliatory liabilities.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "FRE 902 Self-Authenticating Document",
+    "28 U.S.C. \u00a7 1498",
+    "DFARS Data Rights",
+    "Patent Prosecution",
+    "Whistleblower Retaliation",
+    "SEC TCR 17742-648-351-976",
+    "Interstate Wire Fraud",
+    "DoD Procurement",
+    "ABA Model Rule 8.3",
+    "Formal Demand Letter"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Ducksoon Chang",
+      "Ic Kwon",
+      "Yang Young-june",
+      "K.D. Lee",
+      "Monica Lee",
+      "Heidi Shyu",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "Lokheed Martin",
+      "Lockheed Martin",
+      "RPost",
+      "Kim & Chang",
+      "Foley",
+      "DigiCert Inc",
+      "Google"
+    ],
+    "technologies": [
+      "High-Radix and Parametric Satellite Communication System",
+      "Central Processing Unit Architecture for Native Parametric and Symbolic Computation",
+      "High-Radix and Parametric Cellular Communication System"
+    ],
+    "products": [
+      "47-Patent Portfolio"
+    ],
+    "government_offices": [
+      "US Department of Defense",
+      "United States Patent and Trademark Office",
+      "Securities and Exchange Commission",
+      "Government Accountability Project"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Seoul",
+      "Jongno-gu"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Kim & Chang",
+      "Foley"
+    ],
+    "attorneys": [
+      "Ducksoon Chang",
+      "Ic Kwon",
+      "Yang Young-june",
+      "K.D. Lee",
+      "Monica Lee",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Cody Matthew Herche",
+      "Colin McDonald"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,265",
+    "19/639,219",
+    "19/639,255"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "3305773917",
+  "basefilename": "READ-RECEIPT-ducksoon.chang@kimchang.com-and-team",
+  "original_filename": "READ-RECEIPT-ducksoon.chang@kimchang.com-and-team.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "ducksoon.chang@kimchang.com-and-team",
+  "primary_recipient_an": "Ducksoon Chang (kimchang.com)",
+  "all_recipients": [
+    "ducksoon.chang@kimchang.com-and-team",
+    "ducksoon.chang@kimchang.com",
+    "ickwon@kimchang.com",
+    "monica.leeu@kimchang.com",
+    "yang.youngjune@kimchang.com",
+    "kdlee@kimchang.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "ducksoon.chang@kimchang.com-and-team": "Ducksoon Chang (kimchang.com)",
+    "ducksoon.chang@kimchang.com": "Ducksoon Chang (kimchang.com)",
+    "ickwon@kimchang.com": "Ickwon (kimchang.com)",
+    "monica.leeu@kimchang.com": "Monica Leeu (kimchang.com)",
+    "yang.youngjune@kimchang.com": "Yang Youngjune (kimchang.com)",
+    "kdlee@kimchang.com": "Kdlee (kimchang.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

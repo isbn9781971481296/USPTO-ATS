@@ -1,0 +1,71 @@
+{
+  "summary_of_pdf": "The document is a certified electronic delivery and open receipt (via RMail/RPost) confirming that a 'Formal Notice of Defensive Publication and Prior Art Disclosure' was successfully delivered to and opened by Bob Johnson at USAA on April 9, 2026. The underlying notice concerns proprietary architectures for claim integrity, forensic auditing, and secure asynchronous data transmission, serving as a preemptive prior art disclosure.",
+  "attorneys_comments": "This instrument provides highly probative, non-repudiable forensic evidence of actual notice. Under the Federal Rules of Evidence (FRE 901), the embedded audit trail\u2014detailing IP addresses, timestamps, and HTTP headers\u2014firmly authenticates the recipient's access to the disclosure. In the context of USPTO practice, this establishes a definitive date of knowledge for USAA regarding the disclosed prior art. Should USAA be prosecuting related patent applications, this receipt triggers an undeniable duty of disclosure under 37 C.F.R. \u00a7 1.56 (Duty of Candor). Furthermore, the defensive publication effectively establishes prior art under 35 U.S.C. \u00a7 102, preempting USAA or third parties from claiming the disclosed architectures. The evidentiary strength of this receipt is robust for future inter partes review (IPR) or federal litigation, neutralizing potential claims of ignorance by the recipient.",
+  "recommended_next_steps": "Counsel must immediately preserve the native email, along with the attached DeliveryReceipt.xml and HtmlReceipt.htm files, in a secure, write-once-read-many (WORM) evidentiary repository to maintain chain of custody. Monitor USAA's future patent publications for claims overlapping with the disclosed architectures. If USAA attempts to patent these systems, prepare to file a Third-Party Preissuance Submission under 35 U.S.C. \u00a7 122(e) utilizing this defensive publication, or leverage it in post-grant proceedings.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Prior Art Disclosure",
+    "Defensive Publication",
+    "Actual Notice",
+    "35 U.S.C. \u00a7 102",
+    "35 U.S.C. \u00a7 122(e)",
+    "37 C.F.R. \u00a7 1.56",
+    "Duty of Candor",
+    "FRE 901 Authentication",
+    "FRCP 34 Electronic Discovery",
+    "Patent Prosecution"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Bob Johnson"
+    ],
+    "companies": [
+      "USAA",
+      "RPost",
+      "RMail",
+      "Google"
+    ],
+    "technologies": [
+      "Architectures for Claim Integrity",
+      "Forensic Auditing",
+      "Secure Asynchronous Data Transmission"
+    ],
+    "products": [
+      "RMail",
+      "MSOffice 16",
+      "Microsoft-IIS/10.0",
+      "Gmail"
+    ],
+    "government_offices": [
+      "United States Patent and Trademark Office (USPTO)"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "3688208626",
+  "basefilename": "READ-RECEIPT-bob.johnson@usaa.com",
+  "original_filename": "READ-RECEIPT-bob.johnson@usaa.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "bob.johnson@usaa.com",
+  "primary_recipient_an": "Bob Johnson (Usaa)",
+  "all_recipients": [
+    "bob.johnson@usaa.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "bob.johnson@usaa.com": "Bob Johnson (Usaa)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

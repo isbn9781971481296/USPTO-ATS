@@ -1,0 +1,35 @@
+{
+  "serving_key": "3304451102",
+  "canonical_key": "jmunoz@hmausa.com",
+  "display_name": "Jose Munoz (Hyundai Motor America)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Hyundai Motor America",
+  "full_name": "Jose Munoz",
+  "pronouns": null,
+  "title": "President and CEO",
+  "organization": "Hyundai Motor America",
+  "domain": "hmausa.com",
+  "addresses": {
+    "mailing_address": "10550 Talbert Ave, Fountain Valley, CA 92708",
+    "business_address": "10550 Talbert Ave, Fountain Valley, CA 92708",
+    "legal_service_address": "C T Corporation System, 330 N Brand Blvd, Suite 700, Glendale, CA 91203"
+  },
+  "registered_agent": {
+    "name": "C T Corporation System",
+    "address": "330 N Brand Blvd, Suite 700, Glendale, CA 91203",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "jmunoz@hmausa.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-714-965-3000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

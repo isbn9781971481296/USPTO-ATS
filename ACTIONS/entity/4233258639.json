@@ -1,0 +1,37 @@
+{
+  "serving_key": "4233258639",
+  "canonical_key": "cityattorney.help@lacity.org",
+  "display_name": "Los Angeles City Attorney's Office",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "City of Los Angeles",
+  "full_name": "Los Angeles City Attorney's Office",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "City of Los Angeles",
+  "domain": "lacity.org",
+  "addresses": {
+    "mailing_address": "200 N Main St, 8th Floor, Los Angeles, CA 90012",
+    "business_address": "200 N Main St, 8th Floor, Los Angeles, CA 90012",
+    "legal_service_address": "200 N Spring St, Room 395, Los Angeles, CA 90012"
+  },
+  "registered_agent": {
+    "name": "Office of the City Clerk, City of Los Angeles",
+    "address": "200 N Spring St, Room 395, Los Angeles, CA 90012",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "cityattorney.help@lacity.org",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 213-978-8100"
+    ],
+    "faxes": [
+      "+1 213-978-8312"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

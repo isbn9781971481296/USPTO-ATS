@@ -1,0 +1,35 @@
+{
+  "serving_key": "3975605269",
+  "canonical_key": "carole.cadwalladr@theguardian.com",
+  "display_name": "Carole Cadwalladr (The Guardian)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Guardian News & Media Limited",
+  "full_name": "Carole Cadwalladr",
+  "pronouns": null,
+  "title": "Investigative Journalist",
+  "organization": "Guardian News & Media Limited",
+  "domain": "theguardian.com",
+  "addresses": {
+    "mailing_address": "Kings Place, 90 York Way, London, N1 9GU, United Kingdom",
+    "business_address": "Kings Place, 90 York Way, London, N1 9GU, United Kingdom",
+    "legal_service_address": "Kings Place, 90 York Way, London, N1 9GU, United Kingdom"
+  },
+  "registered_agent": {
+    "name": "Company Secretary, Guardian News & Media Limited",
+    "address": "Kings Place, 90 York Way, London, N1 9GU, United Kingdom",
+    "jurisdiction": "England and Wales"
+  },
+  "contact": {
+    "primary_email": "carole.cadwalladr@theguardian.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+44 20 3353 2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

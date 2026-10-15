@@ -1,0 +1,370 @@
+4/7/26, 9:17 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP
+Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Failure)
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 8:29 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered
+
+Opened
+
+(UTC*)
+
+(local)
+
+(local)
+
+akie.ohno@aiklaw.co.jp
+
+Delivered to relayed;ASPMX.L.GOOGLE.COM
+Mail Server (142.251.127.27)
+
+04/07/2026
+10:59:22 AM
+(UTC)
+
+04/07/2026
+10:59:22 AM
+
+eiji.katayama@aiklaw.co.jp
+
+Delivered to relayed;ASPMX.L.GOOGLE.COM
+Mail Server (142.251.127.27)
+
+04/07/2026
+10:59:22 AM
+(UTC)
+
+04/07/2026
+10:59:22 AM
+
+Delivery
+Failed
+
+550 5.4.1 Recipient address rejected:
+Access denied. For more information
+see https://aka.ms/EXOSmtpErrors
+[TY2PEPF00005621.JPNP286.PROD. ***
+OUTLOOK.COM 2026-0407T10:59:22.892Z
+08DE8F47122F6EF8]
+
+***
+
+nahoko.ryobu@tmi.gr.jp
+
+Delivery
+Failed
+
+550 5.4.1 Recipient address rejected:
+Access denied. For more information
+see https://aka.ms/EXOSmtpErrors
+[TY2PEPF00005623.JPNP286.PROD. ***
+OUTLOOK.COM 2026-0407T10:59:22.724Z
+08DE8F9BAE6AC90F]
+
+***
+
+rj.aguiar.m@gmail.com
+
+Delivered
+HTTP-IP:66.249.80.3
+and Opened
+
+miwa.hayashi@tmi.gr.jp
+
+04/07/2026
+11:03:32 AM
+(UTC)
+
+04/07/2026
+11:03:32 AM
+
+04/07/2026
+11:09:44 AM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<akie.ohno@aiklaw.co.jp> <eiji.katayama@aiklaw.co.jp> <miwa.hayashi@tmi.gr.jp>
+<nahoko.ryobu@tmi.gr.jp>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818575758608300&simpl=msg-f:1861818575758608300
+
+1/4
+
+4/7/26, 9:17 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+Network ID:
+
+24e44be7-9457-417b-b4a0-cc7499ba290e@SM25
+
+Received by RMail System:
+
+04/07/2026 10:59:18 AM (UTC), 04/07/2026 10:59:18 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+E2A78F5A548B5579B78D959DBED69D302FB7792F
+
+Message Size:
+
+4190
+
+Features Used:
+File Size:
+
+File Name:
+
+1132462
+
+092__USPTO_19_639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+1195376
+
+090__USPTO_No_19-639,219__Central_Processing_Unit_Architecture_for_Native_
+Parametric_and_Symbolic_Computation.pdf
+
+948090
+
+091__USPTO_19_639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+976947
+
+00__Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+.
+
+Delivery Audit Trail
+4/7/2026 10:59:20 AM starting aiklaw.co.jp/{default} 4/7/2026 10:59:20 AM connecting from mta21.r1.rpost.net (0.0.0.0) to ASP
+MX.L.GOOGLE.COM (142.251.127.27) 4/7/2026 10:59:20 AM connected from 192.168.10.11:47836 4/7/2026 10:59:20 AM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43d1e4e100esi34075080f8f.169 - gsmtp 4/7/2026 10:59:20 AM <<< EHLO mta2
+1.r1.rpost.net 4/7/2026 10:59:20 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 10:59:20 AM >>> 250-SI
+ZE 157286400 4/7/2026 10:59:20 AM >>> 250-8BITMIME 4/7/2026 10:59:20 AM >>> 250-STARTTLS 4/7/2026 10:59:20 AM >
+>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:59:20 AM >>> 250-PIPELINING 4/7/2026 10:59:20 AM >>> 250-CHUNKING
+4/7/2026 10:59:20 AM >>> 250 SMTPUTF8 4/7/2026 10:59:20 AM <<< STARTTLS 4/7/2026 10:59:20 AM >>> 220 2.0.0 Rea
+dy to start TLS 4/7/2026 10:59:20 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/7/2026 1
+0:59:20 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/7/2026 10:59:20 A
+M <<< EHLO mta21.r1.rpost.net 4/7/2026 10:59:20 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 10:5
+9:20 AM >>> 250-SIZE 157286400 4/7/2026 10:59:20 AM >>> 250-8BITMIME 4/7/2026 10:59:20 AM >>> 250-ENHANCEDST
+ATUSCODES 4/7/2026 10:59:20 AM >>> 250-PIPELINING 4/7/2026 10:59:20 AM >>> 250-CHUNKING 4/7/2026 10:59:20 AM
+>>> 250 SMTPUTF8 4/7/2026 10:59:20 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 10:59:20 AM >>> 250 2.1.0 OK ff
+acd0b85a97d-43d1e4e100esi34075080f8f.169 - gsmtp 4/7/2026 10:59:20 AM <<< RCPT TO: 4/7/2026 10:59:20 AM >>> 250
+2.1.5 OK ffacd0b85a97d-43d1e4e100esi34075080f8f.169 - gsmtp 4/7/2026 10:59:20 AM <<< DATA 4/7/2026 10:59:20 AM >>>
+354 Go ahead ffacd0b85a97d-43d1e4e100esi34075080f8f.169 - gsmtp 4/7/2026 10:59:20 AM <<< . 4/7/2026 10:59:20 AM >>>
+250 2.0.0 OK 1775559560 ffacd0b85a97d-43d1e4e100esi34075080f8f.169 - gsmtp 4/7/2026 10:59:20 AM <<< QUIT 4/7/2026
+10:59:20 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e4e100esi34075080f8f.169 - gsmtp 4/7/2026 10:59:20 AM
+closed ASPMX.L.GOOGLE.COM (142.251.127.27) in=779 out=24245 4/7/2026 10:59:20 AM done aiklaw.co.jp/{default}
+4/7/2026 10:59:20 AM starting aiklaw.co.jp/{default} 4/7/2026 10:59:20 AM connecting from mta21.r1.rpost.net (0.0.0.0) to ASP
+MX.L.GOOGLE.COM (142.251.127.27) 4/7/2026 10:59:20 AM connected from 192.168.10.11:57103 4/7/2026 10:59:20 AM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43d1e506d3bsi34395198f8f.304 - gsmtp 4/7/2026 10:59:20 AM <<< EHLO mta2
+1.r1.rpost.net 4/7/2026 10:59:20 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 10:59:20 AM >>> 250-SI
+ZE 157286400 4/7/2026 10:59:20 AM >>> 250-8BITMIME 4/7/2026 10:59:20 AM >>> 250-STARTTLS 4/7/2026 10:59:20 AM >
+>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:59:20 AM >>> 250-PIPELINING 4/7/2026 10:59:20 AM >>> 250-CHUNKING
+4/7/2026 10:59:20 AM >>> 250 SMTPUTF8 4/7/2026 10:59:20 AM <<< STARTTLS 4/7/2026 10:59:20 AM >>> 220 2.0.0 Rea
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818575758608300&simpl=msg-f:1861818575758608300
+
+2/4
+
+4/7/26, 9:17 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+dy to start TLS 4/7/2026 10:59:20 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/7/2026 1
+0:59:20 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/7/2026 10:59:20 A
+M <<< EHLO mta21.r1.rpost.net 4/7/2026 10:59:20 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 10:5
+9:20 AM >>> 250-SIZE 157286400 4/7/2026 10:59:20 AM >>> 250-8BITMIME 4/7/2026 10:59:20 AM >>> 250-ENHANCEDST
+ATUSCODES 4/7/2026 10:59:20 AM >>> 250-PIPELINING 4/7/2026 10:59:20 AM >>> 250-CHUNKING 4/7/2026 10:59:20 AM
+>>> 250 SMTPUTF8 4/7/2026 10:59:20 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 10:59:20 AM >>> 250 2.1.0 OK ff
+acd0b85a97d-43d1e506d3bsi34395198f8f.304 - gsmtp 4/7/2026 10:59:20 AM <<< RCPT TO: 4/7/2026 10:59:20 AM >>> 250
+2.1.5 OK ffacd0b85a97d-43d1e506d3bsi34395198f8f.304 - gsmtp 4/7/2026 10:59:20 AM <<< DATA 4/7/2026 10:59:20 AM >>>
+354 Go ahead ffacd0b85a97d-43d1e506d3bsi34395198f8f.304 - gsmtp 4/7/2026 10:59:20 AM <<< . 4/7/2026 10:59:20 AM >>>
+250 2.0.0 OK 1775559560 ffacd0b85a97d-43d1e506d3bsi34395198f8f.304 - gsmtp 4/7/2026 10:59:20 AM <<< QUIT 4/7/2026
+10:59:20 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e506d3bsi34395198f8f.304 - gsmtp 4/7/2026 10:59:20 AM
+closed ASPMX.L.GOOGLE.COM (142.251.127.27) in=779 out=24257 4/7/2026 10:59:20 AM done aiklaw.co.jp/{default}
+4/7/2026 10:59:20 AM starting tmi.gr.jp/{default} 4/7/2026 10:59:20 AM connecting from mta21.r1.rpost.net (0.0.0.0) to tmi-gr-j
+p.mail.protection.outlook.com (52.101.124.0) 4/7/2026 10:59:20 AM connected from 192.168.10.11:51863 4/7/2026 10:59:20 A
+M >>> 220 TY2PEPF00005621.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 7 Apr 2026 10:59:2
+0 +0000 [08DE8F47122F6EF8] 4/7/2026 10:59:20 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:59:21 AM >>> 250-TY2PEP
+F00005621.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 10:59:21 AM >>> 250-SIZE 157286400 4/7/2026 10:59:2
+1 AM >>> 250-PIPELINING 4/7/2026 10:59:21 AM >>> 250-DSN 4/7/2026 10:59:21 AM >>> 250-ENHANCEDSTATUSCODES
+4/7/2026 10:59:21 AM >>> 250-STARTTLS 4/7/2026 10:59:21 AM >>> 250-8BITMIME 4/7/2026 10:59:21 AM >>> 250-BINAR
+YMIME 4/7/2026 10:59:21 AM >>> 250-CHUNKING 4/7/2026 10:59:21 AM >>> 250 SMTPUTF8 4/7/2026 10:59:21 AM <<< S
+TARTTLS 4/7/2026 10:59:21 AM >>> 220 2.0.0 SMTP server ready 4/7/2026 10:59:21 AM tls:TLSv1.2 connected with 256-bit
+ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:59:21 AM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Corpor
+ation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/7/2026
+10:59:21 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:59:22 AM >>> 250-TY2PEPF00005621.mail.protection.outlook.com H
+ello [52.58.131.9] 4/7/2026 10:59:22 AM >>> 250-SIZE 157286400 4/7/2026 10:59:22 AM >>> 250-PIPELINING 4/7/2026 10:5
+9:22 AM >>> 250-DSN 4/7/2026 10:59:22 AM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:59:22 AM >>> 250-8BITMIM
+E 4/7/2026 10:59:22 AM >>> 250-BINARYMIME 4/7/2026 10:59:22 AM >>> 250-CHUNKING 4/7/2026 10:59:22 AM >>> 250
+SMTPUTF8 4/7/2026 10:59:22 AM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 10:59:22 AM >>> 250 2.1.0 Se
+nder OK 4/7/2026 10:59:22 AM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 10:59:23 AM >>> 550 5.4.1 R
+ecipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [TY2PEPF00005621.JPN
+P286.PROD.OUTLOOK.COM 2026-04-07T10:59:22.892Z 08DE8F47122F6EF8] 4/7/2026 10:59:23 AM <<< QUIT 4/7/2026 10:
+59:23 AM >>> 221 2.0.0 Service closing transmission channel 4/7/2026 10:59:23 AM closed tmi-gr-jp.mail.protection.outlook.c
+om (52.101.124.0) in=836 out=227 4/7/2026 10:59:23 AM done tmi.gr.jp/{default}
+4/7/2026 10:59:20 AM starting tmi.gr.jp/{default} 4/7/2026 10:59:20 AM connecting from mta21.r1.rpost.net (0.0.0.0) to tmi-gr-j
+p.mail.protection.outlook.com (52.101.124.0) 4/7/2026 10:59:20 AM connected from 192.168.10.11:38772 4/7/2026 10:59:20 A
+M >>> 220 TY2PEPF00005623.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 7 Apr 2026 10:59:1
+9 +0000 [08DE8F9BAE6AC90F] 4/7/2026 10:59:20 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:59:21 AM >>> 250-TY2PE
+PF00005623.mail.protection.outlook.com Hello [52.58.131.9] 4/7/2026 10:59:21 AM >>> 250-SIZE 157286400 4/7/2026 10:59:
+21 AM >>> 250-PIPELINING 4/7/2026 10:59:21 AM >>> 250-DSN 4/7/2026 10:59:21 AM >>> 250-ENHANCEDSTATUSCODE
+S 4/7/2026 10:59:21 AM >>> 250-STARTTLS 4/7/2026 10:59:21 AM >>> 250-8BITMIME 4/7/2026 10:59:21 AM >>> 250-BIN
+ARYMIME 4/7/2026 10:59:21 AM >>> 250-CHUNKING 4/7/2026 10:59:21 AM >>> 250 SMTPUTF8 4/7/2026 10:59:21 AM <<
+< STARTTLS 4/7/2026 10:59:21 AM >>> 220 2.0.0 SMTP server ready 4/7/2026 10:59:21 AM tls:TLSv1.2 connected with 256
+-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 10:59:21 AM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Cor
+poration/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/7/20
+26 10:59:21 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 10:59:22 AM >>> 250-TY2PEPF00005623.mail.protection.outlook.co
+m Hello [52.58.131.9] 4/7/2026 10:59:22 AM >>> 250-SIZE 157286400 4/7/2026 10:59:22 AM >>> 250-PIPELINING 4/7/2026
+10:59:22 AM >>> 250-DSN 4/7/2026 10:59:22 AM >>> 250-ENHANCEDSTATUSCODES 4/7/2026 10:59:22 AM >>> 250-8BIT
+MIME 4/7/2026 10:59:22 AM >>> 250-BINARYMIME 4/7/2026 10:59:22 AM >>> 250-CHUNKING 4/7/2026 10:59:22 AM >>>
+250 SMTPUTF8 4/7/2026 10:59:22 AM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/7/2026 10:59:22 AM >>> 250 2.1.0
+Sender OK 4/7/2026 10:59:22 AM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/7/2026 10:59:22 AM >>> 550 5.4.1
+Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [TY2PEPF00005623.JP
+NP286.PROD.OUTLOOK.COM 2026-04-07T10:59:22.724Z 08DE8F9BAE6AC90F] 4/7/2026 10:59:22 AM <<< QUIT 4/7/2026
+10:59:23 AM >>> 221 2.0.0 Service closing transmission channel 4/7/2026 10:59:23 AM closed tmi-gr-jp.mail.protection.outloo
+k.com (52.101.124.0) in=836 out=227 4/7/2026 10:59:23 AM done tmi.gr.jp/{default}
+4/7/2026 11:03:32 AM starting gmail.com/{default} 4/7/2026 11:03:32 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmailsmtp-in.l.google.com (142.251.127.27) 4/7/2026 11:03:32 AM connected from 192.168.10.11:40013 4/7/2026 11:03:32 AM >>>
+220 mx.google.com ESMTP ffacd0b85a97d-43d1e50547esi33162408f8f.293 - gsmtp 4/7/2026 11:03:32 AM <<< EHLO mta21.
+r1.rpost.net 4/7/2026 11:03:32 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 11:03:32 AM >>> 250-SIZ
+E 157286400 4/7/2026 11:03:32 AM >>> 250-8BITMIME 4/7/2026 11:03:32 AM >>> 250-STARTTLS 4/7/2026 11:03:32 AM >>
+> 250-ENHANCEDSTATUSCODES 4/7/2026 11:03:32 AM >>> 250-PIPELINING 4/7/2026 11:03:32 AM >>> 250-CHUNKING
+4/7/2026 11:03:32 AM >>> 250 SMTPUTF8 4/7/2026 11:03:32 AM <<< STARTTLS 4/7/2026 11:03:32 AM >>> 220 2.0.0 Read
+y to start TLS 4/7/2026 11:03:32 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reu
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818575758608300&simpl=msg-f:1861818575758608300
+
+3/4
+
+4/7/26, 9:17 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+sed) 4/7/2026 11:03:32 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/7/
+2026 11:03:32 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:03:32 AM >>> 250-mx.google.com at your service, [52.58.131.9]
+4/7/2026 11:03:32 AM >>> 250-SIZE 157286400 4/7/2026 11:03:32 AM >>> 250-8BITMIME 4/7/2026 11:03:32 AM >>> 250-E
+NHANCEDSTATUSCODES 4/7/2026 11:03:32 AM >>> 250-PIPELINING 4/7/2026 11:03:32 AM >>> 250-CHUNKING 4/7/2026
+11:03:32 AM >>> 250 SMTPUTF8 4/7/2026 11:03:32 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:03:32 AM >>> 250
+2.1.0 OK ffacd0b85a97d-43d1e50547esi33162408f8f.293 - gsmtp 4/7/2026 11:03:32 AM <<< RCPT TO: 4/7/2026 11:03:32 AM
+>>> 250 2.1.5 OK ffacd0b85a97d-43d1e50547esi33162408f8f.293 - gsmtp 4/7/2026 11:03:32 AM <<< DATA 4/7/2026 11:03:32
+AM >>> 354 Go ahead ffacd0b85a97d-43d1e50547esi33162408f8f.293 - gsmtp 4/7/2026 11:03:32 AM <<< . 4/7/2026 11:03:32
+AM >>> 250 2.0.0 OK 1775559812 ffacd0b85a97d-43d1e50547esi33162408f8f.293 - gsmtp 4/7/2026 11:03:32 AM <<< QUIT
+4/7/2026 11:03:32 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e50547esi33162408f8f.293 - gsmtp 4/7/2026 11:0
+3:32 AM closed gmail-smtp-in.l.google.com (142.251.127.27) in=779 out=24242 4/7/2026 11:03:33 AM done gmail.com/{defaul
+t}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer ASPMX.L.GOOGLE.COM (142.251.127.27)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer ASPMX.L.GOOGLE.COM (142.251.127.27)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.3] [Time Opened: 4/7/2026 11:09:44 AM] [REMOTE_HOST: 192.168.20.111] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/EbUsp5Hxwp9lQPMvHNse2t3CFbEwE58DdAKMaY82MTAy.gif] HTTP_ACCEPT_ENC
+ODING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Geck
+o Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.3 HTTP_X_FORWARDED_PROT
+O:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4e5f8-23dbdc6f51c2ceb648732af2 Acce
+pt-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.
+0 (via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.3 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-AmznTrace-Id: Root=1-69d4e5f8-23dbdc6f51c2ceb648732af2 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin
+1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.1
+12 /oatv_v2/EbUsp5Hxwp9lQPMvHNse2t3CFbEwE58DdAKMaY82MTAy.gif 192.168.20.111 192.168.20.111 58880 GET /oatv_
+v2/EbUsp5Hxwp9lQPMvHNse2t3CFbEwE58DdAKMaY82MTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /o
+atv_v2/EbUsp5Hxwp9lQPMvHNse2t3CFbEwE58DdAKMaY82MTAy.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Wind
+ows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.3 https 443 Root=1-69d4e5f8-23dbdc6f
+51c2ceb648732af2
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+24K
+HtmlReceipt.htm
+158K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861818575758608300&simpl=msg-f:1861818575758608300
+
+4/4
+
+

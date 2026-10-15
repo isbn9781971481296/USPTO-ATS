@@ -1,0 +1,50 @@
+{
+  "serving_key": "2689462863",
+  "canonical_key": "michelle.gross@lw.com",
+  "display_name": "Michelle Gross (Latham & Watkins LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Latham & Watkins LLP",
+  "full_name": "Michelle Gross",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Latham & Watkins LLP",
+  "domain": "lw.com",
+  "addresses": {
+    "mailing_address": "140 Scott Drive, Menlo Park, CA 94025",
+    "business_address": "140 Scott Drive, Menlo Park, CA 94025",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "michelle.gross@lw.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1.650.328.4600"
+    ],
+    "faxes": [
+      "+1.650.463.2600"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3136634588",
+      "canonical_key": "matthew.moore@lw.com",
+      "display_name": "Matthew Moore",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3154320893",
+      "canonical_key": "douglas.lumish@lw.com",
+      "display_name": "Douglas Lumish",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

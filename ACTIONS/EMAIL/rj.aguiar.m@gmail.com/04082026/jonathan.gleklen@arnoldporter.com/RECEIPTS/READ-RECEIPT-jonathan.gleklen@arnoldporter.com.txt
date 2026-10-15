@@ -1,0 +1,597 @@
+4/9/26, 3:35 AM
+
+Gmail - Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+8 messages
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 8, 2026 at 4:58 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+NOTICE OF DISCOVERY & MATERIALITY
+
+To:
+
+<jonathan.gleklen@arnoldporter.com>
+
+Time Sent:
+
+04/08/2026 07:24:02 AM (UTC), 04/08/2026 07:24:02 AM (Local)
+
+Time Opened:
+
+04/08/2026 09:52:57 AM (UTC), 04/08/2026 09:52:57 AM (Local)
+
+Tracking Number:
+
+1B4041906D31406AC1D3BB17A3DD8695A3E10AB6
+
+Network ID:
+
+b3b22132-13a8-4487-85e6-4e83619ce4ee@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 73.134.89.24] [Time Opened: 4/8/2026 9:52:57 AM] [REMOTE_HOST: 192.168.10.76] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/RvM86vnaKeUtsuGfTNOHkUeq93miqSe2D3Mr0s5ZMDIx.gif] HTTP_ACCEPT:image/
+webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.n
+et HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Geck
+o) Mobile/15E148 HTTP_X_FORWARDED_FOR:73.134.89.24 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDE
+D_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d62579-1bb6212917c9b2397031b72b HTTP_SEC_FETCH_SITE:cross-si
+te HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,imag
+e/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Enc
+oding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPhone; CPU iP
+hone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 73.134.89.24 X-F
+orwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d62579-1bb6212917c9b2397031b72b sec-fetch-site:
+cross-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root
+Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/
+12 192.168.10.112 /oatv_v2/RvM86vnaKeUtsuGfTNOHkUeq93miqSe2D3Mr0s5ZMDIx.gif 192.168.10.76 192.168.10.76 27260
+GET /oatv_v2/RvM86vnaKeUtsuGfTNOHkUeq93miqSe2D3Mr0s5ZMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-II
+S/10.0 /oatv_v2/RvM86vnaKeUtsuGfTNOHkUeq93miqSe2D3Mr0s5ZMDIx.gif image/webp,image/avif,image/jxl,image/heic,im
+age/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmai
+l.r1.rpost.net Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/1
+5E148 73.134.89.24 https 443 Root=1-69d62579-1bb6212917c9b2397031b72b cross-site image no-cors u=5, i
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861895886168583340&simpl=msg-f:186189588616858334…
+
+1/8
+
+4/9/26, 3:35 AM
+
+Gmail - Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+37K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 8, 2026 at 6:05 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+NOTICE OF DISCOVERY & MATERIALITY
+
+To:
+
+<mvalcich@paloaltonetworks.com>
+
+Time Sent:
+
+04/08/2026 07:24:02 AM (UTC), 04/08/2026 07:24:02 AM (Local)
+
+Time Opened:
+
+04/08/2026 10:59:33 AM (UTC), 04/08/2026 10:59:33 AM (Local)
+
+Tracking Number:
+
+1B4041906D31406AC1D3BB17A3DD8695A3E10AB6
+
+Network ID:
+
+b3b22132-13a8-4487-85e6-4e83619ce4ee@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 192.178.11.102] [Time Opened: 4/8/2026 10:59:33 AM] [REMOTE_HOST: 192.168.10.76] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/1OonHb4wLwjB5Baj6ZfijkrsyXXyACT9RL30GfTSMDIx.gif] HTTP_ACCEPT_ENCOD
+ING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fi
+refox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:192.178.11.102 HTTP_X_FORWARDED_PROT
+O:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d63515-7ed6cb3515a6df3d0b2d33f1 Acce
+pt-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.
+0 (via ggpht.com GoogleImageProxy) X-Forwarded-For: 192.178.11.102 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Am
+zn-Trace-Id: Root=1-69d63515-7ed6cb3515a6df3d0b2d33f1 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=ad
+min1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.
+10.112 /oatv_v2/1OonHb4wLwjB5Baj6ZfijkrsyXXyACT9RL30GfTSMDIx.gif 192.168.10.76 192.168.10.76 37818 GET /oatv_v2/
+1OonHb4wLwjB5Baj6ZfijkrsyXXyACT9RL30GfTSMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/1
+OonHb4wLwjB5Baj6ZfijkrsyXXyACT9RL30GfTSMDIx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; r
+v:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 192.178.11.102 https 443 Root=1-69d63515-7ed6cb3515a6df3d
+0b2d33f1
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+3K
+HtmlReceipt.htm
+33K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 8, 2026 at 6:09 AM
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861895886168583340&simpl=msg-f:186189588616858334…
+
+2/8
+
+4/9/26, 3:35 AM
+
+Gmail - Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+NOTICE OF DISCOVERY & MATERIALITY
+
+To:
+
+<peter.danias@arnoldporter.com>
+
+Time Sent:
+
+04/08/2026 07:24:02 AM (UTC), 04/08/2026 07:24:02 AM (Local)
+
+Time Opened:
+
+04/08/2026 11:03:40 AM (UTC), 04/08/2026 11:03:40 AM (Local)
+
+Tracking Number:
+
+1B4041906D31406AC1D3BB17A3DD8695A3E10AB6
+
+Network ID:
+
+b3b22132-13a8-4487-85e6-4e83619ce4ee@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 72.227.231.7] [Time Opened: 4/8/2026 11:03:40 AM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/kqwqITax4fUqw45qMyaKUUzXo0Qq6cl30iyAZQZUMDIx.gif] HTTP_ACCEPT:image/w
+ebp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 H
+TTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net
+HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)
+Mobile/15E148 HTTP_X_FORWARDED_FOR:72.227.231.7 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_
+PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d6360c-3e772068746f1ae91ee5d58b HTTP_SEC_FETCH_SITE:cross-site
+HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,image/a
+vif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Encodi
+ng: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPhone; CPU iPho
+ne OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 72.227.231.7 X-For
+warded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d6360c-3e772068746f1ae91ee5d58b sec-fetch-site: cr
+oss-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=AD
+MIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/kqwqITax4fUqw45qMyaK
+UUzXo0Qq6cl30iyAZQZUMDIx.gif 192.168.20.36 192.168.20.36 10594 GET /oatv_v2/kqwqITax4fUqw45qMyaKUUzXo0Qq6cl
+30iyAZQZUMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/kqwqITax4fUqw45qMyaKUUzXo0Qq6cl
+30iyAZQZUMDIx.gif image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+x
+ml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 lik
+e Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 72.227.231.7 https 443 Root=1-69d6360c-3e772068
+746f1ae91ee5d58b cross-site image no-cors u=5, i
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+37K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 8, 2026 at 7:47 AM
+
+The following message has been delivered and opened for reading:
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861895886168583340&simpl=msg-f:186189588616858334…
+
+3/8
+
+4/9/26, 3:35 AM
+
+Gmail - Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+
+Categories
+
+Message Details
+
+Message Subject:
+
+NOTICE OF DISCOVERY & MATERIALITY
+
+To:
+
+<srosenberg@gibsondunn.com>
+
+Time Sent:
+
+04/08/2026 06:55:05 AM (UTC), 04/08/2026 06:55:05 AM (Local)
+
+Time Opened:
+
+04/08/2026 12:41:34 PM (UTC), 04/08/2026 12:41:34 PM (Local)
+
+Tracking Number:
+
+1314EA8634CD7EFED4635A1D99D090BDEA627E84
+
+Network ID:
+
+42c67128-2a09-42f8-adfd-115bb6a4dfb4@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 172.2.150.248] [Time Opened: 4/8/2026 12:41:34 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/h5Fn3TORg9WAedGdopDxTJHACakMKgr1nNMVxiw8MTIw.gif] HTTP_ACCEPT:ima
+ge/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=
+0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r
+1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, l
+ike Gecko) Mobile/15E148 HTTP_X_FORWARDED_FOR:172.2.150.248 HTTP_X_FORWARDED_PROTO:https HTTP_X_FO
+RWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d64cfe-0b8f19765b4d35f91c815a35 HTTP_SEC_FETCH_DES
+T:image HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/we
+bp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Acc
+ept-Encoding: gzip, deflate, br, zstd Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iP
+hone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 17
+2.2.150.248 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d64cfe-0b8f19765b4d35f91c815a35
+sec-fetch-dest: image sec-fetch-site: cross-site sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 4096 CN=
+ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/h5Fn3TO
+Rg9WAedGdopDxTJHACakMKgr1nNMVxiw8MTIw.gif 192.168.20.36 192.168.20.36 43986 GET /oatv_v2/h5Fn3TORg9WAedG
+dopDxTJHACakMKgr1nNMVxiw8MTIw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/h5Fn3TORg9WAe
+dGdopDxTJHACakMKgr1nNMVxiw8MTIw.gif image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,
+image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br, zstd en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (iPh
+one; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 172.2.150.248 https 4
+43 Root=1-69d64cfe-0b8f19765b4d35f91c815a35 image cross-site no-cors u=5, i
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+37K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 8, 2026 at 8:30 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+NOTICE OF DISCOVERY & MATERIALITY
+
+To:
+
+<mrajavel@paloaltonetworks.com>
+
+Time Sent:
+
+04/08/2026 07:24:02 AM (UTC), 04/08/2026 07:24:02 AM (Local)
+
+Time Opened:
+
+04/08/2026 01:24:56 PM (UTC), 04/08/2026 01:24:56 PM (Local)
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861895886168583340&simpl=msg-f:186189588616858334…
+
+4/8
+
+4/9/26, 3:35 AM
+
+Gmail - Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+
+Tracking Number:
+
+1B4041906D31406AC1D3BB17A3DD8695A3E10AB6
+
+Network ID:
+
+b3b22132-13a8-4487-85e6-4e83619ce4ee@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 74.125.213.6] [Time Opened: 4/8/2026 1:24:56 PM] [REMOTE_HOST: 192.168.10.76] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/dN7TPNxXTVWFH5CBfuOomtNHbeuf2N4eiLjDjiPTMDIx.gif] HTTP_ACCEPT_ENCOD
+ING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fi
+refox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:74.125.213.6 HTTP_X_FORWARDED_PROTO:
+https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d65728-743da25753571f6c6c24ec97 Accept
+-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 74.125.213.6 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-AmznTrace-Id: Root=1-69d65728-743da25753571f6c6c24ec97 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.
+1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/dN7TPNxXTVWFH5CBfuOomtNHbeuf2
+N4eiLjDjiPTMDIx.gif 192.168.10.76 192.168.10.76 60584 GET /oatv_v2/dN7TPNxXTVWFH5CBfuOomtNHbeuf2N4eiLjDjiPTM
+DIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/dN7TPNxXTVWFH5CBfuOomtNHbeuf2N4eiLjDjiPTM
+DIx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleI
+mageProxy) 74.125.213.6 https 443 Root=1-69d65728-743da25753571f6c6c24ec97
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+3K
+HtmlReceipt.htm
+32K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 8, 2026 at 10:56 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+NOTICE OF DISCOVERY & MATERIALITY
+
+To:
+
+<mbettinger@sidley.com>
+
+Time Sent:
+
+04/08/2026 06:55:05 AM (UTC), 04/08/2026 06:55:05 AM (Local)
+
+Time Opened:
+
+04/08/2026 03:50:29 PM (UTC), 04/08/2026 03:50:29 PM (Local)
+
+Tracking Number:
+
+1314EA8634CD7EFED4635A1D99D090BDEA627E84
+
+Network ID:
+
+42c67128-2a09-42f8-adfd-115bb6a4dfb4@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 52.45.2.189] [Time Opened: 4/8/2026 3:50:29 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r1.r
+post.net] [SCRIPT_NAME: /oatv_v2/CHNQTohz2jAD199wxUqq0JYOMnmSMNUbrVzD1IhsMTIw.gif] HTTP_ACCEPT:text/htm
+l,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861895886168583340&simpl=msg-f:186189588616858334…
+
+5/8
+
+4/9/26, 3:35 AM
+
+Gmail - Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+
+q=0.7 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.
+0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FO
+R:52.45.2.189 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=
+1-69d67945-272d0dbe034075a72946d0c9 HTTP_UPGRADE_INSECURE_REQUESTS:1 HTTP_SEC_FETCH_SITE:none HTT
+P_SEC_FETCH_MODE:navigate HTTP_SEC_FETCH_USER:?1 HTTP_SEC_FETCH_DEST:document HTTP_PRIORITY:u=
+0, i Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sig
+ned-exchange;v=b3;q=0.7 Accept-Encoding: gzip, deflate, br, zstd Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (X11; Li
+nux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 X-Forwarded-For: 52.45.2.189 X-Forw
+arded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d67945-272d0dbe034075a72946d0c9 upgrade-insecurerequests: 1 sec-fetch-site: none sec-fetch-mode: navigate sec-fetch-user: ?1 sec-fetch-dest: document priority: u=0, i /LM/W3
+SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cer
+t CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v2/CHNQTohz2jAD199wxUqq0JYOMnmSMNUbrVzD1I
+hsMTIw.gif 192.168.20.36 192.168.20.36 40810 GET /oatv_v2/CHNQTohz2jAD199wxUqq0JYOMnmSMNUbrVzD1IhsMTIw.gif
+socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/CHNQTohz2jAD199wxUqq0JYOMnmSMNUbrVzD1IhsMTIw.
+gif text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exch
+ange;v=b3;q=0.7 gzip, deflate, br, zstd socrmail.r1.rpost.net Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, lik
+e Gecko) Chrome/124.0.0.0 Safari/537.36 52.45.2.189 https 443 Root=1-69d67945-272d0dbe034075a72946d0c9 1 none navig
+ate ?1 document u=0, i
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+38K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 8, 2026 at 11:01 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+NOTICE OF DISCOVERY & MATERIALITY
+
+To:
+
+<ayang@gibsondunn.com>
+
+Time Sent:
+
+04/08/2026 06:55:05 AM (UTC), 04/08/2026 06:55:05 AM (Local)
+
+Time Opened:
+
+04/08/2026 03:55:48 PM (UTC), 04/08/2026 03:55:48 PM (Local)
+
+Tracking Number:
+
+1314EA8634CD7EFED4635A1D99D090BDEA627E84
+
+Network ID:
+
+42c67128-2a09-42f8-adfd-115bb6a4dfb4@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 23.118.96.224, 165.225.32.84] [Time Opened: 4/8/2026 3:55:48 PM] [REMOTE_HOST: 192.168.10.76] [HTTP_H
+OST: socrmail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/HSMbEetAaulrPWpBaknJfvJeikyBNp2hjWtUg58NMTIw.gif] HTTP_AC
+CEPT:image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=
+0.8,*/*;q=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socr
+mail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like
+Gecko) HTTP_X_FORWARDED_FOR:23.118.96.224, 165.225.32.84 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORW
+ARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d67a84-557c31812814b62e7208f4d2 HTTP_SEC_FETCH_SITE:cr
+oss-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image Accept: image/webp,image/avif,image/jxl,ima
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861895886168583340&simpl=msg-f:186189588616858334…
+
+6/8
+
+4/9/26, 3:35 AM
+
+Gmail - Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+
+ge/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate,
+br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_
+7) AppleWebKit/605.1.15 (KHTML, like Gecko) X-Forwarded-For: 23.118.96.224, 165.225.32.84 X-Forwarded-Proto: https X-Fo
+rwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d67a84-557c31812814b62e7208f4d2 Sec-Fetch-Site: cross-site Sec-Fetch-Mo
+de: no-cors Sec-Fetch-Dest: image /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 0 C
+GI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v2/HSMbE
+etAaulrPWpBaknJfvJeikyBNp2hjWtUg58NMTIw.gif 192.168.10.76 192.168.10.76 34352 GET /oatv_v2/HSMbEetAaulrPWpBak
+nJfvJeikyBNp2hjWtUg58NMTIw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/HSMbEetAaulrPWpBakn
+JfvJeikyBNp2hjWtUg58NMTIw.gif image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,
+image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (Macintosh; Intel Ma
+c OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) 23.118.96.224, 165.225.32.84 https 443 Root=1-69d67a84-557c
+31812814b62e7208f4d2 cross-site no-cors image
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+37K
+
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 8, 2026 at 11:54 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+NOTICE OF DISCOVERY & MATERIALITY
+
+To:
+
+<ir@paloaltonetworks.com>
+
+Time Sent:
+
+04/08/2026 07:24:02 AM (UTC), 04/08/2026 07:24:02 AM (Local)
+
+Time Opened:
+
+04/08/2026 04:48:20 PM (UTC), 04/08/2026 04:48:20 PM (Local)
+
+Tracking Number:
+
+1B4041906D31406AC1D3BB17A3DD8695A3E10AB6
+
+Network ID:
+
+b3b22132-13a8-4487-85e6-4e83619ce4ee@SM26
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 66.249.84.173] [Time Opened: 4/8/2026 4:48:20 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/d00sJJECJdhjRGQlb7XARRUwTFQMznytg2vSw9ngMDIx.gif] HTTP_ACCEPT_ENCO
+DING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko
+Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.84.173 HTTP_X_FORWARDED_PROT
+O:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d686d4-68cfa7215c11ac367f047c11 Acce
+pt-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.
+0 (via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.84.173 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Am
+zn-Trace-Id: Root=1-69d686d4-68cfa7215c11ac367f047c11 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/
+1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/d00sJJECJdhjRGQlb7XARRUwTFQM
+znytg2vSw9ngMDIx.gif 192.168.20.36 192.168.20.36 63698 GET /oatv_v2/d00sJJECJdhjRGQlb7XARRUwTFQMznytg2vSw9
+ngMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/d00sJJECJdhjRGQlb7XARRUwTFQMznytg2vS
+w9ngMDIx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com
+GoogleImageProxy) 66.249.84.173 https 443 Root=1-69d686d4-68cfa7215c11ac367f047c11
+[Quoted text hidden]
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861895886168583340&simpl=msg-f:186189588616858334…
+
+7/8
+
+4/9/26, 3:35 AM
+
+Gmail - Delivered and Opened: NOTICE OF DISCOVERY & MATERIALITY
+
+2 attachments
+DeliveryReceipt.xml
+3K
+HtmlReceipt.htm
+32K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861895886168583340&simpl=msg-f:186189588616858334…
+
+8/8
+
+

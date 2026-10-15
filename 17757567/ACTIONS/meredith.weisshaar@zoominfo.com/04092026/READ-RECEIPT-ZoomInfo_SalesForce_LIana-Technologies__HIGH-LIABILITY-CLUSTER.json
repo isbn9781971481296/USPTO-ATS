@@ -1,0 +1,43 @@
+{
+  "index": 170,
+  "header": "# Enclosure #170: READ-RECEIPT-ZoomInfo-SalesForce-LIana-Technologies-HIGH-LIABILITY-CLUSTER.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT-ZoomInfo_SalesForce_LIana-Technologies__HIGH-LIABILITY-CLUSTER.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-zoominfo-salesforc-85c0b744aa.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "lisa.white@zoominfo.com",
+  "primary_recipient_an": "Lisa White (ZoomInfo Technologies Inc.)",
+  "all_recipients": [
+    "lisa.white@zoominfo.com",
+    "samuli.tursas@lianatech.com",
+    "info@maxtechnologies.ca",
+    "ashley.mcgrane@zoominfo.com",
+    "meredith.weisshaar@zoominfo.com",
+    "mbenioff@salesforce.com",
+    "henry.schuck@zoominfo.com",
+    "sniles@salesforce.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "lisa.white@zoominfo.com": "Lisa White (ZoomInfo Technologies Inc.)",
+    "samuli.tursas@lianatech.com": "Samuli Tursas (lianatech.com)",
+    "info@maxtechnologies.ca": "Info (maxtechnologies.ca)",
+    "ashley.mcgrane@zoominfo.com": "Ashley McGrane (ZoomInfo Technologies Inc.)",
+    "meredith.weisshaar@zoominfo.com": "Meredith Weisshaar (ZoomInfo Technologies Inc.)",
+    "mbenioff@salesforce.com": "Mbenioff (Salesforce)",
+    "henry.schuck@zoominfo.com": "Henry Schuck (ZoomInfo Technologies Inc.)",
+    "sniles@salesforce.com": "Sniles (Salesforce)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "READ-RECEIPT-ZoomInfo_SalesForce_LIana-Technologies__HIGH-LIABILITY-CLUSTER.pdf",
+  "patent_applications_mentioned": [
+    "15/728,640",
+    "17/757,567"
+  ]
+}

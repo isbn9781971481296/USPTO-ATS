@@ -1,0 +1,62 @@
+{
+  "summary_of_pdf": "Transcript of a voicemail left by litigant Reinaldo J. Aguiar Marcano for the Supreme Court of the United States (SCOTUS) Clerk's Office regarding Case No. 26-186. The caller alleges that the Clerk's Office is unconstitutionally misrouting his Rule 21 motions to the emergency applications desk (Deputy Clerk Robert Meek), resulting in improper administrative rejections based on a previously denied emergency application (Docket 26A39). The caller demands proper docketing ahead of a September 28, 2026 conference and states his intent to file the voicemail transcript in the lower court as a notice of constitutional injury.",
+  "attorneys_comments": "This communication exhibits the classic hallmarks of a pro se or vexatious litigant fundamentally misunderstanding appellate procedure and the administrative functions of the Court. The caller conflates a clerical docketing rejection with an Article III constitutional due process injury, erroneously invoking the 'capable of repetition, yet evading review' mootness exception (Southern Pacific Terminal Co. v. ICC) to challenge a routine administrative routing issue. Tactically, badgering the Supreme Court Clerk's Office is highly ill-advised and counterproductive. Furthermore, threatening to file irrelevant voicemail transcripts in a lower court\u2014which has already been divested of jurisdiction pending the certiorari petition\u2014is procedurally improper and borders on sanctionable conduct under FRCP 11 or analogous local rules. The repeated rejection of the Rule 21 motions likely stems from substantive or formatting defects in the filings themselves rather than a systemic 'misrouting' error.",
+  "recommended_next_steps": "1. Advise the litigant to immediately cease leaving combative voicemails for the SCOTUS Clerk's Office and Deputy Clerk Robert Meek. 2. Conduct a rigorous review of the rejected Rule 21 motions to ensure strict compliance with the Rules of the Supreme Court of the United States. 3. Strongly advise against filing this voicemail transcript in the lower court, as the lower court lacks jurisdiction and such a filing risks sanctions for frivolous litigation. 4. Await the disposition of the petition for writ of certiorari following the September 28, 2026 conference.",
+  "tags": [
+    "Supreme Court Rule 21",
+    "Appellate Procedure",
+    "Pro Se Litigation",
+    "Due Process Claim",
+    "Capable of Repetition Yet Evading Review",
+    "Certiorari Conference",
+    "Administrative Rejection",
+    "FRCP Rule 11",
+    "Clerk of Court"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo J. Aguiar Marcano",
+      "Robert Meek",
+      "Samuel Alito"
+    ],
+    "companies": [
+      "FedEx",
+      "Southern Pacific Terminal Co."
+    ],
+    "technologies": [],
+    "products": [],
+    "government_offices": [
+      "Supreme Court Clerk's Office",
+      "Interstate Commerce Commission"
+    ],
+    "institutions": [
+      "Supreme Court of the United States"
+    ],
+    "prominent_locations": [
+      "Washington, D.C.",
+      "1 First Street, Northeast"
+    ],
+    "courts": [
+      "Supreme Court of the United States"
+    ],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "mentioned_court_cases": [
+    "26-186",
+    "26A39",
+    "Southern Pacific Terminal Co. v. ICC"
+  ],
+  "event_key": "1664629084",
+  "basefilename": "RECORD20260918090259-1_1002",
+  "original_filename": "RECORD20260918090259-1_1002.txt",
+  "canonical_rel_pdf": "ACTIONS/PHONE_CALL/rj.aguiar.m@gmail.com/09182026/2024793011/FILED/RECORD20260918090259-1_1002.txt",
+  "category": "PHONE_CALL",
+  "subtype": "TRANSCRIPT",
+  "date": "09182026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "2024793011",
+  "primary_recipient_an": "Supreme Court of the United States - Office of the Clerk"
+}

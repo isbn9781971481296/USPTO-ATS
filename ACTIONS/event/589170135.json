@@ -1,0 +1,81 @@
+{
+  "summary_of_pdf": "This document is an RMail File Share Download Notice serving as authenticated evidentiary proof of delivery and receipt. It confirms that on April 13, 2026, a recipient at Kelsey-Seybold downloaded a formal legal demand asserting provisional patent rights under 35 U.S.C. \u00a7 154(d) concerning post-binary optical computing technologies, alongside highly sensitive attachments including an SEC TCR (Tip, Complaint, and Referral) submission and a formal criminal referral.",
+  "attorneys_comments": "From a litigation perspective, this RMail receipt is a critical evidentiary instrument for establishing 'actual notice' under 35 U.S.C. \u00a7 154(d), which is a strict statutory prerequisite for recovering reasonable royalties for pre-issuance patent infringement. Under the Federal Rules of Evidence, specifically FRE 901, this cryptographic receipt provides robust authentication of the exact date and time the adverse party accessed the claims, effectively neutralizing any subsequent defense of willful blindness or lack of knowledge. Furthermore, the downloaded attachments\u2014including SEC TCR 17742-648-351-976 and a formal criminal referral to the Honorable Cody Matthew Herche\u2014suggest parallel regulatory and criminal postures that may trigger SEC Material Risk Disclosure obligations for the recipient entities. Counsel must recognize that while this instrument conclusively proves receipt and actual knowledge, it does not independently validate the substantive merits of the underlying patent claims or the DOJ/SEC referrals. The inclusion of corporate officers at Stellantis, Best Buy, and Uber in the broader email tracking history indicates a sweeping, multi-defendant enforcement campaign that may necessitate complex multidistrict litigation (MDL) coordination if filed in the Southern District of Texas.",
+  "recommended_next_steps": "1. Securely archive the native RMail cryptographic receipt and associated metadata to ensure FRE 901 admissibility at trial. 2. Cross-reference the date of actual notice (April 13, 2026) against the publication date of the underlying USPTO patent application to calculate the accrual of provisional royalties under 35 U.S.C. \u00a7 154(d). 3. Monitor the SEC TCR 17742-648-351-976 docket for any administrative action that could stay or complicate civil litigation. 4. Prepare a draft complaint for the Southern District of Texas, explicitly pleading the April 13, 2026 date to satisfy the actual notice pleading requirements under the FRCP.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Patent Infringement",
+    "SEC Material Risk Disclosure",
+    "SEC TCR Whistleblower",
+    "Criminal Referral",
+    "Federal Rules of Evidence 901",
+    "Provisional Patent Rights",
+    "Corporate Knowledge / Willful Blindness"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "R.J. Aguiar",
+      "Tony Lin",
+      "Antonio Filosa",
+      "Todd Hartman",
+      "Emil Michael",
+      "Cody Matthew Herche"
+    ],
+    "companies": [
+      "Kelsey-Seybold",
+      "Stellantis",
+      "Best Buy",
+      "Advance",
+      "Uber",
+      "RMail",
+      "RPost"
+    ],
+    "technologies": [
+      "Post-Binary Optical Computing Logistics",
+      "Spatial-Temporal Exfiltration Protocols"
+    ],
+    "products": [],
+    "government_offices": [
+      "Securities and Exchange Commission (SEC)",
+      "Department of Justice (DOJ)",
+      "Washington State Attorney General's Office"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "589170135",
+  "basefilename": "DOWNLOAD-RECEIPT-tony.lin@kelsey-seybold.com",
+  "original_filename": "DOWNLOAD-RECEIPT-tony.lin@kelsey-seybold.com.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "todd.hartman@bestbuy.com",
+  "primary_recipient_an": "Todd Hartman (Best Buy Co., Inc.)",
+  "all_recipients": [
+    "todd.hartman@bestbuy.com",
+    "antonio.filosa@stellantis.com",
+    "serviceatg@atg.wa.gov",
+    "copyright@advance.com",
+    "tony.lin@kelsey-seybold.com",
+    "rj.aguiar.m@gmail.com",
+    "rj.aguiar.m+legal@gmail.com"
+  ],
+  "all_recipients_an": {
+    "todd.hartman@bestbuy.com": "Todd Hartman (Best Buy Co., Inc.)",
+    "antonio.filosa@stellantis.com": "Antonio Filosa (Stellantis N.V.)",
+    "serviceatg@atg.wa.gov": "Serviceatg (Washington State Attorney General)",
+    "copyright@advance.com": "Copyright (AdvancedMD)",
+    "tony.lin@kelsey-seybold.com": "Tony Lin (Kelsey-Seybold Clinic)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)"
+  },
+  "patent_applications": []
+}

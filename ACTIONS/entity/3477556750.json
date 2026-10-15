@@ -1,0 +1,43 @@
+{
+  "serving_key": "3477556750",
+  "canonical_key": "_police.commissioner@pd.boston.gov",
+  "display_name": "Michael A. Cox (Boston Police Department)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Boston Police Department",
+  "full_name": "Michael A. Cox",
+  "pronouns": null,
+  "title": "Police Commissioner",
+  "organization": "Boston Police Department",
+  "domain": "pd.boston.gov",
+  "addresses": {
+    "mailing_address": "1 Schroeder Plaza, Boston, MA 02120",
+    "business_address": "1 Schroeder Plaza, Boston, MA 02120",
+    "legal_service_address": "City of Boston Law Department, 1 City Hall Square, Room 615, Boston, MA 02201"
+  },
+  "registered_agent": {
+    "name": "Corporation Counsel, City of Boston",
+    "address": "1 City Hall Square, Room 615, Boston, MA 02201",
+    "jurisdiction": "Massachusetts"
+  },
+  "contact": {
+    "primary_email": "_police.commissioner@pd.boston.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-617-343-4500",
+      "+1-617-343-4200"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1204314101",
+      "canonical_key": "police.commissioner@pd.boston.gov",
+      "display_name": "Michael A. Cox",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

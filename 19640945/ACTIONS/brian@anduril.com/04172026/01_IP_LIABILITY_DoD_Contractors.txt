@@ -1,0 +1,230 @@
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+FORMAL NOTICE OF PROPRIETARY
+RIGHTS, INITIATION OF PROVISIONAL
+RIGHTS PERIOD, AND DEMAND FOR DUE
+DILIGENCE CONCERNING ADVANCED
+SENSOR FUSION AND DEPENDENCY
+GRAPH ANALYTICS
+This Notice:
+https://storage.googleapis.com/rj-aguiar/notices/IP_LIABILITY_DoD_Contractors.pdf
+
+TO: CHIEF EXECUTIVE OFFICERS, FOUNDERS, AND CHIEF LEGAL OFFICERS
+brian@anduril.com, contact@anduril.com (Brian Schimpf, CEO, Anduril Industries)
+mgrimm@anduril.com (Matt Grimm, Co-Founder and COO, Anduril Industries)
+akarp@palantir.com (Alex Karp, CEO, Palantir Technologies, Inc.)
+rtaylor@palantir.com (Ryan Taylor, Chief Legal and Business Affairs Officer, Palantir Technologies,
+Inc.)
+team@thielfellowship.org (Peter Thiel, Founder, Thiel Capital & Founders Fund)
+menlopark-info@a16z.com, compliance@a16z.com (Marc Andreessen, Co-Founder, Andreessen
+Horowitz / a16z)
+CC: DESIGNATED COUNSEL AND ADVISORY BOARDS
+emil.michael@mail.mil (Mr. Emil Michael, Under Secretary of Defense)
+Bryan Cunningham (Executive Director, Palantir Council of Advisors on Privacy and Civil Liberties)
+Miles Jennings (Head of Policy & General Counsel, Crypto, Andreessen Horowitz)
+Office of the General Counsel, Anduril Industries
+
+Page 1 of 6
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35 U.S.C. § 154(d)) REGARDING
+COORDINATED SENSOR FUSION, POWER HOLDER ANALYSIS, DECENTRALIZED LEDGERS, AND
+THE AGUIAR MARCANO INTELLECTUAL PROPERTY PORTFOLIO
+DATE: April 17, 2026
+DEAR:
+Mr. Schimpf, Mr. Grimm, Mr. Karp, Mr. Taylor, Mr. Cunningham, Mr. Thiel, Mr. Andreessen,
+and Mr. Jennings and Under Secretary Emil Michael,
+This comprehensive technical and legal brief is served upon the executive leadership, chief legal
+officers, and primary venture capital architects of Anduril Industries, Palantir Technologies,
+Founders Fund, Thiel Capital, and Andreessen Horowitz to establish formal, legally binding actual
+notice.
+As the vanguard of the modern military-industrial complex and the primary financiers of its
+expansion, your organizations provide the critical software, hardware, and capital infrastructure
+that powers the defense, intelligence, and logistical capabilities of the United States and its allies.
+Palantir's data-driven operational platforms, Anduril's autonomous sensor fusion technologies,
+and the massive capital pools deployed by Founders Fund and a16z are foundational to
+contemporary national security.
+However, the core algorithmic architectures and operational methodologies powering your
+flagship platforms and portfolio companies intersect directly with the proprietary claims of the
+Aguiar Marcano Intellectual Property Portfolio. This expanded portfolio comprises fifty-two (52)
+foundational patent applications formally executed and filed with the United States Patent and
+Trademark Office (USPTO).
+The primary objective of this document is to satisfy the strict requirements for "Actual Notice"
+pursuant to 35 U.S.C. § 154(d), thereby initiating the immediate accrual of provisional rights and
+the corresponding liability for reasonable royalties on all unauthorized commercial deployments
+of these technologies.
+
+I. THE U.S. DEPARTMENT OF DEFENSE LICENSE GRANT
+AND STRATEGIC BLOCKADE
+Before detailing the specific technological intersections of your respective platforms, it is imperative
+to address the overarching geopolitical encumbrance of this portfolio. Both Anduril and Palantir are
+primary contractors for the United States Department of Defense and the intelligence community.
+You are hereby advised that within the legal text of these patent applications, the inventor has
+executed an irrevocable, perpetual, worldwide, no-fee license granting the United States Federal
+
+Page 2 of 6
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+Government the right to utilize these inventions for all national defense purposes.
+Furthermore, the United States Department of Defense, specifically through Under Secretary of
+Defense Emil Michael, has been placed on direct notice of this license grant and is the designated
+authority administering this license on behalf of the military. While the U.S. government is immune
+from infringement under 28 U.S.C. § 1498, your unauthorized commercialization of these
+architectures for private enterprise clients, foreign governments, or local municipalities remains
+entirely unshielded and subject to immediate civil liability.
+
+II. Anduril Industries
+Target Operations: Lattice OS, Autonomous Sensor Fusion, and Coordinated Drone Operations
+Target Leadership: Brian Schimpf (CEO) and Matt Grimm (COO)
+Anduril's competitive advantage relies entirely on Lattice OS, an AI-powered operating system
+designed to ingest thousands of disparate data streams and turn them into a real-time, 3D
+command and control center for autonomous systems.
+●​ Method and System for Coordinated Dual-Vehicle Scanning (USPTO 19/559,842): Your
+deployment of autonomous, multi-modal surveillance systems operating in tandem—where
+primary unmanned vehicles conduct active/passive data collection while secondary systems
+provide overwatch and logistical support—is heavily encumbered by our portfolio. USPTO
+19/559,842 explicitly claims the methodology for coordinating multiple scanning vehicles via
+a secure link to simultaneously capture and fuse multi-spectral and RF data.
+●​ Autonomous Robotic Data Logistics System (USPTO 19/560,065): As Anduril deploys
+advanced systems into bandwidth-constrained, contested environments, the physical
+transport of intelligence data via autonomous platforms becomes necessary. This patent
+claims the specific use of autonomous robotic units (including aerial drones and ground
+vehicles) to physically retrieve and transport high-capacity data payloads to bypass
+traditional RF or telecommunications bottlenecks.
+
+III. Palantir Technologies, Inc.
+Target Operations: Palantir Gotham, Foundry, and Privacy & Civil Liberties (PCL) Engineering
+Target Leadership: Alex Karp (CEO) and Ryan Taylor (Chief Legal Officer)
+Palantir's platforms specialize in integrating massive, siloed datasets to construct complex
+dependency graphs used by law enforcement, intelligence agencies, and commercial enterprises
+
+Page 3 of 6
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+to identify targets, optimize supply chains, and track illicit networks.
+●​ Method and System for Power Holder Analysis in Social Networks (USPTO 19/559,957):
+Palantir Gotham's ability to map terrorist networks and identify critical targets mirrors the
+exact methodology claimed in USPTO 19/559,957. This patent claims a systemic method for
+analyzing network dependency graphs to identify "indispensable bottlenecks"—individuals
+or nodes whose removal causes the largest disruption to the network, thereby identifying
+the true "power holders." Utilizing your platform's predictive graph analysis to identify these
+critical nodes for intelligence or commercial targeting constitutes direct infringement of this
+analytical framework.
+●​ Method and System for Information Leak-Proofing of Organizations (USPTO
+19/559,873): Palantir employs a dedicated Privacy and Civil Liberties (PCL) team to ensure
+data integrity and manage access controls for sensitive intelligence and medical data.
+USPTO 19/559,873 claims a proactive system that graphs access privileges against sensitive
+data flows to calculate a precise "potential damage score" or "blast radius" for any individual
+user. If Palantir's security infrastructure utilizes predictive modeling to compartmentalize
+access based on mathematically calculated insider-threat risks, it actively deploys our
+patented vulnerability mitigation engine.
+
+IV. Peter Thiel (Founders Fund & Thiel Capital)
+Target Operations: Strategic Capital Deployment and Board-Level Control
+Target Leadership: Peter Thiel (Founder)
+Through Thiel Capital and Founders Fund, Mr. Thiel provides the strategic and operational support
+driving the expansion of both Palantir and Anduril. As a co-founder of Palantir and a primary
+financial backer of Anduril 1, the capital deployed by your firms is actively funding the
+commercialization of our patented intelligence and sensor fusion systems. Financing the mass
+deployment of infringing defense technologies creates direct exposure to claims of induced
+infringement, tying your investment returns to the unauthorized use of this intellectual property.
+
+V. Marc Andreessen (Andreessen Horowitz / a16z)
+Target Operations: Defense Tech Investments and a16z Crypto
+Target Leadership: Marc Andreessen (Co-Founder) and Miles Jennings (General Counsel,
+Crypto)
+Andreessen Horowitz has invested hundreds of millions of dollars into Anduril Industries 1 and
+
+Page 4 of 6
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+actively promotes the "American Dynamism" thesis to build defense tech. Furthermore, a16z
+manages a massive $3.1 billion suite of crypto funds.
+●​ Method and System for a Geo-Indexing Covert Ledger (USPTO 19/559,608): As a16z
+aggressively backs decentralized finance and blockchain startups, your portfolio companies
+are at high risk of intersecting with our "DIOSDADO" framework, which covers the
+steganographic embedding of financial ledgers within spatial and geographic indexes.
+●​ A Method for Asynchronous Secure Communication with Post-Hoc Key Derivation
+(USPTO 19/640,945): This patent covers a paradigm shift in cryptographic key exchange
+designed to defeat man-in-the-middle attacks by decoupling the data payload from the key
+derivation.2 The cryptographic and blockchain startups funded by your firm must
+immediately clear their network protocols against these foundational security claims.
+
+VI. Statutory and Ethical Mandates
+Because your organizations operate at the highest levels of global finance and law, we must
+formally remind your leadership and counsel of the following obligations:
+1. SEC Disclosure Requirements for Public Companies
+For the publicly traded entities receiving this notice, specifically Palantir Technologies Inc., we
+remind you that if you find yourselves potentially infringing any of the Inventions covered in this
+intellectual property portfolio, you must assess whether it is necessary to notify your investors
+and file a notice with the SEC. The failure to disclose a material intellectual property encumbrance
+that threatens your core algorithmic products constitutes a severe breach of fiduciary duty to
+your shareholders.
+2. Attorney Ethical Obligations (Model Rule 8.3)
+Furthermore, a direct reminder is issued to the Chief Legal Officers, General Counsels, and all
+retained outside counsel receiving or reviewing this notice (including Ryan Taylor and Miles
+Jennings): You are strictly bound by your ethical obligations, including ABA Model Rule of
+Professional Conduct 8.3. This rule explicitly mandates that a lawyer who knows that another
+lawyer has committed a violation of the Rules of Professional Conduct that raises a substantial
+question as to that lawyer's honesty, trustworthiness, or fitness as a lawyer in other respects, shall
+inform the appropriate professional authority. If your internal audits regarding this patent portfolio
+reveal evidence of coordinated intellectual property theft, commercial espionage, or any other
+wrongdoing that may compromise the integrity of a court or the judicial process, you are ethically
+mandated to report such conduct.
+
+Page 5 of 6
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+VII. The U.S. Federal Defense License
+Both Anduril and Palantir are primary contractors for the United States Department of Defense
+and the intelligence community. You are hereby advised that within the legal text of these patent
+applications, the inventor has executed an irrevocable, perpetual, worldwide, no-fee license
+granting the United States Federal Government the right to utilize these inventions for all national
+defense purposes.
+While the U.S. government is immune from infringement under 28 U.S.C. § 1498, your unauthorized
+commercialization of these architectures for private enterprise clients, foreign governments, or
+local municipalities remains entirely unshielded and subject to immediate civil liability.
+
+VIII. Strategic Ultimatum
+The executive leadership of each addressed organization is directed to immediately instruct your
+internal legal departments and outside IP counsel to cross-reference the fifty-two (52)
+applications within the Aguiar Marcano Portfolio against your sensor fusion algorithms (Anduril),
+dependency-graph intelligence software (Palantir), and portfolio deployments (Founders
+Fund/a16z).
+A formal response outlining your intended compliance audit, a presentation of non-infringement
+theories, or a request to discuss a commercial licensing framework is expected within thirty (30)
+business days of the transmission of this notice.
+Govern yourselves accordingly.
+Reinaldo Aguiar Marcano
+
+Works cited
+1.​ 02__ISBN-9781971481296__Portfolio-of-Patent-Applications_and_Declaration-D132.
+
+pdf
+
+Page 6 of 6
+ISBN 9781971481296
+
+

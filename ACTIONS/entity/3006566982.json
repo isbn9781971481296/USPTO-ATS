@@ -1,0 +1,33 @@
+{
+  "serving_key": "3006566982",
+  "canonical_key": "_jeremy.sanders@fisherbroyles.com",
+  "display_name": "Jeremy Sanders (FisherBroyles, LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "FisherBroyles, LLP",
+  "full_name": "Jeremy Sanders",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "FisherBroyles, LLP",
+  "domain": "fisherbroyles.com",
+  "addresses": {
+    "mailing_address": "1200 Abernathy Road, Suite 1700, Atlanta, GA 30328",
+    "business_address": "1200 Abernathy Road, Suite 1700, Atlanta, GA 30328",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "_jeremy.sanders@fisherbroyles.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

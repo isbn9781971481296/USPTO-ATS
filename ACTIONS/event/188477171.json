@@ -1,0 +1,85 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Email receipt providing verifiable, cryptographic proof of delivery, opening, and attachment integrity for a communication sent by RJ Aguiar to attorneys at Foley & Lardner LLP. The underlying transmission constitutes an inquiry for intellectual property representation regarding a 47-patent portfolio, uniquely coupled with highly sensitive parallel federal disclosures, including formal criminal referrals for interstate wire fraud, whistleblower retaliation claims, and an active SEC TCR (Tips, Complaints, and Referrals) submission.",
+  "attorneys_comments": "From an evidentiary standpoint, this RPost receipt serves as highly reliable, self-authenticating digital evidence under Federal Rule of Evidence 902(13) and (14), establishing non-repudiable actual notice to Foley & Lardner LLP of the sender's patent portfolio and associated federal whistleblower actions. Tactically, the sender is establishing a rigid, documented timeline of disclosure. The inclusion of formal criminal referrals and SEC TCR data within an IP representation inquiry is highly unorthodox and signals a volatile, multi-forum dispute likely involving securities violations or procurement fraud. Procedurally, the receipt of this unsolicited, substantive material triggers immediate ethical considerations under ABA Model Rule 1.18 regarding duties to prospective clients. The firm must exercise extreme caution to avoid conflict contamination, particularly ensuring that the receipt of the patent portfolio does not inadvertently trigger a duty of disclosure under 37 C.F.R. \u00a7 1.56 for any existing firm clients operating in the same technological art.",
+  "recommended_next_steps": "1. Immediately quarantine the communication and its attachments to prevent inadvertent conflict contamination across the firm's IP prosecution and litigation departments. 2. Execute a comprehensive internal conflict check against the named entities (Herche, McDonald, KKC, and any identifiable SEC targets). 3. Draft and transmit a formal non-engagement letter to RJ Aguiar explicitly disclaiming any attorney-client relationship, sent via trackable delivery. 4. Instruct all receiving attorneys to refrain from substantive review of the patent applications to mitigate any imputed 37 C.F.R. \u00a7 1.56 disclosure obligations.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "FRE 902 Self-Authenticating Evidence",
+    "ABA Model Rule 1.18",
+    "37 C.F.R. \u00a7 1.56",
+    "Whistleblower Retaliation",
+    "SEC TCR 17742-648-351-976",
+    "Interstate Wire Fraud",
+    "18 U.S.C. \u00a7 1343",
+    "15 U.S.C. \u00a7 78u-6",
+    "Patent Prosecution",
+    "Notice of Criminal Referral",
+    "Prospective Client Inquiry"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "C. Cain",
+      "N. Tsao"
+    ],
+    "companies": [
+      "RPost",
+      "Proofpoint, Inc.",
+      "KKC"
+    ],
+    "technologies": [
+      "47-Patent Portfolio"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "California"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Foley & Lardner LLP"
+    ],
+    "attorneys": [
+      "Terrell Miller",
+      "Vanessa Miller",
+      "C. Cain",
+      "N. Tsao"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "188477171",
+  "basefilename": "OPEN-RECEIPT_ccain@foley.com",
+  "original_filename": "OPEN-RECEIPT_ccain@foley.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "tmiller@foley.com",
+  "primary_recipient_an": "Tmiller (Jack Foley)",
+  "all_recipients": [
+    "tmiller@foley.com",
+    "ntsao@foley.com",
+    "ccain@foley.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "tmiller@foley.com": "Tmiller (Jack Foley)",
+    "ntsao@foley.com": "Ntsao (Jack Foley)",
+    "ccain@foley.com": "Ccain (Jack Foley)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

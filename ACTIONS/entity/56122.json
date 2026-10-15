@@ -1,0 +1,33 @@
+{
+  "serving_key": "56122",
+  "canonical_key": "sarah@pandodaily.com",
+  "display_name": "Sarah Lacy (PandoDaily)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "PandoMedia, Inc. (dba PandoDaily)",
+  "full_name": "Sarah Lacy",
+  "pronouns": "she/her",
+  "title": "Founder and CEO",
+  "organization": "PandoMedia, Inc. (dba PandoDaily)",
+  "domain": "pandodaily.com",
+  "addresses": {
+    "mailing_address": "San Francisco, CA 94107",
+    "business_address": "San Francisco, CA 94107",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "sarah@pandodaily.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

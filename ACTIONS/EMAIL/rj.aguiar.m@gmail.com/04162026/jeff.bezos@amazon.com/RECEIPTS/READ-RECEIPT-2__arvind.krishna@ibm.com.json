@@ -1,0 +1,40 @@
+{
+  "index": 22,
+  "header": "# Enclosure #22: READ-RECEIPT-2-arvind-krishna-ibm-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT-2__arvind.krishna@ibm.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-f45b5acf84.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jeff.bezos@amazon.com",
+  "primary_recipient_an": "Jeff Bezos (Amazon.com, Inc.)",
+  "all_recipients": [
+    "jeff.bezos@amazon.com",
+    "arvind.krishna@ibm.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "akrishna@ibm.com",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "arvind.krishna@ibm.com": "Arvind Krishna (International Business Machines Corporation)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "akrishna@ibm.com": "Arvind Krishna (International Business Machines Corporation)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04162026",
+  "original_filename": "READ-RECEIPT-2__arvind.krishna@ibm.com.pdf",
+  "patent_applications_mentioned": []
+}

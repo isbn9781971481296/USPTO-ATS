@@ -1,0 +1,44 @@
+{
+  "serving_key": "189405492",
+  "canonical_key": "skhoshbin@munckwilson.com",
+  "display_name": "Shain Khoshbin (Munck Wilson Mandala, LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Munck Wilson Mandala, LLP",
+  "full_name": "Shain Khoshbin",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Munck Wilson Mandala, LLP",
+  "domain": "munckwilson.com",
+  "addresses": {
+    "mailing_address": "12770 Coit Road, Suite 600, Dallas, TX 75251",
+    "business_address": "12770 Coit Road, Suite 600, Dallas, TX 75251",
+    "legal_service_address": "12770 Coit Road, Suite 600, Dallas, TX 75251"
+  },
+  "registered_agent": {
+    "name": "Munck Wilson Mandala, LLP",
+    "address": "12770 Coit Road, Suite 600, Dallas, TX 75251",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "skhoshbin@munckwilson.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-972-628-3600"
+    ],
+    "faxes": [
+      "+1-972-628-3616"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2200374320",
+      "canonical_key": "mmccabe@munckwilson.com",
+      "display_name": "Michael McCabe",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

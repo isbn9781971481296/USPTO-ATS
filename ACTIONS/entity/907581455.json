@@ -1,0 +1,35 @@
+{
+  "serving_key": "907581455",
+  "canonical_key": "brentirvin@tencent.com",
+  "display_name": "Brent Irvin (Tencent)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Tencent",
+  "full_name": "Brent Irvin",
+  "pronouns": null,
+  "title": "Vice President and General Counsel",
+  "organization": "Tencent",
+  "domain": "tencent.com",
+  "addresses": {
+    "mailing_address": "345 Portage Ave, Palo Alto, CA 94306",
+    "business_address": "345 Portage Ave, Palo Alto, CA 94306",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "brentirvin@tencent.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-650-798-3300"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

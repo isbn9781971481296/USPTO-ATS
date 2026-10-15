@@ -1,0 +1,45 @@
+{
+  "serving_key": "71844776",
+  "canonical_key": "abuse@linode.com",
+  "display_name": "Linode Abuse Team (Linode, LLC)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Linode, LLC (Akamai Technologies)",
+  "full_name": "Linode Abuse Team",
+  "pronouns": null,
+  "title": "Abuse Department",
+  "organization": "Linode, LLC (Akamai Technologies)",
+  "domain": "linode.com",
+  "addresses": {
+    "mailing_address": "249 Arch St, Philadelphia, PA 19106",
+    "business_address": "249 Arch St, Philadelphia, PA 19106",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "abuse@linode.com",
+    "alternative_emails": [
+      "support@linode.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1-855-454-6633",
+      "+1-609-380-7100"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2299452927",
+      "canonical_key": "privacy@linode.com",
+      "display_name": "Linode Privacy Team",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,35 @@
+{
+  "serving_key": "3228907865",
+  "canonical_key": "jhaan@mofo.com",
+  "display_name": "J. Haan (Morrison & Foerster LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Morrison & Foerster LLP",
+  "full_name": "J. Haan",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Morrison & Foerster LLP",
+  "domain": "mofo.com",
+  "addresses": {
+    "mailing_address": "425 Market Street, San Francisco, CA 94105",
+    "business_address": "425 Market Street, San Francisco, CA 94105",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "jhaan@mofo.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 415-268-7000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

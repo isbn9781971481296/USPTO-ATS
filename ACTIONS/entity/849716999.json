@@ -1,0 +1,35 @@
+{
+  "serving_key": "849716999",
+  "canonical_key": "copyright@advance.com",
+  "display_name": "Copyright Agent (Advance Publications, Inc.)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Advance Publications, Inc.",
+  "full_name": "Copyright Agent",
+  "pronouns": null,
+  "title": "DMCA/Copyright Agent",
+  "organization": "Advance Publications, Inc.",
+  "domain": "advance.com",
+  "addresses": {
+    "mailing_address": "One World Trade Center, New York, NY 10007",
+    "business_address": "One World Trade Center, New York, NY 10007",
+    "legal_service_address": "28 Liberty Street, New York, NY 10005"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "28 Liberty Street, New York, NY 10005",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "copyright@advance.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-286-2860"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

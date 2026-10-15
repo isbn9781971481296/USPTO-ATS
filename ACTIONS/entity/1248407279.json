@@ -1,0 +1,64 @@
+{
+  "serving_key": "1248407279",
+  "canonical_key": "lori.fradkin@time.com",
+  "display_name": "Lori Fradkin (TIME)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Time USA, LLC",
+  "full_name": "Lori Fradkin",
+  "pronouns": null,
+  "title": "Editor",
+  "organization": "Time USA, LLC",
+  "domain": "time.com",
+  "addresses": {
+    "mailing_address": "1095 Avenue of the Americas, New York, NY 10036",
+    "business_address": "1095 Avenue of the Americas, New York, NY 10036",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "lori.fradkin@time.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3959147684",
+      "canonical_key": "vera@time.com",
+      "display_name": "Vera Bergengruen",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1643532250",
+      "canonical_key": "alex.altman@time.com",
+      "display_name": "Alex Altman",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1462418580",
+      "canonical_key": "letters@time.com",
+      "display_name": "TIME Magazine Letters",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2623062342",
+      "canonical_key": "massimo.calabresi@time.com",
+      "display_name": "Massimo Calabresi",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1093754289",
+      "canonical_key": "sam.jacobs@time.com",
+      "display_name": "Sam Jacobs",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

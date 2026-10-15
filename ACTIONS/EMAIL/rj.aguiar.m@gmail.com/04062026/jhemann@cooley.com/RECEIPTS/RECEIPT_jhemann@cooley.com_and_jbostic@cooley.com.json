@@ -1,0 +1,26 @@
+{
+  "index": 177,
+  "header": "# Enclosure #177: RECEIPT-jhemann-cooley-com-and-jbostic-cooley-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/RECEIPT_jhemann@cooley.com_and_jbostic@cooley.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-3d267088d7.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jhemann@cooley.com",
+  "primary_recipient_an": "Jhemann (Logan Cooley)",
+  "all_recipients": [
+    "jhemann@cooley.com",
+    "jbostic@cooley.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jhemann@cooley.com": "Jhemann (Logan Cooley)",
+    "jbostic@cooley.com": "Jbostic (Logan Cooley)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "RECEIPT_jhemann@cooley.com_and_jbostic@cooley.com.pdf",
+  "patent_applications_mentioned": []
+}

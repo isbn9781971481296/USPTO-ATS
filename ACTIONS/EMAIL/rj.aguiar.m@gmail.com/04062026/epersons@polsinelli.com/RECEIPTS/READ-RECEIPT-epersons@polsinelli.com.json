@@ -1,0 +1,24 @@
+{
+  "index": 77,
+  "header": "# Enclosure #77: READ-RECEIPT-epersons-polsinelli-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT-epersons@polsinelli.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-epersons@polsinell-b670bc1e99.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "epersons@polsinelli.com",
+  "primary_recipient_an": "Epersons (Polsinelli PC)",
+  "all_recipients": [
+    "epersons@polsinelli.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "epersons@polsinelli.com": "Epersons (Polsinelli PC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT-epersons@polsinelli.com.pdf",
+  "patent_applications_mentioned": []
+}

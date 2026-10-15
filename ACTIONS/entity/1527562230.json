@@ -1,0 +1,49 @@
+{
+  "serving_key": "1527562230",
+  "canonical_key": "police.director@miamidade.gov",
+  "display_name": "Stephanie V. Daniels (Miami-Dade Police Department)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Miami-Dade Police Department",
+  "full_name": "Stephanie V. Daniels",
+  "pronouns": null,
+  "title": "Director",
+  "organization": "Miami-Dade Police Department",
+  "domain": "miamidade.gov",
+  "addresses": {
+    "mailing_address": "9105 NW 25th Street, Doral, FL 33172",
+    "business_address": "9105 NW 25th Street, Doral, FL 33172",
+    "legal_service_address": "111 NW 1st Street, Suite 2810, Miami, FL 33128"
+  },
+  "registered_agent": {
+    "name": "Miami-Dade County Attorney's Office",
+    "address": "111 NW 1st Street, Suite 2810, Miami, FL 33128",
+    "jurisdiction": "Florida"
+  },
+  "contact": {
+    "primary_email": "police.director@miamidade.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "305-471-2100",
+      "305-471-1900"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2668830700",
+      "canonical_key": "county.attorney@miamidade.gov",
+      "display_name": "Miami-Dade County Attorney",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3144282381",
+      "canonical_key": "taxcollector@miamidade.gov",
+      "display_name": "Miami-Dade County Tax Collector",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

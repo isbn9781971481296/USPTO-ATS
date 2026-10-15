@@ -1,0 +1,35 @@
+{
+  "serving_key": "4068182226",
+  "canonical_key": "peter.carter@delta.com",
+  "display_name": "Peter W. Carter (Delta Air Lines, Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Delta Air Lines, Inc.",
+  "full_name": "Peter W. Carter",
+  "pronouns": null,
+  "title": "Executive Vice President - External Affairs",
+  "organization": "Delta Air Lines, Inc.",
+  "domain": "delta.com",
+  "addresses": {
+    "mailing_address": "1030 Delta Blvd, Atlanta, GA 30354",
+    "business_address": "1030 Delta Blvd, Atlanta, GA 30354",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "peter.carter@delta.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-404-715-2600"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

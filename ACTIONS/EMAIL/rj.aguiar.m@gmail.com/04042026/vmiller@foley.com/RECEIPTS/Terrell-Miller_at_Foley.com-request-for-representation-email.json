@@ -1,0 +1,26 @@
+{
+  "index": 34,
+  "header": "# Enclosure #34: Terrell-Miller-at-Foley-com-request-for-representation-email.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/Terrell-Miller_at_Foley.com-request-for-representation-email.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-53eb6b14d1.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "vmiller@foley.com",
+  "primary_recipient_an": "Vmiller (Jack Foley)",
+  "all_recipients": [
+    "vmiller@foley.com",
+    "tmiller@foley.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "vmiller@foley.com": "Vmiller (Jack Foley)",
+    "tmiller@foley.com": "Tmiller (Jack Foley)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04042026",
+  "original_filename": "Terrell-Miller_at_Foley.com-request-for-representation-email.pdf",
+  "patent_applications_mentioned": []
+}

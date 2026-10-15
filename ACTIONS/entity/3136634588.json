@@ -1,0 +1,44 @@
+{
+  "serving_key": "3136634588",
+  "canonical_key": "matthew.moore@lw.com",
+  "display_name": "Matthew Moore (Latham & Watkins LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Latham & Watkins LLP",
+  "full_name": "Matthew Moore",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Latham & Watkins LLP",
+  "domain": "lw.com",
+  "addresses": {
+    "mailing_address": "555 Eleventh Street, NW, Suite 1000, Washington, D.C. 20004-1304",
+    "business_address": "555 Eleventh Street, NW, Suite 1000, Washington, D.C. 20004-1304",
+    "legal_service_address": "The Corporation Trust Company, Corporation Trust Center, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "Corporation Trust Center, 1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "matthew.moore@lw.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1.202.637.2200"
+    ],
+    "faxes": [
+      "+1.202.637.2201"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3154320893",
+      "canonical_key": "douglas.lumish@lw.com",
+      "display_name": "Douglas Lumish",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

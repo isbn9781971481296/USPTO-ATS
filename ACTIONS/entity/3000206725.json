@@ -1,0 +1,84 @@
+{
+  "serving_key": "3000206725",
+  "canonical_key": "daisy.darvall@kirkland.com",
+  "display_name": "Daisy Darvall (Kirkland & Ellis LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Kirkland & Ellis LLP",
+  "full_name": "Daisy Darvall",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Kirkland & Ellis LLP",
+  "domain": "kirkland.com",
+  "addresses": {
+    "mailing_address": "333 West Wolf Point Plaza, Chicago, IL 60654",
+    "business_address": "333 West Wolf Point Plaza, Chicago, IL 60654",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "daisy.darvall@kirkland.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 312 862 2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2364860485",
+      "canonical_key": "_seth.traxler@kirkland.com",
+      "display_name": "Seth Traxler",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "217952822",
+      "canonical_key": "mgaleotti@kirkland.com",
+      "display_name": "M. Galeotti",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "699740729",
+      "canonical_key": "seth.traxler@kirkland.com",
+      "display_name": "Seth Traxler",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1858881510",
+      "canonical_key": "alexandra.caritis@kirkland.com",
+      "display_name": "Alexandra Caritis",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "22746135",
+      "canonical_key": "jkasulis@kirkland.com",
+      "display_name": "Jacquelyn M. Kasulis",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1459718476",
+      "canonical_key": "michael.devries@kirkland.com",
+      "display_name": "Michael De Vries",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "26259579",
+      "canonical_key": "ellisen.turner@kirkland.com",
+      "display_name": "Ellisen Turner",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "771333210",
+      "canonical_key": "erin.nealycox@kirkland.com",
+      "display_name": "Erin Nealy Cox",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

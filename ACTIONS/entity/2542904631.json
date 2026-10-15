@@ -1,0 +1,36 @@
+{
+  "serving_key": "2542904631",
+  "canonical_key": "attorney.general@delaware.gov",
+  "display_name": "Delaware Attorney General (Delaware Department of Justice)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Delaware Department of Justice",
+  "full_name": "Kathy Jennings",
+  "pronouns": null,
+  "title": "Attorney General",
+  "organization": "Delaware Department of Justice",
+  "domain": "delaware.gov",
+  "addresses": {
+    "mailing_address": "820 N. French St., Wilmington, DE 19801",
+    "business_address": "820 N. French St., Wilmington, DE 19801",
+    "legal_service_address": "820 N. French St., Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "N/A (Government Agency)",
+    "address": "820 N. French St., Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "attorney.general@delaware.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-302-577-8400",
+      "+1-302-739-4211"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

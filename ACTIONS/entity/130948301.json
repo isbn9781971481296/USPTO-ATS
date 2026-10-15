@@ -1,0 +1,51 @@
+{
+  "serving_key": "130948301",
+  "canonical_key": "miriam.stiel@allens.com.au",
+  "display_name": "Miriam Stiel (Allens)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Allens",
+  "full_name": "Miriam Stiel",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Allens",
+  "domain": "allens.com.au",
+  "addresses": {
+    "mailing_address": "Deutsche Bank Place, Corner Hunter and Phillip Streets, Sydney NSW 2000, Australia",
+    "business_address": "Deutsche Bank Place, Corner Hunter and Phillip Streets, Sydney NSW 2000, Australia",
+    "legal_service_address": "Deutsche Bank Place, Corner Hunter and Phillip Streets, Sydney NSW 2000, Australia"
+  },
+  "registered_agent": {
+    "name": "Allens (Principal Office)",
+    "address": "Deutsche Bank Place, Corner Hunter and Phillip Streets, Sydney NSW 2000, Australia",
+    "jurisdiction": "New South Wales, Australia"
+  },
+  "contact": {
+    "primary_email": "miriam.stiel@allens.com.au",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+61 2 9230 4614",
+      "+61 2 9230 4000"
+    ],
+    "faxes": [
+      "+61 2 9230 5333"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2753083480",
+      "canonical_key": "_joel.barrett@allens.com.au",
+      "display_name": "Joel Barrett",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "4245603477",
+      "canonical_key": "joel.barrett@allens.com.au",
+      "display_name": "Joel Barrett",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

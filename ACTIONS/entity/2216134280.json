@@ -1,0 +1,33 @@
+{
+  "serving_key": "2216134280",
+  "canonical_key": "smtpthread-51155731775563601564@au-mta-69.au",
+  "display_name": "SMTP Thread 51155731775563601564 (au-mta-69.au)",
+  "entity_type": "automated_system",
+  "is_attorney": false,
+  "works_at": "au-mta-69.au",
+  "full_name": "SMTP Thread 51155731775563601564",
+  "pronouns": null,
+  "title": "Automated Mail Transfer Agent",
+  "organization": "au-mta-69.au",
+  "domain": "au-mta-69.au",
+  "addresses": {
+    "mailing_address": "Australia",
+    "business_address": "Australia",
+    "legal_service_address": "Unknown"
+  },
+  "registered_agent": {
+    "name": "Unknown",
+    "address": "Unknown",
+    "jurisdiction": "Australia"
+  },
+  "contact": {
+    "primary_email": "smtpthread-51155731775563601564@au-mta-69.au",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

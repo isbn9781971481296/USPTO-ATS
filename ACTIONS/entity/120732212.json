@@ -1,0 +1,42 @@
+{
+  "serving_key": "120732212",
+  "canonical_key": "agarten@trumporg.com",
+  "display_name": "Alan Garten (The Trump Organization)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "The Trump Organization",
+  "full_name": "Alan Garten",
+  "pronouns": null,
+  "title": "Chief Legal Officer",
+  "organization": "The Trump Organization",
+  "domain": "trumporg.com",
+  "addresses": {
+    "mailing_address": "725 5th Ave, New York, NY 10022",
+    "business_address": "725 5th Ave, New York, NY 10022",
+    "legal_service_address": "28 Liberty St, New York, NY 10005"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "28 Liberty St, New York, NY 10005",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "agarten@trumporg.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-832-2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1505467398",
+      "canonical_key": "alan.garten@trumporg.com",
+      "display_name": "Alan Garten",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

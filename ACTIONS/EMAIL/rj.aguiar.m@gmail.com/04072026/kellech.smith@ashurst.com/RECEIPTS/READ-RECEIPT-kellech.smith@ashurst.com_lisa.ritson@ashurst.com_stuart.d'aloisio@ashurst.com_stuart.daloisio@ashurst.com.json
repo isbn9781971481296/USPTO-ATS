@@ -1,0 +1,32 @@
+{
+  "index": 136,
+  "header": "# Enclosure #136: READ-RECEIPT-kellech-smith-ashurst-com-lisa-ritson-ashurst-com-stuart-d-aloisio-ashurst-com-stuart-daloisio-ashurst-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/READ-RECEIPT-kellech.smith@ashurst.com_lisa.ritson@ashurst.com_stuart.d'aloisio@ashurst.com_stuart.daloisio@ashurst.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-read-receipt-kellech.smith@ashurst.-91d97a2254.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kellech.smith@ashurst.com",
+  "primary_recipient_an": "Kellech Smith (Ashurst)",
+  "all_recipients": [
+    "kellech.smith@ashurst.com",
+    "_lisa.ritson@ashurst.com",
+    "aloisio@ashurst.com",
+    "lisa.ritson@ashurst.com",
+    "stuart.daloisio@ashurst.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "kellech.smith@ashurst.com": "Kellech Smith (Ashurst)",
+    "_lisa.ritson@ashurst.com": "Lisa Ritson (Ashurst)",
+    "aloisio@ashurst.com": "Aloisio (Ashurst)",
+    "lisa.ritson@ashurst.com": "Lisa Ritson (Ashurst)",
+    "stuart.daloisio@ashurst.com": "Stuart Daloisio (Ashurst)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "READ-RECEIPT-kellech.smith@ashurst.com_lisa.ritson@ashurst.com_stuart.d'aloisio@ashurst.com_stuart.daloisio@ashurst.com.pdf",
+  "patent_applications_mentioned": []
+}

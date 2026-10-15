@@ -1,0 +1,54 @@
+{
+  "serving_key": "2090769839",
+  "canonical_key": "dvondle@akingump.com",
+  "display_name": "David Vondle (Akin Gump Strauss Hauer & Feld LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Akin Gump Strauss Hauer & Feld LLP",
+  "full_name": "David Vondle",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Akin Gump Strauss Hauer & Feld LLP",
+  "domain": "akingump.com",
+  "addresses": {
+    "mailing_address": "2001 K Street N.W., Washington, DC 20006",
+    "business_address": "2001 K Street N.W., Washington, DC 20006",
+    "legal_service_address": "2001 K Street N.W., Washington, DC 20006"
+  },
+  "registered_agent": {
+    "name": "General Counsel, Akin Gump Strauss Hauer & Feld LLP",
+    "address": "2001 K Street N.W., Washington, DC 20006",
+    "jurisdiction": "District of Columbia"
+  },
+  "contact": {
+    "primary_email": "dvondle@akingump.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-887-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "856911224",
+      "canonical_key": "_mchan@akingump.com",
+      "display_name": "M. Chan",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3244233626",
+      "canonical_key": "_dvondle@akingump.com",
+      "display_name": "David P. Vondle",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2480220854",
+      "canonical_key": "mchan@akingump.com",
+      "display_name": "M. Chan",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

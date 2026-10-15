@@ -1,0 +1,40 @@
+{
+  "index": 78,
+  "header": "# Enclosure #78: EMAIL-TO-ch-klein-sap-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/EMAIL-TO-ch.klein@sap.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-74f638fb66.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "ch.klein@sap.com",
+  "primary_recipient_an": "Ch Klein (SAP SE)",
+  "all_recipients": [
+    "ch.klein@sap.com",
+    "bezos@amazon.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com",
+    "org_srowan@epo.org",
+    "epo.org_ymeniere@epo.org"
+  ],
+  "all_recipients_an": {
+    "ch.klein@sap.com": "Ch Klein (SAP SE)",
+    "bezos@amazon.com": "Bezos (Amazon.com, Inc.)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "org_srowan@epo.org": "Org Srowan (European Patent Office)",
+    "epo.org_ymeniere@epo.org": "Epo Org Ymeniere (European Patent Office)"
+  },
+  "date": "04162026",
+  "original_filename": "EMAIL-TO-ch.klein@sap.com.pdf",
+  "patent_applications_mentioned": []
+}

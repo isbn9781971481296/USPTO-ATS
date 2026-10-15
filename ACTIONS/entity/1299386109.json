@@ -1,0 +1,42 @@
+{
+  "serving_key": "1299386109",
+  "canonical_key": "stella.belvisi@airbus.com",
+  "display_name": "Stella Belvisi (Airbus)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Airbus",
+  "full_name": "Stella Belvisi",
+  "pronouns": null,
+  "title": "Legal Counsel",
+  "organization": "Airbus",
+  "domain": "airbus.com",
+  "addresses": {
+    "mailing_address": "2 rond-point Emile Dewoitine, 31700 Blagnac, France",
+    "business_address": "2 rond-point Emile Dewoitine, 31700 Blagnac, France",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "stella.belvisi@airbus.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 5 61 93 33 33"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1435244237",
+      "canonical_key": "john.harrison@airbus.com",
+      "display_name": "John Harrison",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

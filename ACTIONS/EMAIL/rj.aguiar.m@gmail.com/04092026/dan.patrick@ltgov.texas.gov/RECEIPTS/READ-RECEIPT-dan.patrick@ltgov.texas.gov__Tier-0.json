@@ -1,0 +1,26 @@
+{
+  "index": 49,
+  "header": "# Enclosure #49: READ-RECEIPT-dan-patrick-ltgov-texas-gov-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/CITY-Governments-Police-and-Court-Admins/READ-RECEIPT-dan.patrick@ltgov.texas.gov__Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-city-governments-police-and-court-admins-read-receipt-dan.patrick@ltgov.texas.g-805e72c308.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "dan.patrick@ltgov.texas.gov",
+  "primary_recipient_an": "Dan Patrick (ltgov.texas.gov)",
+  "all_recipients": [
+    "dan.patrick@ltgov.texas.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "dan.patrick@ltgov.texas.gov": "Dan Patrick (ltgov.texas.gov)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "READ-RECEIPT-dan.patrick@ltgov.texas.gov__Tier-0.pdf",
+  "patent_applications_mentioned": []
+}

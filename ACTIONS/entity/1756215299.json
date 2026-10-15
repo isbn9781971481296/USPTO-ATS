@@ -1,0 +1,35 @@
+{
+  "serving_key": "1756215299",
+  "canonical_key": "aflcmcjaworkflowmail@us.af",
+  "display_name": "AFLCMC/JA Workflow (Air Force Life Cycle Management Center)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Air Force Life Cycle Management Center (AFLCMC)",
+  "full_name": "AFLCMC/JA Workflow",
+  "pronouns": null,
+  "title": "Judge Advocate Office",
+  "organization": "Air Force Life Cycle Management Center (AFLCMC)",
+  "domain": "us.af",
+  "addresses": {
+    "mailing_address": "AFLCMC/JA, Wright-Patterson AFB, OH 45433, USA",
+    "business_address": "Wright-Patterson AFB, OH 45433, USA",
+    "legal_service_address": "Staff Judge Advocate, AFLCMC/JA, Wright-Patterson AFB, OH 45433, USA"
+  },
+  "registered_agent": {
+    "name": "Staff Judge Advocate, AFLCMC (Federal litigation requires service upon the US Attorney General and local US Attorney)",
+    "address": "Wright-Patterson AFB, OH 45433, USA",
+    "jurisdiction": "Federal / United States"
+  },
+  "contact": {
+    "primary_email": "aflcmcjaworkflowmail@us.af",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-937-255-2868"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

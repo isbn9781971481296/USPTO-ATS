@@ -1,0 +1,81 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Receipt providing cryptographic, evidentiary proof of delivery for a whistleblower intake submission transmitted by RJ Aguiar to the Government Accountability Project (GAP) on April 1, 2026. The underlying transmission asserts claims of 'Systemic Fiduciary Risk and Judicial Capture' and includes a formal intake application, a manuscript, and a legislative proposal titled the 'MARCELO Act of 2026'.",
+  "attorneys_comments": "From an evidentiary standpoint, this Registered Receipt is a highly probative instrument for authenticating electronic transmission and receipt under Federal Rules of Evidence 901 and 902. The detailed SMTP handshakes, IP addresses, and UTC timestamps definitively establish a timeline of protected disclosure, which is the foundational requisite for any subsequent anti-retaliation claims under federal whistleblower statutes. The substantive allegations of 'Judicial Capture' and 'Systemic Fiduciary Risk' indicate a highly sensitive procedural posture that may necessitate careful venue scrutiny, particularly if the allegations implicate sitting jurists within the Fifth Circuit or SDTX. The cryptographic verification preempts any 'failure to receive' defenses from the intake parties.",
+  "recommended_next_steps": "First, immediately sequester and preserve the native DeliveryReceipt.xml and HtmlReceipt.htm files to maintain the cryptographic chain of custody. Second, obtain and review the substantive attachments (specifically the GAP Intake Application and the RC11 Manuscript) to evaluate the merits of the fiduciary breach and judicial capture allegations. Third, assess the client's standing for statutory whistleblower protections and prepare a comprehensive litigation hold notice.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "FRE 901/902 Authentication",
+    "Protected Whistleblower Disclosure",
+    "Systemic Fiduciary Risk",
+    "Judicial Capture",
+    "Electronic Chain of Custody"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Reinaldo Aguiar-Marcano",
+      "Louis C.",
+      "Karen G."
+    ],
+    "companies": [
+      "RPost",
+      "Mimecast Services Limited",
+      "DigiCert Inc",
+      "Google"
+    ],
+    "technologies": [
+      "RPost Registered Receipt",
+      "SMTP",
+      "TLSv1.2"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "London"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "610074872",
+  "basefilename": "OPENED-RECEIPT-Government-Accountability-Project",
+  "original_filename": "OPENED-RECEIPT-Government-Accountability-Project.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04012026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kareng@whistleblower.org",
+  "primary_recipient_an": "Kareng (Whistleblower)",
+  "all_recipients": [
+    "kareng@whistleblower.org",
+    "louisc@whistleblower.org",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "kareng@whistleblower.org": "Kareng (Whistleblower)",
+    "louisc@whistleblower.org": "Louisc (Whistleblower)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "12/090,081",
+    "14/213,654",
+    "11/220,328"
+  ]
+}

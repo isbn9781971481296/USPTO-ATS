@@ -1,0 +1,71 @@
+{
+  "summary_of_pdf": "The document is an RMail File Share Download Notice serving as evidentiary proof that Gordon Schnell of Constantine Cannon LLP received and downloaded a Request for Proposal (RFP) and a related submission file from RJ Aguiar on April 2, 2026. The underlying communication solicits lead counsel for prospective multi-billion dollar whistleblower recoveries involving the SEC, IRS, and OFAC.",
+  "attorneys_comments": "This RMail download notice constitutes highly reliable, time-stamped digital evidence of receipt and actual notice by the prospective counsel, Gordon Schnell. In the context of high-stakes whistleblower litigation (TCR submissions to the SEC, IRS, and OFAC), establishing a precise chain of custody and timeline of disclosures is paramount. The confirmed download of the 'RFP' and 'submission_for_Lucille-Wood' documents precludes any plausible deniability of receipt by Constantine Cannon LLP. Should a dispute arise regarding the timing of the disclosure, the inception of attorney-client privilege, or the subsequent misappropriation of the disclosed legal theories, this receipt will serve as foundational evidence under Federal Rules of Evidence 901 and 902. The multi-agency scope (SEC, IRS, OFAC) indicates a complex, parallel administrative proceeding posture requiring meticulous evidentiary tracking.",
+  "recommended_next_steps": "Preserve this RMail receipt in a secure, immutable evidentiary repository to establish the exact date and time of disclosure to Constantine Cannon LLP. Await a formal response or engagement letter from Mr. Schnell. If no response is received within the stipulated RFP timeframe, formally withdraw the offer in writing to prevent implied attorney-client relationships or unauthorized use of the disclosed TCR materials. Prepare for potential parallel filings under the SEC Whistleblower Program (15 U.S.C. \u00a7 78u-6) and IRS Whistleblower Office (26 U.S.C. \u00a7 7623).",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Whistleblower Representation",
+    "SEC TCR (Tips, Complaints, and Referrals)",
+    "IRS Whistleblower Program",
+    "OFAC Sanctions Evasion",
+    "Request for Proposal (RFP)",
+    "FRE 901 (Authenticating or Identifying Evidence)",
+    "Attorney-Client Relationship Formation",
+    "15 U.S.C. \u00a7 78u-6",
+    "26 U.S.C. \u00a7 7623"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Gordon Schnell",
+      "Lucille Wood"
+    ],
+    "companies": [
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "RMail Secure service",
+      "Gmail"
+    ],
+    "products": [
+      "RMail FileShare"
+    ],
+    "government_offices": [
+      "SEC",
+      "IRS",
+      "OFAC"
+    ],
+    "institutions": [
+      "University of Texas"
+    ],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Constantine Cannon LLP"
+    ],
+    "attorneys": [
+      "Gordon Schnell"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "402444613",
+  "basefilename": "DOWNLOAD-RECEIPT-YEAH_gschnell@constantinecannon.com",
+  "original_filename": "DOWNLOAD-RECEIPT-YEAH_gschnell@constantinecannon.com.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04012026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "gschnell@constantinecannon.com",
+  "primary_recipient_an": "Gschnell (constantinecannon.com)",
+  "all_recipients": [
+    "gschnell@constantinecannon.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "gschnell@constantinecannon.com": "Gschnell (constantinecannon.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

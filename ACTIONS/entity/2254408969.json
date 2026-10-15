@@ -1,0 +1,44 @@
+{
+  "serving_key": "2254408969",
+  "canonical_key": "tpackin@desmaraisllp.com",
+  "display_name": "T. Packin (Desmarais LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Desmarais LLP",
+  "full_name": "T. Packin",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Desmarais LLP",
+  "domain": "desmaraisllp.com",
+  "addresses": {
+    "mailing_address": "230 Park Avenue, New York, NY 10169",
+    "business_address": "230 Park Avenue, New York, NY 10169",
+    "legal_service_address": "230 Park Avenue, New York, NY 10169"
+  },
+  "registered_agent": {
+    "name": "New York Secretary of State",
+    "address": "One Commerce Plaza, 99 Washington Ave, Albany, NY 12231",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "tpackin@desmaraisllp.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-320-8900"
+    ],
+    "faxes": [
+      "+1-212-320-8901"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "4282735956",
+      "canonical_key": "jdesmarais@desmaraisllp.com",
+      "display_name": "John M. Desmarais",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

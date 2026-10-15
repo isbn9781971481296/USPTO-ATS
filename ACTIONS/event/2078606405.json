@@ -1,0 +1,133 @@
+{
+  "summary_of_pdf": "This instrument is a certified RPost Registered Email receipt serving as definitive evidentiary proof of delivery, opening, and actual notice under 35 U.S.C. \u00a7 154(d). The claimant, RJ Aguiar, Jr., effectuated service of a formal notice of proprietary rights upon executive and chief legal officers of major hospitality conglomerates (Marriott, Hilton, Hyatt, Trump Organization, IHG) and a technology vendor (Guest-Tek). The notice asserts pending patent claims and actual knowledge regarding severe hospitality surveillance vulnerabilities, in-room data exfiltration, and architectural steganography.",
+  "attorneys_comments": "From a tactical litigation standpoint, the utilization of RPost's cryptographic audit trail provides robust, admissible evidence of 'actual notice' under the Federal Rules of Evidence, effectively neutralizing any plausible deniability by the corporate defendants regarding receipt and opening of the transmission. This meticulously establishes the temporal threshold for provisional reasonable royalty damages under 35 U.S.C. \u00a7 154(d), contingent upon the USPTO issuing claims substantially identical to the published applications. While the claimant's reliance on a consumer Gmail account might initially invite dismissal by defense counsel, the technical perfection of the delivery audit trail demands serious attention. Furthermore, the allegations of 'architectural steganography' and 'data exfiltration' implicate severe cybersecurity liabilities, potentially triggering SEC material risk disclosure obligations for the publicly traded recipients. The inclusion of an attachment referencing a 'DOJ-Alumni Network' suggests a highly adversarial posture, potentially signaling parallel administrative or whistleblower actions.",
+  "recommended_next_steps": "For Claimant: Maintain strict continuity of prosecution before the USPTO to ensure issued claims mirror the published applications, thereby preserving \u00a7 154(d) provisional rights; prepare draft complaints for the SDTX. For Defendants: Immediately institute comprehensive litigation holds; engage outside patent counsel to conduct invalidity and non-infringement analyses of the claimant's USPTO portfolio; and initiate privileged internal technical audits of Guest-Tek infrastructure to assess the veracity of the alleged surveillance vulnerabilities.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "Patent Infringement",
+    "Actual Notice",
+    "Cybersecurity Liability",
+    "Trade Secret Misappropriation",
+    "Hospitality Data Privacy",
+    "SEC Material Risk Disclosure",
+    "Federal Rules of Evidence",
+    "Defensive Publication"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, Jr.",
+      "Tony Capuano",
+      "Rena Reiss",
+      "Alan Garten",
+      "Margaret Egan",
+      "Elie Maalouf",
+      "Nicolette Henfrey",
+      "Arnon Levy",
+      "Matthew Baio",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "Marriott",
+      "Hilton",
+      "Trump Organization",
+      "Hyatt",
+      "IHG",
+      "Guest-Tek",
+      "RPost",
+      "Microsoft Corporation",
+      "Google",
+      "DigiCert Inc",
+      "Proofpoint, Inc.",
+      "Sectigo Limited"
+    ],
+    "technologies": [
+      "Architectural Steganography",
+      "In-Room Data Exfiltration",
+      "Hospitality Surveillance Vulnerabilities",
+      "RPost Registered Email",
+      "TLSv1.2",
+      "256-bit ECDHE-RSA-AES256-GCM-SHA384"
+    ],
+    "products": [
+      "Microsoft ESMTP MAIL Service"
+    ],
+    "government_offices": [
+      "USPTO",
+      "EPO",
+      "DOJ"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Redmond, Washington"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": [
+      "Rena Reiss",
+      "Alan Garten",
+      "Margaret Egan",
+      "Nicolette Henfrey"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "2078606405",
+  "basefilename": "READ-RECEIPT-Trump-Organization-Guest-Tek-et-al__Tier-0",
+  "original_filename": "READ-RECEIPT-Trump-Organization-Guest-Tek-et-al__Tier-0.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04102026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "agarten@trumporg.com",
+  "primary_recipient_an": "Agarten (Abuse)",
+  "all_recipients": [
+    "agarten@trumporg.com",
+    "tony.capuano@marriott.com",
+    "alan.garten@trumporg.com",
+    "srowan@epo.org",
+    "arnon.levy@guest-tek.com",
+    "tvilela@epo.org",
+    "margaret.egan@hyatt.com",
+    "eunotifications@hilton.com",
+    "ymeniere@epo.org",
+    "elie.maalouf@ihg.com",
+    "nicolette.henfrey@ihg.com",
+    "nsimon@epo.org",
+    "rena.reiss@marriott.com",
+    "matthew.baio@guest-tek.com",
+    "arnon.levy@guesttek.com",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "agarten@trumporg.com": "Agarten (Abuse)",
+    "tony.capuano@marriott.com": "Tony Capuano (Marriott)",
+    "alan.garten@trumporg.com": "Alan Garten (Abuse)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "arnon.levy@guest-tek.com": "Arnon Levy (Guest-tek)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "margaret.egan@hyatt.com": "Margaret Egan (Hyatt Hotels Corporation)",
+    "eunotifications@hilton.com": "Eunotifications (Hilton Worldwide Holdings Inc.)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "elie.maalouf@ihg.com": "Elie Maalouf (AIBV)",
+    "nicolette.henfrey@ihg.com": "Nicolette Henfrey (AIBV)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "rena.reiss@marriott.com": "Rena Reiss (Marriott)",
+    "matthew.baio@guest-tek.com": "Matthew Baio (Guest-tek)",
+    "arnon.levy@guesttek.com": "Arnon Levy (guesttek.com)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "15/728,640"
+  ]
+}

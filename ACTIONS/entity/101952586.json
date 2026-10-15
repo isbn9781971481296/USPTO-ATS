@@ -1,0 +1,42 @@
+{
+  "serving_key": "101952586",
+  "canonical_key": "finance@detroitmi.gov",
+  "display_name": "City of Detroit Finance Department",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "City of Detroit",
+  "full_name": "City of Detroit Finance Department",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "City of Detroit",
+  "domain": "detroitmi.gov",
+  "addresses": {
+    "mailing_address": "2 Woodward Ave, Detroit, MI 48226",
+    "business_address": "Coleman A. Young Municipal Center, 2 Woodward Ave, Detroit, MI 48226",
+    "legal_service_address": "City Clerk, 2 Woodward Ave, Suite 200, Detroit, MI 48226"
+  },
+  "registered_agent": {
+    "name": "City Clerk, City of Detroit",
+    "address": "2 Woodward Ave, Suite 200, Detroit, MI 48226",
+    "jurisdiction": "Michigan"
+  },
+  "contact": {
+    "primary_email": "finance@detroitmi.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-313-224-3203"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3421044715",
+      "canonical_key": "corporation.counsel@detroitmi.gov",
+      "display_name": "Office of the Corporation Counsel",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

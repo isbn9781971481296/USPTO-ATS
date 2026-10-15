@@ -1,0 +1,558 @@
+4/17/26, 10:33 AM
+
+Gmail - Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICAT…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER
+DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT IRREGULARITIES
+CONCERNING PERPETUALLY LICENSED TECHNOLOGIES (Delivery Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Fri, Apr 17, 2026 at 10:28 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered (local) Opened (local)
+
+(UTC*)
+
+william.a.creech3.civ@army.mil
+
+Delivered to
+Mail Server
+
+relayed;prijeemsg.eemsg.mail.mil
+(156.112.250.6)
+
+04/17/2026
+01:28:13 PM
+(UTC)
+
+04/17/2026
+01:28:13 PM
+
+mia.a.steele2.civ@army.mil
+
+Delivered and
+Opened
+
+04/17/2026
+HTTP-IP:139.241.236.65 01:28:18 PM
+(UTC)
+
+04/17/2026
+01:28:18 PM
+
+tamara.n.jenkins.civ@mail.mil
+
+Delivered to
+Mail Server
+
+relayed;prijeemsg.eemsg.mail.mil
+(156.112.250.6)
+
+04/17/2026
+01:28:14 PM
+(UTC)
+
+04/17/2026
+01:28:14 PM
+
+undra.n.robinson.civ@mail.mil
+
+Delivered and
+Opened
+
+04/17/2026
+HTTP-IP:139.241.236.65 01:28:23 PM
+(UTC)
+
+04/17/2026
+01:28:23 PM
+
+emely.e.winnert@nga.mil
+
+Delivered to
+Mail Server
+
+relayed;prijeemsg.eemsg.mail.mil
+(156.112.250.6)
+
+04/17/2026
+01:28:13 PM
+
+jonathan.elliott@army.mil
+
+550 5.1.10
+RESOLVER.ADR.
+RecipientNotFound;
+Delivery Failed Recipient
+***
+jonathan.elliott@army.mil
+not found by SMTP
+address lookup
+
+aflcmcjaworkflowmail@us.af.mil
+
+Delivered to
+Mail Server
+
+relayed;pri-usafeemsg.eemsg.mail.mil
+(156.112.250.199)
+
+04/17/2026
+01:28:12 PM
+(UTC)
+
+04/17/2026
+01:28:12 PM
+
+emil.michael@mail.mil
+
+Delivered and
+Opened
+
+04/17/2026
+HTTP-IP:139.241.236.65 01:28:27 PM
+(UTC)
+
+04/17/2026
+01:28:27 PM
+
+04/17/2026
+01:28:29 PM
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+Opened
+
+HTTP-IP:66.249.80.3
+
+04/17/2026
+01:30:57 PM
+(UTC)
+
+04/17/2026
+01:30:57 PM
+
+04/17/2026
+01:31:20 PM
+
+04/17/2026
+01:28:13 PM
+(UTC)
+
+04/17/2026
+01:28:22 PM
+
+04/17/2026
+01:28:26 PM
+
+***
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732067246302326&simpl=msg-f:1862732067246302326
+
+1/7
+
+4/17/26, 10:33 AM
+
+Gmail - Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICAT…
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS
+227.7004 AND NOTIFICATION OF PROCUREMENT IRREGULARITIES CONCERNING
+PERPETUALLY LICENSED TECHNOLOGIES
+
+To:
+
+<william.a.creech3.civ@army.mil> <mia.a.steele2.civ@army.mil>
+<tamara.n.jenkins.civ@mail.mil> <undra.n.robinson.civ@mail.mil>
+<emely.e.winnert@nga.mil> <jonathan.elliott@army.mil> <aflcmcjaworkflowmail@us.af.
+mil> <emil.michael@mail.mil>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+Network ID:
+
+a2775048-e632-470d-abd5-3d25e71732d8@SM26
+
+Received by RMail System:
+
+04/17/2026 01:28:06 PM (UTC), 04/17/2026 01:28:06 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+4664E45B17EDF6EBEF87A3327EF464680269BCAF
+
+Message Size:
+
+3774
+
+Features Used:
+File Size:
+
+File Name:
+
+140554
+
+01_DFARS_227.7004_Plantir-and-Anduril-Industries.pdf
+
+78769029
+
+02__ISBN-9781971481296__Portfolio-of-Patent-Applications_and_Declaration-D132.pdf
+
+645171
+
+03__DEFENSIVE-PUBLICATION-EMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_tvilela@epo.org.pdf
+
+95518
+
+04__DOWNLOAD-RECEIPT_jeff.bezos@amazon.com__Tier-0.pdf
+
+976947
+
+05__Department-of-Defense__The-Heidi-Shyu-License-Grant_Administered-by-EmilMichael.pdf
+
+.
+
+Delivery Audit Trail
+4/17/2026 1:28:08 PM starting army.mil/{default} 4/17/2026 1:28:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-jee
+msg.eemsg.mail.mil (156.112.250.6) 4/17/2026 1:28:08 PM connected from 192.168.10.11:38578 4/17/2026 1:28:09 PM >>> 2
+20 UHIL19PA13.eemsg.mail.mil ESMTP 4/17/2026 1:28:09 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:09 PM >>> 250UHIL19PA13.eemsg.mail.mil 4/17/2026 1:28:09 PM >>> 250-8BITMIME 4/17/2026 1:28:09 PM >>> 250-SIZE 72351744 4/17/
+2026 1:28:09 PM >>> 250 STARTTLS 4/17/2026 1:28:09 PM <<< STARTTLS 4/17/2026 1:28:09 PM >>> 220 Go ahead with
+TLS 4/17/2026 1:28:10 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 1:28:10 PM tl
+s:Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=US/O=
+IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 1:28:10 PM <<< EH
+LO mta21.r1.rpost.net 4/17/2026 1:28:10 PM >>> 250-UHIL19PA13.eemsg.mail.mil 4/17/2026 1:28:10 PM >>> 250-8BITMIM
+E 4/17/2026 1:28:10 PM >>> 250 SIZE 72351744 4/17/2026 1:28:10 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 1:2
+8:11 PM >>> 250 sender ok 4/17/2026 1:28:11 PM <<< RCPT TO: 4/17/2026 1:28:12 PM >>> 250 recipient ok 4/17/2026 1:2
+8:12 PM <<< DATA 4/17/2026 1:28:12 PM >>> 354 go ahead 4/17/2026 1:28:12 PM <<< . 4/17/2026 1:28:13 PM >>> 250 ok:
+Message 163205227 accepted 4/17/2026 1:28:13 PM <<< QUIT 4/17/2026 1:28:14 PM >>> 221 UHIL19PA13.eemsg.mail.mil
+4/17/2026 1:28:14 PM closed pri-jeemsg.eemsg.mail.mil (156.112.250.6) in=414 out=20238 4/17/2026 1:28:22 PM done army.
+mil/{default}
+4/17/2026 1:28:08 PM starting army.mil/{default} 4/17/2026 1:28:14 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-jee
+msg.eemsg.mail.mil (156.112.250.6) 4/17/2026 1:28:14 PM connected from 192.168.10.11:60730 4/17/2026 1:28:14 PM >>> 2
+20 UHIL19PA13.eemsg.mail.mil ESMTP 4/17/2026 1:28:14 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:15 PM >>> 250UHIL19PA13.eemsg.mail.mil 4/17/2026 1:28:15 PM >>> 250-8BITMIME 4/17/2026 1:28:15 PM >>> 250-SIZE 72351744 4/17/
+2026 1:28:15 PM >>> 250 STARTTLS 4/17/2026 1:28:15 PM <<< STARTTLS 4/17/2026 1:28:15 PM >>> 220 Go ahead with
+TLS 4/17/2026 1:28:16 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 1:28:16 PM tl
+s:Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=US/O=
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732067246302326&simpl=msg-f:1862732067246302326
+
+2/7
+
+4/17/26, 10:33 AM
+
+Gmail - Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICAT…
+
+IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 1:28:16 PM <<< EH
+LO mta21.r1.rpost.net 4/17/2026 1:28:16 PM >>> 250-UHIL19PA13.eemsg.mail.mil 4/17/2026 1:28:16 PM >>> 250-8BITMIM
+E 4/17/2026 1:28:16 PM >>> 250 SIZE 72351744 4/17/2026 1:28:16 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 1:2
+8:16 PM >>> 250 sender ok 4/17/2026 1:28:16 PM <<< RCPT TO: 4/17/2026 1:28:17 PM >>> 250 recipient ok 4/17/2026 1:2
+8:17 PM <<< DATA 4/17/2026 1:28:17 PM >>> 354 go ahead 4/17/2026 1:28:17 PM <<< . 4/17/2026 1:28:18 PM >>> 250 ok:
+Message 163205243 accepted 4/17/2026 1:28:18 PM <<< QUIT 4/17/2026 1:28:18 PM >>> 221 UHIL19PA13.eemsg.mail.mil
+4/17/2026 1:28:18 PM closed pri-jeemsg.eemsg.mail.mil (156.112.250.6) in=410 out=20226 4/17/2026 1:28:22 PM done army.
+mil/{default}
+4/17/2026 1:28:08 PM starting mail.mil/{default} 4/17/2026 1:28:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-jeem
+sg.eemsg.mail.mil (156.112.250.6) 4/17/2026 1:28:08 PM connected from 192.168.10.11:51527 4/17/2026 1:28:09 PM >>> 22
+0 UHIL19PA03.eemsg.mail.mil ESMTP 4/17/2026 1:28:09 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:09 PM >>> 250UHIL19PA03.eemsg.mail.mil 4/17/2026 1:28:09 PM >>> 250-8BITMIME 4/17/2026 1:28:09 PM >>> 250-SIZE 72351744 4/17/
+2026 1:28:09 PM >>> 250 STARTTLS 4/17/2026 1:28:09 PM <<< STARTTLS 4/17/2026 1:28:09 PM >>> 220 Go ahead with
+TLS 4/17/2026 1:28:11 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 1:28:11 PM tls:
+Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=US/O=Id
+enTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 1:28:11 PM <<< EHL
+O mta21.r1.rpost.net 4/17/2026 1:28:11 PM >>> 250-UHIL19PA03.eemsg.mail.mil 4/17/2026 1:28:11 PM >>> 250-8BITMIME
+4/17/2026 1:28:11 PM >>> 250 SIZE 72351744 4/17/2026 1:28:11 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 1:28:1
+2 PM >>> 250 sender ok 4/17/2026 1:28:12 PM <<< RCPT TO: 4/17/2026 1:28:12 PM >>> 250 recipient ok 4/17/2026 1:28:1
+2 PM <<< DATA 4/17/2026 1:28:13 PM >>> 354 go ahead 4/17/2026 1:28:13 PM <<< . 4/17/2026 1:28:14 PM >>> 250 ok: M
+essage 164198463 accepted 4/17/2026 1:28:14 PM <<< QUIT 4/17/2026 1:28:14 PM >>> 221 UHIL19PA03.eemsg.mail.mil 4/
+17/2026 1:28:14 PM closed pri-jeemsg.eemsg.mail.mil (156.112.250.6) in=413 out=20235 4/17/2026 1:28:27 PM done mail.mi
+l/{default}
+4/17/2026 1:28:08 PM starting mail.mil/{default} 4/17/2026 1:28:14 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-jeem
+sg.eemsg.mail.mil (156.112.250.6) 4/17/2026 1:28:14 PM connected from 192.168.10.11:53691 4/17/2026 1:28:19 PM >>> 22
+0 UHIL19PA44.eemsg.mail.mil ESMTP 4/17/2026 1:28:19 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:19 PM >>> 250UHIL19PA44.eemsg.mail.mil 4/17/2026 1:28:19 PM >>> 250-8BITMIME 4/17/2026 1:28:19 PM >>> 250-SIZE 72351744 4/17/
+2026 1:28:19 PM >>> 250 STARTTLS 4/17/2026 1:28:19 PM <<< STARTTLS 4/17/2026 1:28:19 PM >>> 220 Go ahead with
+TLS 4/17/2026 1:28:20 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 1:28:20 PM tl
+s:Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=US/O=
+IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 1:28:20 PM <<< EH
+LO mta21.r1.rpost.net 4/17/2026 1:28:20 PM >>> 250-UHIL19PA44.eemsg.mail.mil 4/17/2026 1:28:20 PM >>> 250-8BITMIM
+E 4/17/2026 1:28:20 PM >>> 250 SIZE 72351744 4/17/2026 1:28:20 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 1:2
+8:21 PM >>> 250 sender ok 4/17/2026 1:28:21 PM <<< RCPT TO: 4/17/2026 1:28:21 PM >>> 250 recipient ok 4/17/2026 1:2
+8:21 PM <<< DATA 4/17/2026 1:28:22 PM >>> 354 go ahead 4/17/2026 1:28:22 PM <<< . 4/17/2026 1:28:23 PM >>> 250 ok:
+Message 163171061 accepted 4/17/2026 1:28:23 PM <<< QUIT 4/17/2026 1:28:24 PM >>> 221 UHIL19PA44.eemsg.mail.mil
+4/17/2026 1:28:24 PM closed pri-jeemsg.eemsg.mail.mil (156.112.250.6) in=413 out=20235 4/17/2026 1:28:27 PM done mail.
+mil/{default}
+4/17/2026 1:28:08 PM starting nga.mil/{default} 4/17/2026 1:28:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-jeem
+sg.eemsg.mail.mil (156.112.250.6) 4/17/2026 1:28:08 PM connected from 192.168.10.11:47403 4/17/2026 1:28:09 PM >>> 22
+0 UHIL19PA16.eemsg.mail.mil ESMTP 4/17/2026 1:28:09 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:09 PM >>> 250UHIL19PA16.eemsg.mail.mil 4/17/2026 1:28:09 PM >>> 250-8BITMIME 4/17/2026 1:28:09 PM >>> 250-SIZE 72351744 4/17/
+2026 1:28:09 PM >>> 250 STARTTLS 4/17/2026 1:28:09 PM <<< STARTTLS 4/17/2026 1:28:09 PM >>> 220 Go ahead with
+TLS 4/17/2026 1:28:10 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 1:28:10 PM tl
+s:Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=US/O=
+IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 1:28:10 PM <<< EH
+LO mta21.r1.rpost.net 4/17/2026 1:28:10 PM >>> 250-UHIL19PA16.eemsg.mail.mil 4/17/2026 1:28:10 PM >>> 250-8BITMIM
+E 4/17/2026 1:28:10 PM >>> 250 SIZE 72351744 4/17/2026 1:28:10 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 1:2
+8:11 PM >>> 250 sender ok 4/17/2026 1:28:11 PM <<< RCPT TO: 4/17/2026 1:28:11 PM >>> 250 recipient ok 4/17/2026 1:2
+8:11 PM <<< DATA 4/17/2026 1:28:12 PM >>> 354 go ahead 4/17/2026 1:28:12 PM <<< . 4/17/2026 1:28:13 PM >>> 250 ok:
+Message 163192776 accepted 4/17/2026 1:28:13 PM <<< QUIT 4/17/2026 1:28:13 PM >>> 221 UHIL19PA16.eemsg.mail.mil
+4/17/2026 1:28:13 PM closed pri-jeemsg.eemsg.mail.mil (156.112.250.6) in=407 out=20217 4/17/2026 1:28:13 PM done nga.m
+il/{default}
+4/17/2026 1:28:08 PM starting army.mil/{default} 4/17/2026 1:28:18 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-jee
+msg.eemsg.mail.mil (156.112.250.6) 4/17/2026 1:28:18 PM connected from 192.168.10.11:58292 4/17/2026 1:28:19 PM >>> 2
+20 UHIL19PA13.eemsg.mail.mil ESMTP 4/17/2026 1:28:19 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:19 PM >>> 250UHIL19PA13.eemsg.mail.mil 4/17/2026 1:28:19 PM >>> 250-8BITMIME 4/17/2026 1:28:19 PM >>> 250-SIZE 72351744 4/17/
+2026 1:28:19 PM >>> 250 STARTTLS 4/17/2026 1:28:19 PM <<< STARTTLS 4/17/2026 1:28:19 PM >>> 220 Go ahead with
+TLS 4/17/2026 1:28:20 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 1:28:20 PM tl
+s:Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=US/O=
+IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 1:28:20 PM <<< EH
+LO mta21.r1.rpost.net 4/17/2026 1:28:21 PM >>> 250-UHIL19PA13.eemsg.mail.mil 4/17/2026 1:28:21 PM >>> 250-8BITMIM
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732067246302326&simpl=msg-f:1862732067246302326
+
+3/7
+
+4/17/26, 10:33 AM
+
+Gmail - Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICAT…
+
+E 4/17/2026 1:28:21 PM >>> 250 SIZE 72351744 4/17/2026 1:28:21 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 1:2
+8:21 PM >>> 250 sender ok 4/17/2026 1:28:21 PM <<< RCPT TO: 4/17/2026 1:28:21 PM >>> 250 recipient ok 4/17/2026 1:2
+8:21 PM <<< DATA 4/17/2026 1:28:21 PM >>> 354 go ahead 4/17/2026 1:28:21 PM <<< . 4/17/2026 1:28:22 PM >>> 250 ok:
+Message 163205257 accepted 4/17/2026 1:28:22 PM <<< QUIT 4/17/2026 1:28:22 PM >>> 221 UHIL19PA13.eemsg.mail.mil
+4/17/2026 1:28:22 PM closed pri-jeemsg.eemsg.mail.mil (156.112.250.6) in=409 out=20223 4/17/2026 1:28:22 PM done army.
+mil/{default}
+4/17/2026 1:28:08 PM starting us.af.mil/{default} 4/17/2026 1:28:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-usa
+f-eemsg.eemsg.mail.mil (156.112.250.199) 4/17/2026 1:28:08 PM connected from 192.168.10.11:38171 4/17/2026 1:28:09 PM
+>>> 220 UCOL19PA46.eemsg.mail.mil ESMTP 4/17/2026 1:28:09 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:09 PM >
+>> 250-UCOL19PA46.eemsg.mail.mil 4/17/2026 1:28:09 PM >>> 250-8BITMIME 4/17/2026 1:28:09 PM >>> 250-SIZE 72351
+744 4/17/2026 1:28:09 PM >>> 250 STARTTLS 4/17/2026 1:28:09 PM <<< STARTTLS 4/17/2026 1:28:09 PM >>> 220 Go ah
+ead with TLS 4/17/2026 1:28:09 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 1:28:0
+9 PM tls:Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=
+US/O=IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 1:28:09 PM <
+<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:09 PM >>> 250-UCOL19PA46.eemsg.mail.mil 4/17/2026 1:28:09 PM >>> 250-8B
+ITMIME 4/17/2026 1:28:09 PM >>> 250 SIZE 72351744 4/17/2026 1:28:09 PM <<< MAIL FROM: BODY=8BITMIME 4/17/20
+26 1:28:11 PM >>> 250 sender ok 4/17/2026 1:28:11 PM <<< RCPT TO: 4/17/2026 1:28:11 PM >>> 250 recipient ok 4/17/202
+6 1:28:11 PM <<< DATA 4/17/2026 1:28:11 PM >>> 354 go ahead 4/17/2026 1:28:11 PM <<< . 4/17/2026 1:28:12 PM >>> 25
+0 ok: Message 165760853 accepted 4/17/2026 1:28:12 PM <<< QUIT 4/17/2026 1:28:12 PM >>> 221 UCOL19PA46.eemsg.m
+ail.mil 4/17/2026 1:28:12 PM closed pri-usaf-eemsg.eemsg.mail.mil (156.112.250.199) in=414 out=20238 4/17/2026 1:28:12 P
+M done us.af.mil/{default}
+4/17/2026 1:28:08 PM starting mail.mil/{default} 4/17/2026 1:28:24 PM connecting from mta21.r1.rpost.net (0.0.0.0) to pri-jeem
+sg.eemsg.mail.mil (156.112.250.6) 4/17/2026 1:28:24 PM connected from 192.168.10.11:35486 4/17/2026 1:28:24 PM >>> 22
+0 UHIL19PA15.eemsg.mail.mil ESMTP 4/17/2026 1:28:24 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:28:24 PM >>> 250UHIL19PA15.eemsg.mail.mil 4/17/2026 1:28:24 PM >>> 250-8BITMIME 4/17/2026 1:28:24 PM >>> 250-SIZE 72351744 4/17/
+2026 1:28:24 PM >>> 250 STARTTLS 4/17/2026 1:28:24 PM <<< STARTTLS 4/17/2026 1:28:25 PM >>> 220 Go ahead with
+TLS 4/17/2026 1:28:25 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/17/2026 1:28:25 PM tl
+s:Cert: /C=US/ST=Maryland/L=Fort Meade/O=Defense Information Systems Agency/CN=*.eemsg.mail.mil; issuer=/C=US/O=
+IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/17/2026 1:28:25 PM <<< EH
+LO mta21.r1.rpost.net 4/17/2026 1:28:26 PM >>> 250-UHIL19PA15.eemsg.mail.mil 4/17/2026 1:28:26 PM >>> 250-8BITMIM
+E 4/17/2026 1:28:26 PM >>> 250 SIZE 72351744 4/17/2026 1:28:26 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 1:2
+8:26 PM >>> 250 sender ok 4/17/2026 1:28:26 PM <<< RCPT TO: 4/17/2026 1:28:26 PM >>> 250 recipient ok 4/17/2026 1:2
+8:26 PM <<< DATA 4/17/2026 1:28:26 PM >>> 354 go ahead 4/17/2026 1:28:26 PM <<< . 4/17/2026 1:28:27 PM >>> 250 ok:
+Message 163139726 accepted 4/17/2026 1:28:27 PM <<< QUIT 4/17/2026 1:28:27 PM >>> 221 UHIL19PA15.eemsg.mail.mil
+4/17/2026 1:28:27 PM closed pri-jeemsg.eemsg.mail.mil (156.112.250.6) in=405 out=20211 4/17/2026 1:28:27 PM done mail.
+mil/{default}
+4/17/2026 1:30:28 PM starting gmail.com/{default} 4/17/2026 1:30:57 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.26) 4/17/2026 1:30:57 PM connected from 192.168.10.11:51271 4/17/2026 1:30:57 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43fe4e2cfe7si3360992f8f.179 - gsmtp 4/17/2026 1:30:57 PM <<< EHLO mta21.
+r1.rpost.net 4/17/2026 1:30:57 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/17/2026 1:30:57 PM >>> 250-SIZ
+E 157286400 4/17/2026 1:30:57 PM >>> 250-8BITMIME 4/17/2026 1:30:57 PM >>> 250-STARTTLS 4/17/2026 1:30:57 PM >
+>> 250-ENHANCEDSTATUSCODES 4/17/2026 1:30:57 PM >>> 250-PIPELINING 4/17/2026 1:30:57 PM >>> 250-CHUNKIN
+G 4/17/2026 1:30:57 PM >>> 250 SMTPUTF8 4/17/2026 1:30:57 PM <<< STARTTLS 4/17/2026 1:30:57 PM >>> 220 2.0.0 R
+eady to start TLS 4/17/2026 1:30:57 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/17/2026 1:30:57 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/17/2026 1:30:57 PM <<< EHLO mta21.r1.rpost.net 4/17/2026 1:30:57 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/17/2026 1:30:57 PM >>> 250-SIZE 157286400 4/17/2026 1:30:57 PM >>> 250-8BITMIME 4/17/2026 1:30:57 PM >>>
+250-ENHANCEDSTATUSCODES 4/17/2026 1:30:57 PM >>> 250-PIPELINING 4/17/2026 1:30:57 PM >>> 250-CHUNKING 4/
+17/2026 1:30:57 PM >>> 250 SMTPUTF8 4/17/2026 1:30:57 PM <<< MAIL FROM: BODY=8BITMIME 4/17/2026 1:30:57 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43fe4e2cfe7si3360992f8f.179 - gsmtp 4/17/2026 1:30:57 PM <<< RCPT TO: 4/17/2026 1:3
+0:57 PM >>> 250 2.1.5 OK ffacd0b85a97d-43fe4e2cfe7si3360992f8f.179 - gsmtp 4/17/2026 1:30:57 PM <<< DATA 4/17/2026
+1:30:57 PM >>> 354 Go ahead ffacd0b85a97d-43fe4e2cfe7si3360992f8f.179 - gsmtp 4/17/2026 1:30:57 PM <<< . 4/17/2026
+1:30:57 PM >>> 250 2.0.0 OK 1776432657 ffacd0b85a97d-43fe4e2cfe7si3360992f8f.179 - gsmtp 4/17/2026 1:30:57 PM <<<
+QUIT 4/17/2026 1:30:57 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43fe4e2cfe7si3360992f8f.179 - gsmtp 4/17/202
+6 1:30:57 PM closed gmail-smtp-in.l.google.com (142.251.127.26) in=773 out=20250 4/17/2026 1:31:10 PM done gmail.com/{d
+efault}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer pri-jeemsg.eemsg.mail.mil (156.112.250.6)
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732067246302326&simpl=msg-f:1862732067246302326
+
+4/7
+
+4/17/26, 10:33 AM
+
+Gmail - Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICAT…
+
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer pri-jeemsg.eemsg.mail.mil (156.112.250.6)
+[IP Address: 139.241.236.65] [Time Opened: 4/17/2026 1:28:22 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrma
+il.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/3BvfVicjhyTcz1079Dge3cQdHCeELFi9bZmnY0t4MDIx.gif] HTTP_ACCEPT:*/* HTT
+P_ACCEPT_ENCODING:gzip, deflate HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Macintosh; Intel
+Mac OS X 11.2; rv:87.0) Gecko/20100101 Firefox/87.0 HTTP_X_FORWARDED_FOR:139.241.236.65 HTTP_X_FORWARDE
+D_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e23576-051ccb8242286cbb1b32
+6220 Accept: */* Accept-Encoding: gzip, deflate Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS
+X 11.2; rv:87.0) Gecko/20100101 Firefox/87.0 X-Forwarded-For: 139.241.236.65 X-Forwarded-Proto: https X-Forwarded-Port: 4
+43 X-Amzn-Trace-Id: Root=1-69e23576-051ccb8242286cbb1b326220 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADM
+IN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/3BvfVicjhyTcz1079Dge3cQ
+dHCeELFi9bZmnY0t4MDIx.gif 192.168.20.36 192.168.20.36 15744 GET /oatv_v2/3BvfVicjhyTcz1079Dge3cQdHCeELFi9bZm
+nY0t4MDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/3BvfVicjhyTcz1079Dge3cQdHCeELFi9bZmn
+Y0t4MDIx.gif */* gzip, deflate socrmail.r1.rpost.net Mozilla/5.0 (Macintosh; Intel Mac OS X 11.2; rv:87.0) Gecko/20100101 Fir
+efox/87.0 139.241.236.65 https 443 Root=1-69e23576-051ccb8242286cbb1b326220
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer pri-jeemsg.eemsg.mail.mil (156.112.250.6)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer pri-jeemsg.eemsg.mail.mil (156.112.250.6)
+[IP Address: 139.241.236.65] [Time Opened: 4/17/2026 1:28:26 PM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socrm
+ail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/33ggiLLMN4wrQS3EFOZK0KW8DcpSIr53YY1jjaqqMDIx.gif] HTTP_ACCEPT:*/* H
+TTP_ACCEPT_ENCODING:gzip, deflate HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 1
+0.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0 HTTP_X_FORWARDED_FOR:139.241.236.65 HTTP_X_FORWARDE
+D_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e2357a-7701574c0fcd2e811d8da
+106 Accept: */* Accept-Encoding: gzip, deflate Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;
+x64; rv:87.0) Gecko/20100101 Firefox/87.0 X-Forwarded-For: 139.241.236.65 X-Forwarded-Proto: https X-Forwarded-Port: 443
+X-Amzn-Trace-Id: Root=1-69e2357a-7701574c0fcd2e811d8da106 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1
+0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/33ggiLLMN4wrQS3EFOZK0KW
+8DcpSIr53YY1jjaqqMDIx.gif 192.168.10.122 192.168.10.122 24924 GET /oatv_v2/33ggiLLMN4wrQS3EFOZK0KW8DcpSIr53Y
+Y1jjaqqMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/33ggiLLMN4wrQS3EFOZK0KW8DcpSIr53Y
+Y1jjaqqMDIx.gif */* gzip, deflate socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Fir
+efox/87.0 139.241.236.65 https 443 Root=1-69e2357a-7701574c0fcd2e811d8da106
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer pri-jeemsg.eemsg.mail.mil (156.112.250.6)
+From:postmaster@army.mil:[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a
+8b-8e6a-88e1-ef488fee0470] Your message to jonathan.elliott@army.mil couldn't be delivered. jonathan.elliott wasn't found at a
+rmy.mil. rcptNr4mkwCi6oForBMC. . . Office 365 jonathan.elliott Action Required Recipient Unknown To address How to Fix It
+The address may be misspelled or may not exist. Try one or more of the following: * Send the message again following these
+steps: In Outlook, open this non-delivery report (NDR) and choose Send Again from the Report ribbon. In Outlook on the web,
+select this NDR, then select the link "To send this message again, click here." Then delete and retype the entire recipient addr
+ess. If prompted with an Auto-Complete List suggestion don't select it. After typing the complete address, click Send. * Contac
+t the recipient (by phone, for example) to check that the address exists and is correct....[truncated]
+[IP Address: 139.241.236.65] [Time Opened: 4/17/2026 1:28:27 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrma
+il.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/Nr4mkwCi6oForBMC0GUiE6OYOhXVI35qViXiXYpKMDIx.gif] HTTP_ACCEPT:*/* H
+TTP_ACCEPT_ENCODING:gzip,deflate,sdch HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows
+NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 HTTP_X_FORWARDED_
+FOR:139.241.236.65 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_I
+D:Root=1-69e2357b-54b3239e778c032f56fcfeac Accept: */* Accept-Encoding: gzip,deflate,sdch Host: socrmail.r1.rpost.net Us
+er-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/5
+37.36 X-Forwarded-For: 139.241.236.65 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69e2357b54b3239e778c032f56fcfeac /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1
+CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/Nr4mkwCi6oForBMC0GUiE6OYOhXVI35qViXiXYpKMDIx.gif 192.16
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732067246302326&simpl=msg-f:1862732067246302326
+
+5/7
+
+4/17/26, 10:33 AM
+
+Gmail - Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICAT…
+
+8.20.36 192.168.20.36 58128 GET /oatv_v2/Nr4mkwCi6oForBMC0GUiE6OYOhXVI35qViXiXYpKMDIx.gif socrmail.r1.rpost.net
+443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/Nr4mkwCi6oForBMC0GUiE6OYOhXVI35qViXiXYpKMDIx.gif */* gzip,deflate,sdch
+socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.443
+0.72 Safari/537.36 139.241.236.65 https 443 Root=1-69e2357b-54b3239e778c032f56fcfeac
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer pri-usaf-eemsg.eemsg.mail.mil (156.112.250.199)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer pri-jeemsg.eemsg.mail.mil (156.112.250.6)
+[IP Address: 139.241.236.65] [Time Opened: 4/17/2026 1:28:29 PM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socrm
+ail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/0M3zvvVbNvCJOnFqwulNrwdl0HHeMsmbli4ktDeqMDIx.gif] HTTP_ACCEPT:*/* HT
+TP_ACCEPT_ENCODING:gzip,deflate,sdch HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Macintosh;
+Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 HTTP_X_FORWARDE
+D_FOR:139.241.236.65 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE
+_ID:Root=1-69e2357d-217e2b98574e1fd5338ec26e Accept: */* Accept-Encoding: gzip,deflate,sdch Host: socrmail.r1.rpost.net
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72
+Safari/537.36 X-Forwarded-For: 139.241.236.65 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69
+e2357d-217e2b98574e1fd5338ec26e /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 0
+CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v2/0M3zv
+vVbNvCJOnFqwulNrwdl0HHeMsmbli4ktDeqMDIx.gif 192.168.10.122 192.168.10.122 14164 GET /oatv_v2/0M3zvvVbNvCJOn
+FqwulNrwdl0HHeMsmbli4ktDeqMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/0M3zvvVbNvCJOn
+FqwulNrwdl0HHeMsmbli4ktDeqMDIx.gif */* gzip,deflate,sdch socrmail.r1.rpost.net Mozilla/5.0 (Macintosh; Intel Mac OS X 11_
+2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 139.241.236.65 https 443 Root=1-69e2357
+d-217e2b98574e1fd5338ec26e
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+[IP Address: 66.249.80.3] [Time Opened: 4/17/2026 1:31:20 PM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/T440VjPcWV0k2qwhKQpzs9DspOqe0a1O2aTOBahAMDIx.gif] HTTP_ACCEPT_ENC
+ODING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Geck
+o Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.3 HTTP_X_FORWARDED_PROT
+O:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e23628-75ccc6602e2c6ae62c3e2e26 Acc
+ept-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/1
+1.0 (via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.3 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amz
+n-Trace-Id: Root=1-69e23628-75ccc6602e2c6ae62c3e2e26 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=ad
+min1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.
+10.112 /oatv_v2/T440VjPcWV0k2qwhKQpzs9DspOqe0a1O2aTOBahAMDIx.gif 192.168.10.122 192.168.10.122 22724 GET /o
+atv_v2/T440VjPcWV0k2qwhKQpzs9DspOqe0a1O2aTOBahAMDIx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0
+/oatv_v2/T440VjPcWV0k2qwhKQpzs9DspOqe0a1O2aTOBahAMDIx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Win
+dows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.80.3 https 443 Root=1-69e23628-75ccc6
+602e2c6ae62c3e2e26
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732067246302326&simpl=msg-f:1862732067246302326
+
+6/7
+
+4/17/26, 10:33 AM
+
+Gmail - Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICAT…
+
+2 attachments
+DeliveryReceipt.xml
+41K
+HtmlReceipt.htm
+247K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732067246302326&simpl=msg-f:1862732067246302326
+
+7/7
+
+

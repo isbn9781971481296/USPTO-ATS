@@ -1,0 +1,35 @@
+{
+  "serving_key": "2156022748",
+  "canonical_key": "jeff.novota@wnco.com",
+  "display_name": "Jeff Novota (Southwest Airlines Co.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Southwest Airlines Co.",
+  "full_name": "Jeff Novota",
+  "pronouns": null,
+  "title": "Corporate Counsel",
+  "organization": "Southwest Airlines Co.",
+  "domain": "wnco.com",
+  "addresses": {
+    "mailing_address": "2702 Love Field Dr, Dallas, TX 75235",
+    "business_address": "2702 Love Field Dr, Dallas, TX 75235",
+    "legal_service_address": "211 E. 7th Street, Suite 620, Austin, TX 78701"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company d/b/a CSC-Lawyers Incorporating Service Company",
+    "address": "211 E. 7th Street, Suite 620, Austin, TX 78701",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "jeff.novota@wnco.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-214-792-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

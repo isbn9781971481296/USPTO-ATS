@@ -1,0 +1,35 @@
+{
+  "serving_key": "679461309",
+  "canonical_key": "solicitorgeneral@alabamaag.gov",
+  "display_name": "Edmund G. LaCour Jr. (Office of the Attorney General, State of Alabama)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Office of the Attorney General, State of Alabama",
+  "full_name": "Edmund G. LaCour Jr.",
+  "pronouns": null,
+  "title": "Solicitor General",
+  "organization": "Office of the Attorney General, State of Alabama",
+  "domain": "alabamaag.gov",
+  "addresses": {
+    "mailing_address": "501 Washington Avenue, Montgomery, AL 36104",
+    "business_address": "501 Washington Avenue, Montgomery, AL 36104",
+    "legal_service_address": "501 Washington Avenue, Montgomery, AL 36104"
+  },
+  "registered_agent": {
+    "name": "N/A (Government Entity)",
+    "address": "N/A",
+    "jurisdiction": "Alabama"
+  },
+  "contact": {
+    "primary_email": "solicitorgeneral@alabamaag.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-334-242-7300"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

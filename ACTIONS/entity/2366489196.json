@@ -1,0 +1,35 @@
+{
+  "serving_key": "2366489196",
+  "canonical_key": "7132505500",
+  "display_name": "United States District Court, Southern District of Texas",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "United States District Court, Southern District of Texas",
+  "full_name": "United States District Court for the Southern District of Texas, Houston Division",
+  "pronouns": null,
+  "title": "Federal Court",
+  "organization": "United States District Court, Southern District of Texas",
+  "domain": "7132505500",
+  "addresses": {
+    "mailing_address": "Bob Casey United States Courthouse, 515 Rusk Ave, Houston, TX 77002",
+    "business_address": "Bob Casey United States Courthouse, 515 Rusk Ave, Houston, TX 77002",
+    "legal_service_address": "Civil Process Clerk, United States Attorney's Office, 1000 Louisiana St., Suite 2300, Houston, TX 77002"
+  },
+  "registered_agent": {
+    "name": "United States Attorney for the Southern District of Texas",
+    "address": "1000 Louisiana St., Suite 2300, Houston, TX 77002",
+    "jurisdiction": "Federal"
+  },
+  "contact": {
+    "primary_email": "7132505500",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-713-250-5500"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,46 @@
+{
+  "serving_key": "3435586889",
+  "canonical_key": "beshadl@nytimes.com",
+  "display_name": "beshadl@nytimes.com",
+  "entity_type": "unknown",
+  "is_attorney": false,
+  "works_at": null,
+  "full_name": "beshadl@nytimes.com",
+  "title": "",
+  "organization": "",
+  "domain": "nytimes.com",
+  "addresses": {
+    "mailing_address": "",
+    "business_address": "",
+    "legal_service_address": ""
+  },
+  "registered_agent": null,
+  "contact": {
+    "primary_email": "beshadl@nytimes.com",
+    "alternative_emails": [],
+    "phones": [],
+    "faxes": [],
+    "specialized_emails": {}
+  },
+  "related_entities": [
+    {
+      "serving_key": "808213234",
+      "canonical_key": "ryan.mac@nytimes.com",
+      "display_name": "Ryan Mac",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3080260019",
+      "canonical_key": "kashmir.hill@nytimes.com",
+      "display_name": "Kashmir Hill",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1528566663",
+      "canonical_key": "creswell@nytimes.com",
+      "display_name": "Julie Creswell",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

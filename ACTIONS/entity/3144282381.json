@@ -1,0 +1,42 @@
+{
+  "serving_key": "3144282381",
+  "canonical_key": "taxcollector@miamidade.gov",
+  "display_name": "Miami-Dade County Tax Collector",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Miami-Dade County",
+  "full_name": "Miami-Dade County Tax Collector",
+  "pronouns": null,
+  "title": "Tax Collector",
+  "organization": "Miami-Dade County",
+  "domain": "miamidade.gov",
+  "addresses": {
+    "mailing_address": "200 NW 2nd Avenue, Miami, FL 33128",
+    "business_address": "200 NW 2nd Avenue, Miami, FL 33128",
+    "legal_service_address": "Miami-Dade County Attorney, 111 NW 1st Street, Suite 2810, Miami, FL 33128"
+  },
+  "registered_agent": {
+    "name": "Miami-Dade County Attorney (for Service of Process)",
+    "address": "111 NW 1st Street, Suite 2810, Miami, FL 33128",
+    "jurisdiction": "Florida"
+  },
+  "contact": {
+    "primary_email": "taxcollector@miamidade.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-305-270-4916"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2668830700",
+      "canonical_key": "county.attorney@miamidade.gov",
+      "display_name": "Miami-Dade County Attorney",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

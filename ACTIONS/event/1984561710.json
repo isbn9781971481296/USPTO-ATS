@@ -1,0 +1,97 @@
+{
+  "summary_of_pdf": "This document is an RPost registered email receipt serving as verifiable, court-admissible proof of delivery and read-receipt for a formal legal notice sent to the Federal Aviation Administration (FAA) and City of Houston officials. The underlying communication asserts provisional patent rights under 35 U.S.C. \u00a7 154(d) concerning 'Aviation Infrastructure and RF De-anonymization,' unilaterally grants a federal license, and demands due diligence. The transmission includes attachments detailing a USPTO patent application portfolio, EPO defensive publications, and a DOJ-related memorandum.",
+  "attorneys_comments": "The RPost receipt provides robust evidentiary proof of actual notice to key FAA and municipal stakeholders, satisfying the stringent actual notice requirements for provisional damages under 35 U.S.C. \u00a7 154(d). Tactically, the unilateral 'Federal License Grant' appears to be a calculated maneuver to force the government's use into a 28 U.S.C. \u00a7 1498(a) posture, thereby shielding municipal actors from direct infringement injunctions while preserving a damages claim in the Court of Federal Claims. A notable weakness is the reliance on pending applications rather than issued patents, precluding immediate injunctive relief. Furthermore, the inclusion of the 'DOJ Alumni Network' attachment introduces extraneous elements that could dilute the substantive patent claims. Procedurally, this instrument establishes a firm, indisputable timeline for willful infringement or reasonable royalty calculations post-publication.",
+  "recommended_next_steps": "1. Docket the date of actual notice (April 10, 2026) for future damages calculations under 35 U.S.C. \u00a7 154(d). 2. Monitor the referenced USPTO applications for allowance and issuance to perfect the right to initiate litigation. 3. Prepare a defensive memorandum assessing whether the City of Houston's use of the accused RF infrastructure falls under the 28 U.S.C. \u00a7 1498(a) federal government authorization and consent doctrine. 4. Conduct a preliminary infringement analysis of the attached patent portfolio against current FAA/IAH RF de-anonymization deployments.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "Patent Infringement",
+    "Provisional Patent Rights",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "Actual Notice",
+    "Aviation Infrastructure",
+    "RF De-anonymization",
+    "Federal License Grant",
+    "FRCP Rule 4(l) Proof of Service Equivalent"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Taneesha Marshall",
+      "Jim Szczesniak",
+      "Arturo Michel"
+    ],
+    "companies": [
+      "RPost",
+      "Google",
+      "Microsoft Corporation",
+      "DigiCert Inc"
+    ],
+    "technologies": [
+      "RF De-anonymization",
+      "Aviation Infrastructure",
+      "TLSv1.2",
+      "ECDHE-RSA-AES256-GCM-SHA384"
+    ],
+    "products": [
+      "RMail System",
+      "Microsoft ESMTP MAIL Service"
+    ],
+    "government_offices": [
+      "Federal Aviation Administration (FAA)",
+      "Houston Airport System (IAH)",
+      "City of Houston",
+      "United States Patent and Trademark Office (USPTO)",
+      "European Patent Office (EPO)",
+      "Department of Justice (DOJ)"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Houston, TX",
+      "Washington, District of Columbia",
+      "Redmond, Washington"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": [
+      "Arturo Michel"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "1984561710",
+  "basefilename": "READ-RECEIPT-FAA-IAH__Tier-1",
+  "original_filename": "READ-RECEIPT-FAA-IAH__Tier-1.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04102026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jim.szczesniak@houstontx.gov",
+  "primary_recipient_an": "Jim Szczesniak (houstontx.gov)",
+  "all_recipients": [
+    "jim.szczesniak@houstontx.gov",
+    "arturo.michel@houstontx.gov",
+    "taneesha.marshall@faa.gov",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jim.szczesniak@houstontx.gov": "Jim Szczesniak (houstontx.gov)",
+    "arturo.michel@houstontx.gov": "Arturo Michel (houstontx.gov)",
+    "taneesha.marshall@faa.gov": "Taneesha Marshall (Federal Aviation Administration)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

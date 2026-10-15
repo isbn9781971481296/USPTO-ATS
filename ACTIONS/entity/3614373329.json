@@ -1,0 +1,37 @@
+{
+  "serving_key": "3614373329",
+  "canonical_key": "consult@kkc.com",
+  "display_name": "Kohn, Kohn & Colapinto, LLP",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Kohn, Kohn & Colapinto, LLP",
+  "full_name": "Kohn, Kohn & Colapinto, LLP",
+  "pronouns": null,
+  "title": "Law Firm",
+  "organization": "Kohn, Kohn & Colapinto, LLP",
+  "domain": "kkc.com",
+  "addresses": {
+    "mailing_address": "1710 N Street NW, Washington, DC 20036",
+    "business_address": "1710 N Street NW, Washington, DC 20036",
+    "legal_service_address": "1710 N Street NW, Washington, DC 20036"
+  },
+  "registered_agent": {
+    "name": "Stephen M. Kohn",
+    "address": "1710 N Street NW, Washington, DC 20036",
+    "jurisdiction": "District of Columbia"
+  },
+  "contact": {
+    "primary_email": "consult@kkc.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-202-342-6980"
+    ],
+    "faxes": [
+      "+1-202-342-6984"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

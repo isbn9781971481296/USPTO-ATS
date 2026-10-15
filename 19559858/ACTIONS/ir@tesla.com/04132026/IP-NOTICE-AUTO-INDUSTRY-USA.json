@@ -1,0 +1,44 @@
+{
+  "index": 58,
+  "header": "# Enclosure #58: IP-NOTICE-AUTO-INDUSTRY-USA.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/AUTOMAKERS_USA/IP-NOTICE-AUTO-INDUSTRY-USA.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-1b6ff46ef0.pdf",
+  "pdf_exists": true,
+  "category": "letter",
+  "prefix_hint": "LETTER",
+  "subtype": "letter",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "ir@tesla.com",
+  "primary_recipient_an": "Elon Musk (Tesla, Inc.)",
+  "all_recipients": [
+    "ir@tesla.com",
+    "jim.farley@ford.com",
+    "sepzaker@rivian.com",
+    "sebastian.mackensen@bmw.com",
+    "seungkyuy@kia.com",
+    "jclose@kiausa.com",
+    "jmunoz@hmausa.com",
+    "antony.klapper@vw.com",
+    "myprivacy@mbusa.com",
+    "legal@lucidmotors.com"
+  ],
+  "all_recipients_an": {
+    "ir@tesla.com": "Elon Musk (Tesla, Inc.)",
+    "jim.farley@ford.com": "Jim Farley (Ford Motor Company)",
+    "sepzaker@rivian.com": "RJ Scaringe (Rivian Automotive)",
+    "sebastian.mackensen@bmw.com": "Sebastian Mackensen (BMW Group)",
+    "seungkyuy@kia.com": "SeungKyu Yoon (Dovile Kiausaite)",
+    "jclose@kiausa.com": "Jclose (Dovile Kiausaite)",
+    "jmunoz@hmausa.com": "Jose Munoz (hmausa.com)",
+    "antony.klapper@vw.com": "Antony Klapper (Amazon.com, Inc.)",
+    "myprivacy@mbusa.com": "Privacy Office / General Counsel (Antipas Mbusa Nyamwisi)",
+    "legal@lucidmotors.com": "Legal (lucidmotors.com)"
+  },
+  "date": "04132026",
+  "original_filename": "IP-NOTICE-AUTO-INDUSTRY-USA.pdf",
+  "patent_applications_mentioned": [
+    "19/560,042",
+    "19/559,867",
+    "19/559,858"
+  ]
+}

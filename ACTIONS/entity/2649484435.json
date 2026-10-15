@@ -1,0 +1,37 @@
+{
+  "serving_key": "2649484435",
+  "canonical_key": "david.frist@alston.com",
+  "display_name": "David Frist (Alston & Bird LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Alston & Bird LLP",
+  "full_name": "David Frist",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Alston & Bird LLP",
+  "domain": "alston.com",
+  "addresses": {
+    "mailing_address": "1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309",
+    "business_address": "1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309",
+    "legal_service_address": "1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309"
+  },
+  "registered_agent": {
+    "name": "Alston & Bird LLP",
+    "address": "1201 West Peachtree Street, Suite 4900, Atlanta, GA 30309",
+    "jurisdiction": "Georgia"
+  },
+  "contact": {
+    "primary_email": "david.frist@alston.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 404-881-7000"
+    ],
+    "faxes": [
+      "+1 404-881-7777"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

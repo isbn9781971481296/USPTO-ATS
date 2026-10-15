@@ -1,0 +1,35 @@
+{
+  "serving_key": "4256831970",
+  "canonical_key": "jason.conti@dowjones.com",
+  "display_name": "Jason Conti (Dow Jones & Company, Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Dow Jones & Company, Inc.",
+  "full_name": "Jason Conti",
+  "pronouns": null,
+  "title": "Executive Vice President, General Counsel and Chief Compliance Officer",
+  "organization": "Dow Jones & Company, Inc.",
+  "domain": "dowjones.com",
+  "addresses": {
+    "mailing_address": "1211 Avenue of the Americas, New York, NY 10036",
+    "business_address": "1211 Avenue of the Americas, New York, NY 10036",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "jason.conti@dowjones.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-212-416-2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

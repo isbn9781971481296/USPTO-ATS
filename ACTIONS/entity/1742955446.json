@@ -1,0 +1,54 @@
+{
+  "serving_key": "1742955446",
+  "canonical_key": "police.commissioner@phila.gov",
+  "display_name": "Kevin J. Bethel (Philadelphia Police Department)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Philadelphia Police Department",
+  "full_name": "Kevin J. Bethel",
+  "pronouns": null,
+  "title": "Police Commissioner",
+  "organization": "Philadelphia Police Department",
+  "domain": "phila.gov",
+  "addresses": {
+    "mailing_address": "400 N Broad St, Philadelphia, PA 19130",
+    "business_address": "400 N Broad St, Philadelphia, PA 19130",
+    "legal_service_address": "City of Philadelphia Law Department, 1515 Arch St, Philadelphia, PA 19102"
+  },
+  "registered_agent": {
+    "name": "City Solicitor, City of Philadelphia Law Department",
+    "address": "1515 Arch St, Philadelphia, PA 19102",
+    "jurisdiction": "Pennsylvania"
+  },
+  "contact": {
+    "primary_email": "police.commissioner@phila.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-215-686-3200"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1486602186",
+      "canonical_key": "city.solicitor@phila.gov",
+      "display_name": "Renee Garcia",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2180205482",
+      "canonical_key": "revenue@phila.gov",
+      "display_name": "Philadelphia Department of Revenue",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2311775575",
+      "canonical_key": "_police.commissioner@phila.gov",
+      "display_name": "Kevin J. Bethel",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

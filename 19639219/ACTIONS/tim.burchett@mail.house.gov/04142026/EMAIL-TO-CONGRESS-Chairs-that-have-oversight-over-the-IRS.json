@@ -1,0 +1,53 @@
+{
+  "index": 127,
+  "header": "# Enclosure #127: EMAIL-TO-CONGRESS-Chairs-that-have-oversight-over-the-IRS.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/EMAIL-TO-CONGRESS-Chairs-that-have-oversight-over-the-IRS.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-email-to-congress-chairs-that-have--09ab857ca4.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "james.comer@mail.house.gov",
+  "primary_recipient_an": "James Comer (Daily Mail)",
+  "all_recipients": [
+    "james.comer@mail.house.gov",
+    "cummins@finance.senate.gov",
+    "crapo@crapo.senate.gov",
+    "matt.meyer@mail.house.gov",
+    "wheeler@crapo.senate.gov",
+    "tim.burchett@mail.house.gov",
+    "caroline.cash@mail.house.gov",
+    "kelsey.greenwald@mail.house.gov",
+    "kristen.monterroso@mail.house.gov",
+    "jason.smith@mail.house.gov",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "mike_crapo@crapo.senate.gov",
+    "susan_wheeler@crapo.senate.gov",
+    "jamie_cummins@finance.senate.gov",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "james.comer@mail.house.gov": "James Comer (Daily Mail)",
+    "cummins@finance.senate.gov": "Cummins (United States Senate Committee on Finance)",
+    "crapo@crapo.senate.gov": "Michael Dean Crapo (Michael Dean Crapo)",
+    "matt.meyer@mail.house.gov": "Matt Meyer (Daily Mail)",
+    "wheeler@crapo.senate.gov": "Wheeler (Michael Dean Crapo)",
+    "tim.burchett@mail.house.gov": "Tim Burchett (Daily Mail)",
+    "caroline.cash@mail.house.gov": "Caroline Cash (Daily Mail)",
+    "kelsey.greenwald@mail.house.gov": "Kelsey Greenwald (Daily Mail)",
+    "kristen.monterroso@mail.house.gov": "Kristen Monterroso (Daily Mail)",
+    "jason.smith@mail.house.gov": "Jason Smith (Daily Mail)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "mike_crapo@crapo.senate.gov": "Mike Crapo (Michael Dean Crapo)",
+    "susan_wheeler@crapo.senate.gov": "Susan Wheeler (Michael Dean Crapo)",
+    "jamie_cummins@finance.senate.gov": "Jamie Cummins (United States Senate Committee on Finance)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04142026",
+  "original_filename": "EMAIL-TO-CONGRESS-Chairs-that-have-oversight-over-the-IRS.pdf",
+  "patent_applications_mentioned": [
+    "19/640,945",
+    "19/639,219"
+  ]
+}

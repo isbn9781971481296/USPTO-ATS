@@ -1,0 +1,35 @@
+{
+  "serving_key": "877628817",
+  "canonical_key": "herve.derrey@thalesaleniaspace.com",
+  "display_name": "Herv\u00e9 Derrey (Thales Alenia Space)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Thales Alenia Space",
+  "full_name": "Herv\u00e9 Derrey",
+  "pronouns": null,
+  "title": "Chief Executive Officer",
+  "organization": "Thales Alenia Space",
+  "domain": "thalesaleniaspace.com",
+  "addresses": {
+    "mailing_address": "26 Avenue des Invalides, 31400 Toulouse, France",
+    "business_address": "26 Avenue des Invalides, 31400 Toulouse, France",
+    "legal_service_address": "26 Avenue des Invalides, 31400 Toulouse, France"
+  },
+  "registered_agent": {
+    "name": "Thales Alenia Space SAS (Headquarters)",
+    "address": "26 Avenue des Invalides, 31400 Toulouse, France",
+    "jurisdiction": "France"
+  },
+  "contact": {
+    "primary_email": "herve.derrey@thalesaleniaspace.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 5 34 35 36 37"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

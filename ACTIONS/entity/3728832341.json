@@ -1,0 +1,35 @@
+{
+  "serving_key": "3728832341",
+  "canonical_key": "2024793011",
+  "display_name": "Supreme Court of the United States - Office of the Clerk",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Supreme Court of the United States",
+  "full_name": "Supreme Court of the United States - Office of the Clerk",
+  "pronouns": null,
+  "title": "Clerk of the Court",
+  "organization": "Supreme Court of the United States",
+  "domain": "2024793011",
+  "addresses": {
+    "mailing_address": "1 First Street, NE, Washington, DC 20543",
+    "business_address": "1 First Street, NE, Washington, DC 20543",
+    "legal_service_address": "1 First Street, NE, Washington, DC 20543"
+  },
+  "registered_agent": {
+    "name": "N/A (Government Agency)",
+    "address": "1 First Street, NE, Washington, DC 20543",
+    "jurisdiction": "Federal"
+  },
+  "contact": {
+    "primary_email": "2024793011",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "(202) 479-3011"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

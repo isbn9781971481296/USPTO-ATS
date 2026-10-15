@@ -1,0 +1,36 @@
+{
+  "serving_key": "549229833",
+  "canonical_key": "uag@agutah.gov",
+  "display_name": "Utah Attorney General's Office",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Utah Attorney General's Office",
+  "full_name": "Utah Attorney General",
+  "pronouns": null,
+  "title": "Attorney General",
+  "organization": "Utah Attorney General's Office",
+  "domain": "agutah.gov",
+  "addresses": {
+    "mailing_address": "PO Box 142320, Salt Lake City, UT 84114-2320",
+    "business_address": "Utah State Capitol Complex, 350 North State Street, Suite 230, Salt Lake City, UT 84114",
+    "legal_service_address": "Utah State Capitol Complex, 350 North State Street, Suite 230, Salt Lake City, UT 84114"
+  },
+  "registered_agent": {
+    "name": "Utah Attorney General's Office (Service of Process)",
+    "address": "Utah State Capitol Complex, 350 North State Street, Suite 230, Salt Lake City, UT 84114",
+    "jurisdiction": "Utah"
+  },
+  "contact": {
+    "primary_email": "uag@agutah.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "800-244-4636",
+      "801-366-0260"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

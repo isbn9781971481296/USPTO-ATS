@@ -1,0 +1,42 @@
+{
+  "serving_key": "1862424932",
+  "canonical_key": "treasurer@sfgov.org",
+  "display_name": "Jos\u00e9 Cisneros (City and County of San Francisco)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Office of the Treasurer & Tax Collector, City and County of San Francisco",
+  "full_name": "Jos\u00e9 Cisneros",
+  "pronouns": null,
+  "title": "Treasurer",
+  "organization": "Office of the Treasurer & Tax Collector, City and County of San Francisco",
+  "domain": "sfgov.org",
+  "addresses": {
+    "mailing_address": "City Hall, Room 140, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+    "business_address": "City Hall, Room 140, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+    "legal_service_address": "Office of the City Attorney, City Hall, Room 234, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102"
+  },
+  "registered_agent": {
+    "name": "San Francisco City Attorney's Office",
+    "address": "City Hall, Room 234, 1 Dr. Carlton B. Goodlett Place, San Francisco, CA 94102",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "treasurer@sfgov.org",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-415-554-4470"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3584383800",
+      "canonical_key": "city.attorney@sfgov.org",
+      "display_name": "Office of the City Attorney",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

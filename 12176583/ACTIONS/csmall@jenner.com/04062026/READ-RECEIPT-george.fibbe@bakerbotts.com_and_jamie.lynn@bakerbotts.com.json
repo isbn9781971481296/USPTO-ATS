@@ -1,0 +1,32 @@
+{
+  "index": 151,
+  "header": "# Enclosure #151: READ-RECEIPT-george-fibbe-bakerbotts-com-and-jamie-lynn-bakerbotts-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/READ-RECEIPT-george.fibbe@bakerbotts.com_and_jamie.lynn@bakerbotts.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-read-receipt-george.fibbe@bakerbott-4f4d261fe9.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "george.fibbe@bakerbotts.com",
+  "primary_recipient_an": "George Fibbe (bakerbotts.com)",
+  "all_recipients": [
+    "george.fibbe@bakerbotts.com",
+    "jamie.lynn@bakerbotts.com",
+    "csmall@jenner.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "george.fibbe@bakerbotts.com": "George Fibbe (bakerbotts.com)",
+    "jamie.lynn@bakerbotts.com": "Jamie Lynn (bakerbotts.com)",
+    "csmall@jenner.com": "Csmall (Kendall Nicole Jenner)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT-george.fibbe@bakerbotts.com_and_jamie.lynn@bakerbotts.com.pdf",
+  "patent_applications_mentioned": [
+    "12/850,635",
+    "12/176,583",
+    "12/800,299"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "serving_key": "1161931104",
+  "canonical_key": "_police.chief@nashville.gov",
+  "display_name": "John Drake (Metropolitan Nashville Police Department)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Metropolitan Nashville Police Department",
+  "full_name": "John Drake",
+  "pronouns": null,
+  "title": "Chief of Police",
+  "organization": "Metropolitan Nashville Police Department",
+  "domain": "nashville.gov",
+  "addresses": {
+    "mailing_address": "600 Murfreesboro Pike, Nashville, TN 37210",
+    "business_address": "600 Murfreesboro Pike, Nashville, TN 37210",
+    "legal_service_address": "Metropolitan Department of Law, 1 Public Square, Suite 108, Nashville, TN 37201"
+  },
+  "registered_agent": {
+    "name": "Metropolitan Department of Law (Director of Law)",
+    "address": "1 Public Square, Suite 108, Nashville, TN 37201",
+    "jurisdiction": "Tennessee"
+  },
+  "contact": {
+    "primary_email": "_police.chief@nashville.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-615-862-7400"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2080632214",
+      "canonical_key": "finance@nashville.gov",
+      "display_name": "Department of Finance",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "66102996",
+      "canonical_key": "law.director@nashville.gov",
+      "display_name": "Wallace W. Dietz",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "705554491",
+      "canonical_key": "_finance@nashville.gov",
+      "display_name": "Department of Finance",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1525078553",
+      "canonical_key": "_law.director@nashville.gov",
+      "display_name": "Wallace W. Dietz",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

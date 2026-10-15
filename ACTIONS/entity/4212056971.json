@@ -1,0 +1,36 @@
+{
+  "serving_key": "4212056971",
+  "canonical_key": "citizens.services@njoag.gov",
+  "display_name": "New Jersey Office of the Attorney General - Citizen Services",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "New Jersey Office of the Attorney General",
+  "full_name": "New Jersey Office of the Attorney General",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "New Jersey Office of the Attorney General",
+  "domain": "njoag.gov",
+  "addresses": {
+    "mailing_address": "P.O. Box 080, Trenton, NJ 08625",
+    "business_address": "Richard J. Hughes Justice Complex, 25 Market Street, Trenton, NJ 08625",
+    "legal_service_address": "Office of the Attorney General, Richard J. Hughes Justice Complex, 25 Market Street, Box 080, Trenton, NJ 08625"
+  },
+  "registered_agent": {
+    "name": "Attorney General of New Jersey (Service of Process)",
+    "address": "Richard J. Hughes Justice Complex, 25 Market Street, Box 080, Trenton, NJ 08625",
+    "jurisdiction": "New Jersey"
+  },
+  "contact": {
+    "primary_email": "citizens.services@njoag.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-609-292-4925",
+      "+1-609-984-5828"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

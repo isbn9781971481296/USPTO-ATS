@@ -1,0 +1,35 @@
+{
+  "serving_key": "1757814801",
+  "canonical_key": "dan.wall@livenation.com",
+  "display_name": "Dan Wall (Live Nation Entertainment, Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Live Nation Entertainment, Inc.",
+  "full_name": "Dan Wall",
+  "pronouns": null,
+  "title": "Executive Vice President, Corporate and Regulatory Affairs",
+  "organization": "Live Nation Entertainment, Inc.",
+  "domain": "livenation.com",
+  "addresses": {
+    "mailing_address": "9348 Civic Center Drive, Beverly Hills, CA 90210",
+    "business_address": "9348 Civic Center Drive, Beverly Hills, CA 90210",
+    "legal_service_address": "c/o The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "dan.wall@livenation.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-310-867-7000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

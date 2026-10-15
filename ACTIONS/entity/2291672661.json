@@ -1,0 +1,33 @@
+{
+  "serving_key": "2291672661",
+  "canonical_key": "salllach@clearchannel.com",
+  "display_name": "S. Alllach (Clear Channel)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Clear Channel",
+  "full_name": "S. Alllach",
+  "pronouns": null,
+  "title": "Representative",
+  "organization": "Clear Channel",
+  "domain": "clearchannel.com",
+  "addresses": {
+    "mailing_address": "20880 Stone Oak Pkwy, San Antonio, TX 78258",
+    "business_address": "20880 Stone Oak Pkwy, San Antonio, TX 78258",
+    "legal_service_address": "c/o Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "salllach@clearchannel.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

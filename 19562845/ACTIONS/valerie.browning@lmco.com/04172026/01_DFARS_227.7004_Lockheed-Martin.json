@@ -1,0 +1,35 @@
+{
+  "index": 2,
+  "header": "# Enclosure #2: 01-DFARS-227-7004-Lockheed-Martin.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/DoD__DFARS-227.7004/Lockheed-Martin/01_DFARS_227.7004_Lockheed-Martin.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-be50af3d77.pdf",
+  "pdf_exists": true,
+  "category": "letter",
+  "prefix_hint": "LETTER",
+  "subtype": "letter",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kevin.j.oconnor@lmco.com",
+  "primary_recipient_an": "Kevin J. O'Connor (Lockheed Martin Corporation)",
+  "all_recipients": [
+    "kevin.j.oconnor@lmco.com",
+    "michael.schmidt@us.af.mil",
+    "emil.michael@osd.mil",
+    "craig.martell@lmco.com",
+    "valerie.browning@lmco.com"
+  ],
+  "all_recipients_an": {
+    "kevin.j.oconnor@lmco.com": "Kevin J. O'Connor (Lockheed Martin Corporation)",
+    "michael.schmidt@us.af.mil": "Lt. Gen. Mike Schmidt (United States Air Force)",
+    "emil.michael@osd.mil": "Emil Michael (Office of the Secretary of Defense)",
+    "craig.martell@lmco.com": "Craig Martell (Lockheed Martin Corporation)",
+    "valerie.browning@lmco.com": "Valerie Browning (Lockheed Martin Corporation)"
+  },
+  "date": "04172026",
+  "original_filename": "01_DFARS_227.7004_Lockheed-Martin.pdf",
+  "patent_applications_mentioned": [
+    "19/639,219",
+    "19/560,038",
+    "19/562,838",
+    "19/562,845"
+  ]
+}

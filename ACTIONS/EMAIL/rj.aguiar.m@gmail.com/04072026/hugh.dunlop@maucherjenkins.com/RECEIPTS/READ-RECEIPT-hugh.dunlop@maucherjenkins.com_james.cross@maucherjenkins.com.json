@@ -1,0 +1,26 @@
+{
+  "index": 172,
+  "header": "# Enclosure #172: READ-RECEIPT-hugh-dunlop-maucherjenkins-com-james-cross-maucherjenkins-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/READ-RECEIPT-hugh.dunlop@maucherjenkins.com_james.cross@maucherjenkins.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-read-receipt-hugh.dunlop@maucherjen-bbba4038ad.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "hugh.dunlop@maucherjenkins.com",
+  "primary_recipient_an": "Hugh Dunlop (maucherjenkins.com)",
+  "all_recipients": [
+    "hugh.dunlop@maucherjenkins.com",
+    "james.cross@maucherjenkins.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "hugh.dunlop@maucherjenkins.com": "Hugh Dunlop (maucherjenkins.com)",
+    "james.cross@maucherjenkins.com": "James Cross (maucherjenkins.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "READ-RECEIPT-hugh.dunlop@maucherjenkins.com_james.cross@maucherjenkins.com.pdf",
+  "patent_applications_mentioned": []
+}

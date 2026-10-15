@@ -1,0 +1,44 @@
+{
+  "serving_key": "1954859993",
+  "canonical_key": "wolfgang.kellenter@hengeler.com",
+  "display_name": "Dr. Wolfgang Kellenter (Hengeler Mueller)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Hengeler Mueller",
+  "full_name": "Dr. Wolfgang Kellenter",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Hengeler Mueller",
+  "domain": "hengeler.com",
+  "addresses": {
+    "mailing_address": "Benrather Stra\u00dfe 18-20, 40213 D\u00fcsseldorf, Germany",
+    "business_address": "Benrather Stra\u00dfe 18-20, 40213 D\u00fcsseldorf, Germany",
+    "legal_service_address": "Benrather Stra\u00dfe 18-20, 40213 D\u00fcsseldorf, Germany"
+  },
+  "registered_agent": {
+    "name": "Hengeler Mueller Partnerschaft von Rechtsanw\u00e4lten mbB",
+    "address": "Benrather Stra\u00dfe 18-20, 40213 D\u00fcsseldorf, Germany",
+    "jurisdiction": "Germany"
+  },
+  "contact": {
+    "primary_email": "wolfgang.kellenter@hengeler.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+49 211 8304 0"
+    ],
+    "faxes": [
+      "+49 211 8304 170"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1910166025",
+      "canonical_key": "matthias.scheifele@hengeler.com",
+      "display_name": "Dr. Matthias Scheifele",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

@@ -1,0 +1,35 @@
+{
+  "serving_key": "644216402",
+  "canonical_key": "mailer-daemon@mxa.us.inbound.cf-emailsecurity.net",
+  "display_name": "Cloudflare Email Security (Mailer Daemon)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Cloudflare, Inc.",
+  "full_name": "Cloudflare Email Security",
+  "pronouns": null,
+  "title": "Automated System",
+  "organization": "Cloudflare, Inc.",
+  "domain": "mxa.us.inbound.cf-emailsecurity.net",
+  "addresses": {
+    "mailing_address": "101 Townsend St, San Francisco, CA 94107, USA",
+    "business_address": "101 Townsend St, San Francisco, CA 94107, USA",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808, USA"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808, USA",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "mailer-daemon@mxa.us.inbound.cf-emailsecurity.net",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-888-993-5273"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

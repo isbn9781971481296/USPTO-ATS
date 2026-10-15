@@ -1,0 +1,34 @@
+{
+  "index": 144,
+  "header": "# Enclosure #144: IP-LIABILITY-QUANTUM-COMPUTING-COMPANIES.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/__Bill-Gates/Attachments/IP_LIABILITY_QUANTUM_COMPUTING_COMPANIES.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-16832a1c72.pdf",
+  "pdf_exists": true,
+  "category": "letter",
+  "prefix_hint": "LETTER",
+  "subtype": "letter",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "hossein.nowbar@microsoft.com",
+  "primary_recipient_an": "Hossein\u200b\u200bNowbar (Microsoft Corporation)",
+  "all_recipients": [
+    "hossein.nowbar@microsoft.com",
+    "satya.nadella@microsoft.com",
+    "akrishna@us.ibm.com",
+    "michelle.browdy@ibm.com"
+  ],
+  "all_recipients_an": {
+    "hossein.nowbar@microsoft.com": "Hossein\u200b\u200bNowbar (Microsoft Corporation)",
+    "satya.nadella@microsoft.com": "Satya\u200b\u200bNadella (Microsoft Corporation)",
+    "akrishna@us.ibm.com": "Arvind\u200b\u200bKrishna (International Business Machines Corporation)",
+    "michelle.browdy@ibm.com": "Michelle Browdy (International Business Machines Corporation)"
+  },
+  "date": "04172026",
+  "original_filename": "IP_LIABILITY_QUANTUM_COMPUTING_COMPANIES.pdf",
+  "patent_applications_mentioned": [
+    "19/562,845",
+    "19/562,855",
+    "19/562,853",
+    "19/560,038",
+    "19/562,818"
+  ]
+}

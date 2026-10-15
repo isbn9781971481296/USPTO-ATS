@@ -1,0 +1,35 @@
+{
+  "serving_key": "234684174",
+  "canonical_key": "oflores@rpost.com",
+  "display_name": "O. Flores (RPost Holdings, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "RPost Holdings, Inc.",
+  "full_name": "O. Flores",
+  "pronouns": null,
+  "title": "Representative",
+  "organization": "RPost Holdings, Inc.",
+  "domain": "rpost.com",
+  "addresses": {
+    "mailing_address": "6033 W Century Blvd, Suite 1278, Los Angeles, CA 90045",
+    "business_address": "6033 W Century Blvd, Suite 1278, Los Angeles, CA 90045",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "oflores@rpost.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-866-468-3315"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

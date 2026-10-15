@@ -1,0 +1,55 @@
+{
+  "summary_of_pdf": "This document is a transcript of a voicemail left by a pro se plaintiff, Reinaldo J. Aguiar Marcano, for a court clerk or case manager (Cynthia Horace) in the United States District Court for the Southern District of Texas. The plaintiff is requesting expedited judicial review of an emergency ex parte application for a Temporary Restraining Order (TRO) (Docket Entry 2) and an emergency advisory (Docket Entry 9) filed in case 4:26-cv-08794. The plaintiff seeks to enjoin an impending default judgment and eviction proceeding in a lower state court, arguing that the CM/ECF system's automated 21-day motion submission schedule defeats the emergency nature of the relief sought.",
+  "attorneys_comments": "Upon review of this telephonic communication, several critical procedural and substantive hurdles are apparent. Procedurally, the plaintiff is attempting to bypass the standard 21-day submission rule under SDTX Local Rule 7.3 by informally contacting court staff. Such ex parte communications with chambers or the clerk's office to expedite a motion are procedurally improper; the correct mechanism is a formal Motion to Expedite Submission. Substantively, the plaintiff's attempt to have a federal district court enjoin an ongoing state court eviction proceeding faces severe jurisdictional and statutory impediments. The Anti-Injunction Act (28 U.S.C. \u00a7 2283) generally prohibits federal courts from enjoining state court proceedings, and the Younger abstention doctrine further counsels against federal interference in state civil enforcement or judicial processes. Furthermore, to secure an ex parte TRO under FRCP 65(b), the plaintiff must provide a verified complaint or sworn declaration clearly showing immediate and irreparable injury, loss, or damage will result before the adverse party can be heard, which cannot be cured by unsworn telephonic pleas to the clerk.",
+  "recommended_next_steps": "If representing the plaintiff: Cease informal ex parte communications with court staff. Immediately file a formal 'Motion to Expedite Submission' of the TRO application, supported by a sworn declaration detailing the imminent eviction, and submit a memorandum of law establishing a valid exception to the Anti-Injunction Act (28 U.S.C. \u00a7 2283) and federal subject-matter jurisdiction. If representing the defendant: Monitor the docket for the TRO application. Prepare an immediate opposition brief asserting lack of federal subject-matter jurisdiction, invoking the Anti-Injunction Act and Younger abstention doctrine, and highlighting the procedural impropriety of the plaintiff's ex parte communications.",
+  "tags": [
+    "FRCP 65(b)",
+    "Temporary Restraining Order",
+    "Ex Parte Communication",
+    "SDTX Local Rule 7.3",
+    "Anti-Injunction Act",
+    "28 U.S.C. \u00a7 2283",
+    "Younger Abstention",
+    "Pro Se Litigation",
+    "Eviction Defense",
+    "Emergency Injunctive Relief",
+    "Federal Subject-Matter Jurisdiction"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo J. Aguiar Marcano",
+      "Cynthia Horace"
+    ],
+    "companies": [],
+    "technologies": [],
+    "products": [],
+    "government_offices": [
+      "United States District Court for the Southern District of Texas"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Houston, Texas"
+    ],
+    "courts": [
+      "United States District Court for the Southern District of Texas",
+      "lower court"
+    ],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "mentioned_court_cases": [
+    "4:26-cv-08794"
+  ],
+  "event_key": "3894251392",
+  "basefilename": "RECORD20261013124038",
+  "original_filename": "RECORD20261013124038.txt",
+  "canonical_rel_pdf": "ACTIONS/PHONE_CALL/rj.aguiar.m@gmail.com/10132026/7132505515/FILED/RECORD20261013124038.txt",
+  "category": "PHONE_CALL",
+  "subtype": "TRANSCRIPT",
+  "date": "10132026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "7132505515",
+  "primary_recipient_an": "United States District Court, Southern District of Texas"
+}

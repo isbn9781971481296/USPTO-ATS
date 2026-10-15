@@ -1,0 +1,40 @@
+{
+  "serving_key": "529258127",
+  "canonical_key": "_mia.a.steele2.civ@army.mil",
+  "display_name": "Mia A. Steele (U.S. Department of the Army)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "U.S. Department of the Army",
+  "full_name": "Mia A. Steele",
+  "pronouns": null,
+  "title": "Civilian Employee",
+  "organization": "U.S. Department of the Army",
+  "domain": "army.mil",
+  "addresses": {
+    "mailing_address": "The Pentagon, Washington, DC 20310, USA",
+    "business_address": "The Pentagon, Washington, DC 20310, USA",
+    "legal_service_address": "U.S. Attorney General, U.S. Department of Justice, 950 Pennsylvania Avenue, NW, Washington, DC 20530-0001"
+  },
+  "registered_agent": {
+    "name": "Secretary of the Army / U.S. Attorney General (Federal Service of Process)",
+    "address": "950 Pennsylvania Avenue, NW, Washington, DC 20530-0001",
+    "jurisdiction": "Federal (United States)"
+  },
+  "contact": {
+    "primary_email": "_mia.a.steele2.civ@army.mil",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2054964314",
+      "canonical_key": "william.a.creech3.civ@army.mil",
+      "display_name": "William A. Creech III",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

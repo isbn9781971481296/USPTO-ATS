@@ -1,0 +1,189 @@
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+FORMAL ADMINISTRATIVE CLAIM FOR PATENT
+INFRINGEMENT UNDER DFARS 227.7004 AND
+NOTIFICATION OF PROCUREMENT IRREGULARITIES
+CONCERNING PERPETUALLY LICENSED
+TECHNOLOGIES
+This notice:
+https://storage.googleapis.com/rj-aguiar/01_DFARS_227.7004_Lockheed-Martin.pdf
+
+TO: PROCURING CONTRACTING OFFICERS (PCOs) AND DIRECTORS
+michael.schmidt@us.af.mil (Lt. Gen. Mike Schmidt, Program Executive Officer, F-35 JPO)
+F-35 Joint Program Office (JPO) – Contracting Directorate
+CC: EXECUTIVE LEADERSHIP, CORPORATE COUNSEL, AND MILITARY IP COUNSEL
+kevin.j.oconnor@lmco.com (Kevin J. O'Connor, Legal Counsel, Lockheed Martin)
+craig.martell@lmco.com (Craig Martell, Vice President and Chief Technology Officer, Lockheed
+Martin)
+valerie.browning@lmco.com (Valerie Browning, Vice President of Research and Technology,
+Lockheed Martin)
+emil.michael@osd.mil (The Honorable Emil Michael, Under Secretary of Defense for Research
+and Engineering / Chief Technology Officer)
+Chief of the Intellectual Property Law Division (JALS-IP), U.S. Army Legal Services Agency
+RE: ACTUAL KNOWLEDGE OF PATENT INFRINGEMENT (35 U.S.C. § 154(d)), INITIATION OF
+DFARS 227.7004 ADMINISTRATIVE CLAIM, AND NOTIFICATION OF POTENTIAL PROCUREMENT
+FRAUD BY LOCKHEED MARTIN CORPORATION
+DATE: April 17, 2026
+DELIVERY METHOD: Cryptographically Verified via Registered Email (RPost)
+DEAR:
+Lt. Gen. Schmidt and the F-35 JPO Contracting Directorate,
+
+Page 1 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+This comprehensive technical and legal brief is served upon you in your official capacities
+within the United States Department of Defense (DoD).
+This document constitutes a formal Administrative Claim for Patent Infringement under the
+Defense Federal Acquisition Regulation Supplement (DFARS) 227.7004. The purpose of this
+claim is to notify the United States Government of a highly anomalous and legally precarious
+situation involving the unauthorized commercialization of a foundational patent portfolio by
+Lockheed Martin Corporation.
+
+I. THE U.S. DEPARTMENT OF DEFENSE LICENSE GRANT
+AND STRATEGIC BLOCKADE
+Under standard operating procedures defined by 28 U.S.C. § 1498, the United States
+Government exercises eminent domain over domestic patents, shielding its defense
+contractors from civil injunctions and assuming financial liability for infringement.
+However, the inventor of the Aguiar Marcano Intellectual Property Portfolio—which comprises
+52 foundational patent applications published defensively in The Architecture of Control (ISBN
+978-1-97-148129-6)—has proactively granted an irrevocable, perpetual, no-fee license to the
+federal government for all national defense purposes. The United States Department of
+Defense, specifically through Under Secretary of Defense Emil Michael, has been placed on
+direct notice of this license grant and is the designated authority administering this license on
+behalf of the military.
+Lockheed Martin is currently utilizing these specific patented architectures to overcome severe
+computational bottlenecks in their aerospace and quantum programs. By embedding the
+research, development, and licensing costs of these technologies into multi-billion-dollar
+government contracts, Lockheed Martin is effectively charging the American taxpayer for
+intellectual property that the government already possesses the legal right to utilize indefinitely
+and without cost. Failing to halt the disbursement of funds to this contractor for pre-licensed
+intellectual property constitutes a gross mismanagement of taxpayer dollars.
+
+II. Satisfaction of DFARS 227.7004 Administrative
+Claim Requirements
+To compel immediate administrative intervention, this communication strictly adheres to the
+requirements of DFARS 227.7004(a) and (b):
+1.​ Allegation of Infringement: We formally allege that the systems provided and
+developed by Lockheed Martin directly infringe upon the patent applications detailed
+
+Page 2 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+below.
+2.​ Request for Compensation: Because the government holds a free license to this
+portfolio, our request for compensation is a formal legal demand that the DoD
+immediately cease compensating Lockheed Martin for the licensed intellectual property.
+3.​ Citation of Patents: The infringed applications include USPTO 19/639,219; 19/560,038;
+19/562,838; and 19/562,845.
+4.​ Identification of Procurements: See Section III below for the specific systems and
+contracting activities.
+5.​ Element-by-Element Comparison: The required claim maps demonstrating precisely
+how the representative claims map to the accused software and processes are attached
+to this verified transmission.
+
+III. Technological Nexus and Targeted Procurements
+Lockheed Martin's most critical modernization efforts intersect directly with our proprietary
+claims, making their government contracts highly susceptible to this administrative review.
+
+A. F-35 Technology Refresh 3 (TR-3) and the Integrated Core
+Processor
+Responsible Activity: F-35 Joint Program Office (JPO)
+The TR-3 upgrade is designed to modernize the computational core of the F-35 via a new
+L3Harris integrated core processor and a new aircraft memory unit, promising a 25x computing
+increase. Attempting to achieve this massive increase in computational throughput within the
+strict thermal and weight constraints of an airborne fighter requires abandoning traditional
+electrical data buses.
+●​ USPTO 19/560,038 (Optical Computing Architecture) & USPTO 19/562,838
+(Energy-Efficient Computing via Clock Speed Reduction): These patents define a
+holistic data fabric that replaces electrical I/O bottlenecks with a massively parallel optical
+interconnect, enabling a reduction in clock speed while maintaining high throughput. Any
+TR-3 processor upgrades utilizing internal optical data buses to mitigate thermal output
+directly infringe upon these hardware claims.
+●​ USPTO 19/639,219 (Central Processing Unit Architecture for Native Parametric and
+Symbolic Computation): Upgrading the F-35's core processing capabilities to handle
+
+Page 3 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+advanced sensor fusion natively relies upon our parametric high-radix architecture.
+
+B. Strategic Quantum Computing and QML Partnerships
+Responsible Activity: Lockheed Martin Research and Technology / Defense Innovation Unit
+(DIU)
+Target Leadership: Craig Martell (CTO) and Valerie Browning (VP, Research & Technology)
+Lockheed Martin is aggressively pursuing quantum technologies for aerospace and defense,
+recently signing strategic collaborations with PsiQuantum (November 2025), Xanadu (February
+2026), and Fujitsu (February 2026). These partnerships focus on deploying fault-tolerant
+quantum algorithms, Quantum Machine Learning (QML), and dual-use AI/ML edge computing.
+●​ USPTO 19/562,845 (Physically Disaggregated Computing Systems): To achieve the
+hybrid quantum-classical workflows required by these new partnerships, Lockheed
+Martin must utilize a disaggregated architecture where classical GPUs and quantum
+processing units (QPUs) are segregated yet interconnected via an ultra-high-bandwidth
+data fabric. This exact hybrid integration model is legally encumbered by our portfolio.
+
+IV. Statutory and Ethical Mandates
+Because Lockheed Martin operates as a publicly traded corporate entity bound by strict
+compliance and ethical frameworks, we must formally remind your corporate leadership and
+legal counsel of the following obligations:
+1. SEC Disclosure Requirements for Public Companies
+For Lockheed Martin Corporation, we remind you that if you find yourselves potentially
+infringing any of the Inventions covered in this intellectual property portfolio, you are legally
+obligated to assess whether it is necessary to notify your investors and file a material risk
+disclosure notice with the Securities and Exchange Commission (SEC). The failure to disclose a
+material intellectual property encumbrance that threatens your core aerospace platforms (such
+as the F-35) constitutes a severe breach of fiduciary duty.
+2. Attorney Ethical Obligations (Model Rule 8.3)
+A direct reminder is issued to the Chief Legal Officers, General Counsels, and all retained
+outside counsel receiving or reviewing this notice (including Kevin J. O'Connor): You are strictly
+bound by your ethical obligations, including ABA Model Rule of Professional Conduct 8.3. You
+maintain an affirmative obligation to report any unprivileged knowledge of wrongdoing that
+raises a substantial question as to a lawyer's honesty, trustworthiness, or fitness. If your internal
+audits reveal evidence of coordinated intellectual property theft or procurement fraud that
+
+Page 4 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+may compromise the integrity of a court, you are ethically mandated to report such conduct to
+the appropriate professional authorities.
+
+V. Immutable Audit Trail and Mandatory
+Administrative Action
+This formal claim is delivered via Registered Email (RPost). This service provides an immutable,
+cryptographically verified audit trail, including proof of delivery, message content, and the
+exact official time of sending and opening.
+As warranted Procuring Contracting Officers, if you receive cryptographically verified proof
+that a contractor is charging the government for freely available intellectual property, your
+failure to initiate an audit or halt payments leaves a permanent digital footprint of your inaction.
+This exposes you to severe administrative and potentially criminal liability for complicity in
+procurement fraud.
+Pursuant to federal acquisition regulations, you are hereby mandated to freeze approvals
+related to the disputed intellectual property, halt the assumption of clear title for the F-35 TR-3
+upgrades, and forward this communication immediately to the Intellectual Property Law
+Division of your respective branches.
+V/R,
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+Page 5 of 5
+ISBN 9781971481296
+
+

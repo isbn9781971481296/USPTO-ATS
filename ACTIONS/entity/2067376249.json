@@ -1,0 +1,35 @@
+{
+  "serving_key": "2067376249",
+  "canonical_key": "arnon.levy@guesttek.com",
+  "display_name": "Arnon Levy (GuestTek Interactive Entertainment Ltd.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "GuestTek Interactive Entertainment Ltd.",
+  "full_name": "Arnon Levy",
+  "pronouns": null,
+  "title": "Founder, President and CEO",
+  "organization": "GuestTek Interactive Entertainment Ltd.",
+  "domain": "guesttek.com",
+  "addresses": {
+    "mailing_address": "3131 114th Ave SE, Suite 300, Calgary, AB T2Z 3X2, Canada",
+    "business_address": "3131 114th Ave SE, Suite 300, Calgary, AB T2Z 3X2, Canada",
+    "legal_service_address": "3131 114th Ave SE, Suite 300, Calgary, AB T2Z 3X2, Canada"
+  },
+  "registered_agent": {
+    "name": "Corporate Secretary, GuestTek Interactive Entertainment Ltd.",
+    "address": "3131 114th Ave SE, Suite 300, Calgary, AB T2Z 3X2, Canada",
+    "jurisdiction": "Alberta, Canada"
+  },
+  "contact": {
+    "primary_email": "arnon.levy@guesttek.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-403-509-1010"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

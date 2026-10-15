@@ -1,0 +1,35 @@
+{
+  "serving_key": "819520598",
+  "canonical_key": "sepzaker@rivian.com",
+  "display_name": "Sep Zaker (Rivian Automotive, Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Rivian Automotive, Inc.",
+  "full_name": "Sep Zaker",
+  "pronouns": null,
+  "title": "Intellectual Property Counsel",
+  "organization": "Rivian Automotive, Inc.",
+  "domain": "rivian.com",
+  "addresses": {
+    "mailing_address": "14600 Myford Road, Irvine, CA 92606",
+    "business_address": "14600 Myford Road, Irvine, CA 92606",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "sepzaker@rivian.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-888-748-4261"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

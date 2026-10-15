@@ -1,0 +1,90 @@
+4/6/26, 4:43 PM
+
+Gmail - Delivered and Opened: RE [SpaceX]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: RE [SpaceX]: Inquiry for IP Representation: 47-Patent Portfolio &
+Parallel Federal Disclosures
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Mon, Apr 6, 2026 at 4:32 PM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+RE [SpaceX]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal
+Disclosures
+
+To:
+
+<acharnes@ktslaw.com>
+
+Time Sent:
+
+04/06/2026 07:07:45 PM (UTC), 04/06/2026 07:07:45 PM (Local)
+
+Time Opened:
+
+04/06/2026 09:26:07 PM (UTC), 04/06/2026 09:26:07 PM (Local)
+
+Tracking Number:
+
+8CAF98B25E3ED31454A9549BA2D2DD26B1758FBE
+
+Network ID:
+
+d44f1e8f-b1b6-41b5-9c6e-cd56e9730291@SM25
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 172.225.216.65] [Time Opened: 4/6/2026 9:26:07 PM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/QwsvjBxTuPnNbECMCmYJfSO8IPGFzKRZsuY5tNVNMjEw.gif] HTTP_ACCEPT:im
+age/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTT
+P_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 HTTP_X_FO
+RWARDED_FOR:172.225.216.65 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZ
+N_TRACE_ID:Root=1-69d424ef-210814d6241b75e0402554f0 HTTP_PRIORITY:u=3, i Accept: image/webp,image/png,image/s
+vg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socr
+mail.r1.rpost.net User-Agent: Mozilla/5.0 X-Forwarded-For: 172.225.216.65 X-Forwarded-Proto: https X-Forwarded-Port: 443 XAmzn-Trace-Id: Root=1-69d424ef-210814d6241b75e0402554f0 priority: u=3, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com
+Root Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3
+SVC/12 192.168.10.112 /oatv_v2/QwsvjBxTuPnNbECMCmYJfSO8IPGFzKRZsuY5tNVNMjEw.gif 192.168.10.14 192.168.10.1
+4 41834 GET /oatv_v2/QwsvjBxTuPnNbECMCmYJfSO8IPGFzKRZsuY5tNVNMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1
+Microsoft-IIS/10.0 /oatv_v2/QwsvjBxTuPnNbECMCmYJfSO8IPGFzKRZsuY5tNVNMjEw.gif image/webp,image/png,image/svg
++xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 172.225.216.65
+https 443 Root=1-69d424ef-210814d6241b75e0402554f0 u=3, i
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+3K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861758355166486692&simpl=msg-f:1861758355166486692
+
+1/2
+
+4/6/26, 4:43 PM
+
+Gmail - Delivered and Opened: RE [SpaceX]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+HtmlReceipt.htm
+34K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861758355166486692&simpl=msg-f:1861758355166486692
+
+2/2
+
+

@@ -1,0 +1,46 @@
+{
+  "serving_key": "2753083480",
+  "canonical_key": "_joel.barrett@allens.com.au",
+  "display_name": "Joel Barrett (Allens)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Allens",
+  "full_name": "Joel Barrett",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Allens",
+  "domain": "allens.com.au",
+  "addresses": {
+    "mailing_address": "Level 37, 101 Collins Street, Melbourne VIC 3000, Australia",
+    "business_address": "Level 37, 101 Collins Street, Melbourne VIC 3000, Australia",
+    "legal_service_address": "Level 37, 101 Collins Street, Melbourne VIC 3000, Australia"
+  },
+  "registered_agent": {
+    "name": "Allens (Partnership)",
+    "address": "Level 37, 101 Collins Street, Melbourne VIC 3000, Australia",
+    "jurisdiction": "Victoria, Australia"
+  },
+  "contact": {
+    "primary_email": "_joel.barrett@allens.com.au",
+    "alternative_emails": [
+      "joel.barrett@allens.com.au"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+61 3 9614 1011"
+    ],
+    "faxes": [
+      "+61 3 9614 4661"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "4245603477",
+      "canonical_key": "joel.barrett@allens.com.au",
+      "display_name": "Joel Barrett",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

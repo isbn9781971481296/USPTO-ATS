@@ -1,0 +1,30 @@
+{
+  "index": 148,
+  "header": "# Enclosure #148: OPENED-RECEIPT-Government-Accountability-Project.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/OPENED-RECEIPT-Government-Accountability-Project.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-opened-receipt-government-accountab-9283dfd916.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kareng@whistleblower.org",
+  "primary_recipient_an": "Kareng (Whistleblower)",
+  "all_recipients": [
+    "kareng@whistleblower.org",
+    "louisc@whistleblower.org",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "kareng@whistleblower.org": "Kareng (Whistleblower)",
+    "louisc@whistleblower.org": "Louisc (Whistleblower)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04012026",
+  "original_filename": "OPENED-RECEIPT-Government-Accountability-Project.pdf",
+  "patent_applications_mentioned": [
+    "12/090,081",
+    "14/213,654",
+    "11/220,328"
+  ]
+}

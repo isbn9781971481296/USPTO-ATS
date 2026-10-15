@@ -1,0 +1,42 @@
+{
+  "serving_key": "3151526079",
+  "canonical_key": "paul.hudson@sanofi.com",
+  "display_name": "Paul Hudson (Sanofi)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Sanofi",
+  "full_name": "Paul Hudson",
+  "pronouns": null,
+  "title": "Chief Executive Officer",
+  "organization": "Sanofi",
+  "domain": "sanofi.com",
+  "addresses": {
+    "mailing_address": "46, avenue de la Grande Arm\u00e9e, 75017 Paris, France",
+    "business_address": "46, avenue de la Grande Arm\u00e9e, 75017 Paris, France",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "paul.hudson@sanofi.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+33 1 53 77 40 00"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "3694904857",
+      "canonical_key": "roy.papatheodorou@sanofi.com",
+      "display_name": "Roy Papatheodorou",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

@@ -1,0 +1,35 @@
+{
+  "serving_key": "251674696",
+  "canonical_key": "jeff.bezos@amazon.com",
+  "display_name": "Jeffrey P. Bezos (Amazon.com, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Amazon.com, Inc.",
+  "full_name": "Jeffrey P. Bezos",
+  "pronouns": null,
+  "title": "Executive Chairman",
+  "organization": "Amazon.com, Inc.",
+  "domain": "amazon.com",
+  "addresses": {
+    "mailing_address": "410 Terry Ave N, Seattle, WA 98109",
+    "business_address": "410 Terry Ave N, Seattle, WA 98109",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "jeff.bezos@amazon.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-206-266-1000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

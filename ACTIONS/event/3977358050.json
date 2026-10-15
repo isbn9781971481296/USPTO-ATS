@@ -1,0 +1,67 @@
+{
+  "summary_of_pdf": "This document is a certified RPost delivery and read receipt confirming that an electronic communication entitled 'Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures' was successfully delivered to and opened by jbostic@cooley.com on April 6, 2026. It serves as definitive evidentiary proof of actual notice to the recipient regarding the sender's patent portfolio and associated federal disclosures.",
+  "attorneys_comments": "From an evidentiary standpoint, this RPost registered receipt provides highly reliable, timestamped proof of actual notice to the recipient at Cooley LLP. Under the Federal Rules of Evidence (FRE 901), the embedded audit trail\u2014detailing IP addresses, server routing, and user-agent strings (e.g., MSOffice 16)\u2014establishes a robust foundation for authenticating the recipient's engagement with the communication. Tactically, establishing actual notice is paramount for claims requiring knowledge, such as willful patent infringement under 35 U.S.C. \u00a7 284, or for triggering professional duties of inquiry and conflict checks within a law firm. A minor evidentiary limitation is that while the receipt proves the email was opened, it does not conclusively prove the recipient read or comprehended the substantive attachments, nor does an inquiry alone establish an attorney-client relationship. Procedurally, this instrument must be preserved under a strict litigation hold, as it may serve as a foundational exhibit in future SDTX or USPTO proceedings to rebut any defense of lack of notice or willful blindness regarding the 47-patent portfolio.",
+  "recommended_next_steps": "1. Securely archive the native XML and HTML receipt files, along with the original sent email, to preserve metadata for FRE 901 authentication. 2. Monitor the recipient firm (Cooley LLP) for any responsive communications, declination of representation, or potential conflicts of interest. 3. If no response is received within a commercially reasonable timeframe, consider a follow-up communication sent via certified mail or a secondary tracked method to compound proof of notice. 4. Ensure all underlying federal disclosures and the 47-patent portfolio are properly docketed, maintained, and compliant with USPTO regulations.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "FRE 901 Authentication",
+    "35 U.S.C. \u00a7 284 Willful Infringement",
+    "Patent Portfolio Management",
+    "Federal Disclosures",
+    "Electronic Discovery",
+    "Attorney-Client Inquiry",
+    "Litigation Hold"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "J. Bostic"
+    ],
+    "companies": [
+      "RPost",
+      "Google",
+      "Microsoft",
+      "Amazon"
+    ],
+    "technologies": [
+      "RMail",
+      "Registered Email",
+      "MSOffice 16",
+      "Microsoft-IIS/10.0"
+    ],
+    "products": [
+      "47-Patent Portfolio"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Cooley LLP"
+    ],
+    "attorneys": [
+      "J. Bostic"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "3977358050",
+  "basefilename": "READ-RECEIPT_jbostic@cooley.com",
+  "original_filename": "READ-RECEIPT_jbostic@cooley.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jbostic@cooley.com",
+  "primary_recipient_an": "Jbostic (Logan Cooley)",
+  "all_recipients": [
+    "jbostic@cooley.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jbostic@cooley.com": "Jbostic (Logan Cooley)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

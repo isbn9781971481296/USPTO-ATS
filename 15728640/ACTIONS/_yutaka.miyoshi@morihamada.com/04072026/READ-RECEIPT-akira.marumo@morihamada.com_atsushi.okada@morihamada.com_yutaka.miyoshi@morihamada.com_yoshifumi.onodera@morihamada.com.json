@@ -1,0 +1,36 @@
+{
+  "index": 181,
+  "header": "# Enclosure #181: READ-RECEIPT-akira-marumo-morihamada-com-atsushi-okada-morihamada-com-yutaka-miyoshi-morihamada-com-yoshifumi-onodera-morihamada-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/Intellectual-Property-Law-Firms/READ-RECEIPT-akira.marumo@morihamada.com_atsushi.okada@morihamada.com_yutaka.miyoshi@morihamada.com_yoshifumi.onodera@morihamada.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-db4bff4cf5.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "akira.marumo@morihamada.com",
+  "primary_recipient_an": "Akira Marumo (morihamada.com)",
+  "all_recipients": [
+    "akira.marumo@morihamada.com",
+    "_atsushi.okada@morihamada.com",
+    "_yutaka.miyoshi@morihamada.com",
+    "atsushi.okada@morihamada.com",
+    "yutaka.miyoshi@morihamada.com",
+    "yoshifumi.onodera@morihamada.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "akira.marumo@morihamada.com": "Akira Marumo (morihamada.com)",
+    "_atsushi.okada@morihamada.com": "Atsushi Okada (morihamada.com)",
+    "_yutaka.miyoshi@morihamada.com": "Yutaka Miyoshi (morihamada.com)",
+    "atsushi.okada@morihamada.com": "Atsushi Okada (morihamada.com)",
+    "yutaka.miyoshi@morihamada.com": "Yutaka Miyoshi (morihamada.com)",
+    "yoshifumi.onodera@morihamada.com": "Yoshifumi Onodera (morihamada.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "READ-RECEIPT-akira.marumo@morihamada.com_atsushi.okada@morihamada.com_yutaka.miyoshi@morihamada.com_yoshifumi.onodera@morihamada.com.pdf",
+  "patent_applications_mentioned": [
+    "15/728,640"
+  ]
+}

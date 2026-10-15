@@ -1,0 +1,39 @@
+{
+  "serving_key": "301345951",
+  "canonical_key": "grant.fisher@corrs.com.au-and-team",
+  "display_name": "Grant Fisher (Corrs Chambers Westgarth)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Corrs Chambers Westgarth",
+  "full_name": "Grant Fisher",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Corrs Chambers Westgarth",
+  "domain": "corrs.com.au-and-team",
+  "addresses": {
+    "mailing_address": "Level 25, 567 Collins Street, Melbourne VIC 3000, Australia",
+    "business_address": "Level 25, 567 Collins Street, Melbourne VIC 3000, Australia",
+    "legal_service_address": "Level 25, 567 Collins Street, Melbourne VIC 3000, Australia"
+  },
+  "registered_agent": {
+    "name": "Corrs Chambers Westgarth (Principal Office)",
+    "address": "Level 25, 567 Collins Street, Melbourne VIC 3000, Australia",
+    "jurisdiction": "Victoria, Australia"
+  },
+  "contact": {
+    "primary_email": "grant.fisher@corrs.com.au-and-team",
+    "alternative_emails": [
+      "grant.fisher@corrs.com.au"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+61 3 9672 3000"
+    ],
+    "faxes": [
+      "+61 3 9672 3010"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,123 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Email receipt serving as evidentiary proof of delivery (and partial delivery failure) of a 'Formal Notice of Intellectual Property Blockade' sent by RJ Aguiar to executives at Akamai Technologies and outside counsel at Vorys. The underlying transmission asserts claims of patent infringement, architectural obsolescence, interstate wire fraud, and whistleblower retaliation, supported by attachments referencing a Department of Defense license grant, a portfolio of USPTO patent applications, and an SEC Tip, Complaint, and Referral (TCR).",
+  "attorneys_comments": "This cryptographic receipt is highly relevant for establishing actual notice of infringement under 35 U.S.C. \u00a7 287 and demonstrating the transmission of formal criminal referrals and SEC whistleblower claims. The evidentiary strength of the notice is bifurcated: while delivery failed for several key Akamai personnel (e.g., Blumofe, Gurvich) due to 'User Unknown' SMTP errors, successful delivery and 'Opened' status were logged for Akamai's outside counsel (David F. Hine) and other internal stakeholders. This establishes constructive and actual notice to the corporate entity. The inclusion of the 'Heidi Shyu License Grant' and DoD references strongly suggests the sender may attempt to invoke 28 U.S.C. \u00a7 1498, potentially shifting liability to the U.S. Government if the accused technologies are deployed in defense procurement. The adversarial posture is severe, intertwining intellectual property disputes with SEC whistleblower retaliation and criminal fraud allegations.",
+  "recommended_next_steps": "1. Preserve the native RPost receipt and associated cryptographic logs to authenticate the transmission under FRE 901. 2. Conduct a forensic review of the successfully delivered attachments, specifically the USPTO patent portfolio and DoD license grant, to evaluate potential 28 U.S.C. \u00a7 1498 government contractor immunity defenses. 3. Coordinate with white-collar and securities defense counsel to assess the material risks associated with SEC TCR 17742-648-351-976 and the attached criminal referrals. 4. Update the service matrix to reflect the invalid Akamai email addresses to prevent future procedural deficiencies.",
+  "tags": [
+    "35 U.S.C. \u00a7 287",
+    "28 U.S.C. \u00a7 1498",
+    "18 U.S.C. \u00a7 1343",
+    "FRCP 5",
+    "FRE 901",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "Patent Infringement",
+    "Whistleblower Retaliation",
+    "SEC Material Risk Disclosure",
+    "Procurement Fraud",
+    "Constructive Notice"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Aaron Williams",
+      "A. Karon",
+      "David F. Hine",
+      "B. Gelbord",
+      "Jim Casey",
+      "M. Sundara",
+      "R. Blumofe",
+      "P. Gurvich",
+      "S. Klein",
+      "Heidi Shyu",
+      "Emil Michael",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "Akamai",
+      "Vorys",
+      "Uber",
+      "Foley",
+      "KKC",
+      "Proofpoint, Inc.",
+      "Mimecast Services Limited",
+      "Sectigo Limited",
+      "DigiCert Inc",
+      "Google",
+      "RPost"
+    ],
+    "technologies": [
+      "NOVEL-ENCRYPTION-METHOD",
+      "TLSv1.2",
+      "ECDHE-RSA-AES256-GCM-SHA384",
+      "ECDHE-ECDSA-AES128-GCM-SHA256"
+    ],
+    "products": [
+      "RPost Registered Email"
+    ],
+    "government_offices": [
+      "Department of Defense",
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "California",
+      "London"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Vorys",
+      "Foley"
+    ],
+    "attorneys": [
+      "David F. Hine",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Cody Matthew Herche",
+      "Colin McDonald"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "1206500467",
+  "basefilename": "READ-RECEIPT-dfhine@vorys.com-and-Akamai",
+  "original_filename": "READ-RECEIPT-dfhine@vorys.com-and-Akamai.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "dfhine@vorys.com",
+  "primary_recipient_an": "Dfhine (Vorys)",
+  "all_recipients": [
+    "dfhine@vorys.com",
+    "dfhine@vorys.com-and-akamai",
+    "rblumofe@akamai.com",
+    "sklein@akamai.com",
+    "pgurvich@akamai.com",
+    "bgelbord@akamai.com",
+    "akaron@akamai.com",
+    "aaron.williams@akamai.com",
+    "jcasey@akamai.com",
+    "msundara@akamai.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "dfhine@vorys.com": "Dfhine (Vorys)",
+    "dfhine@vorys.com-and-akamai": "Dfhine (Vorys)",
+    "rblumofe@akamai.com": "Rblumofe (Akamai Technologies)",
+    "sklein@akamai.com": "Sklein (Akamai Technologies)",
+    "pgurvich@akamai.com": "Pgurvich (Akamai Technologies)",
+    "bgelbord@akamai.com": "Bgelbord (Akamai Technologies)",
+    "akaron@akamai.com": "Akaron (Akamai Technologies)",
+    "aaron.williams@akamai.com": "Aaron Williams (Akamai Technologies)",
+    "jcasey@akamai.com": "Jcasey (Akamai Technologies)",
+    "msundara@akamai.com": "Msundara (Akamai Technologies)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

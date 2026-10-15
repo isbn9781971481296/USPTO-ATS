@@ -1,0 +1,26 @@
+{
+  "index": 165,
+  "header": "# Enclosure #165: EMAIL-TO-brian-cordery-bristows-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/EMAIL-TO-brian.cordery@bristows.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-email-to-brian.cordery@bristows.com-6ec02fd056.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "EMAIL-TO",
+  "subtype": "sent_email",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "brian.cordery@bristows.com",
+  "primary_recipient_an": "Brian Cordery (Bristows)",
+  "all_recipients": [
+    "brian.cordery@bristows.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "brian.cordery@bristows.com": "Brian Cordery (Bristows)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04072026",
+  "original_filename": "EMAIL-TO-brian.cordery@bristows.com.pdf",
+  "patent_applications_mentioned": [
+    "19/639,265"
+  ]
+}

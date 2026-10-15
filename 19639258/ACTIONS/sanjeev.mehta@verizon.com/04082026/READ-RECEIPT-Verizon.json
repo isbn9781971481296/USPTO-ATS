@@ -1,0 +1,47 @@
+{
+  "index": 59,
+  "header": "# Enclosure #59: READ-RECEIPT-Verizon.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/__HIGH-Legal-Liability/READ-RECEIPT-Verizon.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-high-legal-liability-read-receipt-veri-6e2907c937.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "david.frist@alston.com",
+  "primary_recipient_an": "David Frist (Alston)",
+  "all_recipients": [
+    "david.frist@alston.com",
+    "brosenthal@gibsondunn.com",
+    "jwaldrop@kasowitz.com",
+    "investor.relations@verizon.com",
+    "athakur@manatt.com",
+    "caren.khoo@verizon.com",
+    "sanjeev.mehta@verizon.com",
+    "mary.penn@verizon.com",
+    "vandana.venkatesh@verizon.com",
+    "rj.aguiar.m@gmail.com",
+    "smtpthread-74054821775678699142@us-mta561.us.mimecast.lan"
+  ],
+  "all_recipients_an": {
+    "david.frist@alston.com": "David Frist (Alston)",
+    "brosenthal@gibsondunn.com": "Brosenthal (gibsondunn.com)",
+    "jwaldrop@kasowitz.com": "Jwaldrop (Kasowitz LLP)",
+    "investor.relations@verizon.com": "Investor Relations (Verizon Communications)",
+    "athakur@manatt.com": "Athakur (Microsoft Corporation)",
+    "caren.khoo@verizon.com": "Caren Khoo (Verizon Communications)",
+    "sanjeev.mehta@verizon.com": "Sanjeev Mehta (Verizon Communications)",
+    "mary.penn@verizon.com": "Mary Penn (Verizon Communications)",
+    "vandana.venkatesh@verizon.com": "Vandana Venkatesh (Verizon Communications)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)",
+    "smtpthread-74054821775678699142@us-mta561.us.mimecast.lan": "Smtpthread (Us-mta561)"
+  },
+  "date": "04082026",
+  "original_filename": "READ-RECEIPT-Verizon.pdf",
+  "patent_applications_mentioned": [
+    "19/639,255",
+    "19/639,265",
+    "19/639,258",
+    "19/639,272"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "index": 62,
+  "header": "# Enclosure #62: READ-RECEIPT-frank-j-bisignano-irs-gov-Tier-0.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT_frank.j.bisignano@irs.gov_Tier-0.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-frank.j.bisignano@-e8cee99342.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "frank.j.bisignano@irs.gov",
+  "primary_recipient_an": "Frank J. Bisignano (Internal Revenue Service)",
+  "all_recipients": [
+    "frank.j.bisignano@irs.gov",
+    "dottie.romo@irs.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "frank.j.bisignano@irs.gov": "Frank J. Bisignano (Internal Revenue Service)",
+    "dottie.romo@irs.gov": "Dottie Romo (Internal Revenue Service)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04152026",
+  "original_filename": "READ-RECEIPT_frank.j.bisignano@irs.gov_Tier-0.pdf",
+  "patent_applications_mentioned": []
+}

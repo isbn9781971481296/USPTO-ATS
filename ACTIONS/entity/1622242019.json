@@ -1,0 +1,48 @@
+{
+  "serving_key": "1622242019",
+  "canonical_key": "police.chief@atlantaga.gov",
+  "display_name": "Chief of Police (Atlanta Police Department)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Atlanta Police Department, City of Atlanta",
+  "full_name": "Darin Schierbaum",
+  "pronouns": null,
+  "title": "Chief of Police",
+  "organization": "Atlanta Police Department, City of Atlanta",
+  "domain": "atlantaga.gov",
+  "addresses": {
+    "mailing_address": "226 Peachtree St NW, Atlanta, GA 30303",
+    "business_address": "226 Peachtree St NW, Atlanta, GA 30303",
+    "legal_service_address": "Municipal Clerk, City of Atlanta, 55 Trinity Avenue SW, Suite 2700, Atlanta, GA 30303"
+  },
+  "registered_agent": {
+    "name": "Municipal Clerk, City of Atlanta",
+    "address": "55 Trinity Avenue SW, Suite 2700, Atlanta, GA 30303",
+    "jurisdiction": "Georgia"
+  },
+  "contact": {
+    "primary_email": "police.chief@atlantaga.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-404-546-6900"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1367851914",
+      "canonical_key": "city.attorney@atlantaga.gov",
+      "display_name": "City Attorney",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "15026904",
+      "canonical_key": "finance@atlantaga.gov",
+      "display_name": "Department of Finance",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

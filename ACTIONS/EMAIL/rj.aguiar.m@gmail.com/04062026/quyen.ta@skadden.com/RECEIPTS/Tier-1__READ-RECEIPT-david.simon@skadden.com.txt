@@ -1,0 +1,160 @@
+4/7/26, 2:58 AM
+
+Receipt: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures (Delivery Failure) - rj.aguiar.m@gmail.com -…
+
+Search mail
+Compose
+Delivery Status Address Status Details Delivered (UTC*) Delivered (local) Opened (local) rj.aguiar.m@gmail.com Delivered and Opened
+
+Inbox
+Receipt
+
+Starred
+
+Delivery Status Address Status Details Delivered (UTC*) Delivered (local) Opened (local) alexandra.caritis@kirkland.com Delivered and
+
+Snoozed
+Sent
+
+Receipt <receipt@r1.rpost.net>
+
+Drafts
+
+6
+
+Purchases
+
+2
+
+Mon, Apr 6, 6:18 PM (8
+
+to me
+
+More
+This receipt contains verifiable proof of your RPost transaction.
+
+Labels
+
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+david.simon@skadden.com
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+Delivered and
+
+HTTP-
+
+04/06/2026 08:48:51
+
+04/06/2026 08:48:51
+
+04/06/2026 09:11:44
+
+Opened
+
+IP:172.225.30.85
+
+PM (UTC)
+
+PM
+
+PM
+
+***
+
+***
+
+550 5.1.1 : Recipient
+don.vieira@skadden.com
+
+Delivery Failed
+
+address rejected:
+User unknown in
+relay recipient table
+
+quyen.ta@skadden.com
+
+Delivered and
+
+HTTP-
+
+04/06/2026 08:48:50
+
+04/06/2026 08:48:50
+
+04/06/2026 09:06:33
+
+Opened
+
+IP:172.226.36.22
+
+PM (UTC)
+
+PM
+
+PM
+
+04/06/2026 08:55:07
+
+04/06/2026 08:55:07
+
+04/06/2026 09:24:45
+
+PM (UTC)
+
+PM
+
+PM
+
+Delivered and
+
+rj.aguiar.m@gmail.com
+
+Opened
+
+HTTP-IP:66.249.80.3
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+To:
+
+Upgrade
+
+Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+
+Reply
+
+Forward <david.simon@skadden.com> <don.vieira@skadden.com> <quyen.ta@skadden.com>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+New Message
+
+New Message
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgLFprTpCPsbnvcRLBXDKJLbjs?compose=lqrslwSpqfNvFNWNFBXnmtklWBjqZpmtbvxvwSnNTDTkp…
+
+1/1
+
+

@@ -1,0 +1,37 @@
+{
+  "serving_key": "1314104133",
+  "canonical_key": "confidential@atg.in.gov",
+  "display_name": "Indiana Office of the Attorney General",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Indiana Office of the Attorney General",
+  "full_name": "Indiana Office of the Attorney General",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "Indiana Office of the Attorney General",
+  "domain": "atg.in.gov",
+  "addresses": {
+    "mailing_address": "Indiana Government Center South, 302 W. Washington St., 5th Floor, Indianapolis, IN 46204",
+    "business_address": "Indiana Government Center South, 302 W. Washington St., 5th Floor, Indianapolis, IN 46204",
+    "legal_service_address": "Indiana Government Center South, 302 W. Washington St., 5th Floor, Indianapolis, IN 46204"
+  },
+  "registered_agent": {
+    "name": "Office of the Attorney General (Statutory Agent for the State)",
+    "address": "Indiana Government Center South, 302 W. Washington St., 5th Floor, Indianapolis, IN 46204",
+    "jurisdiction": "Indiana"
+  },
+  "contact": {
+    "primary_email": "confidential@atg.in.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-317-232-6201"
+    ],
+    "faxes": [
+      "+1-317-232-7979"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

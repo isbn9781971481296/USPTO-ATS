@@ -1,0 +1,35 @@
+{
+  "serving_key": "1535634792",
+  "canonical_key": "ssovinsky@oag.state.va.us",
+  "display_name": "Stephen Sovinsky (Office of the Attorney General of Virginia)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Office of the Attorney General of Virginia",
+  "full_name": "Stephen Sovinsky",
+  "pronouns": null,
+  "title": "Assistant Attorney General",
+  "organization": "Office of the Attorney General of Virginia",
+  "domain": "oag.state.va.us",
+  "addresses": {
+    "mailing_address": "202 North 9th Street, Richmond, VA 23219",
+    "business_address": "202 North 9th Street, Richmond, VA 23219",
+    "legal_service_address": "202 North 9th Street, Richmond, VA 23219"
+  },
+  "registered_agent": {
+    "name": "Office of the Attorney General of Virginia",
+    "address": "202 North 9th Street, Richmond, VA 23219",
+    "jurisdiction": "Virginia"
+  },
+  "contact": {
+    "primary_email": "ssovinsky@oag.state.va.us",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "804-786-2071"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

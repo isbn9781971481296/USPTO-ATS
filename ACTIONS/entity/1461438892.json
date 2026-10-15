@@ -1,0 +1,35 @@
+{
+  "serving_key": "1461438892",
+  "canonical_key": "bgelbord@akamai.com",
+  "display_name": "Boaz Gelbord (Akamai Technologies, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Akamai Technologies, Inc.",
+  "full_name": "Boaz Gelbord",
+  "pronouns": null,
+  "title": "Chief Security Officer",
+  "organization": "Akamai Technologies, Inc.",
+  "domain": "akamai.com",
+  "addresses": {
+    "mailing_address": "145 Broadway, Cambridge, MA 02142",
+    "business_address": "145 Broadway, Cambridge, MA 02142",
+    "legal_service_address": "C T Corporation System, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "C T Corporation System",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "bgelbord@akamai.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-617-444-3000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

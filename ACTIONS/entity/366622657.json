@@ -1,0 +1,33 @@
+{
+  "serving_key": "366622657",
+  "canonical_key": "dottie.romo@irs.gov",
+  "display_name": "Dottie Romo (Internal Revenue Service)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Internal Revenue Service",
+  "full_name": "Dottie Romo",
+  "pronouns": null,
+  "title": "Official",
+  "organization": "Internal Revenue Service",
+  "domain": "irs.gov",
+  "addresses": {
+    "mailing_address": "1111 Constitution Ave NW, Washington, DC 20224",
+    "business_address": "1111 Constitution Ave NW, Washington, DC 20224",
+    "legal_service_address": "U.S. Department of Justice, 950 Pennsylvania Avenue, NW, Washington, DC 20530"
+  },
+  "registered_agent": {
+    "name": "Attorney General of the United States",
+    "address": "950 Pennsylvania Avenue, NW, Washington, DC 20530",
+    "jurisdiction": "Federal"
+  },
+  "contact": {
+    "primary_email": "dottie.romo@irs.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

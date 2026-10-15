@@ -1,0 +1,56 @@
+{
+  "serving_key": "3593099183",
+  "canonical_key": "liv.herriot@sidley.com",
+  "display_name": "Liv Herriot (Sidley Austin LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Sidley Austin LLP",
+  "full_name": "Liv Herriot",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Sidley Austin LLP",
+  "domain": "sidley.com",
+  "addresses": {
+    "mailing_address": "1001 Page Mill Road, Building 1, Palo Alto, CA 94304",
+    "business_address": "1001 Page Mill Road, Building 1, Palo Alto, CA 94304",
+    "legal_service_address": "One South Dearborn, Chicago, IL 60603"
+  },
+  "registered_agent": {
+    "name": "Sidley Austin LLP (General Counsel)",
+    "address": "One South Dearborn, Chicago, IL 60603",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "liv.herriot@sidley.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 650 565 7000"
+    ],
+    "faxes": [
+      "+1 650 565 7100"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1669517281",
+      "canonical_key": "cshenk@sidley.com",
+      "display_name": "C. Shenk",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3257325281",
+      "canonical_key": "mbettinger@sidley.com",
+      "display_name": "Michael Bettinger",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "173468651",
+      "canonical_key": "bart.biggers@sidley.com",
+      "display_name": "Bart Biggers",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

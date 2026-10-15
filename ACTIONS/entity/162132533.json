@@ -1,0 +1,37 @@
+{
+  "serving_key": "162132533",
+  "canonical_key": "john.spiegel@mto.com",
+  "display_name": "John W. Spiegel (Munger, Tolles & Olson LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Munger, Tolles & Olson LLP",
+  "full_name": "John W. Spiegel",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Munger, Tolles & Olson LLP",
+  "domain": "mto.com",
+  "addresses": {
+    "mailing_address": "350 South Grand Avenue, 50th Floor, Los Angeles, CA 90071",
+    "business_address": "350 South Grand Avenue, 50th Floor, Los Angeles, CA 90071",
+    "legal_service_address": "350 South Grand Avenue, 50th Floor, Los Angeles, CA 90071"
+  },
+  "registered_agent": {
+    "name": "Munger, Tolles & Olson LLP",
+    "address": "350 South Grand Avenue, 50th Floor, Los Angeles, CA 90071",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "john.spiegel@mto.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-213-683-9100"
+    ],
+    "faxes": [
+      "+1-213-687-3702"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

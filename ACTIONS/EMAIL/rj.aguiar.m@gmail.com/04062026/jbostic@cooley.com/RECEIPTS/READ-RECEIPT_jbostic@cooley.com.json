@@ -1,0 +1,24 @@
+{
+  "index": 178,
+  "header": "# Enclosure #178: READ-RECEIPT-jbostic-cooley-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT_jbostic@cooley.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-jbostic@cooley.com-82a5926046.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jbostic@cooley.com",
+  "primary_recipient_an": "Jbostic (Logan Cooley)",
+  "all_recipients": [
+    "jbostic@cooley.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jbostic@cooley.com": "Jbostic (Logan Cooley)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT_jbostic@cooley.com.pdf",
+  "patent_applications_mentioned": []
+}

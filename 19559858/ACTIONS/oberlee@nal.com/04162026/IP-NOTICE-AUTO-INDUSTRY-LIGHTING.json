@@ -1,0 +1,38 @@
+{
+  "index": 95,
+  "header": "# Enclosure #95: IP-NOTICE-AUTO-INDUSTRY-LIGHTING.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/AUTOMAKERS_USA/IP-NOTICE-AUTO-INDUSTRY-LIGHTING.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-3414adcc76.pdf",
+  "pdf_exists": true,
+  "category": "letter",
+  "prefix_hint": "LETTER",
+  "subtype": "letter",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "christophe.perillat@valeo.com",
+  "primary_recipient_an": "Christophe P\u00e9rillat (Valeo)",
+  "all_recipients": [
+    "christophe.perillat@valeo.com",
+    "sustainability.hella@forvia.com",
+    "oberlee@nal.com",
+    "holliman@nal.com",
+    "info@hella.com",
+    "deb_oberlee@nal.com",
+    "roy_holliman@nal.com"
+  ],
+  "all_recipients_an": {
+    "christophe.perillat@valeo.com": "Christophe P\u00e9rillat (Valeo)",
+    "sustainability.hella@forvia.com": "Bernard Sch\u00e4ferbarthold (Forvia SE)",
+    "oberlee@nal.com": "Oberlee (Nalchik)",
+    "holliman@nal.com": "Holliman (Nalchik)",
+    "info@hella.com": "Bernard Sch\u00e4ferbarthold (Hella)",
+    "deb_oberlee@nal.com": "Deb Oberlee (Nalchik)",
+    "roy_holliman@nal.com": "Roy Holliman (Nalchik)"
+  },
+  "date": "04162026",
+  "original_filename": "IP-NOTICE-AUTO-INDUSTRY-LIGHTING.pdf",
+  "patent_applications_mentioned": [
+    "19/560,042",
+    "19/559,867",
+    "19/559,858"
+  ]
+}

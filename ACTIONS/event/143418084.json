@@ -1,0 +1,69 @@
+{
+  "summary_of_pdf": "The provided document is an RPost Registered Email receipt serving as cryptographic, verifiable proof of delivery and actual notice. It confirms the successful transmission, delivery, and opening of an email sent by RJ Aguiar to an attorney at Orrick on April 7, 2026. The underlying communication constitutes an inquiry for intellectual property representation concerning a 47-patent portfolio and parallel federal disclosures implicating eBay and UBER.",
+  "attorneys_comments": "As senior litigation counsel, I note that this RPost receipt provides highly reliable, court-admissible evidence of delivery and actual notice under the Federal Rules of Evidence (FRE 901). The verifiable timestamps (UTC and local) and IP address tracking establish an indisputable timeline of notice to Orrick counsel, foreclosing any plausible deniability regarding the receipt of the representation inquiry and the enclosed disclosures. Tactically, if this relates to prospective litigation against eBay or UBER, this receipt solidifies the date of actual knowledge for the receiving party. This is highly relevant for establishing a timeline for willful infringement claims under 35 U.S.C. \u00a7 284, triggering duties to prospective clients under ABA Model Rule 1.18, and potentially implicating SEC material risk disclosure obligations depending on the nature of the 'Parallel Federal Disclosures'. The evidentiary strength of this document is robust, provided the native cryptographic attachments are preserved.",
+  "recommended_next_steps": "Preserve the RPost receipt and its cryptographic attachments in their native electronic format to ensure evidentiary admissibility and authentication under FRE 901. Receiving counsel must immediately conduct a comprehensive conflicts check regarding eBay, UBER, and the referenced 47-patent portfolio. Depending on the conflicts outcome, counsel must formally respond to the prospective client to either accept the engagement or issue a clear, unequivocal non-engagement letter to avoid implied attorney-client relationship liabilities and tolling issues.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "FRE 901 (Authentication)",
+    "35 U.S.C. \u00a7 284 (Willful Infringement)",
+    "ABA Model Rule 1.18 (Duties to Prospective Client)",
+    "Patent Infringement",
+    "SEC Material Risk Disclosure",
+    "Prospective Client Communication",
+    "Attorney-Client Privilege",
+    "Federal Disclosures"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar"
+    ],
+    "companies": [
+      "eBay",
+      "UBER",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "RPost Registered Email",
+      "Cryptographic Proof of Delivery"
+    ],
+    "products": [
+      "47-Patent Portfolio"
+    ],
+    "government_offices": [
+      "Federal Agencies"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Orrick, Herrington & Sutcliffe LLP"
+    ],
+    "attorneys": [
+      "A. Walsh"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "143418084",
+  "basefilename": "EMAIL-TO-awalsh@orrick.com",
+  "original_filename": "EMAIL-TO-awalsh@orrick.com.pdf",
+  "category": "email",
+  "subtype": "sent_email",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "awalsh@orrick.com",
+  "primary_recipient_an": "Awalsh (Abuse)",
+  "all_recipients": [
+    "awalsh@orrick.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "awalsh@orrick.com": "Awalsh (Abuse)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "19/559,608"
+  ]
+}

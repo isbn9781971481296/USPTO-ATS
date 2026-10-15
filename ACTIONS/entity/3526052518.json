@@ -1,0 +1,42 @@
+{
+  "serving_key": "3526052518",
+  "canonical_key": "michael.rapino@livenation.com",
+  "display_name": "Michael Rapino (Live Nation Entertainment, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Live Nation Entertainment, Inc.",
+  "full_name": "Michael Rapino",
+  "pronouns": null,
+  "title": "Chief Executive Officer",
+  "organization": "Live Nation Entertainment, Inc.",
+  "domain": "livenation.com",
+  "addresses": {
+    "mailing_address": "9348 Civic Center Drive, Beverly Hills, CA 90210",
+    "business_address": "9348 Civic Center Drive, Beverly Hills, CA 90210",
+    "legal_service_address": "c/o The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "michael.rapino@livenation.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-310-867-7000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1757814801",
+      "canonical_key": "dan.wall@livenation.com",
+      "display_name": "Dan Wall",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

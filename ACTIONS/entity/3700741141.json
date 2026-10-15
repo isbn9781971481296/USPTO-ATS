@@ -1,0 +1,35 @@
+{
+  "serving_key": "3700741141",
+  "canonical_key": "seungkyuy@kia.com",
+  "display_name": "Seungkyu Yoon (Kia America, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Kia America, Inc.",
+  "full_name": "Seungkyu Yoon",
+  "pronouns": null,
+  "title": "President and CEO",
+  "organization": "Kia America, Inc.",
+  "domain": "kia.com",
+  "addresses": {
+    "mailing_address": "111 Peters Canyon Road, Irvine, CA 92606",
+    "business_address": "111 Peters Canyon Road, Irvine, CA 92606",
+    "legal_service_address": "C T Corporation System, 330 N Brand Blvd, Ste 700, Glendale, CA 91203"
+  },
+  "registered_agent": {
+    "name": "C T Corporation System",
+    "address": "330 N Brand Blvd, Ste 700, Glendale, CA 91203",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "seungkyuy@kia.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "800-333-4542"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

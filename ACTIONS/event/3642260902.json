@@ -1,0 +1,117 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Email receipt serving as verifiable evidentiary proof of delivery for a formal administrative claim of patent infringement under DFARS 227.7004. The underlying communication, directed at Lockheed Martin and the U.S. Department of Defense, asserts patent infringement and procurement irregularities regarding perpetually licensed technologies. The receipt confirms successful delivery and opening by Michael Schmidt (USAF) and Kevin J. O'Connor (Lockheed Martin), while documenting delivery failures for Craig Martell, Valerie Browning, and Emil Michael due to invalid or unroutable addresses.",
+  "attorneys_comments": "This RPost receipt provides robust, court-admissible evidentiary proof of delivery and actual notice (opened status) for key personnel at the USAF and Lockheed Martin, satisfying the strict notice requirements precedent to a potential 28 U.S.C. \u00a7 1498 action in the Court of Federal Claims. Tactically, the successful delivery to Michael Schmidt and Kevin J. O'Connor establishes a definitive timeline for the administrative claim under DFARS 227.7004, tolling applicable statutes of limitations and triggering the agencies' duty to investigate. However, the delivery failures to Craig Martell, Valerie Browning, and Emil Michael present a procedural vulnerability if their specific actual notice is statutorily or contractually mandated. Counsel must immediately cure these defective services via alternative means. Furthermore, the inclusion of attachments referencing a 'Heidi Shyu License Grant' and an EPO defensive publication suggests a complex licensing and prior art landscape that will require meticulous evidentiary parsing during the administrative review phase.",
+  "recommended_next_steps": "1. Preserve the native RPost email and XML/HTML attachments in a secure, tamper-evident litigation hold to maintain chain of custody for authentication under FRE 901. 2. Immediately effectuate substitute service of the DFARS 227.7004 administrative claim upon Craig Martell, Valerie Browning, and Emil Michael using verified physical addresses via USPS Certified Mail or process server to cure the electronic delivery failures. 3. Calendar the statutory response deadlines triggered by the April 17, 2026, delivery to the USAF and Lockheed Martin. 4. Prepare a comprehensive infringement claim chart mapping the asserted patent claims to the accused Lockheed Martin/DoD instrumentalities in anticipation of the agency's request for supplemental information or a subsequent 28 U.S.C. \u00a7 1498 suit.",
+  "tags": [
+    "DFARS 227.7004",
+    "28 U.S.C. \u00a7 1498",
+    "35 U.S.C. \u00a7 271",
+    "Patent Infringement",
+    "Administrative Claim",
+    "Evidentiary Proof of Delivery",
+    "Procurement Irregularities",
+    "Federal Rules of Evidence 901",
+    "Actual Notice",
+    "Department of Defense Procurement"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar JR",
+      "Michael Schmidt",
+      "Kevin J. O'Connor",
+      "Craig Martell",
+      "Valerie Browning",
+      "Emil Michael",
+      "Heidi Shyu",
+      "Jeff Bezos",
+      "G. Philpott",
+      "N. Simon",
+      "S. Rowan",
+      "R. Menidjel",
+      "Y. Meniere",
+      "T. Vilela"
+    ],
+    "companies": [
+      "Lockheed Martin Corporation",
+      "Amazon",
+      "RPost",
+      "DigiCert Inc",
+      "Google Trust Services"
+    ],
+    "technologies": [
+      "Perpetually Licensed Technologies",
+      "RMail",
+      "Registered Receipt"
+    ],
+    "products": [],
+    "government_offices": [
+      "U.S. Department of Defense (DoD)",
+      "United States Air Force (USAF)",
+      "Office of the Secretary of Defense (OSD)",
+      "European Patent Office (EPO)",
+      "Defense Information Systems Agency"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Fort Meade, Maryland",
+      "Bethesda, Maryland"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "3642260902",
+  "basefilename": "READ-RECEIPT_michael.schmidt@us.af.mil_kevin.j.oconnor@lmco.com__Tier-0_re_Lockheed-Martin",
+  "original_filename": "READ-RECEIPT_michael.schmidt@us.af.mil_kevin.j.oconnor@lmco.com__Tier-0_re_Lockheed-Martin.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04172026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "michael.schmidt@us.af.mil",
+  "primary_recipient_an": "Michael J. Schmidt (United States Air Force)",
+  "all_recipients": [
+    "michael.schmidt@us.af.mil",
+    "_kevin.j.oconnor@lmco.com",
+    "kevin.j.oconnor@lmco.com",
+    "jeff.bezos@amazon.com",
+    "emil.michael@osd.mil",
+    "craig.martell@lmco.com",
+    "valerie.browning@lmco.com",
+    "srowan@epo.org",
+    "tvilela@epo.org",
+    "ymeniere@epo.org",
+    "nsimon@epo.org",
+    "gphilpott@epo.org",
+    "rj.aguiar.m+legal-notice@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "michael.schmidt@us.af.mil": "Michael J. Schmidt (United States Air Force)",
+    "_kevin.j.oconnor@lmco.com": "Kevin J. Oconnor (Lockheed Martin Corporation)",
+    "kevin.j.oconnor@lmco.com": "Kevin J. Oconnor (Lockheed Martin Corporation)",
+    "jeff.bezos@amazon.com": "Jeff Bezos (Amazon.com, Inc.)",
+    "emil.michael@osd.mil": "Emil Michael (Office of the Secretary of Defense)",
+    "craig.martell@lmco.com": "Craig Martell (Lockheed Martin Corporation)",
+    "valerie.browning@lmco.com": "Valerie Browning (Lockheed Martin Corporation)",
+    "srowan@epo.org": "Srowan (European Patent Office)",
+    "tvilela@epo.org": "Tvilela (European Patent Office)",
+    "ymeniere@epo.org": "Ymeniere (European Patent Office)",
+    "nsimon@epo.org": "Nsimon (European Patent Office)",
+    "gphilpott@epo.org": "Gphilpott (European Patent Office)",
+    "rj.aguiar.m+legal-notice@gmail.com": "Rj Aguiar M+legal Notice (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

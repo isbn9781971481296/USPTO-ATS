@@ -1,0 +1,42 @@
+{
+  "serving_key": "1736643240",
+  "canonical_key": "peter.danias@arnoldporter.com",
+  "display_name": "Peter Danias (Arnold & Porter)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Arnold & Porter Kaye Scholer LLP",
+  "full_name": "Peter Danias",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Arnold & Porter Kaye Scholer LLP",
+  "domain": "arnoldporter.com",
+  "addresses": {
+    "mailing_address": "601 Massachusetts Ave, NW, Washington, DC 20001-3743",
+    "business_address": "601 Massachusetts Ave, NW, Washington, DC 20001-3743",
+    "legal_service_address": "601 Massachusetts Ave, NW, Washington, DC 20001-3743"
+  },
+  "registered_agent": {
+    "name": "Arnold & Porter Kaye Scholer LLP",
+    "address": "601 Massachusetts Ave, NW, Washington, DC 20001-3743",
+    "jurisdiction": "Washington, D.C."
+  },
+  "contact": {
+    "primary_email": "peter.danias@arnoldporter.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-942-5000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "43726035",
+      "canonical_key": "jonathan.gleklen@arnoldporter.com",
+      "display_name": "Jonathan Gleklen",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

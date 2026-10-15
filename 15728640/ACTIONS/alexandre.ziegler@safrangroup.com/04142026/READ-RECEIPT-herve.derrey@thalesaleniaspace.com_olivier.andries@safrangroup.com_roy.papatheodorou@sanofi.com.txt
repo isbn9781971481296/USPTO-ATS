@@ -1,0 +1,528 @@
+4/14/26, 1:38 PM
+
+Gmail - Receipt: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AND NOTIFIC…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL
+RIGHTS PERIOD, AND NOTIFICATION OF U.S. DEFENSE INTELLECTUAL PROPERTY
+BLOCKADE
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Tue, Apr 14, 2026 at 12:27 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered
+
+(UTC*)
+
+(local)
+
+Opened (local)
+
+alexandre.ziegler@safrangroup.
+com
+
+Delivered to
+Mail Server
+
+04/14/2026
+relayed;mailhub2.safrangroup.
+03:19:11 PM
+com (217.108.170.10)
+(UTC)
+
+04/14/2026
+03:19:11 PM
+
+herve.derrey@
+thalesaleniaspace.com
+
+Delivered
+and Opened
+
+MUA-IP:23.90.122.185
+
+04/14/2026
+03:19:08 PM
+(UTC)
+
+04/14/2026
+03:19:08 PM
+
+04/14/2026
+04:23:25 PM
+
+olivier.andries@safrangroup.com
+
+Delivered
+and Opened
+
+MUA+HTTP-IP:127.0.0.1
+
+04/14/2026
+03:19:12 PM
+(UTC)
+
+04/14/2026
+03:19:12 PM
+
+04/14/2026
+04:49:16 PM
+
+patrice.caine@thalesgroup.com
+
+Delivered to
+Mail Server
+
+04/14/2026
+relayed;mx01.thalesgroup.com
+03:19:09 PM
+(23.90.119.252)
+(UTC)
+
+04/14/2026
+03:19:09 PM
+
+isabelle.simon@thalesgroup.com
+
+Delivered to
+Mail Server
+
+04/14/2026
+relayed;mx02.thalesgroup.com
+03:19:09 PM
+(23.90.122.150)
+(UTC)
+
+04/14/2026
+03:19:09 PM
+
+paul.hudson@sanofi.com
+
+Delivered to
+Mail Server
+
+relayed;de-smtp-inbound-2.
+mimecast.com
+(194.104.108.22)
+
+04/14/2026
+03:29:11 PM
+(UTC)
+
+04/14/2026
+03:29:11 PM
+
+roy.papatheodorou@sanofi.com
+
+Delivered
+and Opened
+
+HTTP-IP:72.145.76.10
+
+04/14/2026
+03:39:12 PM
+(UTC)
+
+04/14/2026
+03:39:12 PM
+
+04/14/2026
+03:39:51 PM
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered
+and Opened
+
+HTTP-IP:66.249.80.4
+
+04/14/2026
+03:19:21 PM
+(UTC)
+
+04/14/2026
+03:19:21 PM
+
+04/14/2026
+03:29:27 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS
+PERIOD, AND NOTIFICATION OF U.S. DEFENSE INTELLECTUAL PROPERTY
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862467770955868640&simpl=msg-f:1862467770955868640
+
+1/6
+
+4/14/26, 1:38 PM
+
+Gmail - Receipt: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AND NOTIFIC…
+
+BLOCKADE
+To:
+
+<alexandre.ziegler@safrangroup.com> <herve.derrey@thalesaleniaspace.com>
+<olivier.andries@safrangroup.com> <patrice.caine@thalesgroup.com>
+<isabelle.simon@thalesgroup.com> <paul.hudson@sanofi.com>
+<roy.papatheodorou@sanofi.com>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+Network ID:
+
+a994d8fc-ef10-404c-be5d-333c0af966dc@SM26
+
+Received by RMail System:
+
+04/14/2026 03:19:07 PM (UTC), 04/14/2026 03:19:07 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+89E61673462EBBFC06C3692B62405E8F5421350A
+
+Message Size:
+
+3449
+
+Features Used:
+File Size:
+
+File Name:
+
+133529
+
+FR_GROUP_IP_LIABILITY.pdf
+
+95518
+
+03__DOWNLOAD-RECEIPT_jeff.bezos@amazon.com__Tier-0.pdf
+
+78769029
+
+01__ISBN-9781971481296__Portfolio-of-Patent-Applications_and_Declaration-D132.pdf
+
+645171
+
+02__DEFENSIVE-PUBLICATION-EMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_tvilela@epo.org.pdf
+
+.
+
+Delivery Audit Trail
+4/14/2026 3:19:08 PM starting safrangroup.com/{default} 4/14/2026 3:19:08 PM connecting from mta21.r1.rpost.net (0.0.0.0) t
+o mailhub2.safrangroup.com (217.108.170.10) 4/14/2026 3:19:08 PM connected from 192.168.10.11:60419 4/14/2026 3:19:08
+PM >>> 220 mailhub2.safrangroup.com ESMTP Tue, 14 Apr 2026 17:19:08 +0200 4/14/2026 3:19:08 PM <<< EHLO mta21.r
+1.rpost.net 4/14/2026 3:19:08 PM >>> 250-mailhub2.safrangroup.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet
+you 4/14/2026 3:19:08 PM >>> 250-ENHANCEDSTATUSCODES 4/14/2026 3:19:08 PM >>> 250-PIPELINING 4/14/2026 3:1
+9:08 PM >>> 250-8BITMIME 4/14/2026 3:19:08 PM >>> 250-SIZE 157286400 4/14/2026 3:19:08 PM >>> 250 STARTTLS 4/1
+4/2026 3:19:08 PM <<< STARTTLS 4/14/2026 3:19:08 PM >>> 220 2.0.0 Ready to start TLS 4/14/2026 3:19:09 PM tls:TLSv
+1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/14/2026 3:19:09 PM tls:Cert: /C=FR/ST=Ile-de-France/O=S
+afran/CN=mailhub1.safrangroup.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36;
+verified=no 4/14/2026 3:19:09 PM <<< EHLO mta21.r1.rpost.net 4/14/2026 3:19:09 PM >>> 250-mailhub2.safrangroup.com H
+ello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/14/2026 3:19:09 PM >>> 250-ENHANCEDSTATUSCODES 4/14/
+2026 3:19:09 PM >>> 250-PIPELINING 4/14/2026 3:19:09 PM >>> 250-8BITMIME 4/14/2026 3:19:09 PM >>> 250 SIZE 157
+286400 4/14/2026 3:19:09 PM <<< MAIL FROM: BODY=8BITMIME 4/14/2026 3:19:09 PM >>> 250 2.1.0 Sender ok 4/14/202
+6 3:19:09 PM <<< RCPT TO: 4/14/2026 3:19:09 PM >>> 250 2.1.5 Recipient ok 4/14/2026 3:19:09 PM <<< DATA 4/14/2026
+3:19:09 PM >>> 354 Enter mail, end with "." on a line by itself 4/14/2026 3:19:09 PM <<< . 4/14/2026 3:19:11 PM >>> 250 2.
+0.0 4dhqn08kek-1 Message accepted for delivery 4/14/2026 3:19:11 PM <<< QUIT 4/14/2026 3:19:11 PM >>> 221 2.0.0 mailh
+ub2.safrangroup.com Closing connection 4/14/2026 3:19:11 PM closed mailhub2.safrangroup.com (217.108.170.10) in=646 out
+=19604 4/14/2026 3:19:13 PM done safrangroup.com/{default}
+4/14/2026 3:19:08 PM starting thalesaleniaspace.com/{default} 4/14/2026 3:19:08 PM connecting from mta21.r1.rpost.net (0.0.
+0.0) to mx01.thalesgroup.com (23.90.119.252) 4/14/2026 3:19:08 PM connected from 192.168.10.11:49440 4/14/2026 3:19:08
+PM >>> 220 esa.hc1631-21.eu.iphmx.com ESMTP 4/14/2026 3:19:08 PM <<< EHLO mta21.r1.rpost.net 4/14/2026 3:19:08 P
+M >>> 250-esa.hc1631-21.eu.iphmx.com 4/14/2026 3:19:08 PM >>> 250-8BITMIME 4/14/2026 3:19:08 PM >>> 250-SIZE 26
+214400 4/14/2026 3:19:08 PM >>> 250 STARTTLS 4/14/2026 3:19:08 PM <<< STARTTLS 4/14/2026 3:19:08 PM >>> 220 G
+o ahead with TLS 4/14/2026 3:19:08 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/14/2026 3:
+19:08 PM tls:Cert: /C=US/ST=California/L=San Jose/O=Cisco Systems Inc./CN=mx1.hc1631-21.eu.iphmx.com; issuer=/C=U
+S/O=IdenTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/14/2026 3:19:08 PM <<
+< EHLO mta21.r1.rpost.net 4/14/2026 3:19:08 PM >>> 250-esa.hc1631-21.eu.iphmx.com 4/14/2026 3:19:08 PM >>> 250-8BI
+TMIME 4/14/2026 3:19:08 PM >>> 250 SIZE 26214400 4/14/2026 3:19:08 PM <<< MAIL FROM: BODY=8BITMIME 4/14/202
+6 3:19:08 PM >>> 250 sender ok 4/14/2026 3:19:08 PM <<< RCPT TO: 4/14/2026 3:19:08 PM >>> 250 recipient ok 4/14/202
+6 3:19:08 PM <<< DATA 4/14/2026 3:19:08 PM >>> 354 go ahead 4/14/2026 3:19:08 PM <<< . 4/14/2026 3:19:08 PM >>> 25
+0 ok: Message 50749812 accepted 4/14/2026 3:19:08 PM <<< QUIT 4/14/2026 3:19:08 PM >>> 221 esa.hc1631-21.eu.iphm
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862467770955868640&simpl=msg-f:1862467770955868640
+
+2/6
+
+4/14/26, 1:38 PM
+
+Gmail - Receipt: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AND NOTIFIC…
+
+x.com 4/14/2026 3:19:08 PM closed mx01.thalesgroup.com (23.90.119.252) in=421 out=19607 4/14/2026 3:19:08 PM done th
+alesaleniaspace.com/{default}
+4/14/2026 3:19:08 PM starting safrangroup.com/{default} 4/14/2026 3:19:11 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+mailhub2.safrangroup.com (217.108.170.10) 4/14/2026 3:19:11 PM connected from 192.168.10.11:47896 4/14/2026 3:19:12 P
+M >>> 220 mailhub2.safrangroup.com ESMTP Tue, 14 Apr 2026 17:19:12 +0200 4/14/2026 3:19:12 PM <<< EHLO mta21.r1.r
+post.net 4/14/2026 3:19:12 PM >>> 250-mailhub2.safrangroup.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet yo
+u 4/14/2026 3:19:12 PM >>> 250-ENHANCEDSTATUSCODES 4/14/2026 3:19:12 PM >>> 250-PIPELINING 4/14/2026 3:19:1
+2 PM >>> 250-8BITMIME 4/14/2026 3:19:12 PM >>> 250-SIZE 157286400 4/14/2026 3:19:12 PM >>> 250 STARTTLS 4/14/2
+026 3:19:12 PM <<< STARTTLS 4/14/2026 3:19:12 PM >>> 220 2.0.0 Ready to start TLS 4/14/2026 3:19:12 PM tls:TLSv1.2
+connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/14/2026 3:19:12 PM tls:Cert: /C=FR/ST=Ile-de-France/O=Safra
+n/CN=mailhub1.safrangroup.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; ver
+ified=no 4/14/2026 3:19:12 PM <<< EHLO mta21.r1.rpost.net 4/14/2026 3:19:12 PM >>> 250-mailhub2.safrangroup.com Hello
+mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/14/2026 3:19:12 PM >>> 250-ENHANCEDSTATUSCODES 4/14/2026
+3:19:12 PM >>> 250-PIPELINING 4/14/2026 3:19:12 PM >>> 250-8BITMIME 4/14/2026 3:19:12 PM >>> 250 SIZE 15728640
+0 4/14/2026 3:19:12 PM <<< MAIL FROM: BODY=8BITMIME 4/14/2026 3:19:12 PM >>> 250 2.1.0 Sender ok 4/14/2026 3:1
+9:12 PM <<< RCPT TO: 4/14/2026 3:19:12 PM >>> 250 2.1.5 Recipient ok 4/14/2026 3:19:12 PM <<< DATA 4/14/2026 3:19:
+12 PM >>> 354 Enter mail, end with "." on a line by itself 4/14/2026 3:19:12 PM <<< . 4/14/2026 3:19:12 PM >>> 250 2.0.0 4
+dhqn08kfk-1 Message accepted for delivery 4/14/2026 3:19:12 PM <<< QUIT 4/14/2026 3:19:13 PM >>> 221 2.0.0 mailhub2.
+safrangroup.com Closing connection 4/14/2026 3:19:13 PM closed mailhub2.safrangroup.com (217.108.170.10) in=646 out=19
+598 4/14/2026 3:19:13 PM done safrangroup.com/{default}
+4/14/2026 3:19:09 PM starting thalesgroup.com/{default} 4/14/2026 3:19:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+mx01.thalesgroup.com (23.90.119.252) 4/14/2026 3:19:09 PM connected from 192.168.10.11:42060 4/14/2026 3:19:09 PM >>
+> 220 esa.hc1631-21.eu.iphmx.com ESMTP 4/14/2026 3:19:09 PM <<< EHLO mta21.r1.rpost.net 4/14/2026 3:19:09 PM >>>
+250-esa.hc1631-21.eu.iphmx.com 4/14/2026 3:19:09 PM >>> 250-8BITMIME 4/14/2026 3:19:09 PM >>> 250-SIZE 26214400
+4/14/2026 3:19:09 PM >>> 250 STARTTLS 4/14/2026 3:19:09 PM <<< STARTTLS 4/14/2026 3:19:09 PM >>> 220 Go ahead
+with TLS 4/14/2026 3:19:09 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/14/2026 3:19:09 P
+M tls:Cert: /C=US/ST=California/L=San Jose/O=Cisco Systems Inc./CN=mx1.hc1631-21.eu.iphmx.com; issuer=/C=US/O=Id
+enTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/14/2026 3:19:09 PM <<< EHL
+O mta21.r1.rpost.net 4/14/2026 3:19:09 PM >>> 250-esa.hc1631-21.eu.iphmx.com 4/14/2026 3:19:09 PM >>> 250-8BITMIME
+4/14/2026 3:19:09 PM >>> 250 SIZE 26214400 4/14/2026 3:19:09 PM <<< MAIL FROM: BODY=8BITMIME 4/14/2026 3:19:0
+9 PM >>> 250 sender ok 4/14/2026 3:19:09 PM <<< RCPT TO: 4/14/2026 3:19:09 PM >>> 250 recipient ok 4/14/2026 3:19:0
+9 PM <<< DATA 4/14/2026 3:19:09 PM >>> 354 go ahead 4/14/2026 3:19:09 PM <<< . 4/14/2026 3:19:09 PM >>> 250 ok: M
+essage 50696476 accepted 4/14/2026 3:19:09 PM <<< QUIT 4/14/2026 3:19:09 PM >>> 221 esa.hc1631-21.eu.iphmx.com 4/
+14/2026 3:19:09 PM closed mx01.thalesgroup.com (23.90.119.252) in=416 out=19592 4/14/2026 3:19:09 PM done thalesgrou
+p.com/{default}
+4/14/2026 3:19:09 PM starting thalesgroup.com/{default} 4/14/2026 3:19:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+mx02.thalesgroup.com (23.90.122.150) 4/14/2026 3:19:09 PM connected from 192.168.10.11:35182 4/14/2026 3:19:09 PM >>
+> 220 esa.hc1631-21.eu.iphmx.com ESMTP 4/14/2026 3:19:09 PM <<< EHLO mta21.r1.rpost.net 4/14/2026 3:19:09 PM >>>
+250-esa.hc1631-21.eu.iphmx.com 4/14/2026 3:19:09 PM >>> 250-8BITMIME 4/14/2026 3:19:09 PM >>> 250-SIZE 26214400
+4/14/2026 3:19:09 PM >>> 250 STARTTLS 4/14/2026 3:19:09 PM <<< STARTTLS 4/14/2026 3:19:09 PM >>> 220 Go ahead
+with TLS 4/14/2026 3:19:09 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/14/2026 3:19:09 P
+M tls:Cert: /C=US/ST=California/L=San Jose/O=Cisco Systems Inc./CN=mx1.hc1631-21.eu.iphmx.com; issuer=/C=US/O=Id
+enTrust/OU=HydrantID Trusted Certificate Service/CN=HydrantID Server CA O1; verified=no 4/14/2026 3:19:09 PM <<< EHL
+O mta21.r1.rpost.net 4/14/2026 3:19:09 PM >>> 250-esa.hc1631-21.eu.iphmx.com 4/14/2026 3:19:09 PM >>> 250-8BITMIME
+4/14/2026 3:19:09 PM >>> 250 SIZE 26214400 4/14/2026 3:19:09 PM <<< MAIL FROM: BODY=8BITMIME 4/14/2026 3:19:0
+9 PM >>> 250 sender ok 4/14/2026 3:19:09 PM <<< RCPT TO: 4/14/2026 3:19:09 PM >>> 250 recipient ok 4/14/2026 3:19:0
+9 PM <<< DATA 4/14/2026 3:19:09 PM >>> 354 go ahead 4/14/2026 3:19:09 PM <<< . 4/14/2026 3:19:09 PM >>> 250 ok: M
+essage 47697103 accepted 4/14/2026 3:19:09 PM <<< QUIT 4/14/2026 3:19:09 PM >>> 221 esa.hc1631-21.eu.iphmx.com 4/
+14/2026 3:19:09 PM closed mx02.thalesgroup.com (23.90.122.150) in=417 out=19595 4/14/2026 3:19:09 PM done thalesgrou
+p.com/{default}
+4/14/2026 3:29:09 PM starting sanofi.com/{default} 4/14/2026 3:29:09 PM connecting from mta21.r1.rpost.net (0.0.0.0) to de-s
+mtp-inbound-2.mimecast.com (194.104.108.22) 4/14/2026 3:29:09 PM connected from 192.168.10.11:60963 4/14/2026 3:29:10
+PM >>> 220 de-smtp-inbound-1.mimecast.com ESMTP; Tue, 14 Apr 2026 17:29:10 +0200 4/14/2026 3:29:10 PM <<< EHLO
+mta21.r1.rpost.net 4/14/2026 3:29:10 PM >>> 250-de-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/14/2026 3:29:10 P
+M >>> 250-STARTTLS 4/14/2026 3:29:10 PM >>> 250 HELP 4/14/2026 3:29:10 PM <<< STARTTLS 4/14/2026 3:29:10 PM >
+>> 220 Starting TLS [EzSmWlmVNROcLlDKoJ0-Yg.de13] 4/14/2026 3:29:10 PM tls:TLSv1.2 connected with 256-bit ECDHERSA-AES256-GCM-SHA384 4/14/2026 3:29:10 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.
+com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/14/2026 3:29:10 PM <
+<< EHLO mta21.r1.rpost.net 4/14/2026 3:29:10 PM >>> 250-de-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/14/2026
+3:29:10 PM >>> 250-AUTH PLAIN LOGIN 4/14/2026 3:29:10 PM >>> 250 HELP 4/14/2026 3:29:10 PM <<< MAIL FROM: 4/1
+4/2026 3:29:10 PM >>> 250 Sender OK [EzSmWlmVNROcLlDKoJ0-Yg.de13] 4/14/2026 3:29:10 PM <<< RCPT TO: 4/14/202
+6 3:29:10 PM >>> 250 Recipient OK [EzSmWlmVNROcLlDKoJ0-Yg.de13] 4/14/2026 3:29:10 PM <<< DATA 4/14/2026 3:29:1
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862467770955868640&simpl=msg-f:1862467770955868640
+
+3/6
+
+4/14/26, 1:38 PM
+
+Gmail - Receipt: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AND NOTIFIC…
+
+0 PM >>> 354 Start mail data, end with CRLF.CRLF [EzSmWlmVNROcLlDKoJ0-Yg.de13] 4/14/2026 3:29:10 PM <<< . 4/14/2
+026 3:29:11 PM >>> 250 SmtpThread-1658128-1776180550996@de-mta-13.de.mimecast.lan Received OK [EzSmWlmVNRO
+cLlDKoJ0-Yg.de13] 4/14/2026 3:29:11 PM <<< QUIT 4/14/2026 3:29:11 PM >>> 221 Service closing transmission channel [_5
+a0oPQ_MQOu1y8jYgsAvA.de13] 4/14/2026 3:29:11 PM closed de-smtp-inbound-2.mimecast.com (194.104.108.22) in=633 ou
+t=19557 4/14/2026 3:29:11 PM done sanofi.com/{default}
+4/14/2026 3:39:11 PM starting sanofi.com/{default} 4/14/2026 3:39:11 PM connecting from mta21.r1.rpost.net (0.0.0.0) to de-s
+mtp-inbound-2.mimecast.com (194.104.110.22) 4/14/2026 3:39:11 PM connected from 192.168.10.11:46929 4/14/2026 3:39:11
+PM >>> 220 de-smtp-inbound-1.mimecast.com ESMTP; Tue, 14 Apr 2026 17:39:11 +0200 4/14/2026 3:39:11 PM <<< EHLO
+mta21.r1.rpost.net 4/14/2026 3:39:11 PM >>> 250-de-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/14/2026 3:39:11 P
+M >>> 250-STARTTLS 4/14/2026 3:39:11 PM >>> 250 HELP 4/14/2026 3:39:11 PM <<< STARTTLS 4/14/2026 3:39:11 PM >
+>> 220 Starting TLS [1ns_mavfNpewWH7tbtsMyQ.de76] 4/14/2026 3:39:11 PM tls:TLSv1.2 connected with 256-bit ECDHE-R
+SA-AES256-GCM-SHA384 4/14/2026 3:39:11 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.c
+om; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/14/2026 3:39:11 PM <<
+< EHLO mta21.r1.rpost.net 4/14/2026 3:39:11 PM >>> 250-de-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/14/2026 3:
+39:11 PM >>> 250-AUTH PLAIN LOGIN 4/14/2026 3:39:11 PM >>> 250 HELP 4/14/2026 3:39:11 PM <<< MAIL FROM: 4/14/
+2026 3:39:11 PM >>> 250 Sender OK [1ns_mavfNpewWH7tbtsMyQ.de76] 4/14/2026 3:39:11 PM <<< RCPT TO: 4/14/2026 3:
+39:11 PM >>> 250 Recipient OK [1ns_mavfNpewWH7tbtsMyQ.de76] 4/14/2026 3:39:11 PM <<< DATA 4/14/2026 3:39:11 PM
+>>> 354 Start mail data, end with CRLF.CRLF [1ns_mavfNpewWH7tbtsMyQ.de76] 4/14/2026 3:39:11 PM <<< . 4/14/2026 3:3
+9:12 PM >>> 250 SmtpThread-477119-1776181152044@de-mta-76.de.mimecast.lan Received OK [1ns_mavfNpewWH7tbtsM
+yQ.de76] 4/14/2026 3:39:12 PM <<< QUIT 4/14/2026 3:39:12 PM >>> 221 Service closing transmission channel [WjTMUvqU
+NQWEhNpnKoU7Rg.de76] 4/14/2026 3:39:12 PM closed de-smtp-inbound-2.mimecast.com (194.104.110.22) in=632 out=1957
+5 4/14/2026 3:39:12 PM done sanofi.com/{default}
+4/14/2026 3:19:14 PM starting gmail.com/{default} 4/14/2026 3:19:21 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.27) 4/14/2026 3:19:21 PM connected from 192.168.10.11:40332 4/14/2026 3:19:21 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43ea93dde44si718690f8f.408 - gsmtp 4/14/2026 3:19:21 PM <<< EHLO mta21.
+r1.rpost.net 4/14/2026 3:19:21 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/14/2026 3:19:21 PM >>> 250-SIZ
+E 157286400 4/14/2026 3:19:21 PM >>> 250-8BITMIME 4/14/2026 3:19:21 PM >>> 250-STARTTLS 4/14/2026 3:19:21 PM >
+>> 250-ENHANCEDSTATUSCODES 4/14/2026 3:19:21 PM >>> 250-PIPELINING 4/14/2026 3:19:21 PM >>> 250-CHUNKIN
+G 4/14/2026 3:19:21 PM >>> 250 SMTPUTF8 4/14/2026 3:19:21 PM <<< STARTTLS 4/14/2026 3:19:21 PM >>> 220 2.0.0 R
+eady to start TLS 4/14/2026 3:19:21 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/14/2026 3:19:21 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/14/2026 3:19:21 PM <<< EHLO mta21.r1.rpost.net 4/14/2026 3:19:21 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/14/2026 3:19:21 PM >>> 250-SIZE 157286400 4/14/2026 3:19:21 PM >>> 250-8BITMIME 4/14/2026 3:19:21 PM >>>
+250-ENHANCEDSTATUSCODES 4/14/2026 3:19:21 PM >>> 250-PIPELINING 4/14/2026 3:19:21 PM >>> 250-CHUNKING 4/
+14/2026 3:19:21 PM >>> 250 SMTPUTF8 4/14/2026 3:19:21 PM <<< MAIL FROM: BODY=8BITMIME 4/14/2026 3:19:21 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43ea93dde44si718690f8f.408 - gsmtp 4/14/2026 3:19:21 PM <<< RCPT TO: 4/14/2026 3:1
+9:21 PM >>> 250 2.1.5 OK ffacd0b85a97d-43ea93dde44si718690f8f.408 - gsmtp 4/14/2026 3:19:21 PM <<< DATA 4/14/2026
+3:19:21 PM >>> 354 Go ahead ffacd0b85a97d-43ea93dde44si718690f8f.408 - gsmtp 4/14/2026 3:19:21 PM <<< . 4/14/2026
+3:19:21 PM >>> 250 2.0.0 OK 1776179961 ffacd0b85a97d-43ea93dde44si718690f8f.408 - gsmtp 4/14/2026 3:19:21 PM <<<
+QUIT 4/14/2026 3:19:21 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43ea93dde44si718690f8f.408 - gsmtp 4/14/2026
+3:19:21 PM closed gmail-smtp-in.l.google.com (142.251.127.27) in=767 out=19607 4/14/2026 3:19:22 PM done gmail.com/{def
+ault}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mailhub2.safrangroup.com (217.108.170.10)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mx01.thalesgroup.com (23.90.119.252)
+Votre message À : copie-HD Sujet : Registered: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIO
+NAL RIGHTS PERIOD, AND NOTIFICATION OF U.S. DEFENSE INTELLECTUAL PROPERTY BLOCKADE Envoyé : mardi 1
+4 avril 2026 17:19:07 (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris a été lu le mardi 14 avril 2026 18:11:00 (UTC+01:00)
+Bruxelles, Copenhague, Madrid, Paris.
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mailhub2.safrangroup.com (217.108.170.10)
+[IP Address: 146.75.166.48] [Time Opened: 4/14/2026 4:53:04 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/7gi88AFL9AADLqIeotMxtbSXHbmXnXstIvQgzZhrMjAx.gif] HTTP_ACCEPT:image/w
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862467770955868640&simpl=msg-f:1862467770955868640
+
+4/6
+
+4/14/26, 1:38 PM
+
+Gmail - Receipt: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AND NOTIFIC…
+
+ebp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_AC
+CEPT_LANGUAGE:fr-FR,fr;q=0.9 HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 HTTP_X_FORWARD
+ED_FOR:146.75.166.48 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE
+_ID:Root=1-69de70f0-19aaeea01ec6d3d66ea21400 HTTP_PRIORITY:u=3, i Accept: image/webp,image/png,image/svg+xml,i
+mage/*;q=0.8,video/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate, br Accept-Language: fr-FR,fr;q=0.9 Host: socrmail.r1.rpo
+st.net User-Agent: Mozilla/5.0 X-Forwarded-For: 146.75.166.48 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trac
+e-Id: Root=1-69de70f0-19aaeea01ec6d3d66ea21400 priority: u=3, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert
+CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 19
+2.168.10.112 /oatv_v2/7gi88AFL9AADLqIeotMxtbSXHbmXnXstIvQgzZhrMjAx.gif 192.168.20.36 192.168.20.36 20128 GET /o
+atv_v2/7gi88AFL9AADLqIeotMxtbSXHbmXnXstIvQgzZhrMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oa
+tv_v2/7gi88AFL9AADLqIeotMxtbSXHbmXnXstIvQgzZhrMjAx.gif image/webp,image/png,image/svg+xml,image/*;q=0.8,video/
+*;q=0.8,*/*;q=0.5 gzip, deflate, br fr-FR,fr;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 146.75.166.48 https 443 Root=1-69de70f0-19
+aaeea01ec6d3d66ea21400 u=3, i
+Votre message À : ANDRIES Olivier (SAFRAN) Sujet : Registered: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATI
+ON OF PROVISIONAL RIGHTS PERIOD, AND NOTIFICATION OF U.S. DEFENSE INTELLECTUAL PROPERTY BLOCKAD
+E Envoyé : mardi 14 avril 2026 17:19:07 (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris a été lu le mardi 14 avril 2026 18:
+49:08 (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris. # " Ce courriel et les documents qui lui sont joints peuvent contenir
+des informations confidentielles, être soumis aux règlementations relatives au contrôle des exportations ou ayant un caractère
+privé. S'ils ne vous sont pas destinés, nous vous signalons qu'il est strictement interdit de les divulguer, de les reproduire ou
+d'en utiliser de quelque manière que ce soit le contenu. Toute exportation ou réexportation non autorisée est interdite Si ce me
+ssage vous a été transmis par erreur, merci d'en informer l'expéditeur et de supprimer immédiatement de votre système inform
+atique ce courriel ainsi que tous les documents qui y sont attachés." ****** " This e-mail and any attached documents may co
+ntain confidential or proprietary information and may be subject to export control laws and regulations. If you are not the intend
+ed recipient, you are notified that any dissemination, copying of this e-mail and any attachments thereto or use of their content
+s by any means whatsoever is strictly prohibited. Unauthorized export or re-export is prohibited. If you have received this e-ma
+il in error, please advise the sender immediately and delete this e-mail and all attached documents from your computer syste
+m." #
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mx01.thalesgroup.com (23.90.119.252)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mx02.thalesgroup.com (23.90.122.150)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer de-smtp-inbound-2.mimecast.com (194.104.108.22)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer de-smtp-inbound-2.mimecast.com (194.104.110.22)
+[IP Address: 72.145.76.10] [Time Opened: 4/14/2026 3:39:51 PM] [REMOTE_HOST: 192.168.10.205] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/LLK2es5IxGZZW59IIDfJsbGDpl9h3wAGV4hFeGX3MjAx.gif] HTTP_ACCEPT:image/
+* HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (K
+HTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:72.145.76.10 HTTP_X_FORWARDED_PR
+OTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69de5fc7-0569f41412db8a2c324f4134 Ac
+cept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
+L, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 72.145.76.10 X-Forwarded-Proto: https X-Forwarded-Port: 44
+3 X-Amzn-Trace-Id: Root=1-69de5fc7-0569f41412db8a2c324f4134 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert
+CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 19
+2.168.10.112 /oatv_v2/LLK2es5IxGZZW59IIDfJsbGDpl9h3wAGV4hFeGX3MjAx.gif 192.168.10.205 192.168.10.205 11534 GE
+T /oatv_v2/LLK2es5IxGZZW59IIDfJsbGDpl9h3wAGV4hFeGX3MjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.
+0 /oatv_v2/LLK2es5IxGZZW59IIDfJsbGDpl9h3wAGV4hFeGX3MjAx.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows NT
+10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 72.145.76.10 https 443 Root=1-6
+9de5fc7-0569f41412db8a2c324f4134
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862467770955868640&simpl=msg-f:1862467770955868640
+
+5/6
+
+4/14/26, 1:38 PM
+
+Gmail - Receipt: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD, AND NOTIFIC…
+
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.4] [Time Opened: 4/14/2026 3:29:27 PM] [REMOTE_HOST: 192.168.10.205] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/sBE9SL9JF7Nh5xVAFkXtQUR4sqElzVBR8wne6A5nMjAx.gif] HTTP_ACCEPT_ENCO
+DING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko
+Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.4 HTTP_X_FORWARDED_PROTO:
+https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69de5d57-157c50046b4c5fae266f8cc1 AcceptEncoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.4 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Tr
+ace-Id: Root=1-69de5d57-157c50046b4c5fae266f8cc1 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1
+on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/sBE9SL9JF7Nh5xVAFkXtQUR4sqElzVBR
+8wne6A5nMjAx.gif 192.168.10.205 192.168.10.205 53760 GET /oatv_v2/sBE9SL9JF7Nh5xVAFkXtQUR4sqElzVBR8wne6A5n
+MjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/sBE9SL9JF7Nh5xVAFkXtQUR4sqElzVBR8wne6A
+5nMjAx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com Goo
+gleImageProxy) 66.249.80.4 https 443 Root=1-69de5d57-157c50046b4c5fae266f8cc1
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+37K
+HtmlReceipt.htm
+227K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862467770955868640&simpl=msg-f:1862467770955868640
+
+6/6
+
+

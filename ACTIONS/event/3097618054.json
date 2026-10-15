@@ -1,0 +1,65 @@
+{
+  "summary_of_pdf": "The instrument at bar is an RMail File Share Download Notice, serving as a time-stamped evidentiary record. It confirms that a representative at the law firm Jones Day downloaded a document containing a 47-patent application portfolio and parallel federal disclosures on April 17, 2026. The materials were originally transmitted by prospective client RJ Aguiar, Jr. on April 6, 2026, for the express purpose of seeking intellectual property representation.",
+  "attorneys_comments": "From a litigation and evidentiary standpoint, this RMail receipt is highly probative. It establishes incontrovertible proof of delivery and actual access by the recipient (dmaiorana@jonesday.com). Under the Federal Rules of Evidence, this document satisfies authentication requirements under FRE 901 and qualifies as a business record under FRE 803(6). Tactically, this instrument fixes the exact moment of actual notice regarding the 47-patent portfolio and parallel federal disclosures. Should Jones Day decline representation and subsequently represent an adverse party in a related matter, this receipt forms the evidentiary foundation for a motion to disqualify counsel based on the receipt of materially adverse confidential information from a prospective client pursuant to ABA Model Rule 1.18. Furthermore, it establishes a timeline of actual knowledge that could be leveraged in future 35 U.S.C. \u00a7 284 willful infringement claims or 35 U.S.C. \u00a7 154(d) provisional rights claims if the firm's existing clients are implicated by the disclosed patent applications.",
+  "recommended_next_steps": "1. Institute a strict litigation hold on this RMail receipt and its native email file to preserve its evidentiary integrity. 2. Calendar a formal follow-up communication with Attorney Maiorana at Jones Day to ascertain their disposition regarding the engagement. 3. If representation is declined, immediately issue a formal demand for the destruction or return of the disclosed portfolio to mitigate the risk of inadvertent dissemination and to enforce duties owed to a prospective client under ABA Model Rule 1.18.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "ABA Model Rule 1.18",
+    "Prospective Client Confidentiality",
+    "FRE 803(6) Business Records Exception",
+    "FRE 901 Authentication",
+    "Patent Portfolio Disclosure",
+    "Actual Notice",
+    "35 U.S.C. \u00a7 154(d)",
+    "35 U.S.C. \u00a7 284"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "David Maiorana"
+    ],
+    "companies": [
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "RMail Secure service",
+      "RMail FileShare"
+    ],
+    "products": [
+      "01__ISBN-978-1-97-148129-6__Portfolio-of-PatentApplications-Submitted-to-the-USPTO_v2.1998.61.pdf"
+    ],
+    "government_offices": [
+      "United States Patent and Trademark Office (USPTO)"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Jones Day"
+    ],
+    "attorneys": [
+      "David Maiorana"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "3097618054",
+  "basefilename": "DOWNLOAD-RECEIPT_dmaiorana@jonesday.com_Tier-0_re_Huawei",
+  "original_filename": "DOWNLOAD-RECEIPT_dmaiorana@jonesday.com_Tier-0_re_Huawei.pdf",
+  "category": "email",
+  "subtype": "download_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "dmaiorana@jonesday.com",
+  "primary_recipient_an": "Dmaiorana (Microsoft Corporation)",
+  "all_recipients": [
+    "dmaiorana@jonesday.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "dmaiorana@jonesday.com": "Dmaiorana (Microsoft Corporation)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

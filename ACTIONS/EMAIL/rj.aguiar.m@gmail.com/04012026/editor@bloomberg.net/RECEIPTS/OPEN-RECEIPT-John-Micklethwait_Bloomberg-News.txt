@@ -1,0 +1,213 @@
+4/1/26, 3:58 PM
+
+Gmail - Receipt: Investigative Lead: Systemic Fiduciary Arbitrage, the Integrity of the U.S. Judicial Record, and Antitrust Violations (D…
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Receipt: Investigative Lead: Systemic Fiduciary Arbitrage, the Integrity of the U.S.
+Judicial Record, and Antitrust Violations (Delivery Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 1, 2026 at 3:56 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+micklethwait@bloomberg.net
+
+Delivered and
+Opened
+
+HTTPIP:46.64.83.120
+
+04/01/2026
+06:26:40 PM
+(UTC)
+
+04/01/2026
+06:26:40 PM
+
+04/01/2026
+07:05:25 PM
+
+editor@bloomberg.net
+
+Delivery Failed
+
+550 #5.1.0
+***
+Address rejected.
+
+***
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+Investigative Lead: Systemic Fiduciary Arbitrage, the Integrity of the U.S. Judicial Record,
+and Antitrust Violations
+
+To:
+
+<micklethwait@bloomberg.net>
+
+Cc:
+
+<editor@bloomberg.net>
+
+Bcc:
+Network ID:
+
+1e3c6f82-560f-481f-9f57-14a08d06756e@SM25
+
+Received by RMail System:
+
+04/01/2026 06:26:36 PM (UTC), 04/01/2026 06:26:36 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+C919CFB2F6AF166C49D480288A0E97E530773C01
+
+Message Size:
+
+6330
+
+Features Used:
+File Size:
+
+File Name:
+
+75294
+
+RFC-Mr_John Micklethwait.pdf
+
+12090081
+
+Investigative-Tip.pdf
+
+.
+
+Delivery Audit Trail
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861303108082404546&simpl=msg-f:1861303108082404546
+
+1/3
+
+4/1/26, 3:58 PM
+
+Gmail - Receipt: Investigative Lead: Systemic Fiduciary Arbitrage, the Integrity of the U.S. Judicial Record, and Antitrust Violations (D…
+
+4/1/2026 6:26:37 PM starting bloomberg.net/{default} 4/1/2026 6:26:37 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx
+4a.igslb.bloomberg.net (69.191.244.26) 4/1/2026 6:26:37 PM connected from 192.168.10.11:33616 4/1/2026 6:26:37 PM >>> 2
+20 mgnj8.bloomberg.net ESMTP 4/1/2026 6:26:37 PM <<< EHLO mta21.r1.rpost.net 4/1/2026 6:26:37 PM >>> 250-mgnj8.blo
+omberg.net 4/1/2026 6:26:37 PM >>> 250-8BITMIME 4/1/2026 6:26:37 PM >>> 250-SIZE 28311552 4/1/2026 6:26:37 PM >>
+> 250 STARTTLS 4/1/2026 6:26:37 PM <<< STARTTLS 4/1/2026 6:26:37 PM >>> 220 Go ahead with TLS 4/1/2026 6:26:37
+PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/1/2026 6:26:37 PM tls:Cert: /C=US/ST=New Y
+ork/L=New York/O=Bloomberg LP/CN=mgnj8.bloomberg.net; issuer=/C=US/O=DigiCert, Inc./CN=DigiCert G5 TLS ECC SHA3
+84 2021 CA1; verified=no 4/1/2026 6:26:37 PM <<< EHLO mta21.r1.rpost.net 4/1/2026 6:26:37 PM >>> 250-mgnj8.bloomber
+g.net 4/1/2026 6:26:37 PM >>> 250-8BITMIME 4/1/2026 6:26:37 PM >>> 250 SIZE 28311552 4/1/2026 6:26:37 PM <<< MAI
+L FROM: BODY=8BITMIME 4/1/2026 6:26:37 PM >>> 250 sender ok 4/1/2026 6:26:37 PM <<< RCPT TO: 4/1/2026 6:26:38
+PM >>> 250 recipient ok 4/1/2026 6:26:38 PM <<< DATA 4/1/2026 6:26:38 PM >>> 354 go ahead 4/1/2026 6:26:38 PM <<< .
+4/1/2026 6:26:38 PM >>> 250 ok: Message 357311200 accepted 4/1/2026 6:26:38 PM <<< QUIT 4/1/2026 6:26:38 PM >>> 2
+21 mgnj8.bloomberg.net 4/1/2026 6:26:38 PM closed mx4a.igslb.bloomberg.net (69.191.244.26) in=386 out=23599 4/1/2026 6:
+26:38 PM done bloomberg.net/{default}
+4/1/2026 6:26:37 PM starting bloomberg.net/{default} 4/1/2026 6:26:37 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx
+3c.igslb.bloomberg.net (69.191.244.214) 4/1/2026 6:26:37 PM connected from 192.168.10.11:37139 4/1/2026 6:26:37 PM >>>
+220 mgnj20.bloomberg.net ESMTP 4/1/2026 6:26:37 PM <<< EHLO mta21.r1.rpost.net 4/1/2026 6:26:37 PM >>> 250-mgnj2
+0.bloomberg.net 4/1/2026 6:26:37 PM >>> 250-8BITMIME 4/1/2026 6:26:37 PM >>> 250-SIZE 28311552 4/1/2026 6:26:37 P
+M >>> 250 STARTTLS 4/1/2026 6:26:37 PM <<< STARTTLS 4/1/2026 6:26:37 PM >>> 220 Go ahead with TLS 4/1/2026 6:2
+6:37 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/1/2026 6:26:37 PM tls:Cert: /C=US/ST=N
+ew York/L=New York/O=Bloomberg LP/CN=irnpti.mx.bloomberg.net; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TL
+S RSA SHA256 2020 CA1; verified=no 4/1/2026 6:26:37 PM <<< EHLO mta21.r1.rpost.net 4/1/2026 6:26:37 PM >>> 250-mg
+nj20.bloomberg.net 4/1/2026 6:26:37 PM >>> 250-8BITMIME 4/1/2026 6:26:37 PM >>> 250 SIZE 28311552 4/1/2026 6:26:37
+PM <<< MAIL FROM: BODY=8BITMIME 4/1/2026 6:26:38 PM >>> 250 sender ok 4/1/2026 6:26:38 PM <<< RCPT TO: 4/1/2
+026 6:26:38 PM >>> 550 #5.1.0 Address rejected. 4/1/2026 6:26:38 PM <<< QUIT 4/1/2026 6:26:38 PM >>> 221 mgnj20.bloo
+mberg.net 4/1/2026 6:26:38 PM closed mx3c.igslb.bloomberg.net (69.191.244.214) in=322 out=187 4/1/2026 6:26:38 PM done
+bloomberg.net/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mx4a.igslb.bloomberg.net (69.191.244.26)
+[IP Address: 46.64.83.120] [Time Opened: 4/1/2026 7:05:25 PM] [REMOTE_HOST: 192.168.10.131] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/bUIbbeurNEqseVnwFbihiUqtxMDSUQnxjTPws37vMTIw.gif] HTTP_ACCEPT:image/we
+bp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 HT
+TP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-GB,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net
+HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)
+Mobile/15E148 HTTP_X_FORWARDED_FOR:46.64.83.120 HTTP_X_FORWARDED_PROTO:hXXps HTTP_X_FORWARDED
+_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69cd6c75-1751574511e60e63352345b3 HTTP_SEC_FETCH_SITE:cross-sit
+e HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,image/
+avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Enco
+ding: gzip, deflate, br Accept-Language: en-GB,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPhone; CPU iPh
+one OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 46.64.83.120 X-Fo
+rwarded-Proto: hXXps X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69cd6c75-1751574511e60e63352345b3 sec-fetch-site:
+cross-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root
+Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/
+12 192.168.10.112 /oatv_v2/bUIbbeurNEqseVnwFbihiUqtxMDSUQnxjTPws37vMTIw.gif 192.168.10.131 192.168.10.131 49054
+GET /oatv_v2/bUIbbeurNEqseVnwFbihiUqtxMDSUQnxjTPws37vMTIw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/
+10.0 /oatv_v2/bUIbbeurNEqseVnwFbihiUqtxMDSUQnxjTPws37vMTIw.gif image/webp,image/avif,image/jxl,image/heic,image/h
+eic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-GB,en;q=0.9 socrmail.r1.rp
+ost.net Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+46.64.83.120 hXXps 443 Root=1-69cd6c75-1751574511e60e63352345b3 cross-site image no-cors u=5, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861303108082404546&simpl=msg-f:1861303108082404546
+
+2/3
+
+4/1/26, 3:58 PM
+
+Gmail - Receipt: Investigative Lead: Systemic Fiduciary Arbitrage, the Integrity of the U.S. Judicial Record, and Antitrust Violations (D…
+
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+10K
+HtmlReceipt.htm
+88K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861303108082404546&simpl=msg-f:1861303108082404546
+
+3/3
+
+

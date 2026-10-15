@@ -1,0 +1,37 @@
+{
+  "serving_key": "711055647",
+  "canonical_key": "jgalotto@wc.com",
+  "display_name": "J. Galotto (Williams & Connolly LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Williams & Connolly LLP",
+  "full_name": "J. Galotto",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Williams & Connolly LLP",
+  "domain": "wc.com",
+  "addresses": {
+    "mailing_address": "680 Maine Avenue SW, Washington, DC 20024",
+    "business_address": "680 Maine Avenue SW, Washington, DC 20024",
+    "legal_service_address": "680 Maine Avenue SW, Washington, DC 20024"
+  },
+  "registered_agent": {
+    "name": "Williams & Connolly LLP",
+    "address": "680 Maine Avenue SW, Washington, DC 20024",
+    "jurisdiction": "District of Columbia"
+  },
+  "contact": {
+    "primary_email": "jgalotto@wc.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-434-5000"
+    ],
+    "faxes": [
+      "+1 202-434-5029"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

@@ -1,0 +1,38 @@
+{
+  "serving_key": "641874329",
+  "canonical_key": "david.mccombs@haynesboone.com",
+  "display_name": "David McCombs (Haynes and Boone, LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Haynes and Boone, LLP",
+  "full_name": "David McCombs",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Haynes and Boone, LLP",
+  "domain": "haynesboone.com",
+  "addresses": {
+    "mailing_address": "2323 Victory Avenue, Suite 700, Dallas, TX 75219",
+    "business_address": "2323 Victory Avenue, Suite 700, Dallas, TX 75219",
+    "legal_service_address": "2323 Victory Avenue, Suite 700, Dallas, TX 75219"
+  },
+  "registered_agent": {
+    "name": "Haynes and Boone, LLP",
+    "address": "2323 Victory Avenue, Suite 700, Dallas, TX 75219",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "david.mccombs@haynesboone.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 214-651-5533",
+      "+1 214-651-5000"
+    ],
+    "faxes": [
+      "+1 214-200-0853"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

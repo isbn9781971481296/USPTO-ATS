@@ -1,0 +1,73 @@
+{
+  "summary_of_pdf": "The provided document is an evidentiary receipt in the form of an RMail File Share Download Notice. It confirms that on April 13, 2026, the Office of the Lieutenant Governor of Texas (Dan Patrick) successfully downloaded a legal instrument titled '00-Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf'. The underlying communication serves as formal actual notice of pending patent claims pursuant to 35 U.S.C. \u00a7 154(d), specifically concerning state digital infrastructure, influence modeling, and acoustic side-channel threats.",
+  "attorneys_comments": "From an evidentiary standpoint, this RMail receipt is highly probative for establishing 'actual notice' under 35 U.S.C. \u00a7 154(d), which is a strict statutory prerequisite for recovering reasonable royalties for pre-issuance patent infringement. The confirmed download by the Lieutenant Governor's office effectively neutralizes any prospective defense alleging lack of knowledge regarding the pending patent claims. The inclusion of a document referencing the Department of Defense and Under Secretary Heidi Shyu suggests a complex intersection of state infrastructure and federal defense procurement, potentially implicating 28 U.S.C. \u00a7 1498(a) if the state's actions are conducted with the authorization and consent of the federal government. Tactically, this receipt must be preserved to authenticate delivery and receipt under Fed. R. Evid. 803(6) (Business Records) and Fed. R. Evid. 901. A potential evidentiary hurdle remains in proving that the contents of the downloaded PDF sufficiently map the pending claims to the accused state infrastructure to satisfy the stringent actual notice requirements of the Federal Circuit. Furthermore, counsel must anticipate and prepare for Eleventh Amendment sovereign immunity defenses typically asserted by state actors in federal patent litigation.",
+  "recommended_next_steps": "1. Preserve this RMail receipt, the transmission metadata, and the exact transmitted PDF in a secure litigation hold to ensure admissibility under FRE 901 and 803(6). 2. Monitor the USPTO prosecution of the underlying patent application(s) to ensure the claims issue in a form substantially identical to those published, as required by 35 U.S.C. \u00a7 154(d)(2). 3. Evaluate potential Eleventh Amendment sovereign immunity defenses that the State of Texas may raise, and assess whether the state's activities fall under a federal grant or mandate that might trigger 28 U.S.C. \u00a7 1498(a) jurisdiction in the United States Court of Federal Claims. 4. Prepare a preliminary claim chart mapping the published claims to the specific Texas state digital infrastructure to substantiate the actual notice provided.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "Patent Infringement",
+    "Pre-Issuance Royalties",
+    "State Sovereign Immunity",
+    "Eleventh Amendment",
+    "Fed. R. Evid. 803(6)",
+    "Fed. R. Evid. 901",
+    "Cybersecurity",
+    "Acoustic Side-Channel Threats",
+    "Influence Modeling"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Dan Patrick",
+      "Heidi Shyu"
+    ],
+    "companies": [
+      "RMail",
+      "RPost"
+    ],
+    "technologies": [
+      "State Digital Infrastructure",
+      "Influence Modeling",
+      "Acoustic Side-Channel Threats"
+    ],
+    "products": [
+      "RMail Secure service",
+      "RMail FileShare"
+    ],
+    "government_offices": [
+      "Office of the Lieutenant Governor of Texas",
+      "Department of Defense"
+    ],
+    "institutions": [],
+    "prominent_locations": [
+      "Texas"
+    ],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "917895839",
+  "basefilename": "READ-RECEIPT-dan.patrick@ltgov.texas.gov__Tier-0",
+  "original_filename": "READ-RECEIPT-dan.patrick@ltgov.texas.gov__Tier-0.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "dan.patrick@ltgov.texas.gov",
+  "primary_recipient_an": "Dan Patrick (ltgov.texas.gov)",
+  "all_recipients": [
+    "dan.patrick@ltgov.texas.gov",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "dan.patrick@ltgov.texas.gov": "Dan Patrick (ltgov.texas.gov)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

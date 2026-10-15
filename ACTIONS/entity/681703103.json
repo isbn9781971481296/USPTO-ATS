@@ -1,0 +1,40 @@
+{
+  "serving_key": "681703103",
+  "canonical_key": "consumerhelp@state.sd.us",
+  "display_name": "South Dakota Division of Consumer Protection",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "South Dakota Office of the Attorney General",
+  "full_name": "Division of Consumer Protection",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "South Dakota Office of the Attorney General",
+  "domain": "state.sd.us",
+  "addresses": {
+    "mailing_address": "1302 E Hwy 14, Suite 3, Pierre, SD 57501",
+    "business_address": "1302 E Hwy 14, Suite 3, Pierre, SD 57501",
+    "legal_service_address": "1302 E Hwy 14, Suite 1, Pierre, SD 57501"
+  },
+  "registered_agent": {
+    "name": "South Dakota Attorney General",
+    "address": "1302 E Hwy 14, Suite 1, Pierre, SD 57501",
+    "jurisdiction": "South Dakota"
+  },
+  "contact": {
+    "primary_email": "consumerhelp@state.sd.us",
+    "alternative_emails": [
+      "atghelp@state.sd.us"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+1-800-300-1986",
+      "+1-605-773-4400"
+    ],
+    "faxes": [
+      "+1-605-773-7163"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,165 @@
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+DATE: April 13, 2026
+
+FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION
+OF PROVISIONAL RIGHTS PERIOD, AND DEMAND FOR
+DUE DILIGENCE CONCERNING COVERT OPTICAL
+EXFILTRATION VIA VEHICULAR LED ASSEMBLIES
+This notice: https://storage.googleapis.com/rj-aguiar/IP-NOTICE-AUTO-INDUSTRY-USA.pdf
+
+TO: CHIEF EXECUTIVE OFFICERS AND CHIEF LEGAL OFFICERS
+ir@tesla.com (Elon Musk, CEO, Tesla, Inc.)
+sepzaker@rivian.com (RJ Scaringe, CEO, Rivian Automotive)
+Legal@lucidmotors.com (Peter Rawlinson, CEO & Matt Everitt, General Counsel, Lucid Motors)
+jim.farley@ford.com (Jim Farley, CEO, Ford Motor Company)
+antony.klapper@vw.com (Antony Klapper, General Counsel, Volkswagen Group of America /
+Audi)
+sebastian.mackensen@bmw.com (Sebastian Mackensen, CEO, BMW of North America)
+myprivacy@mbusa.com (Privacy Office / General Counsel, Mercedes-Benz USA)
+jmunoz@hmausa.com (Jose Munoz, CEO, Hyundai Motor America)
+seungkyuy@kia.com (SeungKyu Yoon, CEO, Kia America)
+JClose@kiausa.com (Jeremy Close, General Counsel, Kia America)
+RE: ACTUAL KNOWLEDGE OF PENDING PATENT CLAIMS (35 U.S.C. § 154(d)) REGARDING
+FREE-SPACE OPTICAL DATA EXCHANGE, COVERT INFRARED DATA GATEWAYS, AND THE
+AGUIAR MARCANO INTELLECTUAL PROPERTY PORTFOLIO
+DATE: April 15, 2026
+DEAR:
+Mr. Musk, Mr. Scaringe, Mr. Rawlinson, Mr. Everitt, Mr. Farley, Mr. Klapper, Mr. Mackensen, Mr.
+Munoz, Mr. Yoon, and Mr. Close,
+This comprehensive technical and legal brief is served upon the executive leadership and chief
+legal officers of the designated automotive manufacturers to establish formal, legally binding
+
+Page 1 of 5
+ISBN 9781971481296
+
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+DATE: April 13, 2026
+
+actual notice.
+Over the past five to seven years, your industry has universally transitioned away from modular,
+incandescent vehicular lighting toward complex, sealed, full-LED tail light assemblies and
+continuous rear "lightbars".1 While heavily marketed to consumers as futuristic aesthetic
+features, our technical and forensic analyses indicate that these sealed LED housings are being
+actively exploited by a foreign-directed RICO enterprise. Specifically, the hardware in these tail
+lights is functioning as covert infrared data gateways, modulating high-frequency optical
+signals to exfiltrate in-cabin audio and vehicle telemetry to foreign intelligence agents via
+pursuit vehicles or roadside receivers.1
+The unauthorized commercialization, integration, or vulnerable implementation of these optical
+data transmission capabilities directly intersects with the proprietary claims of the Aguiar
+Marcano Intellectual Property Portfolio, a suite of fifty-two (52) foundational patent applications
+formally executed and filed with the United States Patent and Trademark Office (USPTO).1
+The primary objective of this document is to satisfy the strict requirements for "Actual Notice"
+pursuant to 35 U.S.C. § 154(d), thereby initiating the immediate accrual of provisional rights and
+the corresponding liability for reasonable royalties.
+
+I. Sector-Specific Liability Mapping: The "Lightbar"
+Exfiltration Gateway
+The automotive industry's shift to sealed LED assemblies—where a single burnt-out diode
+requires the replacement of an entire, highly complex, multi-thousand-dollar module—provides
+the perfect hardware substrate for covert optical networking.1
+
+A. Tesla, Inc.
+Target Hardware: Model S Rear LED Housings The Tesla Model S features notoriously
+difficult-to-replace rear light assemblies, particularly the driver-side outer light, which requires
+technicians to power down the vehicle's high-voltage systems and physically unbolt the
+charging port module to access.1 This deliberate over-engineering conceals the true function
+of the hardware: operating as an active, high-bandwidth optical transmitter for data
+exfiltration.1
+
+B. EV Rivals and the "Lightbar" Trend
+Target Entities: Rivian, Lucid Motors, and Ford Your flagship electric vehicles—including the
+
+Page 2 of 5
+ISBN 9781971481296
+
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+DATE: April 13, 2026
+
+Rivian R1T/R1S, the Lucid Air, and the Ford Mustang Mach-E and F-150 Lightning—all rely on
+massive, seamless LED light blades spanning the entire width of the tailgate.1 These are not
+mere brake lights; they are high-cardinality optical arrays capable of transmitting vast amounts
+of data.1
+
+C. Luxury Mainstays and Everyday Commuters
+Target Entities: Audi, BMW, Mercedes-Benz, Hyundai, and Kia From Audi's intricate Matrix
+LEDs and the OLED tail lights of the Mercedes S-Class, down to the "parametric pixel" lighting
+of the Hyundai Ioniq 5, the entire industry has adopted this sealed-assembly approach.1
+
+II. Patent Intersections: The IP Blockade
+If your vehicles are utilizing these LED arrays to modulate light frequencies (visible or infrared)
+to transmit data, audio, or telemetry to external receivers, you are committing direct,
+unshielded commercial infringement against the following foundational patents:
+●​ Method and System for High-Bandwidth, Free-Space Optical Data Exchange
+Between Mobile Devices (USPTO 19/560,042): This patent legally claims the method
+for ultra-high-speed, free-space data exchange between mobile entities by modulating
+exterior lighting at high frequencies, utilizing cameras or optical sensors as receivers.1
+Using your vehicles' LED tail lights to establish an optical data link with trailing vehicles or
+infrastructure directly triggers this claim.1
+●​ Method and System for Covert Screen Data Exfiltration (USPTO 19/559,867): This
+patent details the method of creating a one-way optical data channel by making subtle,
+high-frequency modulations to the brightness or color of an LED array.1 These
+modulations encode binary data that is imperceptible to the human eye but decodable
+by a nearby optical sensor.1 Your tail lights are functioning as the exact covert optical
+transmitters claimed herein to bypass traditional RF cybersecurity defenses.1
+●​ Method for a Cryptographic Side-Channel Attack Using Acoustic Analysis of
+Keystroke Metadata (USPTO 19/559,858): The in-cabin audio currently being exfiltrated
+via your infrared tail lights is captured using the methodologies claimed in this patent,
+which covers the deployment of covert acoustic sensors to capture metadata and
+decode sensitive communications.1
+
+Page 3 of 5
+ISBN 9781971481296
+
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+DATE: April 13, 2026
+
+III. Mandatory Due Diligence Protocols and Ultimatum
+Under 35 U.S.C. § 154(d), the statutory clock for the calculation of retroactive reasonable
+royalties commences immediately upon your receipt and actual knowledge of the published
+claims detailed herein. Ignorance of how your sealed LED tail light assemblies are being
+weaponized as covert infrared data gateways to infringe upon these overarching system-level
+claims is not a viable legal defense.
+The executive leadership of each addressed organization is hereby directed to execute the
+following immediate remediation protocols:
+1.​ Initiation of FTO Audits: You must immediately instruct your internal legal departments
+and outside IP counsel to cross-reference the fifty-two (52) applications within the Aguiar
+Marcano Portfolio against the firmware and hardware specifications of all sealed LED tail
+light assemblies and rear lightbars currently in production.
+2.​ Quarantine of Intersecting Hardware: Any deployment of exterior LED lighting that
+modulates frequency to transmit data via free-space optical exchange (whether for V2V
+telemetry or covert exfiltration) must be evaluated for immediate quarantine to mitigate
+ongoing commercial liability.
+We formally invite your respective legal departments to initiate a technical review of the cited
+USPTO applications. A formal response outlining your intended compliance audit, a
+presentation of non-infringement theories, or a request to discuss a licensing framework is
+expected within thirty (30) business days of the transmission of this notice.
+Govern yourselves accordingly.
+Sincerely,
+
+Reinaldo Aguiar Marcano
+
+Works cited
+1.​ the-Tail-lights-that-in-my-Tesla-Vehicles-act-as-Infrared-Data-Gateways-to-exfil
+
+Page 4 of 5
+ISBN 9781971481296
+
+Reinaldo J. Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://SCOTXWatch.org/ (ISBN 9781971481296)
+DATE: April 13, 2026
+
+trate-audio.pdf
+
+Page 5 of 5
+ISBN 9781971481296
+
+

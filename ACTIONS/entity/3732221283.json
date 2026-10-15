@@ -1,0 +1,42 @@
+{
+  "serving_key": "3732221283",
+  "canonical_key": "daniel.jablonsky@maxar.com",
+  "display_name": "Daniel Jablonsky (Maxar Technologies)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Maxar Technologies Inc.",
+  "full_name": "Daniel Jablonsky",
+  "pronouns": null,
+  "title": "President and Chief Executive Officer",
+  "organization": "Maxar Technologies Inc.",
+  "domain": "maxar.com",
+  "addresses": {
+    "mailing_address": "1300 W. 120th Avenue, Westminster, CO 80234",
+    "business_address": "1300 W. 120th Avenue, Westminster, CO 80234",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "daniel.jablonsky@maxar.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-303-684-4000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1954802715",
+      "canonical_key": "chris.johnson@maxar.com",
+      "display_name": "Chris Johnson",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

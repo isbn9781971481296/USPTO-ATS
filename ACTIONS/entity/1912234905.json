@@ -1,0 +1,35 @@
+{
+  "serving_key": "1912234905",
+  "canonical_key": "_todd.w.blanche@usdoj.gov",
+  "display_name": "Todd W. Blanche (U.S. Department of Justice)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "U.S. Department of Justice",
+  "full_name": "Todd W. Blanche",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "U.S. Department of Justice",
+  "domain": "usdoj.gov",
+  "addresses": {
+    "mailing_address": "950 Pennsylvania Avenue, NW, Washington, DC 20530",
+    "business_address": "950 Pennsylvania Avenue, NW, Washington, DC 20530",
+    "legal_service_address": "950 Pennsylvania Avenue, NW, Washington, DC 20530"
+  },
+  "registered_agent": {
+    "name": "Attorney General of the United States",
+    "address": "950 Pennsylvania Avenue, NW, Washington, DC 20530",
+    "jurisdiction": "Federal"
+  },
+  "contact": {
+    "primary_email": "_todd.w.blanche@usdoj.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "202-514-2000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

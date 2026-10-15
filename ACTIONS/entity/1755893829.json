@@ -1,0 +1,42 @@
+{
+  "serving_key": "1755893829",
+  "canonical_key": "raguilar@winston.com",
+  "display_name": "R. Aguilar (Winston & Strawn LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Winston & Strawn LLP",
+  "full_name": "R. Aguilar",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Winston & Strawn LLP",
+  "domain": "winston.com",
+  "addresses": {
+    "mailing_address": "35 W. Wacker Drive, Chicago, IL 60601",
+    "business_address": "35 W. Wacker Drive, Chicago, IL 60601",
+    "legal_service_address": "35 W. Wacker Drive, Chicago, IL 60601"
+  },
+  "registered_agent": {
+    "name": "Winston & Strawn LLP",
+    "address": "35 W. Wacker Drive, Chicago, IL 60601",
+    "jurisdiction": "Illinois"
+  },
+  "contact": {
+    "primary_email": "raguilar@winston.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 312-558-5600"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "401827874",
+      "canonical_key": "jamato@winston.com",
+      "display_name": "J. Amato",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

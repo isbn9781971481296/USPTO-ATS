@@ -1,0 +1,32 @@
+{
+  "index": 99,
+  "header": "# Enclosure #99: Tier-1-READ-RECEIPT-jrosenkranz-orrick-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/__TIER-1/Tier-1__READ-RECEIPT-jrosenkranz@orrick.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-tier-1-tier-1-read-receipt-jrosenkranz-572d9958a6.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jrosenkranz@orrick.com",
+  "primary_recipient_an": "Jrosenkranz (Abuse)",
+  "all_recipients": [
+    "jrosenkranz@orrick.com",
+    "dwilliams@jenner.com",
+    "ccariello@orrick.com",
+    "rjacobsen@orrick.com",
+    "aswaminathan@orrick.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jrosenkranz@orrick.com": "Jrosenkranz (Abuse)",
+    "dwilliams@jenner.com": "UTC* (Kendall Nicole Jenner)",
+    "ccariello@orrick.com": "Ccariello (Abuse)",
+    "rjacobsen@orrick.com": "Rjacobsen (Abuse)",
+    "aswaminathan@orrick.com": "Aswaminathan (Abuse)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "Tier-1__READ-RECEIPT-jrosenkranz@orrick.com.pdf",
+  "patent_applications_mentioned": []
+}

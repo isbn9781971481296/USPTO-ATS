@@ -1,0 +1,98 @@
+4/16/26, 4:58 AM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD,…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF
+PROVISIONAL RIGHTS PERIOD, AND DEMAND FOR DUE DILIGENCE CONCERNING
+COVERT OPTICAL EXFILTRATION VIA VEHICULAR LED ASSEMBLIES
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Thu, Apr 16, 2026 at 4:56 AM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS
+PERIOD, AND DEMAND FOR DUE DILIGENCE CONCERNING COVERT OPTICAL
+EXFILTRATION VIA VEHICULAR LED ASSEMBLIES
+
+To:
+
+<antony.klapper@vw.com>
+
+Time Sent:
+
+04/15/2026 09:18:32 PM (UTC), 04/15/2026 09:18:32 PM (Local)
+
+Time Opened:
+
+04/16/2026 09:50:28 AM (UTC), 04/16/2026 09:50:28 AM (Local)
+
+Tracking Number:
+
+B443BB4BC83A656233D8ECB06C3898A2EFC9C9D9
+
+Network ID:
+
+4c0bba1a-e3a5-4c02-9782-a4f71dcc9d1d@SM25
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 166.196.54.67] [Time Opened: 4/16/2026 9:50:28 AM] [REMOTE_HOST: 192.168.10.122] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/3VCav7GVYYibPuXtZDSVZ849P3uxVxOxBMva6oN9MjAx.gif] HTTP_ACCEPT:ima
+ge/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=
+0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r
+1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, l
+ike Gecko) Mobile/15E148 HTTP_X_FORWARDED_FOR:166.196.54.67 HTTP_X_FORWARDED_PROTO:https HTTP_X_FO
+RWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69e0b0e4-7251f2664bd37fab47c70afe HTTP_SEC_FETCH_DES
+T:image HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/we
+bp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Acc
+ept-Encoding: gzip, deflate, br, zstd Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iP
+hone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 16
+6.196.54.67 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69e0b0e4-7251f2664bd37fab47c70afe
+sec-fetch-dest: image sec-fetch-site: cross-site sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 4096 CN=
+ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/3VCav7
+GVYYibPuXtZDSVZ849P3uxVxOxBMva6oN9MjAx.gif 192.168.10.122 192.168.10.122 28860 GET /oatv_v2/3VCav7GVYYibP
+uXtZDSVZ849P3uxVxOxBMva6oN9MjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/3VCav7GVYYi
+bPuXtZDSVZ849P3uxVxOxBMva6oN9MjAx.gif image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=
+0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br, zstd en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0
+(iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 166.196.54.67 http
+s 443 Root=1-69e0b0e4-7251f2664bd37fab47c70afe image cross-site no-cors u=5, i
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862620534847221334&simpl=msg-f:1862620534847221334
+
+1/2
+
+4/16/26, 4:58 AM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF PROPRIETARY RIGHTS, INITIATION OF PROVISIONAL RIGHTS PERIOD,…
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+4K
+HtmlReceipt.htm
+38K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862620534847221334&simpl=msg-f:1862620534847221334
+
+2/2
+
+

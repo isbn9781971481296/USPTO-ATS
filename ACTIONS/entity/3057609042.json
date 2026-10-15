@@ -1,0 +1,35 @@
+{
+  "serving_key": "3057609042",
+  "canonical_key": "bret.johnsen@spacex.com",
+  "display_name": "Bret Johnsen (SpaceX)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Space Exploration Technologies Corp.",
+  "full_name": "Bret Johnsen",
+  "pronouns": null,
+  "title": "Chief Financial Officer",
+  "organization": "Space Exploration Technologies Corp.",
+  "domain": "spacex.com",
+  "addresses": {
+    "mailing_address": "1 Rocket Road, Hawthorne, CA 90250",
+    "business_address": "1 Rocket Road, Hawthorne, CA 90250",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "bret.johnsen@spacex.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-310-363-6000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

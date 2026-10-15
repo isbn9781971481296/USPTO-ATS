@@ -1,0 +1,35 @@
+{
+  "serving_key": "3319753150",
+  "canonical_key": "akrishna@us.ibm.com",
+  "display_name": "Arvind Krishna (IBM)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "International Business Machines Corporation",
+  "full_name": "Arvind Krishna",
+  "pronouns": null,
+  "title": "Chairman and Chief Executive Officer",
+  "organization": "International Business Machines Corporation",
+  "domain": "us.ibm.com",
+  "addresses": {
+    "mailing_address": "1 New Orchard Road, Armonk, NY 10504",
+    "business_address": "1 New Orchard Road, Armonk, NY 10504",
+    "legal_service_address": "CT Corporation System, 28 Liberty Street, New York, NY 10005"
+  },
+  "registered_agent": {
+    "name": "CT Corporation System",
+    "address": "28 Liberty Street, New York, NY 10005",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "akrishna@us.ibm.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-914-499-1900"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

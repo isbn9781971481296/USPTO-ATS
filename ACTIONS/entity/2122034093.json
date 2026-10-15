@@ -1,0 +1,35 @@
+{
+  "serving_key": "2122034093",
+  "canonical_key": "dan.patrick@ltgov.texas.gov",
+  "display_name": "Dan Patrick (Office of the Lieutenant Governor of Texas)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Office of the Lieutenant Governor of Texas",
+  "full_name": "Dan Patrick",
+  "pronouns": null,
+  "title": "Lieutenant Governor of Texas",
+  "organization": "Office of the Lieutenant Governor of Texas",
+  "domain": "ltgov.texas.gov",
+  "addresses": {
+    "mailing_address": "P.O. Box 12068, Austin, TX 78711",
+    "business_address": "Texas Capitol, 1100 Congress Ave, Room 2E.13, Austin, TX 78701",
+    "legal_service_address": "Office of the Attorney General, 300 W. 15th Street, Austin, TX 78701"
+  },
+  "registered_agent": {
+    "name": "Office of the Attorney General of Texas",
+    "address": "300 W. 15th Street, Austin, TX 78701",
+    "jurisdiction": "Texas"
+  },
+  "contact": {
+    "primary_email": "dan.patrick@ltgov.texas.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-512-463-0001"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

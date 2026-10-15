@@ -1,0 +1,45 @@
+{
+  "index": 9,
+  "header": "# Enclosure #9: 01-IP-LIABILITY-DoD-Contractors.pdf",
+  "cloud_url": "https://storage.googleapis.com/kol-mobile-2024/Court-Evidence/__DOJ/BlackRock_State-Street_Vanguard__The-Big-Three/__REACH-OUT-PROJECT/DoD__DFARS-227.7004/Plantir-and-Anduril-Industries/01_IP_LIABILITY_DoD_Contractors.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-kol-mobile-2024-court-evidence-doj-blackrock-state-street-vanguard-the-big-three-reach-out-projec-ee25858173.pdf",
+  "pdf_exists": true,
+  "category": "letter",
+  "prefix_hint": "LETTER",
+  "subtype": "letter",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "brian@anduril.com",
+  "primary_recipient_an": "Brian Schimpf (Anduril Industries, Inc.)",
+  "all_recipients": [
+    "brian@anduril.com",
+    "akarp@palantir.com",
+    "emil.michael@mail.mil",
+    "contact@anduril.com",
+    "team@thielfellowship.org",
+    "mgrimm@anduril.com",
+    "rtaylor@palantir.com",
+    "menlopark-info@a16z.com",
+    "compliance@a16z.com"
+  ],
+  "all_recipients_an": {
+    "brian@anduril.com": "Brian Schimpf (Anduril Industries, Inc.)",
+    "akarp@palantir.com": "Alex Karp (Palantir Technologies Inc.)",
+    "emil.michael@mail.mil": "Mr. Emil Michael (Department of Defense)",
+    "contact@anduril.com": "Brian Schimpf (Anduril Industries, Inc.)",
+    "team@thielfellowship.org": "Peter Thiel (thielfellowship.org)",
+    "mgrimm@anduril.com": "Matt Grimm (Anduril Industries, Inc.)",
+    "rtaylor@palantir.com": "Rtaylor (Palantir Technologies Inc.)",
+    "menlopark-info@a16z.com": "Menlopark Info (Amazon.com, Inc.)",
+    "compliance@a16z.com": "Compliance (Amazon.com, Inc.)"
+  },
+  "date": "04172026",
+  "original_filename": "01_IP_LIABILITY_DoD_Contractors.pdf",
+  "patent_applications_mentioned": [
+    "19/559,842",
+    "19/560,065",
+    "19/559,957",
+    "19/559,873",
+    "19/559,608",
+    "19/640,945"
+  ]
+}

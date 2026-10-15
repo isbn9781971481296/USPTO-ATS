@@ -1,0 +1,35 @@
+{
+  "serving_key": "1520342888",
+  "canonical_key": "steve.meininger@inframark.com",
+  "display_name": "Steve Meininger (Inframark)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Inframark, LLC",
+  "full_name": "Steve Meininger",
+  "pronouns": null,
+  "title": "Vice President",
+  "organization": "Inframark, LLC",
+  "domain": "inframark.com",
+  "addresses": {
+    "mailing_address": "2002 W Grand Pkwy N #100, Katy, TX 77449",
+    "business_address": "2002 W Grand Pkwy N #100, Katy, TX 77449",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "steve.meininger@inframark.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "281-870-0585"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

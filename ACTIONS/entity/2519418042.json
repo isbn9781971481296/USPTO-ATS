@@ -1,0 +1,35 @@
+{
+  "serving_key": "2519418042",
+  "canonical_key": "attorney.general@ct.gov",
+  "display_name": "William Tong (Office of the Attorney General, State of Connecticut)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Office of the Attorney General, State of Connecticut",
+  "full_name": "William Tong",
+  "pronouns": null,
+  "title": "Attorney General",
+  "organization": "Office of the Attorney General, State of Connecticut",
+  "domain": "ct.gov",
+  "addresses": {
+    "mailing_address": "165 Capitol Avenue, Hartford, CT 06106",
+    "business_address": "165 Capitol Avenue, Hartford, CT 06106",
+    "legal_service_address": "165 Capitol Avenue, Hartford, CT 06106"
+  },
+  "registered_agent": {
+    "name": "Office of the Attorney General (Service of Process)",
+    "address": "165 Capitol Avenue, Hartford, CT 06106",
+    "jurisdiction": "Connecticut"
+  },
+  "contact": {
+    "primary_email": "attorney.general@ct.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "860-808-5318"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

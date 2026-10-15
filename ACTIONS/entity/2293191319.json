@@ -1,0 +1,38 @@
+{
+  "serving_key": "2293191319",
+  "canonical_key": "llesser@stblaw.com",
+  "display_name": "Lori E. Lesser (Simpson Thacher & Bartlett LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Simpson Thacher & Bartlett LLP",
+  "full_name": "Lori E. Lesser",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Simpson Thacher & Bartlett LLP",
+  "domain": "stblaw.com",
+  "addresses": {
+    "mailing_address": "425 Lexington Avenue, New York, NY 10017",
+    "business_address": "425 Lexington Avenue, New York, NY 10017",
+    "legal_service_address": "425 Lexington Avenue, New York, NY 10017"
+  },
+  "registered_agent": {
+    "name": "Simpson Thacher & Bartlett LLP",
+    "address": "425 Lexington Avenue, New York, NY 10017",
+    "jurisdiction": "New York"
+  },
+  "contact": {
+    "primary_email": "llesser@stblaw.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 212-455-3393",
+      "+1 212-455-2000"
+    ],
+    "faxes": [
+      "+1 212-455-2502"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

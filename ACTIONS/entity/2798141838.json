@@ -1,0 +1,48 @@
+{
+  "serving_key": "2798141838",
+  "canonical_key": "support@sinopec.com",
+  "display_name": "China Petroleum & Chemical Corporation (Sinopec)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "China Petroleum & Chemical Corporation (Sinopec)",
+  "full_name": "China Petroleum & Chemical Corporation",
+  "pronouns": null,
+  "title": "Corporation",
+  "organization": "China Petroleum & Chemical Corporation (Sinopec)",
+  "domain": "sinopec.com",
+  "addresses": {
+    "mailing_address": "22 Chaoyangmen North Street, Chaoyang District, Beijing, 100728, P.R. China",
+    "business_address": "22 Chaoyangmen North Street, Chaoyang District, Beijing, 100728, P.R. China",
+    "legal_service_address": "22 Chaoyangmen North Street, Chaoyang District, Beijing, 100728, P.R. China"
+  },
+  "registered_agent": {
+    "name": "Board Secretariat / Legal Department",
+    "address": "22 Chaoyangmen North Street, Chaoyang District, Beijing, 100728, P.R. China",
+    "jurisdiction": "People's Republic of China"
+  },
+  "contact": {
+    "primary_email": "support@sinopec.com",
+    "alternative_emails": [
+      "ir@sinopec.com",
+      "media@sinopec.com"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+86 10 5996 0028",
+      "+86 10 5996 0114"
+    ],
+    "faxes": [
+      "+86 10 5996 0386"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2138701918",
+      "canonical_key": "ir@sinopec.com",
+      "display_name": "Investor Relations",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

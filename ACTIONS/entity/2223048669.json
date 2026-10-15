@@ -1,0 +1,80 @@
+{
+  "serving_key": "2223048669",
+  "canonical_key": "kawai@noandt.com",
+  "display_name": "Kenichi Kawai (Nishimura & Asahi)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Nagashima Ohno & Tsunematsu",
+  "full_name": "Kenichi Kawai",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Nagashima Ohno & Tsunematsu",
+  "domain": "noandt.com",
+  "addresses": {
+    "mailing_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "business_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "legal_service_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan"
+  },
+  "registered_agent": {
+    "name": "Nishimura & Asahi (Headquarters)",
+    "address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "jurisdiction": "Tokyo, Japan"
+  },
+  "contact": {
+    "primary_email": "kawai@noandt.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+81-3-6250-6200"
+    ],
+    "faxes": [
+      "+81-3-6250-7200"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "570587328",
+      "canonical_key": "saori_kawai@noandt.com",
+      "display_name": "Saori Kawai",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2439409161",
+      "canonical_key": "matsuda@noandt.com",
+      "display_name": "Attorney Matsuda",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2859344094",
+      "canonical_key": "_shunji_matsuda@noandt.com",
+      "display_name": "Shunji Matsuda",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1247217755",
+      "canonical_key": "_mami_sawada@noandt.com",
+      "display_name": "Mami Sawada",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3798391051",
+      "canonical_key": "mami_sawada@noandt.com",
+      "display_name": "Mami Sawada",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2172873572",
+      "canonical_key": "sawada@noandt.com",
+      "display_name": "Sawada",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "254802594",
+      "canonical_key": "shunji_matsuda@noandt.com",
+      "display_name": "Shunji Matsuda",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

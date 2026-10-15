@@ -1,0 +1,32 @@
+{
+  "index": 96,
+  "header": "# Enclosure #96: READ-RECEIPT-amer-fr-com-thuermer-fr-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/READ-RECEIPT-amer@fr.com_thuermer@fr.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-read-receipt-amer@fr.com-thuermer@f-f82b4dc03f.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "amer@fr.com",
+  "primary_recipient_an": "Amer (France)",
+  "all_recipients": [
+    "amer@fr.com",
+    "thuermer@fr.com",
+    "jwaldrop@kasowitz.com",
+    "john.haynes@alston.com",
+    "us-smtpamer@fr.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "amer@fr.com": "Amer (France)",
+    "thuermer@fr.com": "Thuermer (France)",
+    "jwaldrop@kasowitz.com": "UTC* (Kasowitz LLP)",
+    "john.haynes@alston.com": "UTC* (Alston)",
+    "us-smtpamer@fr.com": "Us Smtpamer (France)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT-amer@fr.com_thuermer@fr.com.pdf",
+  "patent_applications_mentioned": []
+}

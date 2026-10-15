@@ -1,0 +1,35 @@
+{
+  "serving_key": "2645606695",
+  "canonical_key": "scott.frank@att.com",
+  "display_name": "Scott Frank (AT&T Inc.)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "AT&T Inc.",
+  "full_name": "Scott Frank",
+  "pronouns": null,
+  "title": "President & CEO, AT&T Intellectual Property",
+  "organization": "AT&T Inc.",
+  "domain": "att.com",
+  "addresses": {
+    "mailing_address": "208 S. Akard St., Dallas, TX 75202",
+    "business_address": "208 S. Akard St., Dallas, TX 75202",
+    "legal_service_address": "The Corporation Trust Company, 1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "scott.frank@att.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-214-464-1000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

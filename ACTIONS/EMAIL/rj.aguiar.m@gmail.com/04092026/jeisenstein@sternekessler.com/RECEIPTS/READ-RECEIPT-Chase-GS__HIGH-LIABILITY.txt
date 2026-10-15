@@ -1,0 +1,748 @@
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART
+DISCLOSURE: ARCHITECTURES FOR TRANSACTIONAL INTEGRITY, FORENSIC
+OWNERSHIP DETECTION, AND HIGH-RADIX SECURE FINANCIAL COMMUNICATIONS
+(Delivery Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Thu, Apr 9, 2026 at 10:31 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered
+
+(UTC*)
+
+(local)
+
+Opened (local)
+
+adam.meshel@citi.com
+
+Delivered
+MUA+HTTP-IP:24.185.14.155
+and Opened
+
+04/09/2026
+01:01:52 PM
+(UTC)
+
+04/09/2026
+01:01:52 PM
+
+ellen.patterson@wellsfargo.com
+
+Delivery
+Failed
+
+***
+
+***
+
+kathryn.ruemmler@gs.com
+
+Delivered
+MUA-IP:fe80::7210:66ef:9ebd:
+and Opened 5ab4
+
+04/09/2026
+01:01:51 PM
+(UTC)
+
+04/09/2026
+01:01:51 PM
+
+04/09/2026
+02:51:24 PM
+
+emar@fbm.com
+
+Delivered
+MUA+HTTP-IP:135.232.20.49
+and Opened
+
+04/09/2026
+01:11:54 PM
+(UTC)
+
+04/09/2026
+01:11:54 PM
+
+04/09/2026
+01:12:07 PM
+
+jstrand@wolfgreenfield.com
+
+Delivered
+HTTP-IP:72.152.84.147
+and Opened
+
+04/09/2026
+01:01:52 PM
+(UTC)
+
+04/09/2026
+01:01:52 PM
+
+04/09/2026
+01:02:46 PM
+
+***
+
+***
+
+550 5.1.1 User Unknown
+
+550 Invalid Recipient https://community.mimecast.
+com/docs/DOC-1369#550
+[yOYqhvC1OK286U4YPwIsQ.us328]
+
+jeisenstein@sternekessler.com
+
+Delivery
+Failed
+
+stacey.friedman@jpmchase.com
+
+Delivered
+HTTP-IP:107.77.212.73
+and Opened
+
+04/09/2026
+01:01:52 PM
+(UTC)
+
+04/09/2026
+01:01:52 PM
+
+lauren.mogensen@bofa.com
+
+Delivered to
+Mail Server
+
+04/09/2026
+01:01:53 PM
+(UTC)
+
+04/09/2026
+01:01:53 PM
+
+relayed;mxb-0000ec05.gslb.
+pphosted.com (208.84.65.230)
+
+04/09/2026
+01:06:23 PM
+
+04/09/2026
+01:06:19 PM
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+1/9
+
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+sdevarakonda@fr.com
+
+kcole@mvalaw.com
+
+rj.aguiar.m@gmail.com
+
+Delivery
+Failed
+
+550 Invalid Recipient https://community.mimecast.
+com/docs/DOC-1369#550
+[W3YC4_dOOg6nefOycebBw.us527]
+
+***
+
+***
+
+Delivery
+Failed
+
+SMTP; 550 5.4.1 Recipient
+address rejected: Access
+denied. For more information
+see
+https://aka.ms/EXOSmtpErrors ***
+[BN2PEPF000055E0.namprd21.
+prod.outlook.com 2026-0409T13:01:54.064Z
+08DE9200D32C9472]
+
+***
+
+Delivered to
+Mail Server
+
+250 2.0.0 OK 1775739954
+ffacd0b85a97d04/09/2026
+43d1e563c22si46956168f8f.485
+01:05:54 PM
+- gsmtp gmail-smtp(UTC)
+in.l.google.com
+(142.251.127.26)
+
+04/09/2026
+01:05:54 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR. <rj.aguiar.m+legal@gmail.com>
+
+Subject:
+
+FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE:
+ARCHITECTURES FOR TRANSACTIONAL INTEGRITY, FORENSIC OWNERSHIP
+DETECTION, AND HIGH-RADIX SECURE FINANCIAL COMMUNICATIONS
+
+To:
+
+<adam.meshel@citi.com> <ellen.patterson@wellsfargo.com>
+<kathryn.ruemmler@gs.com> <emar@fbm.com> <jstrand@wolfgreenfield.com>
+<jeisenstein@sternekessler.com> <stacey.friedman@jpmchase.com>
+<lauren.mogensen@bofa.com> <sdevarakonda@fr.com> <kcole@mvalaw.com>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+ebcb5427-0aba-4264-8289-22919f257609@SM26
+
+Received by RMail System:
+
+04/09/2026 01:01:48 PM (UTC), 04/09/2026 01:01:48 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+64E9E1FE8451730ECF0D874C17174964FFCDB28B
+
+Message Size:
+
+7397
+
+Features Used:
+File Size:
+
+File Name:
+
+976947
+
+00-Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+564080
+
+00-EMAIL-TO-EPO_Defensive-Publication-USPTO-No_19-640,945.pdf
+
+74260152
+
+04-ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-filed-with-the-USPTO.pdf
+
+148070
+
+05-NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud.pdf
+
+220067
+
+06-The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+07-Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+08-Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+3984588
+
+09-Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+4016046
+
+10-Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+2/9
+
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+6836715
+
+11-Letter-to-Uber-and-Emil-Michael.pdf
+
+989655
+
+02-USPTO-No-19-639,255_A_High-Radix_and_Parametric_P2P-RF_
+Communication_System.pdf
+
+1226833
+
+01-USPTO-No-19-639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+977254
+
+00-USPTO-No-19-639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+.
+
+Delivery Audit Trail
+4/9/2026 1:01:49 PM starting citi.com/{default} 4/9/2026 1:01:49 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx-a.mai
+l.citi.com (67.231.145.106) 4/9/2026 1:01:49 PM connected from 192.168.10.11:60291 4/9/2026 1:01:49 PM >>> 220 mx-a.ma
+il.citi.com ESMTP mx-a.mail.citi.com 4/9/2026 1:01:49 PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:49 PM >>> 250-mxa.mail.citi.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/9/2026 1:01:49 PM >>> 250-ENHANCEDSTATU
+SCODES 4/9/2026 1:01:49 PM >>> 250-PIPELINING 4/9/2026 1:01:49 PM >>> 250-8BITMIME 4/9/2026 1:01:49 PM >>> 25
+0-SIZE 157286400 4/9/2026 1:01:49 PM >>> 250 STARTTLS 4/9/2026 1:01:49 PM <<< STARTTLS 4/9/2026 1:01:49 PM >>>
+220 2.0.0 Ready to start TLS 4/9/2026 1:01:50 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/
+9/2026 1:01:50 PM tls:Cert: /jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=
+2154254/C=US/ST=New York/L=New York/O=Citigroup Inc./CN=mx-a.mail.citi.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCe
+rt EV RSA CA G2; verified=no 4/9/2026 1:01:50 PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:50 PM >>> 250-mx-a.mail.ci
+ti.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/9/2026 1:01:50 PM >>> 250-ENHANCEDSTATUSCODE
+S 4/9/2026 1:01:50 PM >>> 250-PIPELINING 4/9/2026 1:01:50 PM >>> 250-8BITMIME 4/9/2026 1:01:50 PM >>> 250 SIZE
+157286400 4/9/2026 1:01:50 PM <<< MAIL FROM: BODY=8BITMIME 4/9/2026 1:01:51 PM >>> 250 2.1.0 Sender ok 4/9/202
+6 1:01:51 PM <<< RCPT TO: 4/9/2026 1:01:51 PM >>> 250 2.1.5 Recipient ok 4/9/2026 1:01:51 PM <<< DATA 4/9/2026 1:0
+1:51 PM >>> 354 Enter mail, end with "." on a line by itself 4/9/2026 1:01:51 PM <<< . 4/9/2026 1:01:52 PM >>> 250 2.0.0 4d
+ec3krke1-1 Message accepted for delivery 4/9/2026 1:01:52 PM <<< QUIT 4/9/2026 1:01:53 PM >>> 221 2.0.0 mx-a.mail.citi.
+com Closing connection 4/9/2026 1:01:53 PM closed mx-a.mail.citi.com (67.231.145.106) in=609 out=30299 4/9/2026 1:01:53
+PM done citi.com/{default}
+4/9/2026 1:01:49 PM starting wellsfargo.com/{default} 4/9/2026 1:01:49 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mx
+b-00004003.gslb.pphosted.com (205.220.165.101) 4/9/2026 1:01:49 PM connected from 192.168.10.11:54105 4/9/2026 1:01:4
+9 PM >>> 220 mx0a-00004003.pphosted.com ESMTP mfa-m0216612 4/9/2026 1:01:49 PM <<< EHLO mta21.r1.rpost.net 4/
+9/2026 1:01:49 PM >>> 250-mx0a-00004003.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/9/2
+026 1:01:49 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:49 PM >>> 250-PIPELINING 4/9/2026 1:01:49 PM >>>
+250-8BITMIME 4/9/2026 1:01:49 PM >>> 250-SIZE 157286400 4/9/2026 1:01:49 PM >>> 250 STARTTLS 4/9/2026 1:01:49 P
+M <<< STARTTLS 4/9/2026 1:01:50 PM >>> 220 2.0.0 Ready to start TLS 4/9/2026 1:01:50 PM tls:TLSv1.2 connected with 2
+56-bit ECDHE-RSA-AES256-GCM-SHA384 4/9/2026 1:01:50 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.ppho
+sted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/9/2026 1:01:
+50 PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:50 PM >>> 250-mx0a-00004003.pphosted.com Hello mta21.r1.rpost.net
+[52.58.131.9], pleased to meet you 4/9/2026 1:01:50 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:50 PM >>> 250
+-PIPELINING 4/9/2026 1:01:50 PM >>> 250-8BITMIME 4/9/2026 1:01:50 PM >>> 250 SIZE 157286400 4/9/2026 1:01:50 PM
+<<< MAIL FROM: BODY=8BITMIME 4/9/2026 1:01:51 PM >>> 250 2.1.0 Sender ok 4/9/2026 1:01:51 PM <<< RCPT TO: 4/
+9/2026 1:01:51 PM >>> 550 5.1.1 User Unknown 4/9/2026 1:01:51 PM <<< QUIT 4/9/2026 1:01:51 PM >>> 221 2.0.0 mx0a-0
+0004003.pphosted.com Closing connection 4/9/2026 1:01:51 PM closed mxb-00004003.gslb.pphosted.com (205.220.165.101)
+in=531 out=197 4/9/2026 1:01:51 PM done wellsfargo.com/{default}
+4/9/2026 1:01:49 PM starting gs.com/{default} 4/9/2026 1:01:49 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxb-0014
+b501.gslb.pphosted.com (67.231.156.164) 4/9/2026 1:01:49 PM connected from 192.168.10.11:60671 4/9/2026 1:01:49 PM >>
+> 220 mx0b-0014b501.pphosted.com ESMTP mfa-m0206008 4/9/2026 1:01:49 PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:
+01:49 PM >>> 250-mx0b-0014b501.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/9/2026 1:01:
+49 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:49 PM >>> 250-PIPELINING 4/9/2026 1:01:49 PM >>> 250-8BIT
+MIME 4/9/2026 1:01:49 PM >>> 250-SIZE 157286400 4/9/2026 1:01:49 PM >>> 250 STARTTLS 4/9/2026 1:01:49 PM <<< S
+TARTTLS 4/9/2026 1:01:50 PM >>> 220 2.0.0 Ready to start TLS 4/9/2026 1:01:50 PM tls:TLSv1.2 connected with 256-bit E
+CDHE-RSA-AES256-GCM-SHA384 4/9/2026 1:01:50 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.gslb.pphoste
+d.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/9/2026 1:01:50
+PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:50 PM >>> 250-mx0b-0014b501.pphosted.com Hello mta21.r1.rpost.net [52.
+58.131.9], pleased to meet you 4/9/2026 1:01:50 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:50 PM >>> 250-PI
+PELINING 4/9/2026 1:01:50 PM >>> 250-8BITMIME 4/9/2026 1:01:50 PM >>> 250 SIZE 157286400 4/9/2026 1:01:50 PM <<
+< MAIL FROM: BODY=8BITMIME 4/9/2026 1:01:50 PM >>> 250 2.1.0 Sender ok 4/9/2026 1:01:50 PM <<< RCPT TO: 4/9/2
+026 1:01:50 PM >>> 250 2.1.5 Recipient ok 4/9/2026 1:01:50 PM <<< DATA 4/9/2026 1:01:51 PM >>> 354 Enter mail, end wi
+th "." on a line by itself 4/9/2026 1:01:51 PM <<< . 4/9/2026 1:01:51 PM >>> 250 2.0.0 4ddxqjdc8w-1 Message accepted for d
+elivery 4/9/2026 1:01:51 PM <<< QUIT 4/9/2026 1:01:52 PM >>> 221 2.0.0 mx0b-0014b501.pphosted.com Closing connectio
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+3/9
+
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+n 4/9/2026 1:01:52 PM closed mxb-0014b501.gslb.pphosted.com (67.231.156.164) in=635 out=30308 4/9/2026 1:01:52 PM do
+ne gs.com/{default}
+4/9/2026 1:11:51 PM starting fbm.com/{default} 4/9/2026 1:11:51 PM connecting from mta21.r1.rpost.net (0.0.0.0) to us-smtp-i
+nbound-1.mimecast.com (170.10.128.242) 4/9/2026 1:11:51 PM connected from 192.168.10.11:41489 4/9/2026 1:11:51 PM >>
+> 220 us-smtp-inbound-1.mimecast.com ESMTP; Thu, 09 Apr 2026 09:11:51 -0400 4/9/2026 1:11:51 PM <<< EHLO mta21.r1.
+rpost.net 4/9/2026 1:11:52 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/9/2026 1:11:52 PM >>> 250-S
+TARTTLS 4/9/2026 1:11:52 PM >>> 250 HELP 4/9/2026 1:11:52 PM <<< STARTTLS 4/9/2026 1:11:52 PM >>> 220 Starting T
+LS [HMk12g0tP8iHLh5gv4kEiQ.us191] 4/9/2026 1:11:52 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCMSHA384 4/9/2026 1:11:52 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.com; issuer=/C=US/
+O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/9/2026 1:11:52 PM <<< EHLO mta21.r1.rp
+ost.net 4/9/2026 1:11:52 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/9/2026 1:11:52 PM >>> 250-AU
+TH PLAIN LOGIN 4/9/2026 1:11:52 PM >>> 250 HELP 4/9/2026 1:11:52 PM <<< MAIL FROM: 4/9/2026 1:11:52 PM >>> 250
+Sender OK [HMk12g0tP8iHLh5gv4kEiQ.us191] 4/9/2026 1:11:52 PM <<< RCPT TO: 4/9/2026 1:11:52 PM >>> 250 Recipient
+OK [HMk12g0tP8iHLh5gv4kEiQ.us191] 4/9/2026 1:11:52 PM <<< DATA 4/9/2026 1:11:53 PM >>> 354 Start mail data, end wit
+h CRLF.CRLF [HMk12g0tP8iHLh5gv4kEiQ.us191] 4/9/2026 1:11:53 PM <<< . 4/9/2026 1:11:54 PM >>> 250 SmtpThread-514
+6360-1775740313818@us-mta-191.us.mimecast.lan Received OK [HMk12g0tP8iHLh5gv4kEiQ.us191] 4/9/2026 1:11:54 PM <
+<< QUIT 4/9/2026 1:11:54 PM >>> 221 Service closing transmission channel [mKtHAiqvMo2W6kHbz8e0Tg.us191] 4/9/2026
+1:11:54 PM closed us-smtp-inbound-1.mimecast.com (170.10.128.242) in=640 out=30261 4/9/2026 1:11:54 PM done fbm.co
+m/{default}
+4/9/2026 1:01:50 PM starting wolfgreenfield.com/{default} 4/9/2026 1:01:50 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+wolfgreenfield-com.mail.protection.outlook.com (52.101.194.4) 4/9/2026 1:01:50 PM connected from 192.168.10.11:60992 4/9/
+2026 1:01:50 PM >>> 220 CH3PEPF00000010.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Thu, 9 A
+pr 2026 13:01:49 +0000 [08DE8D84FEF3DEBE] 4/9/2026 1:01:50 PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:50 PM >>
+> 250-CH3PEPF00000010.mail.protection.outlook.com Hello [52.58.131.9] 4/9/2026 1:01:50 PM >>> 250-SIZE 157286400 4/
+9/2026 1:01:50 PM >>> 250-PIPELINING 4/9/2026 1:01:50 PM >>> 250-DSN 4/9/2026 1:01:50 PM >>> 250-ENHANCEDSTA
+TUSCODES 4/9/2026 1:01:50 PM >>> 250-STARTTLS 4/9/2026 1:01:50 PM >>> 250-8BITMIME 4/9/2026 1:01:50 PM >>> 2
+50-BINARYMIME 4/9/2026 1:01:50 PM >>> 250-CHUNKING 4/9/2026 1:01:50 PM >>> 250 SMTPUTF8 4/9/2026 1:01:50 PM
+<<< STARTTLS 4/9/2026 1:01:50 PM >>> 220 2.0.0 SMTP server ready 4/9/2026 1:01:50 PM tls:TLSv1.2 connected with 25
+6-bit ECDHE-RSA-AES256-GCM-SHA384 4/9/2026 1:01:50 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Microsoft Cor
+poration/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=no 4/9/20
+26 1:01:50 PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:50 PM >>> 250-CH3PEPF00000010.mail.protection.outlook.com
+Hello [52.58.131.9] 4/9/2026 1:01:50 PM >>> 250-SIZE 157286400 4/9/2026 1:01:50 PM >>> 250-PIPELINING 4/9/2026 1:01:
+50 PM >>> 250-DSN 4/9/2026 1:01:50 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:50 PM >>> 250-8BITMIME 4/
+9/2026 1:01:50 PM >>> 250-BINARYMIME 4/9/2026 1:01:50 PM >>> 250-CHUNKING 4/9/2026 1:01:50 PM >>> 250 SMTPU
+TF8 4/9/2026 1:01:50 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/9/2026 1:01:51 PM >>> 250 2.1.0 Sender OK 4/
+9/2026 1:01:51 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/9/2026 1:01:51 PM >>> 250 2.1.5 Recipient OK
+4/9/2026 1:01:51 PM <<< DATA 4/9/2026 1:01:51 PM >>> 354 Start mail input; end with . 4/9/2026 1:01:51 PM <<< . 4/9/202
+6 1:01:52 PM >>> 250 2.6.0 [InternalId=76257144341424, Hostname=BL1PR03MB6086.namprd03.prod.outlook.com] 41387 b
+ytes in 0.160, 252.449 KB/sec Queued mail for delivery 4/9/2026 1:01:52 PM <<< QUIT 4/9/2026 1:01:52 PM >>> 221 2.0.0
+Service closing transmission channel 4/9/2026 1:01:52 PM closed wolfgreenfield-com.mail.protection.outlook.com (52.101.19
+4.4) in=924 out=30355 4/9/2026 1:01:52 PM done wolfgreenfield.com/{default}
+4/9/2026 1:11:51 PM starting sternekessler.com/{default} 4/9/2026 1:11:51 PM connecting from mta21.r1.rpost.net (0.0.0.0) to
+us-smtp-inbound-2.mimecast.com (170.10.132.141) 4/9/2026 1:11:51 PM connected from 192.168.10.11:37110 4/9/2026 1:11:5
+1 PM >>> 220 us-smtp-inbound-1.mimecast.com ESMTP; Thu, 09 Apr 2026 09:11:51 -0400 4/9/2026 1:11:51 PM <<< EHLO
+mta21.r1.rpost.net 4/9/2026 1:11:51 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/9/2026 1:11:51 PM
+>>> 250-STARTTLS 4/9/2026 1:11:51 PM >>> 250 HELP 4/9/2026 1:11:51 PM <<< STARTTLS 4/9/2026 1:11:52 PM >>> 22
+0 Starting TLS [yOYqhvC1OK2-86U4YPwIsQ.us328] 4/9/2026 1:11:52 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-A
+ES256-GCM-SHA384 4/9/2026 1:11:52 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.com; is
+suer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/9/2026 1:11:52 PM <<< EHL
+O mta21.r1.rpost.net 4/9/2026 1:11:52 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/9/2026 1:11:52 P
+M >>> 250-AUTH PLAIN LOGIN 4/9/2026 1:11:52 PM >>> 250 HELP 4/9/2026 1:11:52 PM <<< MAIL FROM: 4/9/2026 1:11:5
+2 PM >>> 250 Sender OK [yOYqhvC1OK2-86U4YPwIsQ.us328] 4/9/2026 1:11:52 PM <<< RCPT TO: 4/9/2026 1:11:52 PM >
+>> 550 Invalid Recipient - https://community.mimecast.com/docs/DOC-1369#550 [yOYqhvC1OK2-86U4YPwIsQ.us328] 4/9/20
+26 1:11:52 PM <<< QUIT 4/9/2026 1:11:52 PM >>> 221 Service closing transmission channel [yOYqhvC1OK2-86U4YPwIsQ.
+us328] 4/9/2026 1:11:52 PM closed us-smtp-inbound-2.mimecast.com (170.10.132.141) in=516 out=182 4/9/2026 1:11:52 PM
+done sternekessler.com/{default}
+4/9/2026 1:01:49 PM starting jpmchase.com/{default} 4/9/2026 1:01:49 PM connecting from mta21.r1.rpost.net (0.0.0.0) to clu
+ster14.us.messagelabs.com (67.219.250.210) 4/9/2026 1:01:49 PM connected from 192.168.10.11:60754 4/9/2026 1:01:50 P
+M >>> 220 server-40.tower-941.messagelabs.com ESMTP 4/9/2026 1:01:50 PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:
+50 PM >>> 250-server-40.tower-941.messagelabs.com 4/9/2026 1:01:50 PM >>> 250-STARTTLS 4/9/2026 1:01:50 PM >>> 2
+50-PIPELINING 4/9/2026 1:01:50 PM >>> 250 8BITMIME 4/9/2026 1:01:50 PM <<< STARTTLS 4/9/2026 1:01:50 PM >>> 22
+0 ready for TLS 4/9/2026 1:01:50 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/9/2026 1:01:5
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+4/9
+
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+0 PM tls:Cert: /C=US/ST=California/L=Palo Alto/O=Broadcom Inc./CN=mail941.messagelabs.com; issuer=/C=US/O=DigiCert
+Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/9/2026 1:01:50 PM <<< EHLO mta21.r1.rpost.net 4/9/
+2026 1:01:51 PM >>> 250-server-40.tower-941.messagelabs.com 4/9/2026 1:01:51 PM >>> 250-PIPELINING 4/9/2026 1:01:5
+1 PM >>> 250 8BITMIME 4/9/2026 1:01:51 PM <<< MAIL FROM: BODY=8BITMIME 4/9/2026 1:01:51 PM >>> 250 OK 4/9/2
+026 1:01:51 PM <<< RCPT TO: 4/9/2026 1:01:51 PM >>> 250 OK 4/9/2026 1:01:51 PM <<< DATA 4/9/2026 1:01:51 PM >>>
+354 go ahead 4/9/2026 1:01:51 PM <<< . 4/9/2026 1:01:52 PM >>> 250 ok 1775739712 qp 23257 server-40.tower-941.messa
+gelabs.com!1775739710!5614!1 4/9/2026 1:01:52 PM <<< QUIT 4/9/2026 1:01:52 PM >>> 221 server-40.tower-941.messagel
+abs.com 4/9/2026 1:01:52 PM closed cluster14.us.messagelabs.com (67.219.250.210) in=375 out=30323 4/9/2026 1:01:52 P
+M done jpmchase.com/{default}
+4/9/2026 1:01:49 PM starting bofa.com/{default} 4/9/2026 1:01:49 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxb-000
+0ec05.gslb.pphosted.com (208.84.65.230) 4/9/2026 1:01:49 PM connected from 192.168.10.11:36043 4/9/2026 1:01:50 PM >>
+> 220 mx0a-0000ec05.pphosted.com ESMTP mfa-m0344032 4/9/2026 1:01:50 PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:
+01:50 PM >>> 250-mx0a-0000ec05.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/9/2026 1:01:
+50 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:50 PM >>> 250-PIPELINING 4/9/2026 1:01:50 PM >>> 250-8BIT
+MIME 4/9/2026 1:01:50 PM >>> 250-SIZE 157286400 4/9/2026 1:01:50 PM >>> 250 STARTTLS 4/9/2026 1:01:50 PM <<< S
+TARTTLS 4/9/2026 1:01:50 PM >>> 220 2.0.0 Ready to start TLS 4/9/2026 1:01:51 PM tls:TLSv1.2 connected with 256-bit E
+CDHE-RSA-AES256-GCM-SHA384 4/9/2026 1:01:51 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.gslb.pphoste
+d.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/9/2026 1:01:51
+PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:51 PM >>> 250-mx0a-0000ec05.pphosted.com Hello mta21.r1.rpost.net [52.
+58.131.9], pleased to meet you 4/9/2026 1:01:51 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:51 PM >>> 250-PI
+PELINING 4/9/2026 1:01:51 PM >>> 250-8BITMIME 4/9/2026 1:01:51 PM >>> 250 SIZE 157286400 4/9/2026 1:01:51 PM <<
+< MAIL FROM: BODY=8BITMIME 4/9/2026 1:01:51 PM >>> 250 2.1.0 Sender ok 4/9/2026 1:01:51 PM <<< RCPT TO: 4/9/2
+026 1:01:52 PM >>> 250 2.1.5 Recipient ok 4/9/2026 1:01:52 PM <<< DATA 4/9/2026 1:01:52 PM >>> 354 Enter mail, end wi
+th "." on a line by itself 4/9/2026 1:01:52 PM <<< . 4/9/2026 1:01:53 PM >>> 250 2.0.0 4dds34bpcj-1 Message accepted for d
+elivery 4/9/2026 1:01:53 PM <<< QUIT 4/9/2026 1:01:53 PM >>> 221 2.0.0 mx0a-0000ec05.pphosted.com Closing connectio
+n 4/9/2026 1:01:53 PM closed mxb-0000ec05.gslb.pphosted.com (208.84.65.230) in=635 out=30311 4/9/2026 1:01:53 PM don
+e bofa.com/{default}
+4/9/2026 1:01:49 PM starting fr.com/{default} 4/9/2026 1:01:49 PM connecting from mta21.r1.rpost.net (0.0.0.0) to us-smtp-inb
+ound-1.mimecast.com (170.10.128.242) 4/9/2026 1:01:49 PM connected from 192.168.10.11:43780 4/9/2026 1:01:50 PM >>>
+220 us-smtp-inbound-1.mimecast.com ESMTP; Thu, 09 Apr 2026 09:01:50 -0400 4/9/2026 1:01:50 PM <<< EHLO mta21.r1.rp
+ost.net 4/9/2026 1:01:50 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/9/2026 1:01:50 PM >>> 250-ST
+ARTTLS 4/9/2026 1:01:50 PM >>> 250 HELP 4/9/2026 1:01:50 PM <<< STARTTLS 4/9/2026 1:01:50 PM >>> 220 Starting T
+LS [W3YC4_dOOg6nefOy-cebBw.us527] 4/9/2026 1:01:50 PM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM
+-SHA384 4/9/2026 1:01:50 PM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimecast.com; issuer=/C=US/
+O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/9/2026 1:01:50 PM <<< EHLO mta21.r1.rp
+ost.net 4/9/2026 1:01:50 PM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/9/2026 1:01:50 PM >>> 250-AU
+TH PLAIN LOGIN 4/9/2026 1:01:50 PM >>> 250 HELP 4/9/2026 1:01:50 PM <<< MAIL FROM: 4/9/2026 1:01:50 PM >>> 250
+Sender OK [W3YC4_dOOg6nefOy-cebBw.us527] 4/9/2026 1:01:50 PM <<< RCPT TO: 4/9/2026 1:01:51 PM >>> 550 Invalid
+Recipient - https://community.mimecast.com/docs/DOC-1369#550 [W3YC4_dOOg6nefOy-cebBw.us527] 4/9/2026 1:01:51 PM
+<<< QUIT 4/9/2026 1:01:51 PM >>> 221 Service closing transmission channel [W3YC4_dOOg6nefOy-cebBw.us527] 4/9/2026
+1:01:51 PM closed us-smtp-inbound-1.mimecast.com (170.10.128.242) in=516 out=172 4/9/2026 1:01:51 PM done fr.com/{def
+ault}
+4/9/2026 1:01:50 PM starting mvalaw.com/{default} 4/9/2026 1:01:50 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxa00952301.gslb.pphosted.com (67.231.144.178) 4/9/2026 1:01:50 PM connected from 192.168.10.11:47451 4/9/2026 1:01:50 P
+M >>> 220 mx0a-00952301.pphosted.com ESMTP mfa-m0412388 4/9/2026 1:01:50 PM <<< EHLO mta21.r1.rpost.net 4/9/20
+26 1:01:50 PM >>> 250-mx0a-00952301.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/9/2026
+1:01:50 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:50 PM >>> 250-PIPELINING 4/9/2026 1:01:50 PM >>> 2508BITMIME 4/9/2026 1:01:50 PM >>> 250-SIZE 157286400 4/9/2026 1:01:50 PM >>> 250 STARTTLS 4/9/2026 1:01:50 PM <
+<< STARTTLS 4/9/2026 1:01:51 PM >>> 220 2.0.0 Ready to start TLS 4/9/2026 1:01:51 PM tls:TLSv1.2 connected with 256bit ECDHE-RSA-AES256-GCM-SHA384 4/9/2026 1:01:51 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./CN=*.pphoste
+d.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/9/2026 1:01:51
+PM <<< EHLO mta21.r1.rpost.net 4/9/2026 1:01:51 PM >>> 250-mx0a-00952301.pphosted.com Hello mta21.r1.rpost.net [52.
+58.131.9], pleased to meet you 4/9/2026 1:01:51 PM >>> 250-ENHANCEDSTATUSCODES 4/9/2026 1:01:51 PM >>> 250-PI
+PELINING 4/9/2026 1:01:51 PM >>> 250-8BITMIME 4/9/2026 1:01:51 PM >>> 250 SIZE 157286400 4/9/2026 1:01:51 PM <<
+< MAIL FROM: BODY=8BITMIME 4/9/2026 1:01:52 PM >>> 250 2.1.0 Sender ok 4/9/2026 1:01:52 PM <<< RCPT TO: 4/9/2
+026 1:01:52 PM >>> 250 2.1.5 Recipient ok 4/9/2026 1:01:52 PM <<< DATA 4/9/2026 1:01:52 PM >>> 354 Enter mail, end wi
+th "." on a line by itself 4/9/2026 1:01:52 PM <<< . 4/9/2026 1:01:53 PM >>> 250 2.0.0 4ddab1hn7h-1 Message accepted for
+delivery 4/9/2026 1:01:53 PM <<< QUIT 4/9/2026 1:01:53 PM >>> 221 2.0.0 mx0a-00952301.pphosted.com Closing connecti
+on 4/9/2026 1:01:53 PM closed mxa-00952301.gslb.pphosted.com (67.231.144.178) in=635 out=30287 4/9/2026 1:01:53 PM d
+one mvalaw.com/{default}
+4/9/2026 1:05:47 PM starting gmail.com/{default} 4/9/2026 1:05:54 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail-s
+mtp-in.l.google.com (142.251.127.26) 4/9/2026 1:05:54 PM connected from 192.168.10.11:45225 4/9/2026 1:05:54 PM >>> 22
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+5/9
+
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+0 mx.google.com ESMTP ffacd0b85a97d-43d1e563c22si46956168f8f.485 - gsmtp 4/9/2026 1:05:54 PM <<< EHLO mta21.r1.r
+post.net 4/9/2026 1:05:54 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/9/2026 1:05:54 PM >>> 250-SIZE 157
+286400 4/9/2026 1:05:54 PM >>> 250-8BITMIME 4/9/2026 1:05:54 PM >>> 250-STARTTLS 4/9/2026 1:05:54 PM >>> 250-E
+NHANCEDSTATUSCODES 4/9/2026 1:05:54 PM >>> 250-PIPELINING 4/9/2026 1:05:54 PM >>> 250-CHUNKING 4/9/2026
+1:05:54 PM >>> 250 SMTPUTF8 4/9/2026 1:05:54 PM <<< STARTTLS 4/9/2026 1:05:54 PM >>> 220 2.0.0 Ready to start TL
+S 4/9/2026 1:05:54 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reused) 4/9/2026
+1:05:54 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/9/2026 1:05:54 P
+M <<< EHLO mta21.r1.rpost.net 4/9/2026 1:05:54 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/9/2026 1:05:5
+4 PM >>> 250-SIZE 157286400 4/9/2026 1:05:54 PM >>> 250-8BITMIME 4/9/2026 1:05:54 PM >>> 250-ENHANCEDSTATU
+SCODES 4/9/2026 1:05:54 PM >>> 250-PIPELINING 4/9/2026 1:05:54 PM >>> 250-CHUNKING 4/9/2026 1:05:54 PM >>> 25
+0 SMTPUTF8 4/9/2026 1:05:54 PM <<< MAIL FROM: BODY=8BITMIME 4/9/2026 1:05:54 PM >>> 250 2.1.0 OK ffacd0b85a
+97d-43d1e563c22si46956168f8f.485 - gsmtp 4/9/2026 1:05:54 PM <<< RCPT TO: 4/9/2026 1:05:54 PM >>> 250 2.1.5 OK ffa
+cd0b85a97d-43d1e563c22si46956168f8f.485 - gsmtp 4/9/2026 1:05:54 PM <<< DATA 4/9/2026 1:05:54 PM >>> 354 Go ahead
+ffacd0b85a97d-43d1e563c22si46956168f8f.485 - gsmtp 4/9/2026 1:05:54 PM <<< . 4/9/2026 1:05:54 PM >>> 250 2.0.0 OK 1
+775739954 ffacd0b85a97d-43d1e563c22si46956168f8f.485 - gsmtp 4/9/2026 1:05:54 PM <<< QUIT 4/9/2026 1:05:54 PM >>>
+221 2.0.0 closing connection ffacd0b85a97d-43d1e563c22si46956168f8f.485 - gsmtp 4/9/2026 1:05:54 PM closed gmail-smtp-i
+n.l.google.com (142.251.127.26) in=779 out=30302 4/9/2026 1:05:59 PM done gmail.com/{default}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mx-a.mail.citi.com (67.231.145.106)
+[IP Address: 24.185.14.155] [Time Opened: 4/9/2026 1:06:23 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/78PQ352K1nCqXBiYzeBBZPpxAYJQupl7UkKbMHC3MTAy.gif] HTTP_ACCEPT:ima
+ge/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=
+0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpo
+st.net HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
+Gecko) Mobile/15E148 HTTP_X_FORWARDED_FOR:24.185.14.155 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORW
+ARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d7a44f-3479b34f6fc9cfce11a55a46 HTTP_SEC_FETCH_SITE:cro
+ss-site HTTP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,i
+mage/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept
+-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPhone; CP
+U iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 24.185.14.15
+5 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d7a44f-3479b34f6fc9cfce11a55a46 sec-fetch-s
+ite: cross-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN
+=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/78PQ352K1nCqXBiY
+zeBBZPpxAYJQupl7UkKbMHC3MTAy.gif 192.168.10.173 192.168.10.173 45952 GET /oatv_v2/78PQ352K1nCqXBiYzeBBZP
+pxAYJQupl7UkKbMHC3MTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/78PQ352K1nCqXBiYzeBB
+ZPpxAYJQupl7UkKbMHC3MTAy.gif image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/p
+ng,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (iPhone; CPU iPh
+one OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 24.185.14.155 https 443 Root=1-69d
+7a44f-3479b34f6fc9cfce11a55a46 cross-site image no-cors u=5, i
+Your message To: Meshel, Adam [LEGL] Subject: Registered: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIO
+R ART DISCLOSURE: ARCHITECTURES FOR TRANSACTIONAL INTEGRITY, FORENSIC OWNERSHIP DETECTION, AND
+HIGH-RADIX SECURE FINANCIAL COMMUNICATIONS Sent: Thursday, April 9, 2026 9:01:47 AM (UTC-05:00) Eastern Time
+(US & Canada) was read on Thursday, April 9, 2026 9:25:42 AM (UTC-05:00) Eastern Time (US & Canada).
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-0014b501.gslb.pphosted.com (67.231.156.164)
+________________________________ Your Personal Data: We may collect and process information about you that may be s
+ubject to data protection laws. For more information about how we use and disclose your personal data, how we protect your in
+formation, our legal basis to use your information, your rights and who you can contact, please refer to: www.gs.com/privacy-n
+otices
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+6/9
+
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer us-smtp-inbound-1.mimecast.com (170.10.128.242)
+[IP Address: 135.232.20.49] [Time Opened: 4/9/2026 1:12:07 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/tDW6YJ7Myq56QGqmU052twphZUrSGDd7jLs3okVzMTAy.gif] HTTP_ACCEPT:imag
+e/* HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+(KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:135.232.20.49 HTTP_X_FORWARDED_
+PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d7a5a7-217ecf6d080181a35928153
+3 Accept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (K
+HTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 135.232.20.49 X-Forwarded-Proto: https X-Forwarded-P
+ort: 443 X-Amzn-Trace-Id: Root=1-69d7a5a7-217ecf6d080181a359281533 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Ro
+ot Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SV
+C/12 192.168.10.112 /oatv_v2/tDW6YJ7Myq56QGqmU052twphZUrSGDd7jLs3okVzMTAy.gif 192.168.10.173 192.168.10.173 6
+4032 GET /oatv_v2/tDW6YJ7Myq56QGqmU052twphZUrSGDd7jLs3okVzMTAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Micro
+soft-IIS/10.0 /oatv_v2/tDW6YJ7Myq56QGqmU052twphZUrSGDd7jLs3okVzMTAy.gif image/* socrmail.r1.rpost.net Mozilla/5.0
+(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 135.232.20.49 http
+s 443 Root=1-69d7a5a7-217ecf6d080181a359281533
+Your message To: Mar, Eugene x4927 Subject: Registered: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR A
+RT DISCLOSURE: ARCHITECTURES FOR TRANSACTIONAL INTEGRITY, FORENSIC OWNERSHIP DETECTION, AND HI
+GH-RADIX SECURE FINANCIAL COMMUNICATIONS Sent: Thursday, April 9, 2026 6:01:47 AM (UTC-08:00) Pacific Time (U
+S & Canada) was read on Thursday, April 9, 2026 7:25:03 AM (UTC-08:00) Pacific Time (US & Canada). -------------------------------------------------------------------------------------- This email has been scanned for email related threats and delivered safely by Mimeca
+st. For more information please visit http://www.mimecast.com --------------------------------------------------------------------------------------From:postmaster@wolfgreenfield.com:Delivery to these recipients or groups is complete, but no delivery notification was sent
+by the destination server: jstrand@wolfgreenfield.com Subject: Registered: FORMAL NOTICE OF DEFENSIVE PUBLICATIO
+N AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRANSACTIONAL INTEGRITY, FORENSIC OWNERSHIP DETE
+CTION, AND HIGH-RADIX SECURE FINANCIAL COMMUNICATIONS
+[IP Address: 72.152.84.147] [Time Opened: 4/9/2026 1:02:46 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v3/VxV8bEaT68W3lNYYqpVFlG4jaTjHzeLKVB6kR2YtMTAy.gif] HTTP_ACCEPT:image/a
+vif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_ACC
+EPT_LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=opHB7eWO+d41V4wY6RImuKC5JD95wPKjnbWGQB6TKcs
+zrNJYMldrXbulXA6d9DtrYpUhfuZeRPJjig3jwfJBsqwQxubhdR7tQKfqFr8VK1VBK7RoRioXqto2sJN6rhGVnEjVnIOkWX8Q42j9p
+g4BF0Oc+bfkStDlSCyKRkH34Hmi; AWSALBTGCORS=opHB7eWO+d41V4wY6RImuKC5JD95wPKjnbWGQB6TKcszrNJYMld
+rXbulXA6d9DtrYpUhfuZeRPJjig3jwfJBsqwQxubhdR7tQKfqFr8VK1VBK7RoRioXqto2sJN6rhGVnEjVnIOkWX8Q42j9pg4BF0Oc
++bfkStDlSCyKRkH34Hmi; AWSALB=MxY+dSGcM71/nQxfgBwyi3RnIOk35A3bz7y0Rv14VS+t1KAscseNZkm7URibjuQusJOV
+9hUcE+Rz1Sip68BWTrq99qC+ZYwz6XfPlv9Kv4/jShFNwSyJNLn3NjtR; AWSALBCORS=MxY+dSGcM71/nQxfgBwyi3RnIOk3
+5A3bz7y0Rv14VS+t1KAscseNZkm7URibjuQusJOV9hUcE+Rz1Sip68BWTrq99qC+ZYwz6XfPlv9Kv4/jShFNwSyJNLn3NjtR HT
+TP_HOST:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0 (Windows
+NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36 HTTP_X_FORWARDED_
+FOR:72.152.84.147 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:
+Root=1-69d7a376-2e66fe91735ac13203e7e465 HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google Chrome";v="141", "Chromi
+um";v="141" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_UA_FULL_VERSION:"141.
+0.7390.0" HTTP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="141.0.7390.0" HTTP_SEC_CH_UA_MOBILE:?0 HTTP_S
+EC_CH_UA_MODEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:Windows HTTP_SEC_CH_UA_PLATFORM_VERSION:1
+5.0.0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:image HTTP_PR
+IORITY:i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Accept-Encoding: gzip, deflate, br, zst
+d Accept-Language: en-US,en;q=0.9 Cookie: AWSALBTG=opHB7eWO+d41V4wY6RImuKC5JD95wPKjnbWGQB6TKcszrNJY
+MldrXbulXA6d9DtrYpUhfuZeRPJjig3jwfJBsqwQxubhdR7tQKfqFr8VK1VBK7RoRioXqto2sJN6rhGVnEjVnIOkWX8Q42j9pg4BF0
+Oc+bfkStDlSCyKRkH34Hmi; AWSALBTGCORS=opHB7eWO+d41V4wY6RImuKC5JD95wPKjnbWGQB6TKcszrNJYMldrXbulX
+A6d9DtrYpUhfuZeRPJjig3jwfJBsqwQxubhdR7tQKfqFr8VK1VBK7RoRioXqto2sJN6rhGVnEjVnIOkWX8Q42j9pg4BF0Oc+bfkSt
+DlSCyKRkH34Hmi; AWSALB=MxY+dSGcM71/nQxfgBwyi3RnIOk35A3bz7y0Rv14VS+t1KAscseNZkm7URibjuQusJOV9hUcE
++Rz1Sip68BWTrq99qC+ZYwz6XfPlv9Kv4/jShFNwSyJNLn3NjtR; AWSALBCORS=MxY+dSGcM71/nQxfgBwyi3RnIOk35A3bz
+7y0Rv14VS+t1KAscseNZkm7URibjuQusJOV9hUcE+Rz1Sip68BWTrq99qC+ZYwz6XfPlv9Kv4/jShFNwSyJNLn3NjtR Host: so
+crmail.r1.rpost.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebK
+it/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36 X-Forwarded-For: 72.152.84.147 X-Forwarded-Proto: https
+X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d7a376-2e66fe91735ac13203e7e465 sec-ch-ua: "Not;A Brand";v="99", "G
+oogle Chrome";v="141", "Chromium";v="141" sec-ch-ua-arch: x64 sec-ch-ua-bitness: 64 sec-ch-ua-full-version: "141.0.7390.0"
+sec-ch-ua-full-version-list: "Chrome";v="141.0.7390.0" sec-ch-ua-mobile: ?0 sec-ch-ua-model: Surface Pro sec-ch-ua-platform:
+Windows sec-ch-ua-platform-version: 15.0.0 sec-fetch-site: same-site sec-fetch-mode: no-cors sec-fetch-dest: image priority: i
+/LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com
+Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v3/VxV8bEaT68W3lNYYqpVFlG4jaTjHzeLKV
+B6kR2YtMTAy.gif 192.168.20.36 192.168.20.36 13214 GET /oatv_v3/VxV8bEaT68W3lNYYqpVFlG4jaTjHzeLKVB6kR2YtMTA
+y.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v3/VxV8bEaT68W3lNYYqpVFlG4jaTjHzeLKVB6kR2YtMT
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+7/9
+
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+Ay.gif image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 AWSALBT
+G=opHB7eWO+d41V4wY6RImuKC5JD95wPKjnbWGQB6TKcszrNJYMldrXbulXA6d9DtrYpUhfuZeRPJjig3jwfJBsqwQxubhdR7t
+QKfqFr8VK1VBK7RoRioXqto2sJN6rhGVnEjVnIOkWX8Q42j9pg4BF0Oc+bfkStDlSCyKRkH34Hmi; AWSALBTGCORS=opHB7
+eWO+d41V4wY6RImuKC5JD95wPKjnbWGQB6TKcszrNJYMldrXbulXA6d9DtrYpUhfuZeRPJjig3jwfJBsqwQxubhdR7tQKfqFr8V
+K1VBK7RoRioXqto2sJN6rhGVnEjVnIOkWX8Q42j9pg4BF0Oc+bfkStDlSCyKRkH34Hmi; AWSALB=MxY+dSGcM71/nQxfgBw
+yi3RnIOk35A3bz7y0Rv14VS+t1KAscseNZkm7URibjuQusJOV9hUcE+Rz1Sip68BWTrq99qC+ZYwz6XfPlv9Kv4/jShFNwSyJN
+Ln3NjtR; AWSALBCORS=MxY+dSGcM71/nQxfgBwyi3RnIOk35A3bz7y0Rv14VS+t1KAscseNZkm7URibjuQusJOV9hUcE+Rz
+1Sip68BWTrq99qC+ZYwz6XfPlv9Kv4/jShFNwSyJNLn3NjtR socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0
+(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36 72.152.84.147
+https 443 Root=1-69d7a376-2e66fe91735ac13203e7e465 "Not;A Brand";v="99", "Google Chrome";v="141", "Chromium";v="14
+1" x64 64 "141.0.7390.0" "Chrome";v="141.0.7390.0" ?0 Surface Pro Windows 15.0.0 same-site no-cors image i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer cluster14.us.messagelabs.com (67.219.250.210)
+[IP Address: 107.77.212.73] [Time Opened: 4/9/2026 1:06:19 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/dauAJLd4863FnZCuh3keMp4EAL7cAbKxSWGiRbuSMTAy.gif] HTTP_ACCEPT:image/
+webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.n
+et HTTP_USER_AGENT:Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/
+15E148 HTTP_X_FORWARDED_FOR:107.77.212.73 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:
+443 HTTP_X_AMZN_TRACE_ID:Root=1-69d7a44b-5aa379895400710838711ae2 HTTP_SEC_FETCH_SITE:cross-site HTTP_
+SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,image/avif,imag
+e/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzi
+p, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPad; CPU OS 18_7 like
+Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 107.77.212.73 X-Forwarded-Proto: h
+ttps X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d7a44b-5aa379895400710838711ae2 sec-fetch-site: cross-site sec-fet
+ch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1
+on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/dauAJLd4863FnZCuh3keMp4EAL7cAbKx
+SWGiRbuSMTAy.gif 192.168.20.36 192.168.20.36 7630 GET /oatv_v2/dauAJLd4863FnZCuh3keMp4EAL7cAbKxSWGiRbuSM
+TAy.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/dauAJLd4863FnZCuh3keMp4EAL7cAbKxSWGiRbu
+SMTAy.gif image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/
+*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) Apple
+WebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 107.77.212.73 https 443 Root=1-69d7a44b-5aa379895400710838711ae
+2 cross-site image no-cors u=5, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-0000ec05.gslb.pphosted.com (208.84.65.230)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as a copy of the original message.
+delivery failed; will not continue trying
+From:"Mail Delivery Subsystem" :The original message was received at Thu, 9 Apr 2026 09:01:53 -0400 from m0412388.ppop
+s.net [127.0.0.1] ----- The following addresses had permanent fatal errors ----- (reason: 550 5.4.1 Recipient address rejected: A
+ccess denied. For more information see https://aka.ms/EXOSmtpErrors [BN2PEPF000055E0.namprd21.prod.outlook.com 202
+6-04-09T13:01:54.064Z 08DE9200D32C9472]) ----- Transcript of session follows ----- ... while talking to mvalaw-com.mail.prote
+ction.outlook.com.: >>> DATA <<< 550 5.4.1 Recipient address rejected: Access denied. For more information see https://ak
+a.ms/EXOSmtpErrors [BN2PEPF000055E0.namprd21.prod.outlook.com 2026-04-09T13:01:54.064Z 08DE9200D32C9472] 550
+5.1.1 ... User unknown <<< 503 5.5.2 Need rcpt command [BN2PEPF000055E0.namprd21.prod.outlook.com 2026-04-09T13:0
+1:54.064Z 08DE9200D32C9472]
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+8/9
+
+4/9/26, 2:11 PM
+
+Gmail - Receipt: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR TRA…
+
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+55K
+HtmlReceipt.htm
+326K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862007477424808637&simpl=msg-f:1862007477424808637
+
+9/9
+
+

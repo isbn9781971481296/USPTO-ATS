@@ -1,0 +1,120 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Email receipt serving as evidentiary proof of delivery for a formal pre-litigation notice. The sender, RJ Aguiar Jr., asserts proprietary rights and provides 'actual notice' of pending patent claims under 35 U.S.C. \u00a7 154(d) regarding SAS software to executive leadership at ZoomInfo, Salesforce, Max Technologies, and Liana Technologies. The transmission includes a voluminous appendix of 18 attachments, comprising USPTO patent applications, Department of Defense license grants, SEC whistleblower filings (TCR), and formal criminal referrals.",
+  "attorneys_comments": "From a tactical and evidentiary standpoint, the claimant has effectively utilized a cryptographic RPost receipt to establish an undeniable, time-stamped audit trail of 'actual notice' to the targeted corporate officers. This satisfies the stringent notice requirements of 35 U.S.C. \u00a7 154(d), which is a prerequisite for recovering provisional reasonable royalties accruing between the publication of a patent application and its issuance. Under FRE 901, this receipt will easily authenticate the delivery of the demand. However, the claimant's inclusion of highly collateral and inflammatory attachments\u2014such as SEC whistleblower complaints, DOJ alumni network references, and formal criminal referrals for interstate wire fraud\u2014presents a significant strategic liability. In the SDTX, such a 'kitchen sink' approach is often viewed by the bench as vexatious or indicative of a pro se litigant lacking disciplined pleading standards. If this matter proceeds to federal court, the claimant risks having the non-patent claims struck under FRCP 12(f) as immaterial or scandalous, which could prejudice the court against the underlying, potentially meritorious patent infringement claims.",
+  "recommended_next_steps": "1. Preserve the RPost cryptographic receipt and server logs in their native format to ensure admissibility under FRE 901 and FRE 803(6). 2. Monitor the cited USPTO applications (e.g., 19/559,608) for formal publication and subsequent issuance to perfect the \u00a7 154(d) provisional royalty claims. 3. Issue formal litigation hold notices to all named corporate entities and executives. 4. Prior to drafting a complaint under FRCP 8(a), aggressively sever the patent infringement claims from the criminal referrals and SEC whistleblower actions to maintain a clean, defensible posture before the District Court.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "Provisional Patent Rights",
+    "Actual Notice",
+    "Evidentiary Proof of Delivery",
+    "Patent Infringement",
+    "SEC Whistleblower (TCR)",
+    "Procurement Fraud",
+    "Formal Demand Letter",
+    "FRCP 8(a)",
+    "FRCP 12(f)",
+    "FRE 901",
+    "Interstate Wire Fraud"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar JR.",
+      "Henry Schuck",
+      "Samuli Tursas",
+      "Meredith Weisshaar",
+      "Marc Benioff",
+      "Heidi Shyu",
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Colin McDonald",
+      "Cody Matthew Herche",
+      "Emil Michael",
+      "Lisa White",
+      "Ashley McGrane",
+      "Haley Beatty"
+    ],
+    "companies": [
+      "ZoomInfo",
+      "Max Technologies",
+      "Liana Technologies",
+      "Salesforce",
+      "Uber",
+      "RPost"
+    ],
+    "technologies": [
+      "SAS Software",
+      "Geographically Distributed Ledger",
+      "High-Radix and Parametric Cellular Communication System",
+      "High-Radix and Parametric Satellite Communication System",
+      "High-Radix and Parametric P2P-RF Communication System"
+    ],
+    "products": [],
+    "government_offices": [
+      "USPTO",
+      "Department of Defense",
+      "EPO",
+      "Government Accountability Project",
+      "DOJ",
+      "SEC"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Foley"
+    ],
+    "attorneys": [
+      "Terrell Miller",
+      "Vanessa Miller",
+      "Meredith Weisshaar",
+      "Lisa White",
+      "Ashley McGrane",
+      "Haley Beatty"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/559,608",
+    "19/640,945",
+    "19/639,255",
+    "19/639,265",
+    "19/639,272"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "2409098675",
+  "basefilename": "READ-RECEIPT-ZoomInfo_SalesForce_LIana-Technologies__HIGH-LIABILITY-CLUSTER",
+  "original_filename": "READ-RECEIPT-ZoomInfo_SalesForce_LIana-Technologies__HIGH-LIABILITY-CLUSTER.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "lisa.white@zoominfo.com",
+  "primary_recipient_an": "Lisa White (ZoomInfo Technologies Inc.)",
+  "all_recipients": [
+    "lisa.white@zoominfo.com",
+    "samuli.tursas@lianatech.com",
+    "info@maxtechnologies.ca",
+    "ashley.mcgrane@zoominfo.com",
+    "meredith.weisshaar@zoominfo.com",
+    "mbenioff@salesforce.com",
+    "henry.schuck@zoominfo.com",
+    "sniles@salesforce.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "lisa.white@zoominfo.com": "Lisa White (ZoomInfo Technologies Inc.)",
+    "samuli.tursas@lianatech.com": "Samuli Tursas (lianatech.com)",
+    "info@maxtechnologies.ca": "Info (maxtechnologies.ca)",
+    "ashley.mcgrane@zoominfo.com": "Ashley McGrane (ZoomInfo Technologies Inc.)",
+    "meredith.weisshaar@zoominfo.com": "Meredith Weisshaar (ZoomInfo Technologies Inc.)",
+    "mbenioff@salesforce.com": "Mbenioff (Salesforce)",
+    "henry.schuck@zoominfo.com": "Henry Schuck (ZoomInfo Technologies Inc.)",
+    "sniles@salesforce.com": "Sniles (Salesforce)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "15/728,640",
+    "17/757,567"
+  ]
+}

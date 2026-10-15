@@ -1,0 +1,91 @@
+4/9/26, 2:07 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTU…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART
+DISCLOSURE: ARCHITECTURES FOR CLAIM INTEGRITY, FORENSIC AUDITING, AND
+SECURE ASYNCHRONOUS DATA TRANSMISSION
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Thu, Apr 9, 2026 at 1:03 PM
+
+The following message has been delivered and opened for reading:
+Categories
+
+Message Details
+
+Message Subject:
+
+FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE:
+ARCHITECTURES FOR CLAIM INTEGRITY, FORENSIC AUDITING, AND SECURE
+ASYNCHRONOUS DATA TRANSMISSION
+
+To:
+
+<bob.johnson@usaa.com>
+
+Time Sent:
+
+04/09/2026 11:53:39 AM (UTC), 04/09/2026 11:53:39 AM (Local)
+
+Time Opened:
+
+04/09/2026 05:57:42 PM (UTC), 04/09/2026 05:57:42 PM (Local)
+
+Tracking Number:
+
+C86FD862C426E81D33391F8DBC5C417033148399
+
+Network ID:
+
+484d09d3-10f4-4340-b4a5-5a7bb76b212d@SM25
+
+Client Code:
+Features Used:
+
+.
+Details:
+Delivery Audit Trail
+[IP Address: 167.24.104.173] [Time Opened: 4/9/2026 5:57:42 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/c6I7mNRkWrGhx49tXabNrgAbhCMsISZZqNpFAKIwMTIw.gif] HTTP_CACHE_CONT
+ROL:max-stale=0 HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+HTTP_X_FORWARDED_FOR:167.24.104.173 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HT
+TP_X_AMZN_TRACE_ID:Root=1-69d7e896-0ebd2cc947084dbe177d74b2 HTTP_X_BLUECOAT_VIA:7ec8b9d505646c75 Cac
+he-Control: max-stale=0 Host: socrmail.r1.rpost.net User-Agent: Mozilla/4.0 (compatible; ms-office; MSOffice 16) X-Forwarded
+-For: 167.24.104.173 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d7e896-0ebd2cc947084dbe
+177d74b2 X-BlueCoat-Via: 7ec8b9d505646c75 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256
+4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/c6I7mNRkWrGhx49tXabNrgAbhCMsISZZqNpFAK
+IwMTIw.gif 192.168.20.36 192.168.20.36 17734 GET /oatv_v2/c6I7mNRkWrGhx49tXabNrgAbhCMsISZZqNpFAKIwMTIw.gif so
+crmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/c6I7mNRkWrGhx49tXabNrgAbhCMsISZZqNpFAKIwMTIw.gif
+max-stale=0 socrmail.r1.rpost.net Mozilla/4.0 (compatible; ms-office; MSOffice 16) 167.24.104.173 https 443 Root=1-69d7e89
+6-0ebd2cc947084dbe177d74b2 7ec8b9d505646c75
+
+To authenticate this receipt, forward a copy with all attachments to 'verify@r1.rpost.net'
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+3K
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862016994112187684&simpl=msg-f:1862016994112187684
+
+1/2
+
+4/9/26, 2:07 PM
+
+Gmail - Delivered and Opened: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTU…
+
+HtmlReceipt.htm
+33K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862016994112187684&simpl=msg-f:1862016994112187684
+
+2/2
+
+

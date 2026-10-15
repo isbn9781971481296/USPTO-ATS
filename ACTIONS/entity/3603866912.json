@@ -1,0 +1,33 @@
+{
+  "serving_key": "3603866912",
+  "canonical_key": "emiliano@satellogic.com",
+  "display_name": "Emiliano Kargieman (Satellogic)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Satellogic Inc.",
+  "full_name": "Emiliano Kargieman",
+  "pronouns": null,
+  "title": "Chief Executive Officer",
+  "organization": "Satellogic Inc.",
+  "domain": "satellogic.com",
+  "addresses": {
+    "mailing_address": "Ruta 8, Km 17,500, Edificio 300, Oficina 324, Zonamerica, Montevideo, 91600, Uruguay",
+    "business_address": "Ruta 8, Km 17,500, Edificio 300, Oficina 324, Zonamerica, Montevideo, 91600, Uruguay",
+    "legal_service_address": "c/o Puglisi & Associates, 850 Library Avenue, Suite 204, Newark, Delaware 19711"
+  },
+  "registered_agent": {
+    "name": "Puglisi & Associates",
+    "address": "850 Library Avenue, Suite 204, Newark, Delaware 19711",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "emiliano@satellogic.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

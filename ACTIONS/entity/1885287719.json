@@ -1,0 +1,35 @@
+{
+  "serving_key": "1885287719",
+  "canonical_key": "contactdoj@mt.gov",
+  "display_name": "Montana Department of Justice",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "State of Montana",
+  "full_name": "Montana Department of Justice",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "State of Montana",
+  "domain": "mt.gov",
+  "addresses": {
+    "mailing_address": "P.O. Box 201401, Helena, MT 59620-1401",
+    "business_address": "215 N Sanders St, Third Floor, Helena, MT 59601",
+    "legal_service_address": "215 N Sanders St, Third Floor, Helena, MT 59601"
+  },
+  "registered_agent": {
+    "name": "Attorney General of Montana (Service of Process)",
+    "address": "215 N Sanders St, Third Floor, Helena, MT 59601",
+    "jurisdiction": "Montana"
+  },
+  "contact": {
+    "primary_email": "contactdoj@mt.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-406-444-2026"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

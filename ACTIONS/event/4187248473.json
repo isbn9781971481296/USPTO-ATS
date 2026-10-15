@@ -1,0 +1,143 @@
+{
+  "summary_of_pdf": "This instrument is an RPost Registered Email receipt serving as cryptographic evidentiary proof of delivery for a comprehensive 'Formal Notice of Defensive Publication and Prior Art Disclosure.' The underlying communication distributes USPTO patent applications, SEC whistleblower complaints (TCR), and formal criminal referrals regarding aerospace supply chain integrity and optical avionics to the general counsel and outside counsel of major aerospace, defense, and commercial airline entities.",
+  "attorneys_comments": "From a tactical and evidentiary standpoint, this RPost receipt is highly probative for establishing actual and constructive notice under 35 U.S.C. \u00a7 154(d) for provisional patent rights, and for defeating subsequent claims of innocent infringement. The detailed SMTP delivery audit trail satisfies the authentication requirements of FRE 901(b)(9). However, a critical weakness in the sender's procedural posture is the documented '550' delivery failure to key targets\u2014notably Boeing's General Counsel and outside counsel at Latham & Watkins and Sterne Kessler\u2014precluding actual notice to those specific parties via this transmission. Furthermore, the inclusion of criminal referrals and SEC TCRs alongside patent disclosures indicates a highly adversarial, multi-front strategy, likely driven by a whistleblower, which necessitates careful handling to mitigate risks of extortionate demand allegations or Rule 11 complications.",
+  "recommended_next_steps": "1. Execute alternative service or secondary transmission for all recipients who returned '550' delivery failures (e.g., Boeing, Latham & Watkins, Sterne Kessler) to perfect notice. 2. Archive the RPost cryptographic receipt and audit trail in a secure, WORM-compliant repository to ensure admissibility under FRE 901. 3. Conduct a defensive freedom-to-operate (FTO) review of the disclosed USPTO applications (19/639,265 and 19/640,945) against client portfolios. 4. Monitor the SEC TCR (17742-648-351-976) for potential administrative investigations or regulatory inquiries.",
+  "tags": [
+    "35 U.S.C. \u00a7 154(d)",
+    "35 U.S.C. \u00a7 122(b)",
+    "Evidentiary Proof of Delivery",
+    "Defensive Publication",
+    "Prior Art Disclosure",
+    "SEC Whistleblower (TCR)",
+    "Interstate Wire Fraud",
+    "Aerospace Supply Chain",
+    "Optical Avionics",
+    "FRE 901(b)(9)",
+    "Constructive Notice"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Bart Biggers",
+      "Brett Gerry",
+      "John Harrison",
+      "Jeff Novota",
+      "Jason Eisenstein",
+      "Douglas Lumish",
+      "Kevin J. O'Connor",
+      "Stella Belvisi",
+      "Tony Richmond",
+      "Peter Carter",
+      "Robert Rivkin",
+      "Mark Hanley",
+      "Colin McDonald",
+      "Cody Matthew Herche",
+      "Emil Michael",
+      "Heidi Shyu",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "RPost",
+      "Sidley Austin",
+      "Boeing",
+      "Airbus",
+      "Southwest Airlines",
+      "Sterne Kessler",
+      "Latham & Watkins",
+      "Lockheed Martin",
+      "American Airlines",
+      "Delta Air Lines",
+      "United Airlines",
+      "HFZ Law",
+      "Uber",
+      "Foley",
+      "Proofpoint",
+      "Microsoft",
+      "Mimecast"
+    ],
+    "technologies": [
+      "Aerospace Supply Chain Integrity",
+      "Optical Avionics Buses",
+      "Forensic Ownership Tracing",
+      "High-Radix and Parametric Satellite Communication System"
+    ],
+    "products": [],
+    "government_offices": [
+      "United States Patent and Trademark Office (USPTO)",
+      "Securities and Exchange Commission (SEC)",
+      "Department of Defense (DoD)",
+      "European Patent Office (EPO)"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Sidley Austin",
+      "Sterne Kessler",
+      "Latham & Watkins",
+      "HFZ Law",
+      "Foley"
+    ],
+    "attorneys": [
+      "Bart Biggers",
+      "Jason Eisenstein",
+      "Douglas Lumish",
+      "Mark Hanley",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,265",
+    "19/640,945"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "4187248473",
+  "basefilename": "READ-RECEIPT-AERO-SPACE-Companies",
+  "original_filename": "READ-RECEIPT-AERO-SPACE-Companies.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kevin.j.oconnor@lmco.com",
+  "primary_recipient_an": "Kevin J. Oconnor (Lockheed Martin Corporation)",
+  "all_recipients": [
+    "kevin.j.oconnor@lmco.com",
+    "john.harrison@airbus.com",
+    "mark.hanley@hfzlaw.com",
+    "robert.rivkin@united.com",
+    "bart.biggers@sidley.com",
+    "jason.eisenstein@sternekessler.com",
+    "brett.gerry@boeing.com",
+    "stella.belvisi@airbus.com",
+    "douglas.lumish@lw.com",
+    "jeff.novota@wnco.com",
+    "peter.carter@delta.com",
+    "tony.richmond@aa.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "kevin.j.oconnor@lmco.com": "Kevin J. Oconnor (Lockheed Martin Corporation)",
+    "john.harrison@airbus.com": "John Harrison (Airbus SE)",
+    "mark.hanley@hfzlaw.com": "Mark Hanley (hfzlaw.com)",
+    "robert.rivkin@united.com": "Robert Rivkin (United Airlines, Inc.)",
+    "bart.biggers@sidley.com": "Bart Biggers (Sidley Austin LLP)",
+    "jason.eisenstein@sternekessler.com": "Jason Eisenstein (Sterne, Kessler, Goldstein & Fox)",
+    "brett.gerry@boeing.com": "Brett Gerry (The Boeing Company)",
+    "stella.belvisi@airbus.com": "Stella Belvisi (Airbus SE)",
+    "douglas.lumish@lw.com": "Douglas Lumish (Latham & Watkins LLP)",
+    "jeff.novota@wnco.com": "Jeff Novota (Southwest Airlines Co.)",
+    "peter.carter@delta.com": "Peter Carter (Delta Air Lines)",
+    "tony.richmond@aa.com": "Tony Richmond (American Airlines)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "15/728,640",
+    "16/815,744"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "serving_key": "1251341177",
+  "canonical_key": "chief.police@lapd.online",
+  "display_name": "Chief of Police (Los Angeles Police Department)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "Los Angeles Police Department",
+  "full_name": "Chief of Police",
+  "pronouns": null,
+  "title": "Chief of Police",
+  "organization": "Los Angeles Police Department",
+  "domain": "lapd.online",
+  "addresses": {
+    "mailing_address": "100 W. 1st Street, Los Angeles, CA 90012",
+    "business_address": "100 W. 1st Street, Los Angeles, CA 90012",
+    "legal_service_address": "Office of the City Clerk, 200 N. Spring Street, Room 395, Los Angeles, CA 90012"
+  },
+  "registered_agent": {
+    "name": "City Clerk, City of Los Angeles",
+    "address": "200 N. Spring Street, Room 395, Los Angeles, CA 90012",
+    "jurisdiction": "California"
+  },
+  "contact": {
+    "primary_email": "chief.police@lapd.online",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-213-486-0150"
+    ],
+    "faxes": [
+      "+1-213-486-0168"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,318 @@
+4/7/26, 9:13 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP
+Representation: 47-Patent Portfolio & Parallel Federal Disclosures
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Tue, Apr 7, 2026 at 8:36 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+bklim@shinkim.com
+
+relayed;primary.ap.email. 04/07/2026
+Delivered to Mail
+fireeyecloud.com
+11:36:51 AM
+Server
+(3.112.99.2)
+(UTC)
+
+04/07/2026
+11:36:51 AM
+
+gspark@shinkim.com
+
+relayed;primary.ap.email. 04/07/2026
+Delivered to Mail
+fireeyecloud.com
+11:36:52 AM
+Server
+(3.112.99.2)
+(UTC)
+
+04/07/2026
+11:36:52 AM
+
+ymlee@shinkim.com
+
+relayed;primary.ap.email. 04/07/2026
+Delivered to Mail
+fireeyecloud.com
+11:36:52 AM
+Server
+(3.112.99.2)
+(UTC)
+
+04/07/2026
+11:36:52 AM
+
+rj.aguiar.m@gmail.com
+
+Delivered and
+Opened
+
+04/07/2026
+11:44:01 AM
+(UTC)
+
+04/07/2026
+11:44:01 AM
+
+HTTP-IP:66.249.80.2
+
+Delivered (UTC*) Delivered (local)
+
+Opened (local)
+
+04/07/2026
+12:22:54 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47Patent Portfolio & Parallel Federal Disclosures
+
+To:
+
+<bklim@shinkim.com> <gspark@shinkim.com> <ymlee@shinkim.com>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+1cfb1c9a-ae78-4a37-bb95-84c10b3fd457@SM26
+
+Received by RMail System:
+
+04/07/2026 11:36:46 AM (UTC), 04/07/2026 11:36:46 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+4A64BF0138D1255C828EB6A2A54CCA23F9A38427
+
+Message Size:
+
+4096
+
+Features Used:
+File Size:
+
+File Name:
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861819050815940175&simpl=msg-f:1861819050815940175
+
+1/4
+
+4/7/26, 9:13 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+1132462
+
+092__USPTO_19_639,265_A_High-Radix_and_Parametric_Satellite_Communication_
+System.pdf
+
+976947
+
+00__Department-of-Defense__The-Heidi-Shyu-License-Grant.pdf
+
+1195376
+
+090__USPTO_No_19-639,219__Central_Processing_Unit_Architecture_for_Native_
+Parametric_and_Symbolic_Computation.pdf
+
+948090
+
+091__USPTO_19_639,255_A_High-Radix_and_Parametric_Cellular_
+Communication_System.pdf
+
+72110571
+
+01__ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-Submitted-to-theUSPTO_v2.1998.61.pdf
+
+148070
+
+02__NOTICE OF FORMAL CRIMINAL REFERRAL For Interstate Wire Fraud and
+Retaliation Against a Whistleblower related to SEC TCR 17742-648-351-976 .pdf
+
+4016046
+
+03__Honorable-Cody-Matthew-Herche__FORMAL-CRIMINAL-REFERRAL.pdf
+
+3984588
+
+04__Honorable-Colin-McDonald_FORMAL-CRIMINAL-REFERRAL.pdf
+
+220067
+
+05__The-Whistle-blower's-response-to-KKC.pdf
+
+173629
+
+06__Triage-Request_sent-to-the-Government-Accountability-Project.pdf
+
+151234
+
+07__Email-Sent-to-IP-Attorneys-Terrell-Miller-and-Vanessa-Miller-at-Foley.com.pdf
+
+.
+
+Delivery Audit Trail
+4/7/2026 11:36:47 AM starting shinkim.com/{default} 4/7/2026 11:36:47 AM connecting from mta21.r1.rpost.net (0.0.0.0) to pri
+mary.ap.email.fireeyecloud.com (3.112.99.2) 4/7/2026 11:36:48 AM connected from 192.168.10.11:35829 4/7/2026 11:36:48 A
+M >>> 220 2.0.0 mx.ap.email.fireeyecloud.com ESMTP 4/7/2026 11:36:48 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:36:4
+8 AM >>> 250-apne1-etp-mta-inbound-edge-prd01-14.cso.fireeye.com says EHLO to 52.58.131.9:35829 4/7/2026 11:36:48 AM
+>>> 250-ENHANCEDSTATUSCODES 4/7/2026 11:36:48 AM >>> 250-PIPELINING 4/7/2026 11:36:48 AM >>> 250-8BITMIME
+4/7/2026 11:36:48 AM >>> 250 STARTTLS 4/7/2026 11:36:48 AM <<< STARTTLS 4/7/2026 11:36:48 AM >>> 220 2.0.0 contin
+ue 4/7/2026 11:36:49 AM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 11:36:49 AM tls:C
+ert: /C=US/ST=Texas/O=Musarubra US LLC/CN=mx.ap.email.fireeyecloud.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectig
+o Public Server Authentication CA OV R36; verified=no 4/7/2026 11:36:49 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:36:49
+AM >>> 250-apne1-etp-mta-inbound-edge-prd01-14.cso.fireeye.com says EHLO to 52.58.131.9:35829 4/7/2026 11:36:49 AM >
+>> 250-ENHANCEDSTATUSCODES 4/7/2026 11:36:49 AM >>> 250-8BITMIME 4/7/2026 11:36:49 AM >>> 250 PIPELINING
+4/7/2026 11:36:49 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:36:50 AM >>> 250 2.0.0 MAIL FROM accepted 4/7/2
+026 11:36:50 AM <<< RCPT TO: 4/7/2026 11:36:50 AM >>> 250 2.0.0 RCPT TO accepted 4/7/2026 11:36:50 AM <<< DATA
+4/7/2026 11:36:50 AM >>> 354 3.0.0 continue. finished with "\r\n.\r\n" 4/7/2026 11:36:50 AM <<< . 4/7/2026 11:36:51 AM >>>
+250 2.0.0 3z9o2aY-57976-01b609C3398725CE4D962cfc8b1 mail accepted for delivery 4/7/2026 11:36:51 AM <<< QUIT 4/7/20
+26 11:36:51 AM >>> 221 2.3.0 apne1-etp-mta-inbound-edge-prd01-14.cso.fireeye.com closing connection 4/7/2026 11:36:51 A
+M closed primary.ap.email.fireeyecloud.com (3.112.99.2) in=634 out=24111 4/7/2026 11:36:51 AM done shinkim.com/{default}
+4/7/2026 11:36:47 AM starting shinkim.com/{default} 4/7/2026 11:36:47 AM connecting from mta21.r1.rpost.net (0.0.0.0) to pri
+mary.ap.email.fireeyecloud.com (3.112.99.2) 4/7/2026 11:36:48 AM connected from 192.168.10.11:33798 4/7/2026 11:36:48 A
+M >>> 220 2.0.0 mx.ap.email.fireeyecloud.com ESMTP 4/7/2026 11:36:48 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:36:4
+8 AM >>> 250-apne1-etp-mta-inbound-edge-prd01-07.cso.fireeye.com says EHLO to 52.58.131.9:33798 4/7/2026 11:36:48 AM
+>>> 250-ENHANCEDSTATUSCODES 4/7/2026 11:36:48 AM >>> 250-STARTTLS 4/7/2026 11:36:48 AM >>> 250-8BITMIME
+4/7/2026 11:36:48 AM >>> 250 PIPELINING 4/7/2026 11:36:48 AM <<< STARTTLS 4/7/2026 11:36:48 AM >>> 220 2.0.0 cont
+inue 4/7/2026 11:36:49 AM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 11:36:49 AM tls:
+Cert: /C=US/ST=Texas/O=Musarubra US LLC/CN=mx.ap.email.fireeyecloud.com; issuer=/C=GB/O=Sectigo Limited/CN=Sect
+igo Public Server Authentication CA OV R36; verified=no 4/7/2026 11:36:49 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:36:
+49 AM >>> 250-apne1-etp-mta-inbound-edge-prd01-07.cso.fireeye.com says EHLO to 52.58.131.9:33798 4/7/2026 11:36:49 A
+M >>> 250-8BITMIME 4/7/2026 11:36:49 AM >>> 250-PIPELINING 4/7/2026 11:36:49 AM >>> 250 ENHANCEDSTATUSCOD
+ES 4/7/2026 11:36:49 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:36:50 AM >>> 250 2.0.0 MAIL FROM accepted
+4/7/2026 11:36:50 AM <<< RCPT TO: 4/7/2026 11:36:51 AM >>> 250 2.0.0 RCPT TO accepted 4/7/2026 11:36:51 AM <<< D
+ATA 4/7/2026 11:36:52 AM >>> 354 3.0.0 continue. finished with "\r\n.\r\n" 4/7/2026 11:36:52 AM <<< . 4/7/2026 11:36:52 AM
+>>> 250 2.0.0 3z9o2aY-57976-01b81BB3458025CE4D9640ca6d3 mail accepted for delivery 4/7/2026 11:36:52 AM <<< QUIT
+4/7/2026 11:36:53 AM >>> 221 2.3.0 apne1-etp-mta-inbound-edge-prd01-07.cso.fireeye.com closing connection 4/7/2026 11:3
+6:53 AM closed primary.ap.email.fireeyecloud.com (3.112.99.2) in=634 out=24114 4/7/2026 11:36:53 AM done shinkim.com/{d
+efault}
+4/7/2026 11:36:47 AM starting shinkim.com/{default} 4/7/2026 11:36:47 AM connecting from mta21.r1.rpost.net (0.0.0.0) to pri
+mary.ap.email.fireeyecloud.com (3.112.99.2) 4/7/2026 11:36:48 AM connected from 192.168.10.11:35483 4/7/2026 11:36:48 A
+M >>> 220 2.0.0 mx.ap.email.fireeyecloud.com ESMTP 4/7/2026 11:36:48 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:36:4
+8 AM >>> 250-apne1-etp-mta-inbound-edge-prd01-08.cso.fireeye.com says EHLO to 52.58.131.9:35483 4/7/2026 11:36:48 AM
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861819050815940175&simpl=msg-f:1861819050815940175
+
+2/4
+
+4/7/26, 9:13 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+>>> 250-PIPELINING 4/7/2026 11:36:48 AM >>> 250-8BITMIME 4/7/2026 11:36:48 AM >>> 250-STARTTLS 4/7/2026 11:36:4
+8 AM >>> 250 ENHANCEDSTATUSCODES 4/7/2026 11:36:48 AM <<< STARTTLS 4/7/2026 11:36:48 AM >>> 220 2.0.0 conti
+nue 4/7/2026 11:36:49 AM tls:TLSv1.2 connected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/7/2026 11:36:49 AM tls:
+Cert: /C=US/ST=Texas/O=Musarubra US LLC/CN=mx.ap.email.fireeyecloud.com; issuer=/C=GB/O=Sectigo Limited/CN=Sect
+igo Public Server Authentication CA OV R36; verified=no 4/7/2026 11:36:49 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:36:
+50 AM >>> 250-apne1-etp-mta-inbound-edge-prd01-08.cso.fireeye.com says EHLO to 52.58.131.9:35483 4/7/2026 11:36:50 A
+M >>> 250-PIPELINING 4/7/2026 11:36:50 AM >>> 250-8BITMIME 4/7/2026 11:36:50 AM >>> 250 ENHANCEDSTATUSCOD
+ES 4/7/2026 11:36:50 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:36:50 AM >>> 250 2.0.0 MAIL FROM accepted
+4/7/2026 11:36:50 AM <<< RCPT TO: 4/7/2026 11:36:51 AM >>> 250 2.0.0 RCPT TO accepted 4/7/2026 11:36:51 AM <<< D
+ATA 4/7/2026 11:36:51 AM >>> 354 3.0.0 continue. finished with "\r\n.\r\n" 4/7/2026 11:36:51 AM <<< . 4/7/2026 11:36:52 AM
+>>> 250 2.0.0 3z9o2aY-57976-01b710A3406425CE4D960cdfe21 mail accepted for delivery 4/7/2026 11:36:52 AM <<< QUIT
+4/7/2026 11:36:52 AM >>> 221 2.3.0 apne1-etp-mta-inbound-edge-prd01-08.cso.fireeye.com closing connection 4/7/2026 11:3
+6:52 AM closed primary.ap.email.fireeyecloud.com (3.112.99.2) in=634 out=24111 4/7/2026 11:36:52 AM done shinkim.com/{de
+fault}
+4/7/2026 11:43:59 AM starting gmail.com/{default} 4/7/2026 11:44:00 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmailsmtp-in.l.google.com (142.251.127.27) 4/7/2026 11:44:00 AM connected from 192.168.10.11:35355 4/7/2026 11:44:00 AM >>>
+220 mx.google.com ESMTP ffacd0b85a97d-43d1e555234si31449634f8f.458 - gsmtp 4/7/2026 11:44:00 AM <<< EHLO mta21.
+r1.rpost.net 4/7/2026 11:44:00 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/7/2026 11:44:00 AM >>> 250-SIZ
+E 157286400 4/7/2026 11:44:00 AM >>> 250-8BITMIME 4/7/2026 11:44:00 AM >>> 250-STARTTLS 4/7/2026 11:44:00 AM >>
+> 250-ENHANCEDSTATUSCODES 4/7/2026 11:44:00 AM >>> 250-PIPELINING 4/7/2026 11:44:00 AM >>> 250-CHUNKING
+4/7/2026 11:44:00 AM >>> 250 SMTPUTF8 4/7/2026 11:44:00 AM <<< STARTTLS 4/7/2026 11:44:00 AM >>> 220 2.0.0 Read
+y to start TLS 4/7/2026 11:44:00 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reu
+sed) 4/7/2026 11:44:00 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/7/
+2026 11:44:00 AM <<< EHLO mta21.r1.rpost.net 4/7/2026 11:44:00 AM >>> 250-mx.google.com at your service, [52.58.131.9]
+4/7/2026 11:44:00 AM >>> 250-SIZE 157286400 4/7/2026 11:44:00 AM >>> 250-8BITMIME 4/7/2026 11:44:00 AM >>> 250-E
+NHANCEDSTATUSCODES 4/7/2026 11:44:00 AM >>> 250-PIPELINING 4/7/2026 11:44:00 AM >>> 250-CHUNKING 4/7/2026
+11:44:00 AM >>> 250 SMTPUTF8 4/7/2026 11:44:00 AM <<< MAIL FROM: BODY=8BITMIME 4/7/2026 11:44:00 AM >>> 250
+2.1.0 OK ffacd0b85a97d-43d1e555234si31449634f8f.458 - gsmtp 4/7/2026 11:44:00 AM <<< RCPT TO: 4/7/2026 11:44:00 AM
+>>> 250 2.1.5 OK ffacd0b85a97d-43d1e555234si31449634f8f.458 - gsmtp 4/7/2026 11:44:00 AM <<< DATA 4/7/2026 11:44:00
+AM >>> 354 Go ahead ffacd0b85a97d-43d1e555234si31449634f8f.458 - gsmtp 4/7/2026 11:44:00 AM <<< . 4/7/2026 11:44:01
+AM >>> 250 2.0.0 OK 1775562241 ffacd0b85a97d-43d1e555234si31449634f8f.458 - gsmtp 4/7/2026 11:44:01 AM <<< QUIT
+4/7/2026 11:44:01 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d1e555234si31449634f8f.458 - gsmtp 4/7/2026 11:4
+4:01 AM closed gmail-smtp-in.l.google.com (142.251.127.27) in=779 out=24123 4/7/2026 11:44:09 AM done gmail.com/{defaul
+t}
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer primary.ap.email.fireeyecloud.com (3.112.99.2)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer primary.ap.email.fireeyecloud.com (3.112.99.2)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer primary.ap.email.fireeyecloud.com (3.112.99.2)
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 66.249.80.2] [Time Opened: 4/7/2026 12:22:54 PM] [REMOTE_HOST: 192.168.10.14] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/FNeDyQYEufFFddsbkVLxdiZBPitzobP5uKttNnkmMjAx.gif] HTTP_ACCEPT_ENCODI
+NG:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fir
+efox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.80.2 HTTP_X_FORWARDED_PROTO:htt
+ps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d4f71e-0475e3035e0f3a7f038679df Accept-Enc
+oding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via g
+gpht.com GoogleImageProxy) X-Forwarded-For: 66.249.80.2 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-I
+d: Root=1-69d4f71e-0475e3035e0f3a7f038679df /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256
+4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/FNeDyQYEufFFddsbkVLxdiZBPitzobP5uKttNnk
+mMjAx.gif 192.168.10.14 192.168.10.14 24398 GET /oatv_v2/FNeDyQYEufFFddsbkVLxdiZBPitzobP5uKttNnkmMjAx.gif socr
+mail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/FNeDyQYEufFFddsbkVLxdiZBPitzobP5uKttNnkmMjAx.gif gzip,
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861819050815940175&simpl=msg-f:1861819050815940175
+
+3/4
+
+4/7/26, 9:13 AM
+
+Gmail - Receipt: RE [US Department of Defense & Lokheed Martin]: Inquiry for IP Representation: 47-Patent Portfolio & Parallel Fed…
+
+deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+66.249.80.2 https 443 Root=1-69d4f71e-0475e3035e0f3a7f038679df
+[Quoted text hidden]
+
+2 attachments
+DeliveryReceipt.xml
+19K
+HtmlReceipt.htm
+131K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1861819050815940175&simpl=msg-f:1861819050815940175
+
+4/4
+
+

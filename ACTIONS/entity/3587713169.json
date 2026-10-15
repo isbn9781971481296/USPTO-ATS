@@ -1,0 +1,35 @@
+{
+  "serving_key": "3587713169",
+  "canonical_key": "emil.michael@mail.mil",
+  "display_name": "Emil Michael (U.S. Department of Defense)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "United States Department of Defense",
+  "full_name": "Emil Michael",
+  "pronouns": null,
+  "title": "Official",
+  "organization": "United States Department of Defense",
+  "domain": "mail.mil",
+  "addresses": {
+    "mailing_address": "1400 Defense Pentagon, Washington, DC 20301-1400",
+    "business_address": "1400 Defense Pentagon, Washington, DC 20301-1400",
+    "legal_service_address": "Office of the General Counsel, 1600 Defense Pentagon, Washington, DC 20301-1600"
+  },
+  "registered_agent": {
+    "name": "Office of the General Counsel, U.S. Department of Defense",
+    "address": "1600 Defense Pentagon, Washington, DC 20301-1600",
+    "jurisdiction": "Federal / Washington, D.C."
+  },
+  "contact": {
+    "primary_email": "emil.michael@mail.mil",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-703-571-3343"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

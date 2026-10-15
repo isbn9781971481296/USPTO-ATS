@@ -1,0 +1,26 @@
+{
+  "index": 171,
+  "header": "# Enclosure #171: READ-RECEIPT-mmccabe-munckwilson-com.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/RECEIPTS/OPENED/READ-RECEIPT_mmccabe@munckwilson.com.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-receipts-opened-read-receipt-mmccabe@munckwilso-58ef41c45c.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "mmccabe@munckwilson.com",
+  "primary_recipient_an": "Mmccabe (munckwilson.com)",
+  "all_recipients": [
+    "mmccabe@munckwilson.com",
+    "skhoshbin@munckwilson.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "mmccabe@munckwilson.com": "Mmccabe (munckwilson.com)",
+    "skhoshbin@munckwilson.com": "Skhoshbin (munckwilson.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04062026",
+  "original_filename": "READ-RECEIPT_mmccabe@munckwilson.com.pdf",
+  "patent_applications_mentioned": []
+}

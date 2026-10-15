@@ -1,0 +1,35 @@
+{
+  "serving_key": "2882617967",
+  "canonical_key": "zdavis@kslaw.com",
+  "display_name": "Zachary Davis (King & Spalding LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "King & Spalding LLP",
+  "full_name": "Zachary Davis",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "King & Spalding LLP",
+  "domain": "kslaw.com",
+  "addresses": {
+    "mailing_address": "1180 Peachtree Street, NE, Atlanta, GA 30309",
+    "business_address": "1180 Peachtree Street, NE, Atlanta, GA 30309",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "zdavis@kslaw.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 404 572 4600"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

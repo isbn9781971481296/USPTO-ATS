@@ -1,0 +1,90 @@
+{
+  "summary_of_pdf": "The document consists of certified RMail/RPost delivery and open receipts confirming that a formal communication titled 'NOTICE OF DISCOVERY & MATERIALITY' was successfully delivered to and opened by multiple parties on April 8, 2026. Recipients include internal personnel and Investor Relations at Palo Alto Networks, as well as outside legal counsel at Arnold & Porter, Gibson Dunn, and Sidley Austin. The underlying communication likely asserts patent materiality obligations or discovery duties.",
+  "attorneys_comments": "This instrument serves as highly reliable, certified evidentiary proof of delivery and actual notice. By utilizing RPost's registered email technology, the sender has established an unassailable audit trail\u2014complete with IP addresses, user agents, and precise timestamps\u2014proving that key defense counsel and corporate officers received and opened the 'NOTICE OF DISCOVERY & MATERIALITY'. Tactically, serving this notice on outside counsel at Arnold & Porter, Gibson Dunn, and Sidley Austin triggers their professional duties of disclosure under 37 C.F.R. \u00a7 1.56 if they are prosecuting related patents before the USPTO, as well as supplementation duties under FRCP 26(e) if engaged in active litigation. Furthermore, the calculated inclusion of Palo Alto Networks' Investor Relations (ir@paloaltonetworks.com) is a strategic maneuver designed to force internal corporate reporting and potentially trigger SEC material risk disclosure obligations. The evidentiary strength of these receipts is exceptional for defeating any subsequent 'lack of notice' or 'willful blindness' defenses in the SDTX or before the PTAB.",
+  "recommended_next_steps": "Preserve these RPost delivery receipts in their native XML and HTML formats to ensure they qualify as self-authenticating business records under FRE 902. Prepare to introduce these receipts as exhibits in the SDTX to establish the exact timeline of actual notice for willful infringement claims under 35 U.S.C. \u00a7 284, or to support a motion for sanctions if the opposing parties fail to disclose the referenced material to the USPTO or in ongoing FRCP 26 discovery. Monitor Palo Alto Networks' upcoming SEC filings (e.g., 8-K, 10-Q) for corresponding risk disclosures.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "37 C.F.R. \u00a7 1.56",
+    "Duty of Disclosure",
+    "FRCP 26",
+    "Willful Infringement",
+    "35 U.S.C. \u00a7 284",
+    "SEC Material Risk Disclosure",
+    "FRE 902",
+    "Self-Authenticating Document",
+    "Patent Litigation"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Jonathan Gleklen",
+      "M. Valcich",
+      "Peter Danias",
+      "S. Rosenberg",
+      "M. Rajavel",
+      "M. Bettinger",
+      "A. Yang"
+    ],
+    "companies": [
+      "Palo Alto Networks",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "RMail",
+      "RPost Technology"
+    ],
+    "products": [],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Arnold & Porter",
+      "Gibson Dunn",
+      "Sidley Austin"
+    ],
+    "attorneys": [
+      "Jonathan Gleklen",
+      "Peter Danias",
+      "S. Rosenberg",
+      "M. Bettinger",
+      "A. Yang"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "43726035",
+  "basefilename": "READ-RECEIPT-jonathan.gleklen@arnoldporter.com",
+  "original_filename": "READ-RECEIPT-jonathan.gleklen@arnoldporter.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04082026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "jonathan.gleklen@arnoldporter.com",
+  "primary_recipient_an": "Jonathan Gleklen (arnoldporter.com)",
+  "all_recipients": [
+    "jonathan.gleklen@arnoldporter.com",
+    "srosenberg@gibsondunn.com",
+    "mbettinger@sidley.com",
+    "ayang@gibsondunn.com",
+    "peter.danias@arnoldporter.com",
+    "mrajavel@paloaltonetworks.com",
+    "mvalcich@paloaltonetworks.com",
+    "ir@paloaltonetworks.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "jonathan.gleklen@arnoldporter.com": "Jonathan Gleklen (arnoldporter.com)",
+    "srosenberg@gibsondunn.com": "Srosenberg (gibsondunn.com)",
+    "mbettinger@sidley.com": "Mbettinger (Sidley Austin LLP)",
+    "ayang@gibsondunn.com": "Ayang (gibsondunn.com)",
+    "peter.danias@arnoldporter.com": "Peter Danias (arnoldporter.com)",
+    "mrajavel@paloaltonetworks.com": "Mrajavel (paloaltonetworks.com)",
+    "mvalcich@paloaltonetworks.com": "Mvalcich (paloaltonetworks.com)",
+    "ir@paloaltonetworks.com": "Ir (paloaltonetworks.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

@@ -1,0 +1,306 @@
+4/1/26, 7:02 AM
+
+Gmail - Receipt: Urgent Triage Request: Systemic Fiduciary Risk and Judicial Capture (Ref: RC11 / Intake March 26)
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Receipt: Urgent Triage Request: Systemic Fiduciary Risk and Judicial Capture (Ref:
+RC11 / Intake March 26)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m@gmail.com
+
+Wed, Apr 1, 2026 at 6:28 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+louisc@whistleblower.org
+
+Delivered and
+Opened
+
+HTTPIP:72.153.153.17
+
+04/01/2026
+11:22:39 AM
+(UTC)
+
+04/01/2026
+11:22:39 AM
+
+04/01/2026
+11:22:48 AM
+
+kareng@whistleblower.org
+
+Delivered and
+Opened
+
+HTTPIP:135.232.20.5
+
+04/01/2026
+11:22:39 AM
+(UTC)
+
+04/01/2026
+11:22:39 AM
+
+04/01/2026
+11:22:47 AM
+
+rj.aguiar.m@gmail.com
+
+Delivered and
+Opened
+
+HTTPIP:74.125.214.73
+
+04/01/2026
+11:14:09 AM
+(UTC)
+
+04/01/2026
+11:14:09 AM
+
+04/01/2026
+11:14:12 AM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar <rj.aguiar.m@gmail.com>
+
+Subject:
+
+Urgent Triage Request: Systemic Fiduciary Risk and Judicial Capture (Ref: RC11 / Intake
+March 26)
+
+To:
+
+<louisc@whistleblower.org> <kareng@whistleblower.org>
+
+Cc:
+
+<rj.aguiar.m@gmail.com>
+
+Bcc:
+Network ID:
+
+c350030e-0695-4ab8-b1ed-2284f4497137@SM25
+
+Received by RMail System:
+
+04/01/2026 11:12:36 AM (UTC), 04/01/2026 11:12:36 AM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+C65DF11CE31C8E8A52708586AD13288575F905C7
+
+Message Size:
+
+6097
+
+Features Used:
+File Size:
+
+File Name:
+
+12090081
+
+Manuscript-for-Special-Commentary_RC11.pdf
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861267369368261697&simpl=msg-f:1861267369368261697
+
+1/4
+
+4/1/26, 7:02 AM
+
+Gmail - Receipt: Urgent Triage Request: Systemic Fiduciary Risk and Judicial Capture (Ref: RC11 / Intake March 26)
+
+696698
+
+List-of-Journals-that-Received-the-Article-RC11.pdf
+
+120698
+
+reinaldo_aguiar_resume.pdf
+
+394557
+
+D131__Write-to-Your-Representative-to-Support-the-MARCELO-Act-of-2026-Proposal.pdf
+
+389918
+
+Copy_Intake_Application_GAP-Reinaldo_Aguiar-Marcano_submission.pdf
+
+.
+
+Delivery Audit Trail
+4/1/2026 11:22:37 AM starting whistleblower.org/{default} 4/1/2026 11:22:37 AM connecting from mta21.r1.rpost.net (0.0.0.0) to
+us-smtp-inbound-1.mimecast.com (170.10.132.221) 4/1/2026 11:22:37 AM connected from 192.168.10.11:39146 4/1/2026 11:2
+2:37 AM >>> 220 us-smtp-inbound-1.mimecast.com ESMTP; Wed, 01 Apr 2026 07:22:37 -0400 4/1/2026 11:22:37 AM <<< E
+HLO mta21.r1.rpost.net 4/1/2026 11:22:37 AM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/1/2026 11:22:
+37 AM >>> 250-STARTTLS 4/1/2026 11:22:37 AM >>> 250 HELP 4/1/2026 11:22:37 AM <<< STARTTLS 4/1/2026 11:22:37 A
+M >>> 220 Starting TLS [pZinCJAKOZ2JMGnMAHc_Ww.us674] 4/1/2026 11:22:38 AM tls:TLSv1.2 connected with 256-bit EC
+DHE-RSA-AES256-GCM-SHA384 4/1/2026 11:22:38 AM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mime
+cast.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/1/2026 11:22:38
+AM <<< EHLO mta21.r1.rpost.net 4/1/2026 11:22:38 AM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/1/2
+026 11:22:38 AM >>> 250-AUTH PLAIN LOGIN 4/1/2026 11:22:38 AM >>> 250 HELP 4/1/2026 11:22:38 AM <<< MAIL FRO
+M: 4/1/2026 11:22:38 AM >>> 250 Sender OK [pZinCJAKOZ2JMGnMAHc_Ww.us674] 4/1/2026 11:22:38 AM <<< RCPT TO:
+4/1/2026 11:22:38 AM >>> 250 Recipient OK [pZinCJAKOZ2JMGnMAHc_Ww.us674] 4/1/2026 11:22:38 AM <<< DATA 4/1/20
+26 11:22:38 AM >>> 354 Start mail data, end with CRLF.CRLF [pZinCJAKOZ2JMGnMAHc_Ww.us674] 4/1/2026 11:22:38 AM
+<<< . 4/1/2026 11:22:39 AM >>> 250 SmtpThread-14213654-1775042559201@us-mta-674.us.mimecast.lan Received OK [pZi
+nCJAKOZ2JMGnMAHc_Ww.us674] 4/1/2026 11:22:39 AM <<< QUIT 4/1/2026 11:22:39 AM >>> 221 Service closing transmis
+sion channel [KKGwXNJ-PrqvITgJdmCgGg.us674] 4/1/2026 11:22:39 AM closed us-smtp-inbound-1.mimecast.com (170.10.13
+2.221) in=641 out=24752 4/1/2026 11:22:39 AM done whistleblower.org/{default}
+4/1/2026 11:22:37 AM starting whistleblower.org/{default} 4/1/2026 11:22:37 AM connecting from mta21.r1.rpost.net (0.0.0.0) to
+us-smtp-inbound-2.mimecast.com (170.10.132.141) 4/1/2026 11:22:37 AM connected from 192.168.10.11:52611 4/1/2026 11:2
+2:37 AM >>> 220 us-smtp-inbound-1.mimecast.com ESMTP; Wed, 01 Apr 2026 07:22:37 -0400 4/1/2026 11:22:37 AM <<< E
+HLO mta21.r1.rpost.net 4/1/2026 11:22:37 AM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/1/2026 11:22:
+37 AM >>> 250-STARTTLS 4/1/2026 11:22:37 AM >>> 250 HELP 4/1/2026 11:22:37 AM <<< STARTTLS 4/1/2026 11:22:37 A
+M >>> 220 Starting TLS [cO4o0nVuMZmBjzOP4yd0Lw.us546] 4/1/2026 11:22:37 AM tls:TLSv1.2 connected with 256-bit ECD
+HE-RSA-AES256-GCM-SHA384 4/1/2026 11:22:37 AM tls:Cert: /C=GB/L=London/O=Mimecast Services Limited/CN=*.mimec
+ast.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1; verified=no 4/1/2026 11:22:37 A
+M <<< EHLO mta21.r1.rpost.net 4/1/2026 11:22:38 AM >>> 250-us-smtp-inbound-1.mimecast.com Hello [52.58.131.9] 4/1/202
+6 11:22:38 AM >>> 250-AUTH PLAIN LOGIN 4/1/2026 11:22:38 AM >>> 250 HELP 4/1/2026 11:22:38 AM <<< MAIL FROM:
+4/1/2026 11:22:38 AM >>> 250 Sender OK [cO4o0nVuMZmBjzOP4yd0Lw.us546] 4/1/2026 11:22:38 AM <<< RCPT TO: 4/1/2
+026 11:22:38 AM >>> 250 Recipient OK [cO4o0nVuMZmBjzOP4yd0Lw.us546] 4/1/2026 11:22:38 AM <<< DATA 4/1/2026 11:2
+2:38 AM >>> 354 Start mail data, end with CRLF.CRLF [cO4o0nVuMZmBjzOP4yd0Lw.us546] 4/1/2026 11:22:38 AM <<< . 4/
+1/2026 11:22:39 AM >>> 250 SmtpThread-11220328-1775042559079@us-mta-546.us.mimecast.lan Received OK [cO4o0nVu
+MZmBjzOP4yd0Lw.us546] 4/1/2026 11:22:39 AM <<< QUIT 4/1/2026 11:22:39 AM >>> 221 Service closing transmission cha
+nnel [HQXZCjROPVSU1Cjr8FoO4A.us546] 4/1/2026 11:22:39 AM closed us-smtp-inbound-2.mimecast.com (170.10.132.141) i
+n=641 out=24752 4/1/2026 11:22:39 AM done whistleblower.org/{default}
+4/1/2026 11:14:08 AM starting gmail.com/{default} 4/1/2026 11:14:08 AM connecting from mta21.r1.rpost.net (0.0.0.0) to gmailsmtp-in.l.google.com (142.251.127.27) 4/1/2026 11:14:08 AM connected from 192.168.10.11:40406 4/1/2026 11:14:08 AM >>>
+220 mx.google.com ESMTP ffacd0b85a97d-43cf3f0aac1si25722071f8f.151 - gsmtp 4/1/2026 11:14:08 AM <<< EHLO mta21.r
+1.rpost.net 4/1/2026 11:14:08 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/1/2026 11:14:08 AM >>> 250-SIZE
+157286400 4/1/2026 11:14:08 AM >>> 250-8BITMIME 4/1/2026 11:14:08 AM >>> 250-STARTTLS 4/1/2026 11:14:08 AM >>>
+250-ENHANCEDSTATUSCODES 4/1/2026 11:14:08 AM >>> 250-PIPELINING 4/1/2026 11:14:08 AM >>> 250-CHUNKING 4/
+1/2026 11:14:08 AM >>> 250 SMTPUTF8 4/1/2026 11:14:08 AM <<< STARTTLS 4/1/2026 11:14:08 AM >>> 220 2.0.0 Ready
+to start TLS 4/1/2026 11:14:08 AM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session reuse
+d) 4/1/2026 11:14:08 AM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/1/20
+26 11:14:08 AM <<< EHLO mta21.r1.rpost.net 4/1/2026 11:14:08 AM >>> 250-mx.google.com at your service, [52.58.131.9] 4/
+1/2026 11:14:08 AM >>> 250-SIZE 157286400 4/1/2026 11:14:08 AM >>> 250-8BITMIME 4/1/2026 11:14:08 AM >>> 250-EN
+HANCEDSTATUSCODES 4/1/2026 11:14:08 AM >>> 250-PIPELINING 4/1/2026 11:14:08 AM >>> 250-CHUNKING 4/1/2026 1
+1:14:08 AM >>> 250 SMTPUTF8 4/1/2026 11:14:08 AM <<< MAIL FROM: BODY=8BITMIME 4/1/2026 11:14:08 AM >>> 250
+2.1.0 OK ffacd0b85a97d-43cf3f0aac1si25722071f8f.151 - gsmtp 4/1/2026 11:14:08 AM <<< RCPT TO: 4/1/2026 11:14:09 AM
+>>> 250 2.1.5 OK ffacd0b85a97d-43cf3f0aac1si25722071f8f.151 - gsmtp 4/1/2026 11:14:09 AM <<< DATA 4/1/2026 11:14:09
+AM >>> 354 Go ahead ffacd0b85a97d-43cf3f0aac1si25722071f8f.151 - gsmtp 4/1/2026 11:14:09 AM <<< . 4/1/2026 11:14:09
+AM >>> 250 2.0.0 OK 1775042049 ffacd0b85a97d-43cf3f0aac1si25722071f8f.151 - gsmtp 4/1/2026 11:14:09 AM <<< QUIT 4/
+1/2026 11:14:09 AM >>> 221 2.0.0 closing connection ffacd0b85a97d-43cf3f0aac1si25722071f8f.151 - gsmtp 4/1/2026 11:14:0
+9 AM closed gmail-smtp-in.l.google.com (142.251.127.27) in=779 out=24757 4/1/2026 11:14:09 AM done gmail.com/{default}
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861267369368261697&simpl=msg-f:1861267369368261697
+
+2/4
+
+4/1/26, 7:02 AM
+
+Gmail - Receipt: Urgent Triage Request: Systemic Fiduciary Risk and Judicial Capture (Ref: RC11 / Intake March 26)
+
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer us-smtp-inbound-1.mimecast.com (170.10.132.221)
+[IP Address: 72.153.153.17] [Time Opened: 4/1/2026 11:22:48 AM] [REMOTE_HOST: 192.168.10.131] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/0Utz4IbEkk7EVqdbrtYJgyvq45daAtSPZheuzYXeMjEw.gif] HTTP_ACCEPT:image/*
+HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
+TML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:72.153.153.17 HTTP_X_FORWARDED_PR
+OTO:hXXps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69cd0008-31b37cfe740f6e4d51f140de
+Accept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
+TML, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 72.153.153.17 X-Forwarded-Proto: hXXps X-Forwarded-P
+ort: 443 X-Amzn-Trace-Id: Root=1-69cd0008-31b37cfe740f6e4d51f140de /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root
+Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/
+12 192.168.10.112 /oatv_v2/0Utz4IbEkk7EVqdbrtYJgyvq45daAtSPZheuzYXeMjEw.gif 192.168.10.131 192.168.10.131 35916
+GET /oatv_v2/0Utz4IbEkk7EVqdbrtYJgyvq45daAtSPZheuzYXeMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/1
+0.0 /oatv_v2/0Utz4IbEkk7EVqdbrtYJgyvq45daAtSPZheuzYXeMjEw.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows NT
+10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 72.153.153.17 hXXps 443 Root=
+1-69cd0008-31b37cfe740f6e4d51f140de
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer us-smtp-inbound-2.mimecast.com (170.10.132.141)
+[IP Address: 135.232.20.5] [Time Opened: 4/1/2026 11:22:47 AM] [REMOTE_HOST: 192.168.10.131] [HTTP_HOST: socrmail.
+r1.rpost.net] [SCRIPT_NAME: /oatv_v2/V7vYg50xZulvhRgt01XWJ26dTuTcih0L6CwxfLMVMjEw.gif] HTTP_ACCEPT:image/*
+HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
+TML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:135.232.20.5 HTTP_X_FORWARDED_PRO
+TO:hXXps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69cd0007-1caf02cd45d8ee9a3c49a6ae A
+ccept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHT
+ML, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 135.232.20.5 X-Forwarded-Proto: hXXps X-Forwarded-Port:
+443 X-Amzn-Trace-Id: Root=1-69cd0007-1caf02cd45d8ee9a3c49a6ae /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root C
+ert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/1
+2 192.168.10.112 /oatv_v2/V7vYg50xZulvhRgt01XWJ26dTuTcih0L6CwxfLMVMjEw.gif 192.168.10.131 192.168.10.131 35916
+GET /oatv_v2/V7vYg50xZulvhRgt01XWJ26dTuTcih0L6CwxfLMVMjEw.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/
+10.0 /oatv_v2/V7vYg50xZulvhRgt01XWJ26dTuTcih0L6CwxfLMVMjEw.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows
+NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 135.232.20.5 hXXps 443 Roo
+t=1-69cd0007-1caf02cd45d8ee9a3c49a6ae
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.27)
+[IP Address: 74.125.214.73] [Time Opened: 4/1/2026 11:14:12 AM] [REMOTE_HOST: 192.168.10.131] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/pou5JwIy69oIrfuFCVAzx0teLHPfcT4DrI6YOZK6MjEw.gif] HTTP_ACCEPT_ENCODI
+NG:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fir
+efox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:74.125.214.73 HTTP_X_FORWARDED_PROTO:
+hXXps HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69ccfe04-384028fa238e6ce25ad24101 Accep
+t-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 74.125.214.73 X-Forwarded-Proto: hXXps X-Forwarded-Port: 443 X-Amz
+n-Trace-Id: Root=1-69ccfe04-384028fa238e6ce25ad24101 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/
+1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/pou5JwIy69oIrfuFCVAzx0teLHPfcT4Dr
+I6YOZK6MjEw.gif 192.168.10.131 192.168.10.131 38980 GET /oatv_v2/pou5JwIy69oIrfuFCVAzx0teLHPfcT4DrI6YOZK6MjEw.
+gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/pou5JwIy69oIrfuFCVAzx0teLHPfcT4DrI6YOZK6MjEw.gif
+gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImagePr
+oxy) 74.125.214.73 hXXps 443 Root=1-69ccfe04-384028fa238e6ce25ad24101
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861267369368261697&simpl=msg-f:1861267369368261697
+
+3/4
+
+4/1/26, 7:02 AM
+
+Gmail - Receipt: Urgent Triage Request: Systemic Fiduciary Risk and Judicial Capture (Ref: RC11 / Intake March 26)
+
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+17K
+HtmlReceipt.htm
+125K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861267369368261697&simpl=msg-f:1861267369368261697
+
+4/4
+
+

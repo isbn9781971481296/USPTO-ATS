@@ -1,0 +1,62 @@
+{
+  "summary_of_pdf": "This document is a certified RMail delivery and read receipt confirming that an inquiry for intellectual property representation regarding a 47-patent portfolio, parallel federal disclosures, and SpaceX was successfully delivered to and opened by a representative at the Polsinelli law firm.",
+  "attorneys_comments": "This certified receipt serves as highly probative evidence of actual notice and receipt under the Federal Rules of Evidence. It establishes a definitive timeline, confirming the target recipient at Polsinelli opened the communication on April 17, 2026, eleven days after its initial transmission. Tactically, this instrument is invaluable for proving receipt of sensitive federal disclosure materials and establishing the inception of potential attorney-client confidentiality duties or conflict-of-interest parameters, particularly concerning the referenced 47-patent portfolio and SpaceX. The embedded IP and user-agent audit trail further fortifies the document against repudiation.",
+  "recommended_next_steps": "Preserve the native XML and HTML receipt attachments for evidentiary authentication pursuant to Fed. R. Evid. 901. Initiate a formal follow-up with Polsinelli counsel to ascertain their conflict status and willingness to assume representation. Document any subsequent communications to maintain a pristine chain of custody regarding the federal disclosures.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Actual Notice",
+    "Fed. R. Evid. 901",
+    "Attorney-Client Relationship Formation",
+    "Patent Portfolio Representation",
+    "Federal Disclosures",
+    "Conflict of Interest Check"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "K. Erskine"
+    ],
+    "companies": [
+      "SpaceX",
+      "RPost",
+      "Google"
+    ],
+    "technologies": [
+      "RMail",
+      "Registered Email"
+    ],
+    "products": [
+      "47-Patent Portfolio"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Polsinelli"
+    ],
+    "attorneys": [
+      "K. Erskine"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "1817601759",
+  "basefilename": "READ-RECEIPT-kerskine@polsinelli.com__Tier-0",
+  "original_filename": "READ-RECEIPT-kerskine@polsinelli.com__Tier-0.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04062026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "kerskine@polsinelli.com",
+  "primary_recipient_an": "Kerskine (Polsinelli PC)",
+  "all_recipients": [
+    "kerskine@polsinelli.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "kerskine@polsinelli.com": "Kerskine (Polsinelli PC)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

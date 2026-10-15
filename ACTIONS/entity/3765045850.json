@@ -1,0 +1,37 @@
+{
+  "serving_key": "3765045850",
+  "canonical_key": "n.ishikawa@nishimura.com",
+  "display_name": "N. Ishikawa (Nishimura & Asahi)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Nishimura & Asahi",
+  "full_name": "N. Ishikawa",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Nishimura & Asahi",
+  "domain": "nishimura.com",
+  "addresses": {
+    "mailing_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "business_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "legal_service_address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan"
+  },
+  "registered_agent": {
+    "name": "N/A (International Law Firm)",
+    "address": "Otemon Tower, 1-1-2 Otemachi, Chiyoda-ku, Tokyo 100-8124, Japan",
+    "jurisdiction": "Japan"
+  },
+  "contact": {
+    "primary_email": "n.ishikawa@nishimura.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+81-3-6250-6200"
+    ],
+    "faxes": [
+      "+81-3-6250-7200"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

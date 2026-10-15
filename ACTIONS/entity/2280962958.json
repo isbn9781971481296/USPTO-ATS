@@ -1,0 +1,110 @@
+{
+  "serving_key": "2280962958",
+  "canonical_key": "epo.org_ymeniere@epo.org",
+  "display_name": "Yann M\u00e9ni\u00e8re (European Patent Office)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "European Patent Office",
+  "full_name": "Yann M\u00e9ni\u00e8re",
+  "pronouns": null,
+  "title": "Chief Economist",
+  "organization": "European Patent Office",
+  "domain": "epo.org",
+  "addresses": {
+    "mailing_address": "Bob-van-Benthem-Platz 1, 80469 Munich, Germany",
+    "business_address": "Bob-van-Benthem-Platz 1, 80469 Munich, Germany",
+    "legal_service_address": "Bob-van-Benthem-Platz 1, 80469 Munich, Germany"
+  },
+  "registered_agent": {
+    "name": "Legal Affairs, European Patent Office",
+    "address": "Bob-van-Benthem-Platz 1, 80469 Munich, Germany",
+    "jurisdiction": "Intergovernmental Organization"
+  },
+  "contact": {
+    "primary_email": "epo.org_ymeniere@epo.org",
+    "alternative_emails": [
+      "ymeniere@epo.org"
+    ],
+    "specialized_emails": {},
+    "phones": [
+      "+49 89 2399 0"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "4045929495",
+      "canonical_key": "ymeniere@epo.org",
+      "display_name": "Yann M\u00e9ni\u00e8re",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1288841517",
+      "canonical_key": "02__defensive-publication-email-with-receiptepo_gphilpott@epo.org",
+      "display_name": "Grant Philpott",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1640630762",
+      "canonical_key": "tvilela@epo.org",
+      "display_name": "T. Vilela",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "652200996",
+      "canonical_key": "nsimon@epo.org",
+      "display_name": "N. Simon",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2660861649",
+      "canonical_key": "org_srowan@epo.org",
+      "display_name": "Stephen Rowan",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "51180642",
+      "canonical_key": "_rmenidjel@epo.org",
+      "display_name": "R. Menidjel",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "1491503523",
+      "canonical_key": "_ymeniere@epo.org",
+      "display_name": "Yann M\u00e9ni\u00e8re",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3286697144",
+      "canonical_key": "03__defensive-publication-email-with-receiptepo_gphilpott@epo.org",
+      "display_name": "Grant Philpott",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3874115605",
+      "canonical_key": "gphilpott@epo.org",
+      "display_name": "Grant Philpott",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3483976322",
+      "canonical_key": "rmenidjel@epo.org",
+      "display_name": "Rachid Menidjel",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2311681094",
+      "canonical_key": "00__defensive-publication-email-with-receiptepo_gphilpott@epo.org",
+      "display_name": "Grant Philpott",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2544652426",
+      "canonical_key": "srowan@epo.org",
+      "display_name": "Stephen Rowan",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

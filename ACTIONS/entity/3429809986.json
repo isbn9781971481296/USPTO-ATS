@@ -1,0 +1,50 @@
+{
+  "serving_key": "3429809986",
+  "canonical_key": "_hjlim@yulchon.com",
+  "display_name": "H.J. Lim (Yulchon LLC)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Yulchon LLC",
+  "full_name": "H.J. Lim",
+  "pronouns": null,
+  "title": "Attorney",
+  "organization": "Yulchon LLC",
+  "domain": "yulchon.com",
+  "addresses": {
+    "mailing_address": "Parnas Tower, 38th Floor, 521 Teheran-ro, Gangnam-gu, Seoul 06164, South Korea",
+    "business_address": "Parnas Tower, 38th Floor, 521 Teheran-ro, Gangnam-gu, Seoul 06164, South Korea",
+    "legal_service_address": "Parnas Tower, 38th Floor, 521 Teheran-ro, Gangnam-gu, Seoul 06164, South Korea"
+  },
+  "registered_agent": {
+    "name": "Yulchon LLC",
+    "address": "Parnas Tower, 38th Floor, 521 Teheran-ro, Gangnam-gu, Seoul 06164, South Korea",
+    "jurisdiction": "Seoul, South Korea"
+  },
+  "contact": {
+    "primary_email": "_hjlim@yulchon.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+82-2-528-5200"
+    ],
+    "faxes": [
+      "+82-2-528-5228"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1044421589",
+      "canonical_key": "jychoe@yulchon.com",
+      "display_name": "Jeong Yeol Choe",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "13306274",
+      "canonical_key": "hjlim@yulchon.com",
+      "display_name": "H.J. Lim",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

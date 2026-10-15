@@ -1,0 +1,35 @@
+{
+  "serving_key": "534054401",
+  "canonical_key": "eng@cnpc.com.cn",
+  "display_name": "China National Petroleum Corporation (CNPC)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "China National Petroleum Corporation",
+  "full_name": "China National Petroleum Corporation",
+  "pronouns": null,
+  "title": "Corporation",
+  "organization": "China National Petroleum Corporation",
+  "domain": "cnpc.com.cn",
+  "addresses": {
+    "mailing_address": "9 Dongzhimen North Street, Dongcheng District, Beijing 100007, P.R. China",
+    "business_address": "9 Dongzhimen North Street, Dongcheng District, Beijing 100007, P.R. China",
+    "legal_service_address": "9 Dongzhimen North Street, Dongcheng District, Beijing 100007, P.R. China"
+  },
+  "registered_agent": {
+    "name": "Legal Department, CNPC",
+    "address": "9 Dongzhimen North Street, Dongcheng District, Beijing 100007, P.R. China",
+    "jurisdiction": "People's Republic of China"
+  },
+  "contact": {
+    "primary_email": "eng@cnpc.com.cn",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+86-10-5998-1114"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

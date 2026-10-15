@@ -1,0 +1,35 @@
+{
+  "serving_key": "681157248",
+  "canonical_key": "smtpthread-82831091775833542312@us-mta209.us.mimecast.lan",
+  "display_name": "Mimecast Mail Server (Mimecast North America, Inc.)",
+  "entity_type": "corporation",
+  "is_attorney": false,
+  "works_at": "Mimecast North America, Inc.",
+  "full_name": "Mimecast Mail Server",
+  "pronouns": null,
+  "title": "Mail Transfer Agent (MTA)",
+  "organization": "Mimecast North America, Inc.",
+  "domain": "us-mta209.us.mimecast.lan",
+  "addresses": {
+    "mailing_address": "191 Spring Street, Lexington, MA 02421",
+    "business_address": "191 Spring Street, Lexington, MA 02421",
+    "legal_service_address": "251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "smtpthread-82831091775833542312@us-mta209.us.mimecast.lan",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-800-614-8366"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

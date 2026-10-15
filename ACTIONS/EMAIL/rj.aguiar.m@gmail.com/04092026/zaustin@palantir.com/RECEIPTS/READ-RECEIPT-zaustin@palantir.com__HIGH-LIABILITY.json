@@ -1,0 +1,26 @@
+{
+  "index": 52,
+  "header": "# Enclosure #52: READ-RECEIPT-zaustin-palantir-com-HIGH-LIABILITY.pdf",
+  "cloud_url": "https://storage.googleapis.com/rj-aguiar/reports/Intellectual-Property-Law-Firms/EMAILS-Sent/__HIGH-Legal-Liability/READ-RECEIPT-zaustin@palantir.com__HIGH-LIABILITY.pdf",
+  "pdf_path": "/media/user/t1/ASSETS/USPTO/BOOKS-SRC/gs-rj-aguiar-reports-intellectual-property-law-firms-emails-sent-high-legal-liability-read-receipt-z-234d255898.pdf",
+  "pdf_exists": true,
+  "category": "email",
+  "prefix_hint": "READ-RECEIPT",
+  "subtype": "read_receipt",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "zaustin@palantir.com",
+  "primary_recipient_an": "Zaustin (Palantir Technologies Inc.)",
+  "all_recipients": [
+    "zaustin@palantir.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "zaustin@palantir.com": "Zaustin (Palantir Technologies Inc.)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "date": "04092026",
+  "original_filename": "READ-RECEIPT-zaustin@palantir.com__HIGH-LIABILITY.pdf",
+  "patent_applications_mentioned": []
+}

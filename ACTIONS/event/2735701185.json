@@ -1,0 +1,82 @@
+{
+  "summary_of_pdf": "This document is a compilation of RMail Registered Email delivery and open receipts confirming the successful transmission and actual receipt of a 'Formal Notice of Defensive Publication and Prior Art Disclosure.' The underlying notice, concerning systems for forensic ownership tracing, attributed control detection, and asynchronous secure communications, was served upon five attorneys at Chamberlain Hrdlicka on April 9, 2026. The receipts provide granular, timestamped audit trails establishing indisputable actual notice.",
+  "attorneys_comments": "The provided instrument constitutes highly probative, cryptographically verifiable evidentiary proof of delivery and actual notice, satisfying the authentication requirements of Fed. R. Evid. 901 and the business records exception under Fed. R. Evid. 803(6). The sender has successfully executed service of a prior art disclosure upon specific counsel. Tactically, this maneuver is designed to impute actual knowledge of the specified prior art to the receiving attorneys. Should these attorneys or their firm be prosecuting related patents before the USPTO, this actual notice strictly triggers the duty of candor and good faith under 37 C.F.R. \u00a7 1.56. Any subsequent failure to submit this prior art via an Information Disclosure Statement (IDS) in relevant pending applications exposes the patentee to severe liabilities, including findings of inequitable conduct and patent unenforceability. The granular audit trails\u2014detailing IP addresses, user agents, and exact open times\u2014effectively neutralize any prospective 'failure of service' or 'spam filter' defenses.",
+  "recommended_next_steps": "1. Securely archive the native .xml and .htm RMail receipts to preserve their cryptographic integrity for future evidentiary authentication. 2. Conduct a comprehensive USPTO docket review of the receiving firm's pending applications to identify any claims overlapping with the disclosed technologies. 3. Monitor identified applications for the filing of an Information Disclosure Statement (IDS) citing this defensive publication to verify compliance with 37 C.F.R. \u00a7 1.56. 4. Prepare a formal declaration of service corroborating these electronic records.",
+  "tags": [
+    "35 U.S.C. \u00a7 102",
+    "37 C.F.R. \u00a7 1.56",
+    "Fed. R. Evid. 901",
+    "Fed. R. Evid. 803(6)",
+    "Prior Art Disclosure",
+    "Defensive Publication",
+    "Evidentiary Proof of Delivery",
+    "Duty of Candor",
+    "Inequitable Conduct",
+    "Patent Prosecution"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar, JR.",
+      "Marcus Burnside",
+      "C. Kirchner",
+      "Larry Campagna",
+      "Charles Rettig",
+      "David Aughtry"
+    ],
+    "companies": [
+      "RPost"
+    ],
+    "technologies": [
+      "Forensic Ownership Tracing",
+      "Attributed Control Detection",
+      "Asynchronous Secure Communications"
+    ],
+    "products": [
+      "RMail"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [
+      "Chamberlain Hrdlicka"
+    ],
+    "attorneys": [
+      "Marcus Burnside",
+      "C. Kirchner",
+      "Larry Campagna",
+      "Charles Rettig",
+      "David Aughtry"
+    ]
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "event_key": "2735701185",
+  "basefilename": "READ-RECEIPT-chamberlainlaw.com-The-Team__HIGH-LIABILITY",
+  "original_filename": "READ-RECEIPT-chamberlainlaw.com-The-Team__HIGH-LIABILITY.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04092026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "marcus.burnside@chamberlainlaw.com",
+  "primary_recipient_an": "Marcus Burnside (chamberlainlaw.com)",
+  "all_recipients": [
+    "marcus.burnside@chamberlainlaw.com",
+    "david.aughtry@chamberlainlaw.com",
+    "charles.rettig@chamberlainlaw.com",
+    "c.kirchner@chamberlainlaw.com",
+    "larry.campagna@chamberlainlaw.com",
+    "rj.aguiar.m+legal@gmail.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "marcus.burnside@chamberlainlaw.com": "Marcus Burnside (chamberlainlaw.com)",
+    "david.aughtry@chamberlainlaw.com": "David Aughtry (chamberlainlaw.com)",
+    "charles.rettig@chamberlainlaw.com": "Charles Rettig (chamberlainlaw.com)",
+    "c.kirchner@chamberlainlaw.com": "C. Kirchner (chamberlainlaw.com)",
+    "larry.campagna@chamberlainlaw.com": "Larry Campagna (chamberlainlaw.com)",
+    "rj.aguiar.m+legal@gmail.com": "Rj Aguiar M+legal (Gmail)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": []
+}

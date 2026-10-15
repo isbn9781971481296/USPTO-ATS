@@ -1,0 +1,119 @@
+4/9/26, 4:37 AM
+
+Gmail - Registered: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR S…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Registered: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART
+DISCLOSURE: ARCHITECTURES FOR SECURE PHI TRANSMISSION, DATA INTEGRITY,
+AND FORENSIC INFLUENCE DETECTION
+1 message
+RJ Aguiar JR. via RPost <rmail@r1.rpost.net>
+Thu, Apr 9, 2026 at 4:37 AM
+Reply-To: rj.aguiar.m+legal@gmail.com
+To: ksudol@kkr.com, lwalsh@internetbrands.com, jparis@definitivehc.com, sstackhouse@epic.com,
+frank.jimenez@gehealthcare.com, cmorris@tebra.com, bchapman@vitalinteraction.com, llesser@stblaw.com,
+sdevarakonda@fr.com, avanhoesen@jenner.com
+Cc: rj.aguiar.m@gmail.com
+
+Registered Email™ | File Share
+This is a Registered Email™ message from RJ Aguiar JR. .
+Large file(s) have been sent to you and are ready to be downloaded. The file(s) will be available for download for 14 days.
+File Name(s)
+00-Department-of-Defense__TheHeidi-Shyu-License-Grant.pdf
+00-EMAIL-TO-EPO_DefensivePublication-USPTO-No_19-640,
+945.pdf
+03-USPTO-No-19-639,272.pdf
+04-ISBN-978-1-97-148129-6__
+Portfolio-of-Patent-Applications-filedwith-the-USPTO.pdf
+05-NOTICE OF FORMAL CRIMINAL
+REFERRAL For Interstate Wire
+Fraud.pdf
+06-The-Whistle-blower's-response-toKKC.pdf
+07-Triage-Request_sent-to-theGovernment-AccountabilityProject.pdf
+08-Email-Sent-to-IP-Attorneys-TerrellMiller-and-Vanessa-Miller-atFoley.com.pdf
+09-Honorable-Colin-McDonald_
+FORMAL-CRIMINAL-REFERRAL.pdf
+10-Honorable-Cody-MatthewHerche__FORMAL-CRIMINALREFERRAL.pdf
+11-Letter-to-Uber-and-Emil-Michael.pdf
+
+954.05KB
+550.86KB
+1021.65KB
+70.82MB
+
+144.60KB
+214.91KB
+169.56KB
+
+147.69KB
+3.80MB
+3.83MB
+6.52MB
+
+Download Files
+Dear Ms. Sudol, Ms. Walsh, Mr. Paris, Mr. Stackhouse, Mr. Jimenez, Mr. Morris, Mr. Chapman, Ms. Lesser, Mr. Devarakonda,
+and Ms. Van Hoesen,
+Re: International Defensive Publication "Be Water, Be Light" (ISBN: 978-1-97-148129-6); USPTO # 19/640,945, USPTO #
+19/632,333, and USPTO # 19/559,873.
+This letter serves as formal notice that a comprehensive portfolio of patent applications has been released as a defensive
+publication to establish definitive prior art in the fields of asynchronous secure communication, organizational information
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861985164655270263&simpl=msg-f:1861985164655270263
+
+1/2
+
+4/9/26, 4:37 AM
+
+Gmail - Registered: FORMAL NOTICE OF DEFENSIVE PUBLICATION AND PRIOR ART DISCLOSURE: ARCHITECTURES FOR S…
+
+leak-proofing, and attributed corporate influence detection. This technical record, titled "Be Water, Be Light: Portfolio of
+Patent Applications Submitted to the USPTO" (ISBN: 978-1-97-148129-6), documents a new architecture designed to overcome
+the fundamental security and data-integrity bottlenecks of modern Electronic Health Record (EHR) and financial systems.
+
+1. Anchors for Technical Disclosure (Healthcare & PE Context)
+The following patent applications, formally filed with the USPTO in early 2026, serve as technical anchors for this notice,
+providing solutions for the secure management of PHI and the transparent tracking of corporate control:
+USPTO # 19/640,945: Asynchronous Secure Communication with Post-Hoc Key Derivation. Discloses a method for
+secure communication that inverts the traditional cryptographic paradigm, asynchronously transmitting data components
+before the final key derivation to increase resilience against Man-in-the-Middle (MITM) attacks during PHI exchange.
+USPTO # 19/559,873: Method and System for Information Leak-Proofing of Organizations. Defines a data analysis
+engine that maps the "blast radius" of sensitive information and calculates a "potential damage score" for internal nodes
+to proactively mitigate insider threats in massive EHR databases.
+USPTO # 19/559,958: Method and System for Detecting Data Transposition and Unauthorized Data Permutation.
+Provides a "permutation signature" system to protect against subtle data manipulation where record sequence is
+maliciously altered to change overall medical or financial meaning.
+USPTO # 19/632,333: System and Method for Attributed Control Aggregation and Influence Detection. Discloses a
+resilient "Identity Fingerprint" and "Influence Smearing" algorithm designed to traverse corporate ownership graphs and
+attribute direct/indirect control, piercing the corporate veil in complex private equity structures.
+
+2. Formal Notification to the European Patent Office (EPO)
+On April 7, 2026, a formal notification was delivered to the European Patent Office (EPO). I have requested that this 721-page
+specification be indexed as Non-Patent Literature (NPL) within Technical Clusters G06F and H04L. This ensures examiners
+cite this work as prior art for any future applications related to secure data-link protocols, ownership tracing algorithms, or
+organizational risk modeling.
+
+3. Strategic National Security Status and U.S. Government License
+Recognizing the foundational nature of these inventions for national infrastructure and data security, I have granted a perpetual,
+worldwide, no-fee license to the United States Federal Government. This grant was formally communicated to the
+Honorable Heidi Shyu, Under Secretary of Defense for Research and Engineering, designating this IP as a strategic national
+asset.
+
+4. Implications for Product Roadmaps
+This disclosure establishes an undeniable public record that removes "plausible deniability" for entities attempting to patent
+these security and forensic technologies for exclusive benefit. Major international legal representatives, including those at
+Simpson Thacher, Fish & Richardson, and Jenner & Block, are hereby notified to ensure this technical record is considered
+during current and future patent filing cycles.
+I remain available to provide the full high-resolution digital version of record to your technical and legal reviewers upon request.
+Respectfully,
+Reinaldo J. Aguiar Marcano, Forensic Systems Architect
+rj.aguiar.m@gmail.com
+
+If the button above is not active, please click or copy/paste the link below into your browser to pick up the attachments.
+https://fileshare.r1.rpost.net/files/Hvw75ZgPJTXgwbGhdl3VDBWr5PqUJS4p4h6lNFAKMDIx/ln/en-us
+RPost®Patented
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1861985164655270263&simpl=msg-f:1861985164655270263
+
+2/2
+
+

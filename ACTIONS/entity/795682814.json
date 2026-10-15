@@ -1,0 +1,63 @@
+{
+  "serving_key": "795682814",
+  "canonical_key": "vawalton@vorys.com",
+  "display_name": "Victor A. Walton, Jr. (Vorys, Sater, Seymour and Pease LLP)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Vorys, Sater, Seymour and Pease LLP",
+  "full_name": "Victor A. Walton, Jr.",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Vorys, Sater, Seymour and Pease LLP",
+  "domain": "vorys.com",
+  "addresses": {
+    "mailing_address": "301 East Fourth Street, Suite 3500, Great American Tower, Cincinnati, OH 45202",
+    "business_address": "301 East Fourth Street, Suite 3500, Great American Tower, Cincinnati, OH 45202",
+    "legal_service_address": "52 East Gay Street, P.O. Box 1008, Columbus, OH 43215"
+  },
+  "registered_agent": {
+    "name": "Vorys, Sater, Seymour and Pease LLP",
+    "address": "52 East Gay Street, Columbus, OH 43215",
+    "jurisdiction": "Ohio"
+  },
+  "contact": {
+    "primary_email": "vawalton@vorys.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 513-723-4027",
+      "+1 513-723-4000"
+    ],
+    "faxes": [
+      "+1 513-852-7821"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "2410373168",
+      "canonical_key": "_vawalton@vorys.com",
+      "display_name": "Victor A. Walton, Jr.",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "2440499332",
+      "canonical_key": "dfhine@vorys.com",
+      "display_name": "David F. Hine",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "3225758661",
+      "canonical_key": "akamai-and-vorys-dfhine@vorys.com",
+      "display_name": "David F. Hine",
+      "relationship": "same_domain"
+    },
+    {
+      "serving_key": "956557697",
+      "canonical_key": "gvwhitaker@vorys.com",
+      "display_name": "Glenn V. Whitaker",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": true
+}

@@ -1,0 +1,38 @@
+{
+  "serving_key": "43726035",
+  "canonical_key": "jonathan.gleklen@arnoldporter.com",
+  "display_name": "Jonathan Gleklen (Arnold & Porter)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "Arnold & Porter Kaye Scholer LLP",
+  "full_name": "Jonathan Gleklen",
+  "pronouns": null,
+  "title": "Partner",
+  "organization": "Arnold & Porter Kaye Scholer LLP",
+  "domain": "arnoldporter.com",
+  "addresses": {
+    "mailing_address": "601 Massachusetts Ave NW, Washington, DC 20001",
+    "business_address": "601 Massachusetts Ave NW, Washington, DC 20001",
+    "legal_service_address": "601 Massachusetts Ave NW, Washington, DC 20001"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "jonathan.gleklen@arnoldporter.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1 202-942-5454",
+      "+1 202-942-5000"
+    ],
+    "faxes": [
+      "+1 202-942-5999"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": true
+}

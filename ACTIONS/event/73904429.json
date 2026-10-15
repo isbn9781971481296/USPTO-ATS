@@ -1,0 +1,105 @@
+{
+  "summary_of_pdf": "The provided document is an RPost Registered Email receipt serving as cryptographic, non-repudiable proof of delivery, message content, and time of receipt. The underlying transmission, sent by RJ Aguiar to counsel at Mori Hamada & Matsumoto, seeks intellectual property representation concerning a 47-patent portfolio. The attachments indicate a highly complex legal matrix involving the U.S. Department of Defense, Lockheed Martin, and parallel federal disclosures, including SEC whistleblower complaints (TCR 17742-648-351-976), formal criminal referrals for interstate wire fraud, and a purported license grant involving Under Secretary of Defense Heidi Shyu.",
+  "attorneys_comments": "As an evidentiary instrument, this RPost receipt provides absolute, authenticated proof of actual notice to the recipient attorneys, satisfying the rigorous standards of FRE 901. The substantive attachments reveal a highly volatile procedural posture intertwining 35 U.S.C. patent prosecution with potential 28 U.S.C. \u00a7 1498 claims (eminent domain over patents by the federal government) and DFARS data rights disputes. The inclusion of SEC whistleblower complaints, criminal referrals against named individuals, and outreach to multiple law firms (Foley & Lardner, Mori Hamada) suggests the sender is aggressively shopping a radioactive portfolio. While the evidentiary strength of the delivery is unassailable, the substantive claims present severe collateral liabilities. Rigorous due diligence is required to separate meritorious 35 U.S.C. \u00a7 154(d) provisional rights from potentially vexatious or retaliatory litigation tactics.",
+  "recommended_next_steps": "First, preserve this RPost receipt and all native attachments in a secure, air-gapped litigation hold environment to satisfy spoliation duties. Second, immediately conduct a stringent conflicts check regarding Lockheed Martin, the Department of Defense, and all named individuals. Third, perform a preliminary USPTO Patent Center review of Application No. 19/639,265 to assess subject matter eligibility and verify whether a Secrecy Order under 35 U.S.C. \u00a7 181 has been imposed. Finally, if the risk profile exceeds firm tolerance, draft and transmit a formal non-engagement letter to preclude the inadvertent formation of an attorney-client relationship.",
+  "tags": [
+    "35 U.S.C. \u00a7 181",
+    "35 U.S.C. \u00a7 154(d)",
+    "28 U.S.C. \u00a7 1498",
+    "DFARS 227.7004",
+    "FRE 901",
+    "Patent Infringement",
+    "Procurement Fraud",
+    "Whistleblower Retaliation",
+    "Evidentiary Proof of Delivery",
+    "Formal Demand Letter",
+    "SEC Material Risk Disclosure",
+    "ABA Model Rule 1.18"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "RJ Aguiar",
+      "Akira Marumo",
+      "Atsushi Okada",
+      "Yutaka Miyoshi",
+      "Yoshifumi Onodera",
+      "Heidi Shyu",
+      "Cody Matthew Herche",
+      "Colin McDonald",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ],
+    "companies": [
+      "Lockheed Martin",
+      "Mori Hamada & Matsumoto",
+      "Foley & Lardner",
+      "KKC",
+      "RPost"
+    ],
+    "technologies": [
+      "High-Radix and Parametric Satellite Communication System"
+    ],
+    "products": [],
+    "government_offices": [
+      "US Department of Defense",
+      "USPTO",
+      "SEC"
+    ],
+    "institutions": [
+      "Government Accountability Project"
+    ],
+    "prominent_locations": [
+      "Tokyo",
+      "Osaka",
+      "Sapporo"
+    ],
+    "courts": [],
+    "law_firms": [
+      "Mori Hamada & Matsumoto",
+      "Foley & Lardner",
+      "KKC"
+    ],
+    "attorneys": [
+      "Akira Marumo",
+      "Atsushi Okada",
+      "Yutaka Miyoshi",
+      "Yoshifumi Onodera",
+      "Terrell Miller",
+      "Vanessa Miller"
+    ]
+  },
+  "mentioned_uspto_applications": [
+    "19/639,265"
+  ],
+  "mentioned_uspto_patents": [],
+  "event_key": "73904429",
+  "basefilename": "READ-RECEIPT-akira.marumo@morihamada.com_atsushi.okada@morihamada.com_yutaka.miyoshi@morihamada.com_yoshifumi.onodera@morihamada.com",
+  "original_filename": "READ-RECEIPT-akira.marumo@morihamada.com_atsushi.okada@morihamada.com_yutaka.miyoshi@morihamada.com_yoshifumi.onodera@morihamada.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04072026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "akira.marumo@morihamada.com",
+  "primary_recipient_an": "Akira Marumo (morihamada.com)",
+  "all_recipients": [
+    "akira.marumo@morihamada.com",
+    "_atsushi.okada@morihamada.com",
+    "_yutaka.miyoshi@morihamada.com",
+    "atsushi.okada@morihamada.com",
+    "yutaka.miyoshi@morihamada.com",
+    "yoshifumi.onodera@morihamada.com",
+    "rj.aguiar.m@gmail.com"
+  ],
+  "all_recipients_an": {
+    "akira.marumo@morihamada.com": "Akira Marumo (morihamada.com)",
+    "_atsushi.okada@morihamada.com": "Atsushi Okada (morihamada.com)",
+    "_yutaka.miyoshi@morihamada.com": "Yutaka Miyoshi (morihamada.com)",
+    "atsushi.okada@morihamada.com": "Atsushi Okada (morihamada.com)",
+    "yutaka.miyoshi@morihamada.com": "Yutaka Miyoshi (morihamada.com)",
+    "yoshifumi.onodera@morihamada.com": "Yoshifumi Onodera (morihamada.com)",
+    "rj.aguiar.m@gmail.com": "Rj Aguiar M. (Gmail)"
+  },
+  "patent_applications": [
+    "15/728,640"
+  ]
+}

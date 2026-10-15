@@ -1,0 +1,36 @@
+{
+  "serving_key": "2481901563",
+  "canonical_key": "publicinfo@dss.sc.gov",
+  "display_name": "South Carolina Department of Social Services",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "South Carolina Department of Social Services",
+  "full_name": "South Carolina Department of Social Services",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "South Carolina Department of Social Services",
+  "domain": "dss.sc.gov",
+  "addresses": {
+    "mailing_address": "P.O. Box 1520, Columbia, SC 29202",
+    "business_address": "1535 Confederate Avenue, Columbia, SC 29201",
+    "legal_service_address": "Office of General Counsel, 1535 Confederate Avenue, Columbia, SC 29201"
+  },
+  "registered_agent": {
+    "name": "Office of General Counsel / Agency Director",
+    "address": "1535 Confederate Avenue, Columbia, SC 29201",
+    "jurisdiction": "South Carolina"
+  },
+  "contact": {
+    "primary_email": "publicinfo@dss.sc.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "803-898-7360",
+      "800-611-7188"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

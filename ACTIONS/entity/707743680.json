@@ -1,0 +1,37 @@
+{
+  "serving_key": "707743680",
+  "canonical_key": "acp@ncdoj.gov",
+  "display_name": "Address Confidentiality Program (North Carolina Department of Justice)",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "North Carolina Department of Justice",
+  "full_name": "Address Confidentiality Program",
+  "pronouns": null,
+  "title": "Government Program",
+  "organization": "North Carolina Department of Justice",
+  "domain": "ncdoj.gov",
+  "addresses": {
+    "mailing_address": "P.O. Box 310, Raleigh, NC 27602",
+    "business_address": "114 W Edenton St, Raleigh, NC 27603",
+    "legal_service_address": "114 W Edenton St, Raleigh, NC 27603"
+  },
+  "registered_agent": {
+    "name": "Attorney General of North Carolina",
+    "address": "114 W Edenton St, Raleigh, NC 27603",
+    "jurisdiction": "North Carolina"
+  },
+  "contact": {
+    "primary_email": "acp@ncdoj.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "(919) 716-6785"
+    ],
+    "faxes": [
+      "(919) 716-0174"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

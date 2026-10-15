@@ -1,0 +1,35 @@
+{
+  "serving_key": "314922535",
+  "canonical_key": "frank.jimenez@gehealthcare.com",
+  "display_name": "Frank R. Jimenez (GE HealthCare)",
+  "entity_type": "attorney",
+  "is_attorney": true,
+  "works_at": "GE HealthCare Technologies Inc.",
+  "full_name": "Frank R. Jimenez",
+  "pronouns": null,
+  "title": "Vice President, General Counsel and Corporate Secretary",
+  "organization": "GE HealthCare Technologies Inc.",
+  "domain": "gehealthcare.com",
+  "addresses": {
+    "mailing_address": "500 W. Monroe Street, Chicago, IL 60661",
+    "business_address": "500 W. Monroe Street, Chicago, IL 60661",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "frank.jimenez@gehealthcare.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-866-281-7545"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

@@ -1,0 +1,59 @@
+{
+  "summary_of_pdf": "Concise executive summary detailing a voicemail from a litigant, Reinaldo J. Aguiar Marcano, to a Supreme Court official, Robert Meek. The litigant asserts that his Rule 21 motions for active merits-stage Case No. 26-186 are being improperly routed to an inactive emergency docket (26A39) and returned unfiled. He alleges a deprivation of due process and cites the 'capable of repetition, yet evading review' mootness exception, stating his intent to file the voicemail transcript as a formal notice in the lower court.",
+  "attorneys_comments": "From a tactical and procedural standpoint, this ex parte communication with a Supreme Court clerk is highly irregular and indicative of a pro se litigant fundamentally misunderstanding appellate procedure. The caller's reliance on the 'capable of repetition, yet evading review' doctrine (Southern Pacific Terminal Co. v. ICC) is entirely misplaced; this doctrine applies to Article III mootness justiciability, not clerical docketing disputes. Furthermore, the threat to file a transcript of this voicemail as a 'notice' in the lower court is procedurally defective. The lower court has been divested of jurisdiction over the merits and possesses no supervisory authority over the Supreme Court's docketing procedures. If filed in a district court (e.g., SDTX), such a notice would be subject to a swift motion to strike under FRCP 12(f) as immaterial and impertinent, and could expose the litigant to FRCP 11 sanctions for frivolous and vexatious filings.",
+  "recommended_next_steps": "For the Court: Maintain standard Clerk's Office protocols; do not return the ex parte phone call; require all grievances regarding rejected filings to be submitted formally in writing pursuant to Supreme Court Rules. For Opposing Counsel: Monitor the lower court docket for the threatened 'notice' filing. If filed, promptly confer and move to strike the pleading under FRCP 12(f), and consider seeking a pre-filing injunction or FRCP 11 sanctions if this forms part of a broader pattern of vexatious litigation.",
+  "tags": [
+    "Supreme Court Rule 21",
+    "Ex Parte Communication",
+    "Procedural Defect",
+    "Due Process Violation Claim",
+    "Mootness Exception",
+    "Capable of Repetition Yet Evading Review",
+    "FRCP 12(f) Motion to Strike",
+    "FRCP 11 Sanctions Risk",
+    "Pro Se Litigation",
+    "Appellate Docketing Dispute"
+  ],
+  "mentioned_entities": {
+    "people": [
+      "Reinaldo J. Aguiar Marcano",
+      "Robert Meek"
+    ],
+    "companies": [
+      "FedEx",
+      "Southern Pacific Terminal Co."
+    ],
+    "technologies": [],
+    "products": [],
+    "government_offices": [
+      "Supreme Court of the United States",
+      "Interstate Commerce Commission",
+      "ICC"
+    ],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [
+      "Supreme Court of the United States",
+      "lower court"
+    ],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [],
+  "mentioned_court_cases": [
+    "26-186",
+    "26A39",
+    "Southern Pacific Terminal Co. v. ICC"
+  ],
+  "event_key": "2464938",
+  "basefilename": "RECORD20260918084156-1_revised_1002",
+  "original_filename": "RECORD20260918084156-1_revised_1002.txt",
+  "canonical_rel_pdf": "ACTIONS/PHONE_CALL/rj.aguiar.m@gmail.com/09182026/2024793027/FILED/RECORD20260918084156-1_revised_1002.txt",
+  "category": "PHONE_CALL",
+  "subtype": "TRANSCRIPT",
+  "date": "09182026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "2024793027",
+  "primary_recipient_an": "Supreme Court of the United States"
+}

@@ -1,0 +1,37 @@
+{
+  "serving_key": "4066686083",
+  "canonical_key": "aginfo@ag.nv.gov",
+  "display_name": "Office of the Attorney General, State of Nevada",
+  "entity_type": "government_agency",
+  "is_attorney": false,
+  "works_at": "State of Nevada",
+  "full_name": "Office of the Attorney General, State of Nevada",
+  "pronouns": null,
+  "title": "Government Agency",
+  "organization": "State of Nevada",
+  "domain": "ag.nv.gov",
+  "addresses": {
+    "mailing_address": "100 North Carson Street, Carson City, NV 89701",
+    "business_address": "100 North Carson Street, Carson City, NV 89701",
+    "legal_service_address": "100 North Carson Street, Carson City, NV 89701"
+  },
+  "registered_agent": {
+    "name": "Attorney General Aaron D. Ford",
+    "address": "100 North Carson Street, Carson City, NV 89701",
+    "jurisdiction": "Nevada"
+  },
+  "contact": {
+    "primary_email": "aginfo@ag.nv.gov",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "775-684-1100"
+    ],
+    "faxes": [
+      "775-684-1108"
+    ],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

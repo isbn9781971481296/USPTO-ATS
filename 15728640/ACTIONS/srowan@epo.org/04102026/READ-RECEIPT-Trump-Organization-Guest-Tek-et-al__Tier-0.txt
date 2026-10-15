@@ -1,0 +1,885 @@
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF
+PROPRIETARY RIGHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35
+U.S.C. § 154(d) REGARDING HOSPITALITY SURVEILLANCE VULNERABILITIES, INROOM DATA EXFILTRATION, AND ARCHITECTURAL STEGANOGRAPHY
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal@gmail.com
+
+Fri, Apr 10, 2026 at 1:24 PM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+tony.capuano@marriott.com
+
+Delivered and
+Opened
+
+MUA+HTTPIP:140.248.44.1
+
+04/10/2026
+04:17:19 PM
+(UTC)
+
+04/10/2026
+04:17:19 PM
+
+04/10/2026
+04:20:20 PM
+
+rena.reiss@marriott.com
+
+Delivered and
+Opened
+
+HTTPIP:74.179.68.90
+
+04/10/2026
+04:17:26 PM
+(UTC)
+
+04/10/2026
+04:17:26 PM
+
+04/10/2026
+04:17:50 PM
+
+eunotifications@hilton.com
+
+Delivered and
+Opened
+
+HTTPIP:135.232.19.35
+
+04/10/2026
+04:17:19 PM
+(UTC)
+
+04/10/2026
+04:17:19 PM
+
+04/10/2026
+04:17:32 PM
+
+agarten@trumporg.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.84.173
+
+04/10/2026
+04:17:18 PM
+(UTC)
+
+04/10/2026
+04:17:18 PM
+
+04/10/2026
+04:21:19 PM
+
+alan.garten@trumporg.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.84.173
+
+04/10/2026
+04:17:18 PM
+(UTC)
+
+04/10/2026
+04:17:18 PM
+
+04/10/2026
+04:21:15 PM
+
+margaret.egan@hyatt.com
+
+Delivered and
+Opened
+
+HTTPIP:208.56.27.135
+
+04/10/2026
+04:17:37 PM
+(UTC)
+
+04/10/2026
+04:17:37 PM
+
+04/10/2026
+04:48:51 PM
+
+elie.maalouf@ihg.com
+
+Delivered and
+Opened
+
+04/10/2026
+HTTP04:17:20 PM
+IP:96.255.235.241
+(UTC)
+
+04/10/2026
+04:17:20 PM
+
+04/10/2026
+05:39:54 PM
+
+nicolette.henfrey@ihg.com
+
+Delivered and
+Opened
+
+HTTPIP:54.87.145.252
+
+04/10/2026
+04:17:24 PM
+(UTC)
+
+04/10/2026
+04:17:24 PM
+
+04/10/2026
+04:45:37 PM
+
+arnon.levy@guest-tek.com
+
+Delivered and
+Opened
+
+HTTPIP:72.152.84.37
+
+04/10/2026
+04:17:20 PM
+(UTC)
+
+04/10/2026
+04:17:20 PM
+
+04/10/2026
+04:17:34 PM
+
+matthew.baio@guest-tek.com
+
+Delivered and
+Opened
+
+HTTPIP:74.179.70.83
+
+04/10/2026
+04:17:23 PM
+(UTC)
+
+04/10/2026
+04:17:23 PM
+
+04/10/2026
+04:17:54 PM
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+1/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+Delivered to Mail
+rj.aguiar.m+legal@gmail.com
+Server
+
+relayed;gmailsmtp-in.l.
+google.com
+(142.251.127.26)
+
+04/10/2026
+04:20:52 PM
+(UTC)
+
+04/10/2026
+04:20:52 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR. <rj.aguiar.m+legal@gmail.com>
+
+Subject:
+
+[Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF
+PROPRIETARY RIGHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35
+U.S.C. § 154(d) REGARDING HOSPITALITY SURVEILLANCE VULNERABILITIES, INROOM DATA EXFILTRATION, AND ARCHITECTURAL STEGANOGRAPHY
+
+To:
+
+<tony.capuano@marriott.com> <rena.reiss@marriott.com> <eunotifications@hilton.com>
+<agarten@trumporg.com> <alan.garten@trumporg.com> <margaret.egan@hyatt.com>
+<elie.maalouf@ihg.com> <nicolette.henfrey@ihg.com> <arnon.levy@guest-tek.com>
+<matthew.baio@guest-tek.com>
+
+Cc:
+
+<rj.aguiar.m+legal@gmail.com>
+
+Bcc:
+Network ID:
+
+2ebbe677-1423-4b08-8308-7fb47fef761d@SM26
+
+Received by RMail System:
+
+04/10/2026 04:17:16 PM (UTC), 04/10/2026 04:17:16 PM (Local)
+
+Client Code:
+.
+
+Message Statistics
+Tracking Number:
+
+BB3C9FD6949072D4A7D01A912D03DAC5EC082BEC
+
+Message Size:
+
+3414
+
+Features Used:
+File Size:
+
+File Name:
+
+122828
+
+HOTEL_IP_LIABILITY_NOTICE.pdf
+
+1342177
+
+D132_Parts-I_II_and_III-The_DOJ-Alumni_Network_v0408.4.pdf
+
+74260152
+
+04-ISBN-978-1-97-148129-6__Portfolio-of-Patent-Applications-filed-with-the-USPTO.pdf
+
+645171
+
+00__DEFENSIVE-PUBLICATION-EMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_tvilela@epo.org.pdf
+
+.
+
+Delivery Audit Trail
+4/10/2026 4:17:17 PM starting marriott.com/{default} 4/10/2026 4:17:17 PM connecting from mta21.r1.rpost.net (0.0.0.0) to ma
+rriott-com.mail.protection.outlook.com (52.101.194.15) 4/10/2026 4:17:17 PM connected from 192.168.10.11:60391 4/10/2026
+4:17:17 PM >>> 220 CH3PEPF00000016.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10 Apr 20
+26 16:17:16 +0000 [08DE91B5F18C0E70] 4/10/2026 4:17:17 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:17 PM >>> 25
+0-CH3PEPF00000016.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:17:17 PM >>> 250-SIZE 157286400 4/10/2
+026 4:17:17 PM >>> 250-PIPELINING 4/10/2026 4:17:17 PM >>> 250-DSN 4/10/2026 4:17:17 PM >>> 250-ENHANCEDSTAT
+USCODES 4/10/2026 4:17:17 PM >>> 250-STARTTLS 4/10/2026 4:17:17 PM >>> 250-8BITMIME 4/10/2026 4:17:17 PM >>>
+250-BINARYMIME 4/10/2026 4:17:17 PM >>> 250-CHUNKING 4/10/2026 4:17:17 PM >>> 250 SMTPUTF8 4/10/2026 4:17:17
+PM <<< STARTTLS 4/10/2026 4:17:17 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:17:18 PM tls:TLSv1.2 connected
+with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:17:18 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Micr
+osoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=
+no 4/10/2026 4:17:18 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:18 PM >>> 250-CH3PEPF00000016.mail.protection.o
+utlook.com Hello [52.58.131.9] 4/10/2026 4:17:18 PM >>> 250-SIZE 157286400 4/10/2026 4:17:18 PM >>> 250-PIPELINING
+4/10/2026 4:17:18 PM >>> 250-DSN 4/10/2026 4:17:18 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:18 PM >>>
+250-8BITMIME 4/10/2026 4:17:18 PM >>> 250-BINARYMIME 4/10/2026 4:17:18 PM >>> 250-CHUNKING 4/10/2026 4:17:18
+PM >>> 250 SMTPUTF8 4/10/2026 4:17:18 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:17:18 PM >>>
+250 2.1.0 Sender OK 4/10/2026 4:17:18 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:17:18 PM >>
+> 250 2.1.5 Recipient OK 4/10/2026 4:17:18 PM <<< DATA 4/10/2026 4:17:18 PM >>> 354 Start mail input; end with . 4/10/20
+26 4:17:18 PM <<< . 4/10/2026 4:17:19 PM >>> 250 2.6.0 [InternalId=59416577583234, Hostname=DS0PR08MB9696.nampr
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+2/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+d08.prod.outlook.com] 30277 bytes in 0.209, 141.272 KB/sec Queued mail for delivery 4/10/2026 4:17:19 PM <<< QUIT 4/10/
+2026 4:17:19 PM >>> 221 2.0.0 Service closing transmission channel 4/10/2026 4:17:19 PM closed marriott-com.mail.protecti
+on.outlook.com (52.101.194.15) in=925 out=19090 4/10/2026 4:17:26 PM done marriott.com/{default}
+4/10/2026 4:17:17 PM starting marriott.com/{default} 4/10/2026 4:17:19 PM connecting from mta21.r1.rpost.net (0.0.0.0) to ma
+rriott-com.mail.protection.outlook.com (52.101.194.15) 4/10/2026 4:17:19 PM connected from 192.168.10.11:34529 4/10/2026
+4:17:19 PM >>> 220 CH3PEPF00000013.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10 Apr 20
+26 16:17:19 +0000 [08DE96E98B0AACD4] 4/10/2026 4:17:19 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:20 PM >>> 2
+50-CH3PEPF00000013.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:17:20 PM >>> 250-SIZE 157286400 4/10/
+2026 4:17:20 PM >>> 250-PIPELINING 4/10/2026 4:17:20 PM >>> 250-DSN 4/10/2026 4:17:20 PM >>> 250-ENHANCEDSTA
+TUSCODES 4/10/2026 4:17:20 PM >>> 250-STARTTLS 4/10/2026 4:17:20 PM >>> 250-8BITMIME 4/10/2026 4:17:20 PM >>
+> 250-BINARYMIME 4/10/2026 4:17:20 PM >>> 250-CHUNKING 4/10/2026 4:17:20 PM >>> 250 SMTPUTF8 4/10/2026 4:17:
+20 PM <<< STARTTLS 4/10/2026 4:17:20 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:17:20 PM tls:TLSv1.2 connecte
+d with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:17:20 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Mi
+crosoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified
+=no 4/10/2026 4:17:20 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:20 PM >>> 250-CH3PEPF00000013.mail.protection.
+outlook.com Hello [52.58.131.9] 4/10/2026 4:17:20 PM >>> 250-SIZE 157286400 4/10/2026 4:17:20 PM >>> 250-PIPELININ
+G 4/10/2026 4:17:20 PM >>> 250-DSN 4/10/2026 4:17:20 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:20 PM >
+>> 250-8BITMIME 4/10/2026 4:17:20 PM >>> 250-BINARYMIME 4/10/2026 4:17:20 PM >>> 250-CHUNKING 4/10/2026 4:17:
+20 PM >>> 250 SMTPUTF8 4/10/2026 4:17:20 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:17:20 PM >
+>> 250 2.1.0 Sender OK 4/10/2026 4:17:20 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:17:20 PM
+>>> 250 2.1.5 Recipient OK 4/10/2026 4:17:20 PM <<< DATA 4/10/2026 4:17:20 PM >>> 354 Start mail input; end with . 4/1
+0/2026 4:17:20 PM <<< . 4/10/2026 4:17:26 PM >>> 250 2.6.0 [InternalId=59352153074027, Hostname=LV3PR08MB10374.n
+amprd08.prod.outlook.com] 30288 bytes in 0.108, 273.613 KB/sec Queued mail for delivery 4/10/2026 4:17:26 PM <<< QUIT
+4/10/2026 4:17:26 PM >>> 221 2.0.0 Service closing transmission channel 4/10/2026 4:17:26 PM closed marriott-com.mail.pr
+otection.outlook.com (52.101.194.15) in=926 out=19084 4/10/2026 4:17:26 PM done marriott.com/{default}
+4/10/2026 4:17:17 PM starting hilton.com/{default} 4/10/2026 4:17:17 PM connecting from mta21.r1.rpost.net (0.0.0.0) to hilton
+-com.mail.protection.outlook.com (52.101.11.15) 4/10/2026 4:17:17 PM connected from 192.168.10.11:36907 4/10/2026 4:17:1
+7 PM >>> 220 SA2PEPF00003AEA.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10 Apr 2026 1
+6:17:17 +0000 [08DE8F956B085EC9] 4/10/2026 4:17:17 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:17 PM >>> 250-S
+A2PEPF00003AEA.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:17:17 PM >>> 250-SIZE 157286400 4/10/202
+6 4:17:17 PM >>> 250-PIPELINING 4/10/2026 4:17:17 PM >>> 250-DSN 4/10/2026 4:17:17 PM >>> 250-ENHANCEDSTATU
+SCODES 4/10/2026 4:17:17 PM >>> 250-STARTTLS 4/10/2026 4:17:17 PM >>> 250-8BITMIME 4/10/2026 4:17:17 PM >>>
+250-BINARYMIME 4/10/2026 4:17:17 PM >>> 250-CHUNKING 4/10/2026 4:17:17 PM >>> 250 SMTPUTF8 4/10/2026 4:17:17
+PM <<< STARTTLS 4/10/2026 4:17:17 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:17:18 PM tls:TLSv1.2 connected
+with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:17:18 PM tls:Cert: /C=US/ST=Washington/L=Redmond/O=Micr
+osoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1; verified=
+no 4/10/2026 4:17:18 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:18 PM >>> 250-SA2PEPF00003AEA.mail.protection.
+outlook.com Hello [52.58.131.9] 4/10/2026 4:17:18 PM >>> 250-SIZE 157286400 4/10/2026 4:17:18 PM >>> 250-PIPELININ
+G 4/10/2026 4:17:18 PM >>> 250-DSN 4/10/2026 4:17:18 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:18 PM >
+>> 250-8BITMIME 4/10/2026 4:17:18 PM >>> 250-BINARYMIME 4/10/2026 4:17:18 PM >>> 250-CHUNKING 4/10/2026 4:17:
+18 PM >>> 250 SMTPUTF8 4/10/2026 4:17:18 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:17:18 PM >
+>> 250 2.1.0 Sender OK 4/10/2026 4:17:18 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:17:18 PM
+>>> 250 2.1.5 Recipient OK 4/10/2026 4:17:18 PM <<< DATA 4/10/2026 4:17:18 PM >>> 354 Start mail input; end with . 4/1
+0/2026 4:17:18 PM <<< . 4/10/2026 4:17:19 PM >>> 250 2.6.0 [InternalId=30644591664460, Hostname=PH0PR10MB5594.na
+mprd10.prod.outlook.com] 30139 bytes in 0.154, 190.541 KB/sec Queued mail for delivery 4/10/2026 4:17:19 PM <<< QUIT 4/
+10/2026 4:17:19 PM >>> 221 2.0.0 Service closing transmission channel 4/10/2026 4:17:19 PM closed hilton-com.mail.protec
+tion.outlook.com (52.101.11.15) in=925 out=19093 4/10/2026 4:17:19 PM done hilton.com/{default}
+4/10/2026 4:17:17 PM starting trumporg.com/{default} 4/10/2026 4:17:17 PM connecting from mta21.r1.rpost.net (0.0.0.0) to a
+spmx.l.google.com (142.251.127.26) 4/10/2026 4:17:17 PM connected from 192.168.10.11:43601 4/10/2026 4:17:17 PM >>> 2
+20 mx.google.com ESMTP ffacd0b85a97d-43d63e9e94dsi6603642f8f.366 - gsmtp 4/10/2026 4:17:17 PM <<< EHLO mta21.r1.
+rpost.net 4/10/2026 4:17:17 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/10/2026 4:17:17 PM >>> 250-SIZE
+157286400 4/10/2026 4:17:17 PM >>> 250-8BITMIME 4/10/2026 4:17:17 PM >>> 250-STARTTLS 4/10/2026 4:17:17 PM >>>
+250-ENHANCEDSTATUSCODES 4/10/2026 4:17:17 PM >>> 250-PIPELINING 4/10/2026 4:17:17 PM >>> 250-CHUNKING 4/
+10/2026 4:17:17 PM >>> 250 SMTPUTF8 4/10/2026 4:17:17 PM <<< STARTTLS 4/10/2026 4:17:17 PM >>> 220 2.0.0 Ready
+to start TLS 4/10/2026 4:17:17 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/10/2026 4:1
+7:17 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/10/2026 4:17:17 PM
+<<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:17 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/10/2026 4:17:1
+7 PM >>> 250-SIZE 157286400 4/10/2026 4:17:17 PM >>> 250-8BITMIME 4/10/2026 4:17:17 PM >>> 250-ENHANCEDSTAT
+USCODES 4/10/2026 4:17:17 PM >>> 250-PIPELINING 4/10/2026 4:17:17 PM >>> 250-CHUNKING 4/10/2026 4:17:17 PM >
+>> 250 SMTPUTF8 4/10/2026 4:17:17 PM <<< MAIL FROM: BODY=8BITMIME 4/10/2026 4:17:17 PM >>> 250 2.1.0 OK ffa
+cd0b85a97d-43d63e9e94dsi6603642f8f.366 - gsmtp 4/10/2026 4:17:17 PM <<< RCPT TO: 4/10/2026 4:17:17 PM >>> 250 2.
+1.5 OK ffacd0b85a97d-43d63e9e94dsi6603642f8f.366 - gsmtp 4/10/2026 4:17:17 PM <<< DATA 4/10/2026 4:17:17 PM >>> 35
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+3/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+4 Go ahead ffacd0b85a97d-43d63e9e94dsi6603642f8f.366 - gsmtp 4/10/2026 4:17:17 PM <<< . 4/10/2026 4:17:18 PM >>> 25
+0 2.0.0 OK 1775837838 ffacd0b85a97d-43d63e9e94dsi6603642f8f.366 - gsmtp 4/10/2026 4:17:18 PM <<< QUIT 4/10/2026 4:1
+7:18 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d63e9e94dsi6603642f8f.366 - gsmtp 4/10/2026 4:17:18 PM close
+d aspmx.l.google.com (142.251.127.26) in=773 out=19037 4/10/2026 4:17:18 PM done trumporg.com/{default}
+4/10/2026 4:17:17 PM starting trumporg.com/{default} 4/10/2026 4:17:18 PM connecting from mta21.r1.rpost.net (0.0.0.0) to a
+spmx.l.google.com (142.251.127.26) 4/10/2026 4:17:18 PM connected from 192.168.10.11:46153 4/10/2026 4:17:18 PM >>> 2
+20 mx.google.com ESMTP ffacd0b85a97d-43d63e6fb79si5941592f8f.237 - gsmtp 4/10/2026 4:17:18 PM <<< EHLO mta21.r1.
+rpost.net 4/10/2026 4:17:18 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/10/2026 4:17:18 PM >>> 250-SIZE
+157286400 4/10/2026 4:17:18 PM >>> 250-8BITMIME 4/10/2026 4:17:18 PM >>> 250-STARTTLS 4/10/2026 4:17:18 PM >>>
+250-ENHANCEDSTATUSCODES 4/10/2026 4:17:18 PM >>> 250-PIPELINING 4/10/2026 4:17:18 PM >>> 250-CHUNKING 4/
+10/2026 4:17:18 PM >>> 250 SMTPUTF8 4/10/2026 4:17:18 PM <<< STARTTLS 4/10/2026 4:17:18 PM >>> 220 2.0.0 Ready
+to start TLS 4/10/2026 4:17:18 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 4/10/2026 4:1
+7:18 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no 4/10/2026 4:17:18 PM
+<<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:18 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/10/2026 4:17:1
+8 PM >>> 250-SIZE 157286400 4/10/2026 4:17:18 PM >>> 250-8BITMIME 4/10/2026 4:17:18 PM >>> 250-ENHANCEDSTAT
+USCODES 4/10/2026 4:17:18 PM >>> 250-PIPELINING 4/10/2026 4:17:18 PM >>> 250-CHUNKING 4/10/2026 4:17:18 PM >
+>> 250 SMTPUTF8 4/10/2026 4:17:18 PM <<< MAIL FROM: BODY=8BITMIME 4/10/2026 4:17:18 PM >>> 250 2.1.0 OK ffa
+cd0b85a97d-43d63e6fb79si5941592f8f.237 - gsmtp 4/10/2026 4:17:18 PM <<< RCPT TO: 4/10/2026 4:17:18 PM >>> 250 2.1.
+5 OK ffacd0b85a97d-43d63e6fb79si5941592f8f.237 - gsmtp 4/10/2026 4:17:18 PM <<< DATA 4/10/2026 4:17:18 PM >>> 354
+Go ahead ffacd0b85a97d-43d63e6fb79si5941592f8f.237 - gsmtp 4/10/2026 4:17:18 PM <<< . 4/10/2026 4:17:18 PM >>> 250
+2.0.0 OK 1775837838 ffacd0b85a97d-43d63e6fb79si5941592f8f.237 - gsmtp 4/10/2026 4:17:18 PM <<< QUIT 4/10/2026 4:17:
+18 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d63e6fb79si5941592f8f.237 - gsmtp 4/10/2026 4:17:18 PM closed
+aspmx.l.google.com (142.251.127.26) in=773 out=19049 4/10/2026 4:17:18 PM done trumporg.com/{default}
+4/10/2026 4:17:17 PM starting hyatt.com/{default} 4/10/2026 4:17:17 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxb00114c02.gslb.pphosted.com (148.163.145.248) 4/10/2026 4:17:18 PM connected from 192.168.10.11:58957 4/10/2026 4:17:2
+2 PM >>> 220 mx0a-00114c02.pphosted.com ESMTP mfa-m0117464 4/10/2026 4:17:22 PM <<< EHLO mta21.r1.rpost.net 4/
+10/2026 4:17:22 PM >>> 250-mx0a-00114c02.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/1
+0/2026 4:17:22 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:22 PM >>> 250-PIPELINING 4/10/2026 4:17:22 PM
+>>> 250-8BITMIME 4/10/2026 4:17:22 PM >>> 250-SIZE 157286400 4/10/2026 4:17:22 PM >>> 250 STARTTLS 4/10/2026
+4:17:22 PM <<< STARTTLS 4/10/2026 4:17:22 PM >>> 220 2.0.0 Ready to start TLS 4/10/2026 4:17:23 PM tls:TLSv1.2 conn
+ected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:17:23 PM tls:Cert: /C=US/ST=California/O=Proofpoint, In
+c./CN=*.pphosted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no
+4/10/2026 4:17:23 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:25 PM >>> 250-mx0a-00114c02.pphosted.com Hello mta
+21.r1.rpost.net [52.58.131.9], pleased to meet you 4/10/2026 4:17:25 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:1
+7:25 PM >>> 250-PIPELINING 4/10/2026 4:17:25 PM >>> 250-8BITMIME 4/10/2026 4:17:25 PM >>> 250 SIZE 157286400
+4/10/2026 4:17:25 PM <<< MAIL FROM: BODY=8BITMIME 4/10/2026 4:17:25 PM >>> 250 2.1.0 Sender ok 4/10/2026 4:17:2
+5 PM <<< RCPT TO: 4/10/2026 4:17:29 PM >>> 250 2.1.5 Recipient ok 4/10/2026 4:17:29 PM <<< DATA 4/10/2026 4:17:31
+PM >>> 354 Enter mail, end with "." on a line by itself 4/10/2026 4:17:31 PM <<< . 4/10/2026 4:17:37 PM >>> 250 2.0.0 4df3
+mpa497-1 Message accepted for delivery 4/10/2026 4:17:37 PM <<< QUIT 4/10/2026 4:17:37 PM >>> 221 2.0.0 mx0a-00114
+c02.pphosted.com Closing connection 4/10/2026 4:17:37 PM closed mxb-00114c02.gslb.pphosted.com (148.163.145.248) in=
+635 out=19046 4/10/2026 4:17:37 PM done hyatt.com/{default}
+4/10/2026 4:17:18 PM starting ihg.com/{default} 4/10/2026 4:17:18 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxb-00
+36c501.gslb.pphosted.com (148.163.135.129) 4/10/2026 4:17:18 PM connected from 192.168.10.11:60142 4/10/2026 4:17:18
+PM >>> 220 mx0a-0036c501.pphosted.com ESMTP mfa-m0168053 4/10/2026 4:17:18 PM <<< EHLO mta21.r1.rpost.net 4/1
+0/2026 4:17:18 PM >>> 250-mx0a-0036c501.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/10/
+2026 4:17:18 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:18 PM >>> 250-PIPELINING 4/10/2026 4:17:18 PM >
+>> 250-8BITMIME 4/10/2026 4:17:18 PM >>> 250-SIZE 157286400 4/10/2026 4:17:18 PM >>> 250 STARTTLS 4/10/2026 4:1
+7:18 PM <<< STARTTLS 4/10/2026 4:17:18 PM >>> 220 2.0.0 Ready to start TLS 4/10/2026 4:17:19 PM tls:TLSv1.2 connect
+ed with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:17:19 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./
+CN=*.pphosted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/1
+0/2026 4:17:19 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:19 PM >>> 250-mx0a-0036c501.pphosted.com Hello mta21.
+r1.rpost.net [52.58.131.9], pleased to meet you 4/10/2026 4:17:19 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:1
+9 PM >>> 250-PIPELINING 4/10/2026 4:17:19 PM >>> 250-8BITMIME 4/10/2026 4:17:19 PM >>> 250 SIZE 157286400 4/1
+0/2026 4:17:19 PM <<< MAIL FROM: BODY=8BITMIME 4/10/2026 4:17:19 PM >>> 250 2.1.0 Sender ok 4/10/2026 4:17:19
+PM <<< RCPT TO: 4/10/2026 4:17:19 PM >>> 250 2.1.5 Recipient ok 4/10/2026 4:17:19 PM <<< DATA 4/10/2026 4:17:20 P
+M >>> 354 Enter mail, end with "." on a line by itself 4/10/2026 4:17:20 PM <<< . 4/10/2026 4:17:20 PM >>> 250 2.0.0 4df1v
+a1e21-1 Message accepted for delivery 4/10/2026 4:17:20 PM <<< QUIT 4/10/2026 4:17:21 PM >>> 221 2.0.0 mx0a-0036c50
+1.pphosted.com Closing connection 4/10/2026 4:17:21 PM closed mxb-0036c501.gslb.pphosted.com (148.163.135.129) in=63
+5 out=19037 4/10/2026 4:17:24 PM done ihg.com/{default}
+4/10/2026 4:17:18 PM starting ihg.com/{default} 4/10/2026 4:17:21 PM connecting from mta21.r1.rpost.net (0.0.0.0) to mxb-00
+36c501.gslb.pphosted.com (148.163.135.129) 4/10/2026 4:17:21 PM connected from 192.168.10.11:56694 4/10/2026 4:17:21
+PM >>> 220 mx0a-0036c501.pphosted.com ESMTP mfa-m0168051 4/10/2026 4:17:21 PM <<< EHLO mta21.r1.rpost.net 4/1
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+4/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+0/2026 4:17:21 PM >>> 250-mx0a-0036c501.pphosted.com Hello mta21.r1.rpost.net [52.58.131.9], pleased to meet you 4/10/
+2026 4:17:21 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:21 PM >>> 250-PIPELINING 4/10/2026 4:17:21 PM >
+>> 250-8BITMIME 4/10/2026 4:17:21 PM >>> 250-SIZE 157286400 4/10/2026 4:17:21 PM >>> 250 STARTTLS 4/10/2026 4:1
+7:21 PM <<< STARTTLS 4/10/2026 4:17:21 PM >>> 220 2.0.0 Ready to start TLS 4/10/2026 4:17:22 PM tls:TLSv1.2 connect
+ed with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:17:22 PM tls:Cert: /C=US/ST=California/O=Proofpoint, Inc./
+CN=*.pphosted.com; issuer=/C=GB/O=Sectigo Limited/CN=Sectigo Public Server Authentication CA OV R36; verified=no 4/1
+0/2026 4:17:22 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:22 PM >>> 250-mx0a-0036c501.pphosted.com Hello mta21.
+r1.rpost.net [52.58.131.9], pleased to meet you 4/10/2026 4:17:22 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:2
+2 PM >>> 250-PIPELINING 4/10/2026 4:17:22 PM >>> 250-8BITMIME 4/10/2026 4:17:22 PM >>> 250 SIZE 157286400 4/1
+0/2026 4:17:22 PM <<< MAIL FROM: BODY=8BITMIME 4/10/2026 4:17:22 PM >>> 250 2.1.0 Sender ok 4/10/2026 4:17:22
+PM <<< RCPT TO: 4/10/2026 4:17:23 PM >>> 250 2.1.5 Recipient ok 4/10/2026 4:17:23 PM <<< DATA 4/10/2026 4:17:23 P
+M >>> 354 Enter mail, end with "." on a line by itself 4/10/2026 4:17:23 PM <<< . 4/10/2026 4:17:24 PM >>> 250 2.0.0 4dex0
+1b84h-1 Message accepted for delivery 4/10/2026 4:17:24 PM <<< QUIT 4/10/2026 4:17:24 PM >>> 221 2.0.0 mx0a-0036c50
+1.pphosted.com Closing connection 4/10/2026 4:17:24 PM closed mxb-0036c501.gslb.pphosted.com (148.163.135.129) in=63
+5 out=19052 4/10/2026 4:17:24 PM done ihg.com/{default}
+4/10/2026 4:17:18 PM starting guest-tek.com/{default} 4/10/2026 4:17:18 PM connecting from mta21.r1.rpost.net (0.0.0.0) to g
+uesttek-com01c.mail.protection.outlook.com (52.101.192.0) 4/10/2026 4:17:18 PM connected from 192.168.10.11:38663 4/10/
+2026 4:17:18 PM >>> 220 QB1PEPF00004E07.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10
+Apr 2026 16:17:17 +0000 [08DE8F38852BE4EF] 4/10/2026 4:17:18 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:18 PM
+>>> 250-QB1PEPF00004E07.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:17:18 PM >>> 250-SIZE 15728640
+0 4/10/2026 4:17:18 PM >>> 250-PIPELINING 4/10/2026 4:17:18 PM >>> 250-DSN 4/10/2026 4:17:18 PM >>> 250-ENHANC
+EDSTATUSCODES 4/10/2026 4:17:18 PM >>> 250-STARTTLS 4/10/2026 4:17:18 PM >>> 250-8BITMIME 4/10/2026 4:17:18
+PM >>> 250-BINARYMIME 4/10/2026 4:17:18 PM >>> 250-CHUNKING 4/10/2026 4:17:18 PM >>> 250 SMTPUTF8 4/10/202
+6 4:17:18 PM <<< STARTTLS 4/10/2026 4:17:18 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:17:18 PM tls:TLSv1.2 co
+nnected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:17:18 PM tls:Cert: /C=US/ST=Washington/L=Redmon
+d/O=Microsoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1;
+verified=no 4/10/2026 4:17:18 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:18 PM >>> 250-QB1PEPF00004E07.mail.pro
+tection.outlook.com Hello [52.58.131.9] 4/10/2026 4:17:18 PM >>> 250-SIZE 157286400 4/10/2026 4:17:18 PM >>> 250-PIP
+ELINING 4/10/2026 4:17:18 PM >>> 250-DSN 4/10/2026 4:17:18 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:1
+8 PM >>> 250-8BITMIME 4/10/2026 4:17:18 PM >>> 250-BINARYMIME 4/10/2026 4:17:18 PM >>> 250-CHUNKING 4/10/20
+26 4:17:18 PM >>> 250 SMTPUTF8 4/10/2026 4:17:18 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:17:
+19 PM >>> 250 2.1.0 Sender OK 4/10/2026 4:17:19 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:1
+7:19 PM >>> 250 2.1.5 Recipient OK 4/10/2026 4:17:19 PM <<< DATA 4/10/2026 4:17:19 PM >>> 354 Start mail input; end w
+ith . 4/10/2026 4:17:19 PM <<< . 4/10/2026 4:17:20 PM >>> 250 2.6.0 [InternalId=79315161065502, Hostname=BY3PR06MB
+8065.namprd06.prod.outlook.com] 30071 bytes in 0.201, 145.735 KB/sec Queued mail for delivery 4/10/2026 4:17:20 PM <<<
+QUIT 4/10/2026 4:17:20 PM >>> 221 2.0.0 Service closing transmission channel 4/10/2026 4:17:20 PM closed guesttek-com
+01c.mail.protection.outlook.com (52.101.192.0) in=925 out=19087 4/10/2026 4:17:23 PM done guest-tek.com/{default}
+4/10/2026 4:17:18 PM starting guest-tek.com/{default} 4/10/2026 4:17:20 PM connecting from mta21.r1.rpost.net (0.0.0.0) to g
+uesttek-com01c.mail.protection.outlook.com (52.101.192.0) 4/10/2026 4:17:20 PM connected from 192.168.10.11:40273 4/10/
+2026 4:17:21 PM >>> 220 QB1PEPF00004E07.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Fri, 10
+Apr 2026 16:17:20 +0000 [08DE8F38852BE7E7] 4/10/2026 4:17:21 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:21 PM
+>>> 250-QB1PEPF00004E07.mail.protection.outlook.com Hello [52.58.131.9] 4/10/2026 4:17:21 PM >>> 250-SIZE 15728640
+0 4/10/2026 4:17:21 PM >>> 250-PIPELINING 4/10/2026 4:17:21 PM >>> 250-DSN 4/10/2026 4:17:21 PM >>> 250-ENHANC
+EDSTATUSCODES 4/10/2026 4:17:21 PM >>> 250-STARTTLS 4/10/2026 4:17:21 PM >>> 250-8BITMIME 4/10/2026 4:17:21
+PM >>> 250-BINARYMIME 4/10/2026 4:17:21 PM >>> 250-CHUNKING 4/10/2026 4:17:21 PM >>> 250 SMTPUTF8 4/10/202
+6 4:17:21 PM <<< STARTTLS 4/10/2026 4:17:21 PM >>> 220 2.0.0 SMTP server ready 4/10/2026 4:17:21 PM tls:TLSv1.2 co
+nnected with 256-bit ECDHE-RSA-AES256-GCM-SHA384 4/10/2026 4:17:21 PM tls:Cert: /C=US/ST=Washington/L=Redmon
+d/O=Microsoft Corporation/CN=mail.protection.outlook.com; issuer=/C=US/O=DigiCert Inc/CN=DigiCert Cloud Services CA-1;
+verified=no 4/10/2026 4:17:21 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:17:21 PM >>> 250-QB1PEPF00004E07.mail.pro
+tection.outlook.com Hello [52.58.131.9] 4/10/2026 4:17:21 PM >>> 250-SIZE 157286400 4/10/2026 4:17:21 PM >>> 250-PIP
+ELINING 4/10/2026 4:17:21 PM >>> 250-DSN 4/10/2026 4:17:21 PM >>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:17:2
+1 PM >>> 250-8BITMIME 4/10/2026 4:17:21 PM >>> 250-BINARYMIME 4/10/2026 4:17:21 PM >>> 250-CHUNKING 4/10/20
+26 4:17:21 PM >>> 250 SMTPUTF8 4/10/2026 4:17:21 PM <<< MAIL FROM: BODY=8BITMIME RET=FULL 4/10/2026 4:17:
+21 PM >>> 250 2.1.0 Sender OK 4/10/2026 4:17:21 PM <<< RCPT TO: NOTIFY=SUCCESS,FAILURE,DELAY 4/10/2026 4:1
+7:21 PM >>> 250 2.1.5 Recipient OK 4/10/2026 4:17:21 PM <<< DATA 4/10/2026 4:17:22 PM >>> 354 Start mail input; end w
+ith . 4/10/2026 4:17:22 PM <<< . 4/10/2026 4:17:23 PM >>> 250 2.6.0 [InternalId=187105955292972, Hostname=PH0PR06M
+B7999.namprd06.prod.outlook.com] 30015 bytes in 0.275, 106.208 KB/sec Queued mail for delivery 4/10/2026 4:17:23 PM <<
+< QUIT 4/10/2026 4:17:23 PM >>> 221 2.0.0 Service closing transmission channel 4/10/2026 4:17:23 PM closed guesttek-co
+m01c.mail.protection.outlook.com (52.101.192.0) in=926 out=19093 4/10/2026 4:17:23 PM done guest-tek.com/{default}
+4/10/2026 4:20:43 PM starting gmail.com/{default} 4/10/2026 4:20:51 PM connecting from mta21.r1.rpost.net (0.0.0.0) to gmail
+-smtp-in.l.google.com (142.251.127.26) 4/10/2026 4:20:51 PM connected from 192.168.10.11:34002 4/10/2026 4:20:51 PM >>
+> 220 mx.google.com ESMTP ffacd0b85a97d-43d63de9213si5962873f8f.50 - gsmtp 4/10/2026 4:20:51 PM <<< EHLO mta21.
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+5/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+r1.rpost.net 4/10/2026 4:20:51 PM >>> 250-mx.google.com at your service, [52.58.131.9] 4/10/2026 4:20:51 PM >>> 250-SIZ
+E 157286400 4/10/2026 4:20:51 PM >>> 250-8BITMIME 4/10/2026 4:20:51 PM >>> 250-STARTTLS 4/10/2026 4:20:51 PM >
+>> 250-ENHANCEDSTATUSCODES 4/10/2026 4:20:51 PM >>> 250-PIPELINING 4/10/2026 4:20:51 PM >>> 250-CHUNKIN
+G 4/10/2026 4:20:51 PM >>> 250 SMTPUTF8 4/10/2026 4:20:51 PM <<< STARTTLS 4/10/2026 4:20:51 PM >>> 220 2.0.0 R
+eady to start TLS 4/10/2026 4:20:51 PM tls:TLSv1.2 connected with 128-bit ECDHE-ECDSA-AES128-GCM-SHA256 (session
+reused) 4/10/2026 4:20:51 PM tls:Cert: /CN=mx.google.com; issuer=/C=US/O=Google Trust Services/CN=WE2; verified=no
+4/10/2026 4:20:51 PM <<< EHLO mta21.r1.rpost.net 4/10/2026 4:20:51 PM >>> 250-mx.google.com at your service, [52.58.1
+31.9] 4/10/2026 4:20:51 PM >>> 250-SIZE 157286400 4/10/2026 4:20:51 PM >>> 250-8BITMIME 4/10/2026 4:20:51 PM >>>
+250-ENHANCEDSTATUSCODES 4/10/2026 4:20:51 PM >>> 250-PIPELINING 4/10/2026 4:20:51 PM >>> 250-CHUNKING 4/
+10/2026 4:20:51 PM >>> 250 SMTPUTF8 4/10/2026 4:20:51 PM <<< MAIL FROM: BODY=8BITMIME 4/10/2026 4:20:51 PM
+>>> 250 2.1.0 OK ffacd0b85a97d-43d63de9213si5962873f8f.50 - gsmtp 4/10/2026 4:20:51 PM <<< RCPT TO: 4/10/2026 4:2
+0:51 PM >>> 250 2.1.5 OK ffacd0b85a97d-43d63de9213si5962873f8f.50 - gsmtp 4/10/2026 4:20:51 PM <<< DATA 4/10/2026
+4:20:51 PM >>> 354 Go ahead ffacd0b85a97d-43d63de9213si5962873f8f.50 - gsmtp 4/10/2026 4:20:51 PM <<< . 4/10/2026
+4:20:52 PM >>> 250 2.0.0 OK 1775838052 ffacd0b85a97d-43d63de9213si5962873f8f.50 - gsmtp 4/10/2026 4:20:52 PM <<<
+QUIT 4/10/2026 4:20:52 PM >>> 221 2.0.0 closing connection ffacd0b85a97d-43d63de9213si5962873f8f.50 - gsmtp 4/10/2026
+4:20:52 PM closed gmail-smtp-in.l.google.com (142.251.127.26) in=767 out=19058 4/10/2026 4:20:58 PM done gmail.com/{def
+ault}
+From:postmaster@marriottonline.onmicrosoft.com:Your message has been delivered to the following recipients: tony.capuano
+@marriott.com Subject: Registered: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETA
+RY RIGHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING HOSPITALITY S
+URVEILLANCE VULNERABILITIES, IN-ROOM DATA EXFILTRATION, AND ARCHITECTURAL STEGANOGRAPHY
+[IP Address: 140.248.44.1] [Time Opened: 4/10/2026 4:20:20 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/fbcZ9RnY4cJIgjeE16xCd9Xdfa3P1b6HwPDY5kQBMjAx.gif] HTTP_ACCEPT:image/
+webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_A
+CCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 HTTP_X_FORWA
+RDED_FOR:140.248.44.1 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRAC
+E_ID:Root=1-69d92344-71e1be272677f8b4089dadc8 HTTP_SEC_FETCH_SITE:cross-site HTTP_SEC_FETCH_DEST:image
+HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=3, i Accept: image/webp,image/png,image/svg+xml,image/*;q=0.8,vi
+deo/*;q=0.8,*/*;q=0.5 Accept-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-A
+gent: Mozilla/5.0 X-Forwarded-For: 140.248.44.1 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-6
+9d92344-71e1be272677f8b4089dadc8 sec-fetch-site: cross-site sec-fetch-dest: image sec-fetch-mode: no-cors priority: u=3, i
+/LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SV
+C/12 192.168.20.30 /oatv_v2/fbcZ9RnY4cJIgjeE16xCd9Xdfa3P1b6HwPDY5kQBMjAx.gif 192.168.10.173 192.168.10.173 1071
+8 GET /oatv_v2/fbcZ9RnY4cJIgjeE16xCd9Xdfa3P1b6HwPDY5kQBMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-II
+S/10.0 /oatv_v2/fbcZ9RnY4cJIgjeE16xCd9Xdfa3P1b6HwPDY5kQBMjAx.gif image/webp,image/png,image/svg+xml,image/*;q
+=0.8,video/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.net Mozilla/5.0 140.248.44.1 https 443 Root=169d92344-71e1be272677f8b4089dadc8 cross-site image no-cors u=3, i
+Your message To: Capuano, Anthony Subject: Registered: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NO
+TICE OF PROPRIETARY RIGHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARD
+ING HOSPITALITY SURVEILLANCE VULNERABILITIES, IN-ROOM DATA EXFILTRATION, AND ARCH... Sent: Friday, April
+10, 2026 12:17:16 PM (UTC-05:00) Eastern Time (US & Canada) was read on Friday, April 10, 2026 12:20:29 PM (UTC-05:00)
+Eastern Time (US & Canada).
+From:postmaster@marriottonline.onmicrosoft.com:Your message has been delivered to the following recipients: rena.reiss@m
+arriott.com Subject: Registered: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY
+RIGHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING HOSPITALITY SURV
+EILLANCE VULNERABILITIES, IN-ROOM DATA EXFILTRATION, AND ARCHITECTURAL STEGANOGRAPHY
+[IP Address: 74.179.68.90] [Time Opened: 4/10/2026 4:17:50 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v3/hJhGhSlXtAeWmdJzfJ6EeoE0ZCdDWRv2jXEiUbv5MjAx.gif] HTTP_ACCEPT:imag
+e/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_A
+CCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=YDXiLujqwxxr245vum2mRiMOIe6b0Z3Kch+ruKBc0tJPbL
+SS/usbWp5yz8l66qw9vpHQnaJdPhc9HDlDlvKN2msjNaqugtklUv9m9pxkqK/NwVE5+xVibN151rxBtXBPr55pCZKLYiY6nlNhpcb
+Wpdf9EVScP3YwDDhTHeO1Tb50; AWSALBTGCORS=YDXiLujqwxxr245vum2mRiMOIe6b0Z3Kch+ruKBc0tJPbLSS/usbWp5
+yz8l66qw9vpHQnaJdPhc9HDlDlvKN2msjNaqugtklUv9m9pxkqK/NwVE5+xVibN151rxBtXBPr55pCZKLYiY6nlNhpcbWpdf9EVSc
+P3YwDDhTHeO1Tb50; AWSALB=v1p1Qc27QsVMARPtMWJMVWgi28qQA6lWlTWjljuTgDGLkuoswREEr2wUuNj06C4AOPh09
+BMvG+3zF/mn27PhHHJ84EY+7c9Vwc8bUVhKiwT5HOzbCsj+DycBszBT; AWSALBCORS=v1p1Qc27QsVMARPtMWJMVWg
+i28qQA6lWlTWjljuTgDGLkuoswREEr2wUuNj06C4AOPh09BMvG+3zF/mn27PhHHJ84EY+7c9Vwc8bUVhKiwT5HOzbCsj+Dyc
+BszBT HTTP_HOST:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0
+(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36 HTTP_X_FO
+RWARDED_FOR:74.179.68.90 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_
+TRACE_ID:Root=1-69d922ae-4bfd15bd76621bd46ea171da HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google Chrome";v="1
+42", "Chromium";v="142" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_UA_FULL_VE
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+6/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+RSION:"142.0.7444.175" HTTP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="142.0.7444.175" HTTP_SEC_CH_UA_MO
+BILE:?0 HTTP_SEC_CH_UA_MODEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:Windows HTTP_SEC_CH_UA_PLATFO
+RM_VERSION:15.0.0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FETCH_DEST:i
+mage HTTP_PRIORITY:u=1, i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Accept-Encodin
+g: gzip, deflate, br, zstd Accept-Language: en-US,en;q=0.9 Cookie: AWSALBTG=YDXiLujqwxxr245vum2mRiMOIe6b0Z3Kch+r
+uKBc0tJPbLSS/usbWp5yz8l66qw9vpHQnaJdPhc9HDlDlvKN2msjNaqugtklUv9m9pxkqK/NwVE5+xVibN151rxBtXBPr55pCZKL
+YiY6nlNhpcbWpdf9EVScP3YwDDhTHeO1Tb50; AWSALBTGCORS=YDXiLujqwxxr245vum2mRiMOIe6b0Z3Kch+ruKBc0tJPb
+LSS/usbWp5yz8l66qw9vpHQnaJdPhc9HDlDlvKN2msjNaqugtklUv9m9pxkqK/NwVE5+xVibN151rxBtXBPr55pCZKLYiY6nlNhpc
+bWpdf9EVScP3YwDDhTHeO1Tb50; AWSALB=v1p1Qc27QsVMARPtMWJMVWgi28qQA6lWlTWjljuTgDGLkuoswREEr2wUuNj
+06C4AOPh09BMvG+3zF/mn27PhHHJ84EY+7c9Vwc8bUVhKiwT5HOzbCsj+DycBszBT; AWSALBCORS=v1p1Qc27QsVMAR
+PtMWJMVWgi28qQA6lWlTWjljuTgDGLkuoswREEr2wUuNj06C4AOPh09BMvG+3zF/mn27PhHHJ84EY+7c9Vwc8bUVhKiwT5H
+OzbCsj+DycBszBT Host: socrmail.r1.rpost.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Windows NT 1
+0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36 X-Forwarded-For: 74.179.6
+8.90 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d922ae-4bfd15bd76621bd46ea171da sec-c
+h-ua: "Not;A Brand";v="99", "Google Chrome";v="142", "Chromium";v="142" sec-ch-ua-arch: x64 sec-ch-ua-bitness: 64 sec-ch
+-ua-full-version: "142.0.7444.175" sec-ch-ua-full-version-list: "Chrome";v="142.0.7444.175" sec-ch-ua-mobile: ?0 sec-ch-ua-mo
+del: Surface Pro sec-ch-ua-platform: Windows sec-ch-ua-platform-version: 15.0.0 sec-fetch-site: same-site sec-fetch-mode: no
+-cors sec-fetch-dest: image priority: u=1, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 CGI/1.1 on 256 4096
+CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v3/hJhGhSlXtAeWmdJzfJ6EeoE0ZCdDWRv2jXEiUbv5Mj
+Ax.gif 192.168.10.173 192.168.10.173 10786 GET /oatv_v3/hJhGhSlXtAeWmdJzfJ6EeoE0ZCdDWRv2jXEiUbv5MjAx.gif socr
+mail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v3/hJhGhSlXtAeWmdJzfJ6EeoE0ZCdDWRv2jXEiUbv5MjAx.gif ima
+ge/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 AWSALBTG=YDXiLuj
+qwxxr245vum2mRiMOIe6b0Z3Kch+ruKBc0tJPbLSS/usbWp5yz8l66qw9vpHQnaJdPhc9HDlDlvKN2msjNaqugtklUv9m9pxkqK/
+NwVE5+xVibN151rxBtXBPr55pCZKLYiY6nlNhpcbWpdf9EVScP3YwDDhTHeO1Tb50; AWSALBTGCORS=YDXiLujqwxxr245vu
+m2mRiMOIe6b0Z3Kch+ruKBc0tJPbLSS/usbWp5yz8l66qw9vpHQnaJdPhc9HDlDlvKN2msjNaqugtklUv9m9pxkqK/NwVE5+xVi
+bN151rxBtXBPr55pCZKLYiY6nlNhpcbWpdf9EVScP3YwDDhTHeO1Tb50; AWSALB=v1p1Qc27QsVMARPtMWJMVWgi28qQA
+6lWlTWjljuTgDGLkuoswREEr2wUuNj06C4AOPh09BMvG+3zF/mn27PhHHJ84EY+7c9Vwc8bUVhKiwT5HOzbCsj+DycBszBT;
+AWSALBCORS=v1p1Qc27QsVMARPtMWJMVWgi28qQA6lWlTWjljuTgDGLkuoswREEr2wUuNj06C4AOPh09BMvG+3zF/mn2
+7PhHHJ84EY+7c9Vwc8bUVhKiwT5HOzbCsj+DycBszBT socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0 (Win
+dows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36 74.179.68.90 http
+s 443 Root=1-69d922ae-4bfd15bd76621bd46ea171da "Not;A Brand";v="99", "Google Chrome";v="142", "Chromium";v="142" x
+64 64 "142.0.7444.175" "Chrome";v="142.0.7444.175" ?0 Surface Pro Windows 15.0.0 same-site no-cors image u=1, i
+[IP Address: 135.232.19.35] [Time Opened: 4/10/2026 4:17:32 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/Ghx9jHnx3JTHlXUb1udTR3PReRIB4uRNgDAB7qwrMjAx.gif] HTTP_ACCEPT:imag
+e/* HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+(KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:135.232.19.35 HTTP_X_FORWARDED_
+PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d9229c-4655c0be1f11941218a35d6
+8 Accept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (K
+HTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 135.232.19.35 X-Forwarded-Proto: https X-Forwarded-P
+ort: 443 X-Amzn-Trace-Id: Root=1-69d9229c-4655c0be1f11941218a35d68 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=
+ADMIN1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/Ghx9jHnx3JTHlXUb1u
+dTR3PReRIB4uRNgDAB7qwrMjAx.gif 192.168.20.36 192.168.20.36 41826 GET /oatv_v2/Ghx9jHnx3JTHlXUb1udTR3PReRIB
+4uRNgDAB7qwrMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/Ghx9jHnx3JTHlXUb1udTR3PReRI
+B4uRNgDAB7qwrMjAx.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHT
+ML, like Gecko) Chrome/109.0.0.0 Safari/537.36 135.232.19.35 https 443 Root=1-69d9229c-4655c0be1f11941218a35d68
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.26)
+[IP Address: 66.249.84.173] [Time Opened: 4/10/2026 4:21:19 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/bDFUnJZg285KNbqf3SBAkeC97zUjdZlHnPGxbr6LMjAx.gif] HTTP_ACCEPT_ENCO
+DING:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko
+Firefox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.84.173 HTTP_X_FORWARDED_PROT
+O:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d9237f-726cbaa04921273464958d63 Acce
+pt-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.
+0 (via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.84.173 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Am
+zn-Trace-Id: Root=1-69d9237f-726cbaa04921273464958d63 /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=ad
+min1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.
+10.112 /oatv_v2/bDFUnJZg285KNbqf3SBAkeC97zUjdZlHnPGxbr6LMjAx.gif 192.168.20.36 192.168.20.36 36568 GET /oatv_v
+2/bDFUnJZg285KNbqf3SBAkeC97zUjdZlHnPGxbr6LMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v
+2/bDFUnJZg285KNbqf3SBAkeC97zUjdZlHnPGxbr6LMjAx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+7/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.84.173 https 443 Root=1-69d9237f-726cbaa04921
+273464958d63
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer aspmx.l.google.com (142.251.127.26)
+[IP Address: 66.249.84.173] [Time Opened: 4/10/2026 4:21:15 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/RlgI8NJGp594tBngFCrCeA0kwfnjmioR6IHOFr32MjAx.gif] HTTP_ACCEPT_ENCODI
+NG:gzip, deflate, br HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Fir
+efox/11.0 (via ggpht.com GoogleImageProxy) HTTP_X_FORWARDED_FOR:66.249.84.173 HTTP_X_FORWARDED_PROTO:
+https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d9237b-3d14138956cd5cc9479a4e8d Accept
+-Encoding: gzip, deflate, br Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+(via ggpht.com GoogleImageProxy) X-Forwarded-For: 66.249.84.173 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn
+-Trace-Id: Root=1-69d9237b-3d14138956cd5cc9479a4e8d /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admi
+n1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.
+112 /oatv_v2/RlgI8NJGp594tBngFCrCeA0kwfnjmioR6IHOFr32MjAx.gif 192.168.20.36 192.168.20.36 36568 GET /oatv_v2/RlgI
+8NJGp594tBngFCrCeA0kwfnjmioR6IHOFr32MjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/RlgI8N
+JGp594tBngFCrCeA0kwfnjmioR6IHOFr32MjAx.gif gzip, deflate, br socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 5.1; rv:11.0)
+Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy) 66.249.84.173 https 443 Root=1-69d9237b-3d14138956cd5cc9479a4e
+8d
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-00114c02.gslb.pphosted.com (148.163.145.248)
+[IP Address: 208.56.27.135] [Time Opened: 4/10/2026 4:48:51 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v3/ryB5EUF0wk3nJuU6CrHdYawOJMStetYYJT0locnKMjAx.gif] HTTP_ACCEPT:image/
+avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_AC
+CEPT_LANGUAGE:en-US, en;q=0.9, sp;q=0.1, de;q=0.1, fr;q=0.1 HTTP_HOST:socrmail.r1.rpost.net HTTP_REFERER:hXXp
+s://fileshare.r1.rpost.net/ HTTP_USER_AGENT:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTM
+L, like Gecko) Chrome/138.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:208.56.27.135 HTTP_X_FORWARDED_PROT
+O:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d929f3-531f3d860d0d9ebe5ae4f35c HTTP
+_SEC_CH_UA:"Not A(Brand";v="99", "Google Chrome";v="138", "Chromium";v="138" HTTP_SEC_FETCH_DEST:image HTT
+P_SEC_CH_UA_MOBILE:?0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_CH_UA_
+PLATFORM:"macOS" HTTP_PRIORITY:u=1, i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd Accept-Language: en-US, en;q=0.9, sp;q=0.1, de;q=0.1, fr;q=0.1 Host: socrmail.r1.rpo
+st.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.
+36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 X-Forwarded-For: 208.56.27.135 X-Forwarded-Proto: https X-Forward
+ed-Port: 443 X-Amzn-Trace-Id: Root=1-69d929f3-531f3d860d0d9ebe5ae4f35c sec-ch-ua: "Not A(Brand";v="99", "Google Chro
+me";v="138", "Chromium";v="138" sec-fetch-dest: image sec-ch-ua-mobile: ?0 sec-fetch-site: same-site sec-fetch-mode: no-c
+ors sec-ch-ua-platform: "macOS" priority: u=1, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.r
+post.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv
+_v3/ryB5EUF0wk3nJuU6CrHdYawOJMStetYYJT0locnKMjAx.gif 192.168.20.36 192.168.20.36 36132 GET /oatv_v3/ryB5EUF0
+wk3nJuU6CrHdYawOJMStetYYJT0locnKMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v3/ryB5EUF0
+wk3nJuU6CrHdYawOJMStetYYJT0locnKMjAx.gif image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip,
+deflate, br, zstd en-US, en;q=0.9, sp;q=0.1, de;q=0.1, fr;q=0.1 socrmail.r1.rpost.net hXXps://fileshare.r1.rpost.net/ Mozilla/5.0
+(Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 208.56.27.1
+35 https 443 Root=1-69d929f3-531f3d860d0d9ebe5ae4f35c "Not A(Brand";v="99", "Google Chrome";v="138", "Chromium";v
+="138" image ?0 same-site no-cors "macOS" u=1, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-0036c501.gslb.pphosted.com (148.163.135.129)
+[IP Address: 96.255.235.241] [Time Opened: 4/10/2026 5:39:54 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrm
+ail.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/abWKxKARFBg8wffbnzgnK9WrLEcNkJFZzVPonWfpMjAx.gif] HTTP_ACCEPT:ima
+ge/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=
+0.5 HTTP_ACCEPT_ENCODING:gzip, deflate, br HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_HOST:socrmail.r1.rpo
+st.net HTTP_USER_AGENT:Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mo
+bile/15E148 HTTP_X_FORWARDED_FOR:96.255.235.241 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_P
+ORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d935ea-33eafa35582f2f8d71ba5c42 HTTP_SEC_FETCH_SITE:cross-site HT
+TP_SEC_FETCH_DEST:image HTTP_SEC_FETCH_MODE:no-cors HTTP_PRIORITY:u=5, i Accept: image/webp,image/avif,i
+mage/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 Accept-Encoding:
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+8/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+gzip, deflate, br Accept-Language: en-US,en;q=0.9 Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (iPad; CPU OS 18_7 lik
+e Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 X-Forwarded-For: 96.255.235.241 X-Forwarded-Prot
+o: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d935ea-33eafa35582f2f8d71ba5c42 sec-fetch-site: cross-site secfetch-dest: image sec-fetch-mode: no-cors priority: u=5, i /LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admi
+n1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.
+112 /oatv_v2/abWKxKARFBg8wffbnzgnK9WrLEcNkJFZzVPonWfpMjAx.gif 192.168.10.173 192.168.10.173 45188 GET /oatv_
+v2/abWKxKARFBg8wffbnzgnK9WrLEcNkJFZzVPonWfpMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oat
+v_v2/abWKxKARFBg8wffbnzgnK9WrLEcNkJFZzVPonWfpMjAx.gif image/webp,image/avif,image/jxl,image/heic,image/heic-s
+equence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5 gzip, deflate, br en-US,en;q=0.9 socrmail.r1.rpost.n
+et Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 96.255.235.24
+1 https 443 Root=1-69d935ea-33eafa35582f2f8d71ba5c42 cross-site image no-cors u=5, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer mxb-0036c501.gslb.pphosted.com (148.163.135.129)
+[IP Address: 54.87.145.252] [Time Opened: 4/10/2026 4:45:37 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v2/adSQSeAvjdYvmxJo3ew1RA49wCJiJPQagbnGBXgVMjAx.gif] HTTP_ACCEPT:text/
+html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v
+=b3;q=0.7 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozill
+a/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 HTTP_X_FORWARDED
+_FOR:54.87.145.252 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_I
+D:Root=1-69d92931-4371b6f101e65a593f7f90a9 HTTP_UPGRADE_INSECURE_REQUESTS:1 HTTP_SEC_FETCH_SITE:no
+ne HTTP_SEC_FETCH_MODE:navigate HTTP_SEC_FETCH_USER:?1 HTTP_SEC_FETCH_DEST:document HTTP_PRIORI
+TY:u=0, i Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,applicati
+on/signed-exchange;v=b3;q=0.7 Accept-Encoding: gzip, deflate, br, zstd Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0
+(X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 X-Forwarded-For: 54.87.145.2
+52 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d92931-4371b6f101e65a593f7f90a9 upgrade-i
+nsecure-requests: 1 sec-fetch-site: none sec-fetch-mode: navigate sec-fetch-user: ?1 sec-fetch-dest: document priority: u=0, i
+/LM/W3SVC/12/ROOT 256 2048 CN=rpost.com Root Cert CN=admin1.devx.rpost.info 0 CGI/1.1 on 256 2048 CN=rpost.com
+Root Cert CN=admin1.devx.rpost.info 12 /LM/W3SVC/12 192.168.10.112 /oatv_v2/adSQSeAvjdYvmxJo3ew1RA49wCJiJPQag
+bnGBXgVMjAx.gif 192.168.20.36 192.168.20.36 58904 GET /oatv_v2/adSQSeAvjdYvmxJo3ew1RA49wCJiJPQagbnGBXgVMj
+Ax.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/adSQSeAvjdYvmxJo3ew1RA49wCJiJPQagbnGBXgV
+MjAx.gif text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signe
+d-exchange;v=b3;q=0.7 gzip, deflate, br, zstd socrmail.r1.rpost.net Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHT
+ML, like Gecko) Chrome/124.0.0.0 Safari/537.36 54.87.145.252 https 443 Root=1-69d92931-4371b6f101e65a593f7f90a9 1 non
+e navigate ?1 document u=0, i
+From:postmaster@guesttek.onmicrosoft.com:Your message has been delivered to the following recipients: arnon.levy@guesttek.com Subject: Registered: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RI
+GHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING HOSPITALITY SURVEI
+LLANCE VULNERABILITIES, IN-ROOM DATA EXFILTRATION, AND ARCHITECTURAL STEGANOGRAPHY
+[IP Address: 72.152.84.37] [Time Opened: 4/10/2026 4:17:34 PM] [REMOTE_HOST: 192.168.20.36] [HTTP_HOST: socrmail.r
+1.rpost.net] [SCRIPT_NAME: /oatv_v2/lARBkko3BPQyZCuwQrc6vZgk32KypUd1kIT5ADbVMjAx.gif] HTTP_ACCEPT:image/*
+HTTP_HOST:socrmail.r1.rpost.net HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
+TML, like Gecko) Chrome/109.0.0.0 Safari/537.36 HTTP_X_FORWARDED_FOR:72.152.84.37 HTTP_X_FORWARDED_PRO
+TO:https HTTP_X_FORWARDED_PORT:443 HTTP_X_AMZN_TRACE_ID:Root=1-69d9229e-3a67c1d7227bd30a267fc2d5 Ac
+cept: image/* Host: socrmail.r1.rpost.net User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
+L, like Gecko) Chrome/109.0.0.0 Safari/537.36 X-Forwarded-For: 72.152.84.37 X-Forwarded-Proto: https X-Forwarded-Port: 44
+3 X-Amzn-Trace-Id: Root=1-69d9229e-3a67c1d7227bd30a267fc2d5 /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN
+1 0 CGI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v2/lARBkko3BPQyZCuwQrc6vZg
+k32KypUd1kIT5ADbVMjAx.gif 192.168.20.36 192.168.20.36 41826 GET /oatv_v2/lARBkko3BPQyZCuwQrc6vZgk32KypUd1kI
+T5ADbVMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v2/lARBkko3BPQyZCuwQrc6vZgk32KypUd1k
+IT5ADbVMjAx.gif image/* socrmail.r1.rpost.net Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+Gecko) Chrome/109.0.0.0 Safari/537.36 72.152.84.37 https 443 Root=1-69d9229e-3a67c1d7227bd30a267fc2d5
+From:postmaster@guesttek.onmicrosoft.com:Your message has been delivered to the following recipients: matthew.baio@gue
+st-tek.com Subject: Registered: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY
+RIGHTS AND ACTUAL KNOWLEDGE OF PENDING CLAIMS UNDER 35 U.S.C. § 154(d) REGARDING HOSPITALITY SURV
+EILLANCE VULNERABILITIES, IN-ROOM DATA EXFILTRATION, AND ARCHITECTURAL STEGANOGRAPHY
+[IP Address: 74.179.70.83] [Time Opened: 4/10/2026 4:17:54 PM] [REMOTE_HOST: 192.168.10.173] [HTTP_HOST: socrmai
+l.r1.rpost.net] [SCRIPT_NAME: /oatv_v3/s20A7PJButKsn6mHwRJEnC61Nhe4r9ArHAwLoYgjMjAx.gif] HTTP_ACCEPT:imag
+e/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 HTTP_ACCEPT_ENCODING:gzip, deflate, br, zstd HTTP_A
+CCEPT_LANGUAGE:en-US,en;q=0.9 HTTP_COOKIE:AWSALBTG=TVZl3Rbps6LosvcN58U1dwkFjA8P+1m/lIK3p0qai/2Ms4L
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:18621089191035429…
+
+9/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+s5hqGk8IetuVLNNs+EBweax6HRvCyKZeTDXdFYmjDVkn8nGL/AEIfOVSCWCmQYpfR+cFPpT6FsXC3vdExObznaGAsQLW+
+GhCe6RoOHFDUmmf5G9F2jm0UsBXUAdC0; AWSALBTGCORS=TVZl3Rbps6LosvcN58U1dwkFjA8P+1m/lIK3p0qai/2Ms4Ls
+5hqGk8IetuVLNNs+EBweax6HRvCyKZeTDXdFYmjDVkn8nGL/AEIfOVSCWCmQYpfR+cFPpT6FsXC3vdExObznaGAsQLW+
+GhCe6RoOHFDUmmf5G9F2jm0UsBXUAdC0; AWSALB=tzowCxQjfRViJNy7r0Hg30mN16pQ9soO6pbTsB5gKOb/JxIUpefvKAL
+HRwv0S0jwd9Jl2S9f8XeyGrsBNiBwHmHlqSm0mesVrsKaH3RDWO0ZzxHuELt4VsQUPfuj; AWSALBCORS=tzowCxQjfRViJN
+y7r0Hg30mN16pQ9soO6pbTsB5gKOb/JxIUpefvKALHRwv0S0jwd9Jl2S9f8XeyGrsBNiBwHmHlqSm0mesVrsKaH3RDWO0Zzx
+HuELt4VsQUPfuj HTTP_HOST:socrmail.r1.rpost.net HTTP_REFERER:hXXps://fileshare.r1.rpost.net/ HTTP_USER_AGENT:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36
+HTTP_X_FORWARDED_FOR:74.179.70.83 HTTP_X_FORWARDED_PROTO:https HTTP_X_FORWARDED_PORT:443 HTT
+P_X_AMZN_TRACE_ID:Root=1-69d922b2-1d94d73f43db083376e04f80 HTTP_SEC_CH_UA:"Not;A Brand";v="99", "Google C
+hrome";v="142", "Chromium";v="142" HTTP_SEC_CH_UA_ARCH:x64 HTTP_SEC_CH_UA_BITNESS:64 HTTP_SEC_CH_U
+A_FULL_VERSION:"142.0.7444.163" HTTP_SEC_CH_UA_FULL_VERSION_LIST:"Chrome";v="142.0.7444.163" HTTP_SEC_
+CH_UA_MOBILE:?0 HTTP_SEC_CH_UA_MODEL:Surface Pro HTTP_SEC_CH_UA_PLATFORM:Windows HTTP_SEC_CH_
+UA_PLATFORM_VERSION:15.0.0 HTTP_SEC_FETCH_SITE:same-site HTTP_SEC_FETCH_MODE:no-cors HTTP_SEC_FE
+TCH_DEST:image HTTP_PRIORITY:u=1, i Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 Acc
+ept-Encoding: gzip, deflate, br, zstd Accept-Language: en-US,en;q=0.9 Cookie: AWSALBTG=TVZl3Rbps6LosvcN58U1dwkFjA
+8P+1m/lIK3p0qai/2Ms4Ls5hqGk8IetuVLNNs+EBweax6HRvCyKZeTDXdFYmjDVkn8nGL/AEIfOVSCWCmQYpfR+cFPpT6FsX
+C3vdExObznaGAsQLW+GhCe6RoOHFDUmmf5G9F2jm0UsBXUAdC0; AWSALBTGCORS=TVZl3Rbps6LosvcN58U1dwkFjA8
+P+1m/lIK3p0qai/2Ms4Ls5hqGk8IetuVLNNs+EBweax6HRvCyKZeTDXdFYmjDVkn8nGL/AEIfOVSCWCmQYpfR+cFPpT6FsXC
+3vdExObznaGAsQLW+GhCe6RoOHFDUmmf5G9F2jm0UsBXUAdC0; AWSALB=tzowCxQjfRViJNy7r0Hg30mN16pQ9soO6pbT
+sB5gKOb/JxIUpefvKALHRwv0S0jwd9Jl2S9f8XeyGrsBNiBwHmHlqSm0mesVrsKaH3RDWO0ZzxHuELt4VsQUPfuj; AWSALBC
+ORS=tzowCxQjfRViJNy7r0Hg30mN16pQ9soO6pbTsB5gKOb/JxIUpefvKALHRwv0S0jwd9Jl2S9f8XeyGrsBNiBwHmHlqSm0me
+sVrsKaH3RDWO0ZzxHuELt4VsQUPfuj Host: socrmail.r1.rpost.net Referer: hXXps://fileshare.r1.rpost.net/ User-Agent: Mozill
+a/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36 X-Forw
+arded-For: 74.179.70.83 X-Forwarded-Proto: https X-Forwarded-Port: 443 X-Amzn-Trace-Id: Root=1-69d922b2-1d94d73f43db0
+83376e04f80 sec-ch-ua: "Not;A Brand";v="99", "Google Chrome";v="142", "Chromium";v="142" sec-ch-ua-arch: x64 sec-ch-ua
+-bitness: 64 sec-ch-ua-full-version: "142.0.7444.163" sec-ch-ua-full-version-list: "Chrome";v="142.0.7444.163" sec-ch-ua-mobil
+e: ?0 sec-ch-ua-model: Surface Pro sec-ch-ua-platform: Windows sec-ch-ua-platform-version: 15.0.0 sec-fetch-site: same-site
+sec-fetch-mode: no-cors sec-fetch-dest: image priority: u=1, i /LM/W3SVC/12/ROOT 256 4096 CN=ADMIN1 CN=ADMIN1 0 C
+GI/1.1 on 256 4096 CN=ADMIN1 CN=ADMIN1 12 /LM/W3SVC/12 192.168.20.30 /oatv_v3/s20A7PJButKsn6mHwRJEnC61Nh
+e4r9ArHAwLoYgjMjAx.gif 192.168.10.173 192.168.10.173 10786 GET /oatv_v3/s20A7PJButKsn6mHwRJEnC61Nhe4r9ArHAw
+LoYgjMjAx.gif socrmail.r1.rpost.net 443 1 HTTP/1.1 Microsoft-IIS/10.0 /oatv_v3/s20A7PJButKsn6mHwRJEnC61Nhe4r9ArHA
+wLoYgjMjAx.gif image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 gzip, deflate, br, zstd en-US,en;q=0.9 A
+WSALBTG=TVZl3Rbps6LosvcN58U1dwkFjA8P+1m/lIK3p0qai/2Ms4Ls5hqGk8IetuVLNNs+EBweax6HRvCyKZeTDXdFYmjDV
+kn8nGL/AEIfOVSCWCmQYpfR+cFPpT6FsXC3vdExObznaGAsQLW+GhCe6RoOHFDUmmf5G9F2jm0UsBXUAdC0; AWSALB
+TGCORS=TVZl3Rbps6LosvcN58U1dwkFjA8P+1m/lIK3p0qai/2Ms4Ls5hqGk8IetuVLNNs+EBweax6HRvCyKZeTDXdFYmjDVk
+n8nGL/AEIfOVSCWCmQYpfR+cFPpT6FsXC3vdExObznaGAsQLW+GhCe6RoOHFDUmmf5G9F2jm0UsBXUAdC0; AWSALB=
+tzowCxQjfRViJNy7r0Hg30mN16pQ9soO6pbTsB5gKOb/JxIUpefvKALHRwv0S0jwd9Jl2S9f8XeyGrsBNiBwHmHlqSm0mesVrsK
+aH3RDWO0ZzxHuELt4VsQUPfuj; AWSALBCORS=tzowCxQjfRViJNy7r0Hg30mN16pQ9soO6pbTsB5gKOb/JxIUpefvKALHRw
+v0S0jwd9Jl2S9f8XeyGrsBNiBwHmHlqSm0mesVrsKaH3RDWO0ZzxHuELt4VsQUPfuj socrmail.r1.rpost.net hXXps://fileshare.r
+1.rpost.net/ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Sa
+fari/537.36 74.179.70.83 https 443 Root=1-69d922b2-1d94d73f43db083376e04f80 "Not;A Brand";v="99", "Google Chrome";v
+="142", "Chromium";v="142" x64 64 "142.0.7444.163" "Chrome";v="142.0.7444.163" ?0 Surface Pro Windows 15.0.0 same-sit
+e no-cors image u=1, i
+From:postmaster@mta21.r1.rpost.net:Hello, this is the mail server on mta21.r1.rpost.net. I am sending you this message to in
+form you on the delivery status of a message you previously sent. Immediately below you will find a list of the affected recipie
+nts; also attached is a Delivery Status Notification (DSN) report in standard format, as well as the headers of the original mess
+age. relayed to mailer gmail-smtp-in.l.google.com (142.251.127.26)
+This Registered Receipt™ email is verifiable proof of your Registered Email™ transaction. It contains:
+1. An official time stamp.
+2. Proof that your message was sent and to whom it was sent.
+3. Proof that your message was delivered to its addressees or their authorized electronic agents.
+4. Proof of the content of your original message and all of its attachments.
+Note: By default, RPost does not retain a copy of your email or this receipt and you should not rely on the information above
+until the receipt is verified by the RMail system. Keep this email and its attachment in place for your records. General terms
+and conditions are available at Legal Notice. RMail services are patented, using RPost patented technologies, including US
+patents 8209389, 8224913, 8468199, 8161104, 8468198, 8504628, 7966372, 6182219, 6571334 and other US and non-US
+patents listed at RPost Communications.
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:1862108919103542…
+
+10/11
+
+4/10/26, 1:33 PM
+
+Gmail - Receipt: [Marriott/Hyatt/Trump Organization/Guest-Tek et. Al] FORMAL NOTICE OF PROPRIETARY RIGHTS AND ACTUA…
+
+For more information about RMail® services, visit www.rmail.com.
+
+An RPost® Technology
+
+2 attachments
+DeliveryReceipt.xml
+70K
+HtmlReceipt.htm
+407K
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permmsgid=msg-f:1862108919103542984&simpl=msg-f:1862108919103542…
+
+11/11
+
+

@@ -1,0 +1,42 @@
+{
+  "serving_key": "330330304",
+  "canonical_key": "jcasey@akamai.com",
+  "display_name": "J. Casey (Akamai Technologies, Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "Akamai Technologies, Inc.",
+  "full_name": "J. Casey",
+  "pronouns": null,
+  "title": "Employee",
+  "organization": "Akamai Technologies, Inc.",
+  "domain": "akamai.com",
+  "addresses": {
+    "mailing_address": "145 Broadway, Cambridge, MA 02142, USA",
+    "business_address": "145 Broadway, Cambridge, MA 02142, USA",
+    "legal_service_address": "Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808"
+  },
+  "registered_agent": {
+    "name": "Corporation Service Company",
+    "address": "251 Little Falls Drive, Wilmington, DE 19808",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "jcasey@akamai.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-617-444-3000"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [
+    {
+      "serving_key": "1461438892",
+      "canonical_key": "bgelbord@akamai.com",
+      "display_name": "Boaz Gelbord",
+      "relationship": "same_domain"
+    }
+  ],
+  "is_law_firm": false
+}

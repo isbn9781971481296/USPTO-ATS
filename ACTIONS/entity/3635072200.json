@@ -1,0 +1,35 @@
+{
+  "serving_key": "3635072200",
+  "canonical_key": "lisa.white@zoominfo.com",
+  "display_name": "Lisa White (ZoomInfo Technologies Inc.)",
+  "entity_type": "person",
+  "is_attorney": false,
+  "works_at": "ZoomInfo Technologies Inc.",
+  "full_name": "Lisa White",
+  "pronouns": null,
+  "title": "Employee",
+  "organization": "ZoomInfo Technologies Inc.",
+  "domain": "zoominfo.com",
+  "addresses": {
+    "mailing_address": "805 Broadway St, Suite 900, Vancouver, WA 98660",
+    "business_address": "805 Broadway St, Suite 900, Vancouver, WA 98660",
+    "legal_service_address": "1209 Orange Street, Wilmington, DE 19801"
+  },
+  "registered_agent": {
+    "name": "The Corporation Trust Company",
+    "address": "1209 Orange Street, Wilmington, DE 19801",
+    "jurisdiction": "Delaware"
+  },
+  "contact": {
+    "primary_email": "lisa.white@zoominfo.com",
+    "alternative_emails": [],
+    "specialized_emails": {},
+    "phones": [
+      "+1-866-904-9666"
+    ],
+    "faxes": [],
+    "virtual_meeting_id": null
+  },
+  "related_entities": [],
+  "is_law_firm": false
+}

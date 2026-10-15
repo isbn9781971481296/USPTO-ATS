@@ -1,0 +1,98 @@
+{
+  "summary_of_pdf": "This document is an RPost Registered Receipt serving as evidentiary proof of delivery for an email communication titled 'Inquiry for IP Representation: 47-Patent Portfolio & Parallel Federal Disclosures\u2026' directed at or concerning Clear Channel Outdoor, UBER, and PayPal. The receipt provides a cryptographic, timestamped record of transmission, delivery, and content, establishing a verifiable chain of custody for the underlying communication regarding intellectual property representation.",
+  "attorneys_comments": "From an evidentiary standpoint, this RPost Registered Receipt is highly valuable for establishing actual notice and overcoming presumptions of non-receipt under the Federal Rules of Evidence (FRE 901 and 902). The underlying communication appears to be a solicitation or inquiry for representation concerning a substantial 47-patent portfolio and associated federal disclosures involving major corporate entities. Tactically, if the underlying communication contained notice of infringement under 35 U.S.C. \u00a7 287 or a formal demand letter, this receipt solidifies the timeline for damages accrual. However, as a standalone document, it merely authenticates the transmission; the substantive strength relies entirely on the contents of the attached 'HtmlReceipt.htm' and 'DeliveryReceipt.xml'. Counsel must preserve the native electronic file to maintain the cryptographic integrity of the RPost verification mechanism and ensure admissibility in the Southern District of Texas.",
+  "recommended_next_steps": "1. Securely preserve the native email and its attachments (DeliveryReceipt.xml, HtmlReceipt.htm) in a litigation hold environment to maintain cryptographic verification capabilities. 2. Review the underlying transmitted message to assess the substantive claims regarding the 47-patent portfolio and federal disclosures. 3. If the underlying message constitutes a formal notice of infringement under 35 U.S.C. \u00a7 287, docket the delivery date for damages calculation purposes. 4. Evaluate potential conflicts of interest regarding Clear Channel Outdoor, UBER, and PayPal before engaging in any representation or adversarial posturing.",
+  "tags": [
+    "Evidentiary Proof of Delivery",
+    "Federal Rules of Evidence Rule 901",
+    "Federal Rules of Evidence Rule 902",
+    "35 U.S.C. \u00a7 287",
+    "Actual Notice",
+    "Patent Portfolio Representation",
+    "Electronic Discovery",
+    "Chain of Custody",
+    "Formal Demand Letter"
+  ],
+  "mentioned_entities": {
+    "people": [],
+    "companies": [
+      "Clear Channel Outdoor",
+      "UBER",
+      "PayPal",
+      "RPost",
+      "Google",
+      "Microsoft"
+    ],
+    "technologies": [
+      "RMail",
+      "Registered Email",
+      "Registered Receipt",
+      "Microsoft-IIS/10.0",
+      "GoogleImageProxy"
+    ],
+    "products": [
+      "RMail",
+      "Registered Receipt"
+    ],
+    "government_offices": [],
+    "institutions": [],
+    "prominent_locations": [],
+    "courts": [],
+    "law_firms": [],
+    "attorneys": []
+  },
+  "mentioned_uspto_applications": [],
+  "mentioned_uspto_patents": [
+    "8,209,389",
+    "8,224,913",
+    "8,468,199",
+    "8,161,104",
+    "8,468,198",
+    "8,504,628",
+    "7,966,372",
+    "6,182,219",
+    "6,571,334"
+  ],
+  "event_key": "1345230254",
+  "basefilename": "READ-RECEIPT_salllach@clearchannel.com_daisy.darvall@kirkland.com_david.klein@kirkland.com_dvondle@akingump.com_phuff@slwip.com_natasha.shah@kirkland.com_mchan@akingump.com_surias@akingump.com",
+  "original_filename": "READ-RECEIPT_salllach@clearchannel.com_daisy.darvall@kirkland.com_david.klein@kirkland.com_dvondle@akingump.com_phuff@slwip.com_natasha.shah@kirkland.com_mchan@akingump.com_surias@akingump.com.pdf",
+  "category": "email",
+  "subtype": "read_receipt",
+  "date": "04172026",
+  "sender": "rj.aguiar.m@gmail.com",
+  "primary_recipient": "salllach@clearchannel.com",
+  "primary_recipient_an": "Salllach (clearchannel.com)",
+  "all_recipients": [
+    "salllach@clearchannel.com",
+    "_daisy.darvall@kirkland.com",
+    "_david.klein@kirkland.com",
+    "_dvondle@akingump.com",
+    "_phuff@slwip.com",
+    "_natasha.shah@kirkland.com",
+    "_mchan@akingump.com",
+    "david.klein@kirkland.com",
+    "natasha.shah@kirkland.com",
+    "daisy.darvall@kirkland.com",
+    "phuff@slwip.com",
+    "surias@akingump.com",
+    "mchan@akingump.com",
+    "dvondle@akingump.com"
+  ],
+  "all_recipients_an": {
+    "salllach@clearchannel.com": "Salllach (clearchannel.com)",
+    "_daisy.darvall@kirkland.com": "Daisy Darvall (Kirkland & Ellis LLP)",
+    "_david.klein@kirkland.com": "David Klein (Kirkland & Ellis LLP)",
+    "_dvondle@akingump.com": "Dvondle (akingump.com)",
+    "_phuff@slwip.com": "Phuff (slwip.com)",
+    "_natasha.shah@kirkland.com": "Natasha Shah (Kirkland & Ellis LLP)",
+    "_mchan@akingump.com": "McHan (akingump.com)",
+    "david.klein@kirkland.com": "David Klein (Kirkland & Ellis LLP)",
+    "natasha.shah@kirkland.com": "Natasha Shah (Kirkland & Ellis LLP)",
+    "daisy.darvall@kirkland.com": "Daisy Darvall (Kirkland & Ellis LLP)",
+    "phuff@slwip.com": "Phuff (slwip.com)",
+    "surias@akingump.com": "Surias (akingump.com)",
+    "mchan@akingump.com": "McHan (akingump.com)",
+    "dvondle@akingump.com": "Dvondle (akingump.com)"
+  },
+  "patent_applications": []
+}
