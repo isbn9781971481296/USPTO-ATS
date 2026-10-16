@@ -10,6 +10,8 @@ examiners.*
 **/DRAFTS/*/*.*
 *.py
 
+entities.html
+
 **/DRAFTS/**/*.aux
 **/DRAFTS/**/*.log
 **/DRAFTS/**/*.pdf
