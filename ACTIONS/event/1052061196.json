@@ -89,5 +89,6 @@
     "org_srowan@epo.org": "Org Srowan (European Patent Office)",
     "epo.org_ymeniere@epo.org": "Epo Org Ymeniere (European Patent Office)"
   },
-  "patent_applications": []
+  "patent_applications": [],
+  "canonical_rel_pdf": "ACTIONS/EMAIL/rj.aguiar.m@gmail.com/04162026/ch.klein@sap.com/FILED/EMAIL-TO-ch.klein@sap.com.pdf"
 }

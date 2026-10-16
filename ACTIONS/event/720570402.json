@@ -140,5 +140,6 @@
     "org_srowan@epo.org": "Org Srowan (European Patent Office)",
     "epo.org_ymeniere@epo.org": "Epo Org Ymeniere (European Patent Office)"
   },
-  "patent_applications": []
+  "patent_applications": [],
+  "canonical_rel_pdf": "ACTIONS/EMAIL/rj.aguiar.m@gmail.com/04132026/pamela.j.bondi@usdoj.gov/FILED/EMAIL-TO-Pamela.J.Bondi@usdoj.gov_Todd.w.Blanche@usdoj.gov_et_al.pdf"
 }
