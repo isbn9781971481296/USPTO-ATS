@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GRS Candidate Evaluation Report - 4:26-CV-08794</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0f172a;
+            color: #e2e8f0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            padding: 30px 20px;
+        }
+        .report-container {
+            max-width: 1280px;
+            margin: 0 auto;
+        }
+        .card {
+            background-color: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+            color: #e2e8f0;
+        }
+        .card-header {
+            background-color: #243247;
+            border-bottom: 1px solid #334155;
+            padding: 14px 20px;
+        }
+        .winner-chip {
+            display: inline-flex;
+            align-items: center;
+            background-color: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 8px;
+            padding: 8px 14px;
+            margin: 4px 8px 4px 0;
+        }
+        .winner-pref {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 11px;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-right: 8px;
+        }
+        .winner-name {
+            color: #38bdf8;
+            margin-right: 10px;
+        }
+        .copy-btn {
+            background-color: #334155;
+            color: #f1f5f9;
+            border: 1px solid #475569;
+            border-radius: 4px;
+            font-size: 11px;
+            padding: 3px 8px;
+            cursor: pointer;
+            transition: all 0.15s ease-in-out;
+        }
+        .copy-btn:hover {
+            background-color: #475569;
+            color: #ffffff;
+            border-color: #64748b;
+        }
+        .copy-btn.btn-copied {
+            background-color: #16a34a !important;
+            border-color: #16a34a !important;
+            color: #ffffff !important;
+        }
+        .winner-callout {
+            background-color: rgba(34, 197, 94, 0.1);
+            border: 1px solid rgba(34, 197, 94, 0.3);
+            border-radius: 8px;
+            padding: 12px 18px;
+        }
+        .statement-box {
+            background-color: #0f172a;
+            border-left: 4px solid #3b82f6;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        table {
+            color: #e2e8f0;
+            margin-bottom: 0;
+        }
+        th {
+            background-color: #243247 !important;
+            color: #94a3b8 !important;
+            font-size: 12px;
+            text-transform: uppercase;
+            border-bottom: 2px solid #334155 !important;
+        }
+        td {
+            border-bottom: 1px solid #334155 !important;
+            font-size: 13px;
+            vertical-align: middle;
+        }
+        .table-hover tbody tr:hover {
+            background-color: #243247 !important;
+        }
+        .winner-row {
+            background-color: rgba(34, 197, 94, 0.05);
+        }
+        .badge-winner {
+            background-color: #22c55e;
+            color: #052e16;
+            font-weight: 700;
+            font-size: 10px;
+        }
+        .badge-score {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 12px;
+        }
+        .badge-eval-type {
+            background-color: #475569;
+            color: #e2e8f0;
+            font-size: 11px;
+        }
+        code {
+            color: #38bdf8;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="report-container">
+        <!-- Header -->
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <h2 class="text-white mb-1">⚖️ Phase-II Candidate Ranking & Adjudication Report</h2>
+                <div class="text-secondary">
+                    Application: <strong class="text-white">4:26-CV-08794</strong> |
+                    Evaluation Timestamp: <strong class="text-white"></strong> |
+                    Date: <strong class="text-white"></strong>
+                </div>
+            </div>
+            <div>
+                <span class="badge bg-primary px-3 py-2 fs-6">GRS Autonomous Adjudicator</span>
+            </div>
+        </div>
+
+        <!-- Winning Ensembles Card -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">🏆 Winning Document Ensemble (Selected for Filing)</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-secondary mb-2">Click any copy button to immediately copy the filename to clipboard for terminal searching or staging:</p>
+                <div class="d-flex flex-wrap">
+                    
+        <div class="winner-chip">
+            <span class="winner-pref">00__</span>
+            <span class="winner-name"><code>00__INTERNAL-MEMO-10162026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('00__INTERNAL-MEMO-10162026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">01__</span>
+            <span class="winner-name"><code>01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">02__</span>
+            <span class="winner-name"><code>02__4:26-CV-08794-PROPOSED-ORDER-10162026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('02__4:26-CV-08794-PROPOSED-ORDER-10162026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">03__</span>
+            <span class="winner-name"><code>03__4:26-CV-08794-DECLARATION-10162026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('03__4:26-CV-08794-DECLARATION-10162026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">04__</span>
+            <span class="winner-name"><code>04__4:26-CV-08794-EXHIBIT-INDEX-10162026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('04__4:26-CV-08794-EXHIBIT-INDEX-10162026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+                </div>
+            </div>
+        </div>
+
+        <!-- Substantive Adjudication -->
+        
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">⚖️ Substantive Prosecution Paper Adjudication (01__ Transmittal / Response)</h5>
+                <span class="badge badge-eval-type">Adjudicator Panel: Examiner / Reviewer / Office of Petitions Senior Officer</span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Winning Transmittal:</strong>
+                    <code class="fs-6 ms-2">01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="statement-box mb-3">
+                    <h6 class="text-primary mb-2">Adjudicator Collective Decision Rationale:</h6>
+                    <p class="mb-0">The panel unanimously selects Candidate 6 (PROCEDURAL) as the most likely to succeed. Candidate 6 directly and accurately addresses the target document (Document 11, Process Receipt and Return) by demonstrating a sophisticated understanding of CM/ECF docketing practices—specifically, that the Clerk's Office does not re-scan voluminous complaints when docketing USM-285 forms. Furthermore, Candidate 6 proactively clarifies a critical discrepancy regarding the physical addresses for personal service versus mailroom addresses, ensuring the U.S. Marshals Service can properly execute service. The instrument is elegantly drafted, maintains a deferential and clinical tone, and strictly adheres to SDTX Local Rules regarding formatting, double-spacing, and the inclusion of a structured Prayer for Relief and Certificate of Conference. Candidates 1, 2, 4, 5, and 7 were entirely off-topic, addressing signature requirements rather than the USM-285. Candidates 8 and 9 lacked the mandatory Certificate of Conference and did not address the docketing nuances of Document 11 as effectively as Candidate 6.</p>
+                </div>
+                <div class="mb-3"><strong>ATS Defect & Waterfall Alignment:</strong> <span class="text-secondary">Candidate 6 exhibits excellent alignment with the SDTX Rules Ledger. It complies with R-01 (Authoritative Caption), R-02 (Double Spacing), R-03 (One-Inch Margins), R-05 (Structured Prayer for Relief), R-06 (Certificate of Conference), R-08 (Certificate of Service), and R-09 (Pro Se Signature Block). The tone is appropriately deferential (R-20).</span></div>
+                <div class="alert alert-warning mt-3"><strong>⚠️ Adjudicator Liabilities & Warnings:</strong><p class="mb-0 mt-1">Candidates 1, 2, 4, 5, and 7 are completely non-responsive to the target document, addressing an irrelevant issue regarding pro se signature requirements instead of the USM-285 Process Receipt and Return. Filing off-topic advisories clutters the docket and invites judicial irritation. Candidates 8 and 9 fail to include the mandatory Certificate of Conference required by SDTX Local Rule 7.1.D.</p></div>
+                <h6 class="mt-4 mb-2">Candidate Evaluation Scores & Reasoning:</h6>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 25%;">Candidate Filename</th>
+                                <th style="width: 8%;">Score</th>
+                                <th style="width: 32%;">Cleanliness of Arguments</th>
+                                <th style="width: 22%;">Risks & Liabilities</th>
+                                <th style="width: 8%;">ATS Addressed</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">95.0</span></td>
+                <td>Highly professional and procedurally astute. The argument correctly identifies that the absence of the complaint in the Doc 11 PDF is a standard Clerk's Office practice to save server space, not a failure to provide the complaint to the USMS. The distinction between mailroom addresses and physical addresses for personal service is a critical, practical clarification.</td>
+                <td>Minimal risk. The primary risk is that the Court may view the advisory as slightly superfluous if the Clerk's standard operating procedures are already well understood by the Court. However, given the pro se status and the active capias, clarifying the record and the service addresses for the USMS is a prudent protective measure.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#2</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-EQUITABLE-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-EQUITABLE-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">90.0</span></td>
+                <td>Very similar to Candidate 6, but the section headings ('Equitable Considerations' vs 'Procedural Integrity') are slightly less clinical and objective. Still a very strong and responsive document.</td>
+                <td>Appealing to 'equitable considerations' regarding filing delays is slightly weaker than framing it as a 'logistical impediment', but it remains a viable and low-risk filing.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#3</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-STRATEGIC-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-STRATEGIC-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">75.0</span></td>
+                <td>Addresses the service issues but fails to adequately explain the USM-285 docketing discrepancy. Lacks a Certificate of Conference.</td>
+                <td>Failure to include a Certificate of Conference violates SDTX LR 7.1.D, risking the document being stricken or ignored.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#4</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">70.0</span></td>
+                <td>Focuses entirely on the service of a separate motion and barely touches upon the USM-285 target document. Lacks a Certificate of Conference.</td>
+                <td>Procedurally defective due to the missing Certificate of Conference and less responsive to the actual target document.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#5</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-BALANCED-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-BALANCED-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">30.0</span></td>
+                <td>Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.</td>
+                <td>High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#6</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-CONCISE-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-CONCISE-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">30.0</span></td>
+                <td>Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.</td>
+                <td>High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#7</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-EXHAUSTIVE-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-EXHAUSTIVE-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">30.0</span></td>
+                <td>Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.</td>
+                <td>High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#8</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-LOCALRULES-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-LOCALRULES-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">30.0</span></td>
+                <td>Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.</td>
+                <td>High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#9</strong></td>
+                <td>
+                    <code>01__4:26-CV-08794-ADVISORY-PROSE-10162026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__4:26-CV-08794-ADVISORY-PROSE-10162026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">30.0</span></td>
+                <td>Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.</td>
+                <td>High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.</td>
+                <td class="text-center">❌ No</td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Non-Substantive Containment Rankings -->
+        <p class='text-muted'><em>No non-substantive candidate clusters required competitive ranking.</em></p>
+
+        <div class="text-center text-muted mt-4">
+            <small>USPTO Autonomous Patent Prosecution Engine • GRS Phase-II Adjudicator Framework</small>
+        </div>
+    </div>
+
+    <script>
+        function copyToClipboard(text, btn) {
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(text).then(() => showCopied(btn)).catch(() => fallbackCopy(text, btn));
+            } else {
+                fallbackCopy(text, btn);
+            }
+        }
+
+        function fallbackCopy(text, btn) {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            ta.style.position = 'fixed';
+            ta.style.left = '-9999px';
+            document.body.appendChild(ta);
+            ta.focus();
+            ta.select();
+            try {
+                document.execCommand('copy');
+                showCopied(btn);
+            } catch (e) {
+                prompt('Copy filename:', text);
+            }
+            ta.remove();
+        }
+
+        function showCopied(btn) {
+            const orig = btn.innerHTML;
+            btn.innerHTML = '✓ Copied!';
+            btn.classList.add('btn-copied');
+            setTimeout(() => {
+                btn.innerHTML = orig;
+                btn.classList.remove('btn-copied');
+            }, 2000);
+        }
+    </script>
+</body>
+</html>

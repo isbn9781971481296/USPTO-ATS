@@ -1,0 +1,106 @@
+{
+  "analysis_timestamp": "20261016_125307",
+  "application_number": "4:26-CV-08794",
+  "mode": "SDTX_FEDERAL_LITIGATION",
+  "winners": {
+    "01__": "01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex",
+    "00__": "00__INTERNAL-MEMO-10162026.pdf",
+    "02__": "02__4:26-CV-08794-PROPOSED-ORDER-10162026.pdf",
+    "03__": "03__4:26-CV-08794-DECLARATION-10162026.pdf",
+    "04__": "04__4:26-CV-08794-EXHIBIT-INDEX-10162026.pdf"
+  },
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Federal Court Responsive Pleading",
+    "evaluated_candidates": [
+      "01__4:26-CV-08794-ADVISORY-BALANCED-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-CONCISE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-EQUITABLE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-EXHAUSTIVE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-LOCALRULES-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-PROSE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-STRATEGIC-10162026.tex"
+    ],
+    "winner": "01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex",
+    "collective_statement_most_likely_to_succeed": "The panel unanimously selects Candidate 6 (PROCEDURAL) as the most likely to succeed. Candidate 6 directly and accurately addresses the target document (Document 11, Process Receipt and Return) by demonstrating a sophisticated understanding of CM/ECF docketing practices\u2014specifically, that the Clerk's Office does not re-scan voluminous complaints when docketing USM-285 forms. Furthermore, Candidate 6 proactively clarifies a critical discrepancy regarding the physical addresses for personal service versus mailroom addresses, ensuring the U.S. Marshals Service can properly execute service. The instrument is elegantly drafted, maintains a deferential and clinical tone, and strictly adheres to SDTX Local Rules regarding formatting, double-spacing, and the inclusion of a structured Prayer for Relief and Certificate of Conference. Candidates 1, 2, 4, 5, and 7 were entirely off-topic, addressing signature requirements rather than the USM-285. Candidates 8 and 9 lacked the mandatory Certificate of Conference and did not address the docketing nuances of Document 11 as effectively as Candidate 6.",
+    "unlikely_to_succeed_reasons": "Candidates 1, 2, 4, 5, and 7 are completely non-responsive to the target document, addressing an irrelevant issue regarding pro se signature requirements instead of the USM-285 Process Receipt and Return. Filing off-topic advisories clutters the docket and invites judicial irritation. Candidates 8 and 9 fail to include the mandatory Certificate of Conference required by SDTX Local Rule 7.1.D.",
+    "ats_alignment_assessment": "Candidate 6 exhibits excellent alignment with the SDTX Rules Ledger. It complies with R-01 (Authoritative Caption), R-02 (Double Spacing), R-03 (One-Inch Margins), R-05 (Structured Prayer for Relief), R-06 (Certificate of Conference), R-08 (Certificate of Service), and R-09 (Pro Se Signature Block). The tone is appropriately deferential (R-20).",
+    "candidate_scores": [
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex",
+        "rank": 1,
+        "score": 95.0,
+        "cleanliness_and_arguments": "Highly professional and procedurally astute. The argument correctly identifies that the absence of the complaint in the Doc 11 PDF is a standard Clerk's Office practice to save server space, not a failure to provide the complaint to the USMS. The distinction between mailroom addresses and physical addresses for personal service is a critical, practical clarification.",
+        "risks_and_liabilities": "Minimal risk. The primary risk is that the Court may view the advisory as slightly superfluous if the Clerk's standard operating procedures are already well understood by the Court. However, given the pro se status and the active capias, clarifying the record and the service addresses for the USMS is a prudent protective measure.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-EQUITABLE-10162026.tex",
+        "rank": 2,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Very similar to Candidate 6, but the section headings ('Equitable Considerations' vs 'Procedural Integrity') are slightly less clinical and objective. Still a very strong and responsive document.",
+        "risks_and_liabilities": "Appealing to 'equitable considerations' regarding filing delays is slightly weaker than framing it as a 'logistical impediment', but it remains a viable and low-risk filing.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-STRATEGIC-10162026.tex",
+        "rank": 3,
+        "score": 75.0,
+        "cleanliness_and_arguments": "Addresses the service issues but fails to adequately explain the USM-285 docketing discrepancy. Lacks a Certificate of Conference.",
+        "risks_and_liabilities": "Failure to include a Certificate of Conference violates SDTX LR 7.1.D, risking the document being stricken or ignored.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex",
+        "rank": 4,
+        "score": 70.0,
+        "cleanliness_and_arguments": "Focuses entirely on the service of a separate motion and barely touches upon the USM-285 target document. Lacks a Certificate of Conference.",
+        "risks_and_liabilities": "Procedurally defective due to the missing Certificate of Conference and less responsive to the actual target document.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-BALANCED-10162026.tex",
+        "rank": 5,
+        "score": 30.0,
+        "cleanliness_and_arguments": "Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.",
+        "risks_and_liabilities": "High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-CONCISE-10162026.tex",
+        "rank": 6,
+        "score": 30.0,
+        "cleanliness_and_arguments": "Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.",
+        "risks_and_liabilities": "High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-EXHAUSTIVE-10162026.tex",
+        "rank": 7,
+        "score": 30.0,
+        "cleanliness_and_arguments": "Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.",
+        "risks_and_liabilities": "High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-LOCALRULES-10162026.tex",
+        "rank": 8,
+        "score": 30.0,
+        "cleanliness_and_arguments": "Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.",
+        "risks_and_liabilities": "High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-PROSE-10162026.tex",
+        "rank": 9,
+        "score": 30.0,
+        "cleanliness_and_arguments": "Completely off-topic. Addresses signature requirements instead of the USM-285 Process Receipt and Return.",
+        "risks_and_liabilities": "High risk of annoying the Court by filing an unprompted advisory on an irrelevant topic.",
+        "ats_points_addressed": false
+      }
+    ]
+  },
+  "non_substantive_evaluations": {}
+}

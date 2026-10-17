@@ -1,0 +1,286 @@
+{
+  "analysis_timestamp": "20261016_161739",
+  "application_number": "4:26-CV-08794",
+  "mode": "SDTX_FEDERAL_LITIGATION",
+  "winners": {
+    "01__": "01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex",
+    "00__": "00__INTERNAL-MEMO-10162026.pdf",
+    "02__": "02__4:26-CV-08794-PROPOSED-ORDER-10162026.pdf",
+    "03__": "03__4:26-CV-08794-DECLARATION-10162026.pdf",
+    "04__": "04__4:26-CV-08794-EXHIBIT-INDEX-10162026.pdf"
+  },
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Federal Court Responsive Pleading",
+    "evaluated_candidates": [
+      "01__4:26-CV-08794-ADVISORY-BALANCED-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-CONCISE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-EQUITABLE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-EXHAUSTIVE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-LOCALRULES-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-PROSE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex",
+      "01__4:26-CV-08794-ADVISORY-STRATEGIC-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILE-BALANCED-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILE-CONCISE-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILE-EFFICIENCY-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILE-EXHAUSTIVE-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILE-HARDSHIP-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILING-ADMINISTRATIVE-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILING-BALANCED-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILING-CONCISE-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILING-EMERGENCY-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EFILING-EXHAUSTIVE-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EXPEDITE-BALANCED-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EXPEDITE-CONCISE-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EXPEDITE-DUE-PROCESS-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EXPEDITE-EXHAUSTIVE-10162026.tex",
+      "01__4:26-CV-08794-MOTION-EXPEDITE-STATE-TRAP-10162026.tex",
+      "01__4:26-CV-08794-TRANSMITTAL-LETTER-ADMIN-10162026.tex",
+      "01__4:26-CV-08794-TRANSMITTAL-LETTER-BALANCED-10162026.tex",
+      "01__4:26-CV-08794-TRANSMITTAL-LETTER-CONCISE-10162026.tex",
+      "01__4:26-CV-08794-TRANSMITTAL-LETTER-EXHAUSTIVE-10162026.tex",
+      "01__4:26-CV-08794-TRANSMITTAL-LETTER-PROCEDURAL-10162026.tex"
+    ],
+    "winner": "01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex",
+    "collective_statement_most_likely_to_succeed": "The panel unanimously selects Candidate 8 (01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex) as the most likely to succeed. This instrument perfectly aligns with the target document\u2014an RPost receipt demonstrating verified email service on October 16, 2026. Strategically, Candidate 8 proactively cures a potential FRCP 5 service defect (serving state-court counsel before a formal federal appearance) by notifying the Court of supplemental direct service via FedEx and verified email. Procedurally, it is flawless: it includes a structured Prayer for Relief (Rule R-05), strictly adheres to the 28 U.S.C. \u00a7 1746 penalty of perjury requirement in its Certificate of Service (Rule R-08), and properly utilizes the pro se '/s/' signature block (Rule R-09). Unlike Candidate 9, which improperly embeds a motion to hold in abeyance without a Certificate of Conference (violating Rule R-06), Candidate 8 correctly frames the filing as a protective advisory, avoiding procedural strikes while effectively preserving the pending Motion for Reconsideration.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "Candidate 8 demonstrates strict adherence to the SDTX Rules Ledger. It complies with Rule R-01 (Caption), Rule R-02 (Double Spacing), Rule R-03 (Margins), Rule R-05 (Prayer for Relief), Rule R-08 (Certificate of Service with 1746 perjury clause), and Rule R-09 (Pro Se Signature). Other candidates exhibited fatal flaws: Candidates 1-7 and 20-24 omitted the mandatory 28 U.S.C. \u00a7 1746 language in their Certificates of Service; Candidates 10-19 omitted the required '/s/' signature entirely, rendering them unsigned and subject to strike under FRCP 11(a); and Candidate 9 embedded a request for an abeyance without the mandatory Certificate of Conference required by SDTX LR 7.1.D.",
+    "candidate_scores": [
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-PROTECTIVE-10162026.tex",
+        "rank": 1,
+        "score": 98.0,
+        "cleanliness_and_arguments": "Impeccably clean, deferential, and highly strategic. It directly utilizes the RPost verified email receipt to cure a potential FRCP 5 service defect without overstepping into motion practice.",
+        "risks_and_liabilities": "Minimal risk. It protects the record and establishes good faith compliance with notice requirements without triggering opposition deadlines.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-STRATEGIC-10162026.tex",
+        "rank": 2,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Strong strategic argument regarding supplemental service, but embeds a request to hold the motion in abeyance.",
+        "risks_and_liabilities": "High risk of procedural strike. By requesting an abeyance, it functions as a motion but lacks the mandatory Certificate of Conference required by SDTX LR 7.1.D.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-EQUITABLE-10162026.tex",
+        "rank": 3,
+        "score": 75.0,
+        "cleanliness_and_arguments": "Good factual clarification regarding the USMS process and service on counsel.",
+        "risks_and_liabilities": "Fails Rule R-08 by omitting the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service. Also embeds a request for abeyance.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-PROCEDURAL-10162026.tex",
+        "rank": 4,
+        "score": 74.0,
+        "cleanliness_and_arguments": "Similar to Candidate 3, provides good context on the docketing of Document 11.",
+        "risks_and_liabilities": "Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service, violating Rule R-08.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILE-BALANCED-10162026.tex",
+        "rank": 5,
+        "score": 65.0,
+        "cleanliness_and_arguments": "Well-argued motion for CM/ECF access based on the capias hardship.",
+        "risks_and_liabilities": "Fatal Rule 11 defect: Lacks the mandatory '/s/' signature block required by Rule R-09, rendering the document unsigned.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILE-EXHAUSTIVE-10162026.tex",
+        "rank": 6,
+        "score": 64.0,
+        "cleanliness_and_arguments": "Thorough legal standard analysis for e-filing privileges.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service (Rule R-08).",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILING-EMERGENCY-10162026.tex",
+        "rank": 7,
+        "score": 63.0,
+        "cleanliness_and_arguments": "Compelling emergency framing for e-filing access.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service (Rule R-08).",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EXPEDITE-EXHAUSTIVE-10162026.tex",
+        "rank": 8,
+        "score": 60.0,
+        "cleanliness_and_arguments": "Excellent use of the 'capable of repetition yet evading review' doctrine to challenge automated docket dates.",
+        "risks_and_liabilities": "Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service. Factual contradiction in CoS claiming CM/ECF service while pro se.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EXPEDITE-STATE-TRAP-10162026.tex",
+        "rank": 9,
+        "score": 59.0,
+        "cleanliness_and_arguments": "Strong narrative regarding the state court trap and due process violations.",
+        "risks_and_liabilities": "Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service. Factual contradiction in CoS claiming CM/ECF service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EXPEDITE-DUE-PROCESS-10162026.tex",
+        "rank": 10,
+        "score": 58.0,
+        "cleanliness_and_arguments": "Good constitutional framing of the docketing delay.",
+        "risks_and_liabilities": "Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EXPEDITE-BALANCED-10162026.tex",
+        "rank": 11,
+        "score": 57.0,
+        "cleanliness_and_arguments": "Clear procedural posture explanation.",
+        "risks_and_liabilities": "Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EXPEDITE-CONCISE-10162026.tex",
+        "rank": 12,
+        "score": 56.0,
+        "cleanliness_and_arguments": "Brief and to the point regarding the November 5 hearing.",
+        "risks_and_liabilities": "Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-EXHAUSTIVE-10162026.tex",
+        "rank": 13,
+        "score": 55.0,
+        "cleanliness_and_arguments": "Thorough analysis of Becker v. Montgomery regarding signature curability.",
+        "risks_and_liabilities": "Irrelevant to the target document (RPost receipt). Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-BALANCED-10162026.tex",
+        "rank": 14,
+        "score": 54.0,
+        "cleanliness_and_arguments": "Well-structured advisory on signature rules.",
+        "risks_and_liabilities": "Irrelevant to the target document. Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-LOCALRULES-10162026.tex",
+        "rank": 15,
+        "score": 53.0,
+        "cleanliness_and_arguments": "Good application of SDTX Local Rules to signature defects.",
+        "risks_and_liabilities": "Irrelevant to the target document. Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-PROSE-10162026.tex",
+        "rank": 16,
+        "score": 52.0,
+        "cleanliness_and_arguments": "Argues pro se leniency effectively.",
+        "risks_and_liabilities": "Irrelevant to the target document. Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-ADVISORY-CONCISE-10162026.tex",
+        "rank": 17,
+        "score": 51.0,
+        "cleanliness_and_arguments": "Brief summary of signature curability.",
+        "risks_and_liabilities": "Irrelevant to the target document. Omits the 28 U.S.C. \u00a7 1746 penalty of perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILE-CONCISE-10162026.tex",
+        "rank": 18,
+        "score": 45.0,
+        "cleanliness_and_arguments": "Concise e-filing motion.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILE-EFFICIENCY-10162026.tex",
+        "rank": 19,
+        "score": 44.0,
+        "cleanliness_and_arguments": "Focuses on judicial economy.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILE-HARDSHIP-10162026.tex",
+        "rank": 20,
+        "score": 43.0,
+        "cleanliness_and_arguments": "Focuses on financial hardship.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILING-ADMINISTRATIVE-10162026.tex",
+        "rank": 21,
+        "score": 42.0,
+        "cleanliness_and_arguments": "Administrative focus for e-filing.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILING-BALANCED-10162026.tex",
+        "rank": 22,
+        "score": 41.0,
+        "cleanliness_and_arguments": "Balanced e-filing motion.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILING-CONCISE-10162026.tex",
+        "rank": 23,
+        "score": 40.0,
+        "cleanliness_and_arguments": "Concise e-filing motion.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-MOTION-EFILING-EXHAUSTIVE-10162026.tex",
+        "rank": 24,
+        "score": 39.0,
+        "cleanliness_and_arguments": "Exhaustive e-filing motion.",
+        "risks_and_liabilities": "Lacks the '/s/' signature block (Rule R-09) and omits the 1746 perjury clause in the Certificate of Service.",
+        "ats_points_addressed": false
+      },
+      {
+        "candidate": "01__4:26-CV-08794-TRANSMITTAL-LETTER-EXHAUSTIVE-10162026.tex",
+        "rank": 25,
+        "score": 30.0,
+        "cleanliness_and_arguments": "Clear administrative instructions for the Clerk.",
+        "risks_and_liabilities": "Not a substantive responsive pleading. Serves only as a cover letter.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-TRANSMITTAL-LETTER-BALANCED-10162026.tex",
+        "rank": 26,
+        "score": 29.0,
+        "cleanliness_and_arguments": "Standard cover letter.",
+        "risks_and_liabilities": "Not a substantive responsive pleading.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-TRANSMITTAL-LETTER-PROCEDURAL-10162026.tex",
+        "rank": 27,
+        "score": 28.0,
+        "cleanliness_and_arguments": "Procedural cover letter.",
+        "risks_and_liabilities": "Not a substantive responsive pleading.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-TRANSMITTAL-LETTER-ADMIN-10162026.tex",
+        "rank": 28,
+        "score": 27.0,
+        "cleanliness_and_arguments": "Administrative cover letter.",
+        "risks_and_liabilities": "Not a substantive responsive pleading.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__4:26-CV-08794-TRANSMITTAL-LETTER-CONCISE-10162026.tex",
+        "rank": 29,
+        "score": 26.0,
+        "cleanliness_and_arguments": "Brief cover letter.",
+        "risks_and_liabilities": "Not a substantive responsive pleading.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {}
+}
