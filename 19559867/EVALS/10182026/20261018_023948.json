@@ -1,0 +1,362 @@
+{
+  "application_number": "19559867",
+  "evaluation_timestamp": "20261018_023948",
+  "date": "10182026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19559867-RESPONSE-ASSERTIVE-10182026.tex",
+      "01__19559867-RESPONSE-BALANCED-10182026.tex",
+      "01__19559867-RESPONSE-CONCISE-10182026.tex",
+      "01__19559867-RESPONSE-DETAILED-10182026.tex",
+      "01__19559867-RESPONSE-EQUITABLE-10182026.tex"
+    ],
+    "winner": "01__19559867-RESPONSE-CONCISE-10182026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate 3 (CONCISE) is the most likely to succeed because it adopts a highly professional, objective, and concise tone, avoiding the unnecessary and potentially distracting adjectives ('rigorous and assertive,' 'equitable') found in the other candidates. It perfectly executes the mandatory Path B Waterfall Strategy Directive by correctly allocating the $520.00 in unapplied credits to the Basic Filing Fee, Examination Fee, and Late Surcharge, while remitting the remaining $480.00 for the Search Fee and Non-DOCX Surcharge. Furthermore, it correctly calculates the statutory deadline rollover to Monday, October 19, 2026, under 35 U.S.C. \u00a7 21 and 37 CFR \u00a7 1.7, avoiding any need for extension fees. It also successfully executes the preemptive formalities curing by filing a Substitute Specification to excise embedded drawings and segregate claims/abstracts, ensuring compliance with 37 CFR \u00a7\u00a7 1.52, 1.58, and 1.72.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "The winning candidate perfectly aligns with the critical Path B fee allocation directive, strictly following the $520 knapsack optimization to prevent stranded funds. It also addresses the missing parts, reaffirms Small Entity status, and preemptively cures specification defects as highly rewarded by the core evaluation philosophy.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19559867-RESPONSE-CONCISE-10182026.tex",
+        "rank": 1,
+        "score": 98.0,
+        "cleanliness_and_arguments": "Excellent, objective, and professional tone. Accurately cites the weekend rollover rule and perfectly executes the fee allocation strategy.",
+        "risks_and_liabilities": "Minimal risk. The document strictly adheres to statutory requirements and USPTO rules without introducing extraneous commentary.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559867-RESPONSE-BALANCED-10182026.tex",
+        "rank": 2,
+        "score": 92.0,
+        "cleanliness_and_arguments": "Very good, but includes slightly unnecessary stylistic adjectives ('balanced and comprehensive') in the opening paragraph.",
+        "risks_and_liabilities": "Low risk. The legal and procedural substance is identical to the winning candidate.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559867-RESPONSE-DETAILED-10182026.tex",
+        "rank": 3,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Good, but the use of 'highly detailed' in the opening is unnecessary for a standard transmittal document.",
+        "risks_and_liabilities": "Low risk. Procedurally sound and compliant with the Path B directive.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559867-RESPONSE-ASSERTIVE-10182026.tex",
+        "rank": 4,
+        "score": 88.0,
+        "cleanliness_and_arguments": "The use of 'rigorous and assertive' sets an unnecessarily combative tone for a routine administrative response.",
+        "risks_and_liabilities": "Low risk of rejection, but the tone is less professional than the concise candidate.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559867-RESPONSE-EQUITABLE-10182026.tex",
+        "rank": 5,
+        "score": 80.0,
+        "cleanliness_and_arguments": "Flawed by the inclusion of an irrelevant and unprofessional complaint regarding $32,758.00 in detained portfolio funds.",
+        "risks_and_liabilities": "Moderate risk of irritating the Examiner or OPAP staff by including grievances unrelated to the specific application's missing parts.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19559867-DECLARATION-BALANCED-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19559867-DECLARATION-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/04__19559867-DECLARATION-BALANCED-10182026.pdf",
+          "score": 93.36860670194004,
+          "diff_chars": 312,
+          "deviations": 9,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "04__19559867-DECLARATION-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/04__19559867-DECLARATION-ASSERTIVE-10182026.pdf",
+          "score": 93.36860670194004,
+          "diff_chars": 312,
+          "deviations": 9,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "04__19559867-DECLARATION-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/04__19559867-DECLARATION-CONCISE-10182026.pdf",
+          "score": 93.36860670194004,
+          "diff_chars": 312,
+          "deviations": 9,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "04__19559867-DECLARATION-EQUITABLE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/04__19559867-DECLARATION-EQUITABLE-10182026.pdf",
+          "score": 93.36860670194004,
+          "diff_chars": 312,
+          "deviations": 9,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "04__19559867-DECLARATION-DETAILED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/04__19559867-DECLARATION-DETAILED-10182026.pdf",
+          "score": 93.36860670194004,
+          "diff_chars": 312,
+          "deviations": 9,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application.pdf",
+      "winner": "05__19559867-SPECIFICATION-BALANCED-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19559867-SPECIFICATION-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/05__19559867-SPECIFICATION-BALANCED-10182026.pdf",
+          "score": 99.4692144373673,
+          "diff_chars": 1161,
+          "deviations": 12,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "05__19559867-SPECIFICATION-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/05__19559867-SPECIFICATION-CONCISE-10182026.pdf",
+          "score": 99.4692144373673,
+          "diff_chars": 1161,
+          "deviations": 12,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "05__19559867-SPECIFICATION-EQUITABLE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/05__19559867-SPECIFICATION-EQUITABLE-10182026.pdf",
+          "score": 99.4692144373673,
+          "diff_chars": 1161,
+          "deviations": 12,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "05__19559867-SPECIFICATION-DETAILED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/05__19559867-SPECIFICATION-DETAILED-10182026.pdf",
+          "score": 99.4692144373673,
+          "diff_chars": 1161,
+          "deviations": 12,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "05__19559867-SPECIFICATION-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/05__19559867-SPECIFICATION-ASSERTIVE-10182026.pdf",
+          "score": 99.4692144373673,
+          "diff_chars": 1161,
+          "deviations": 12,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application.pdf",
+      "winner": "06__19559867-MARKED-UP-SPEC-ASSERTIVE-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19559867-MARKED-UP-SPEC-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/06__19559867-MARKED-UP-SPEC-ASSERTIVE-10182026.pdf",
+          "score": 98.85375494071145,
+          "diff_chars": 122,
+          "deviations": 31,
+          "punct_deviations": 12,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "06__19559867-MARKED-UP-SPEC-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/06__19559867-MARKED-UP-SPEC-BALANCED-10182026.pdf",
+          "score": 98.85375494071145,
+          "diff_chars": 122,
+          "deviations": 31,
+          "punct_deviations": 12,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "06__19559867-MARKED-UP-SPEC-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/06__19559867-MARKED-UP-SPEC-CONCISE-10182026.pdf",
+          "score": 98.85375494071145,
+          "diff_chars": 122,
+          "deviations": 31,
+          "punct_deviations": 12,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "06__19559867-MARKED-UP-SPEC-DETAILED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/06__19559867-MARKED-UP-SPEC-DETAILED-10182026.pdf",
+          "score": 98.85375494071145,
+          "diff_chars": 122,
+          "deviations": 31,
+          "punct_deviations": 12,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "06__19559867-MARKED-UP-SPEC-EQUITABLE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/06__19559867-MARKED-UP-SPEC-EQUITABLE-10182026.pdf",
+          "score": 98.85375494071145,
+          "diff_chars": 122,
+          "deviations": 31,
+          "punct_deviations": 12,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19559867-CLAIMS-CONCISE-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19559867-CLAIMS-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/08__19559867-CLAIMS-CONCISE-10182026.pdf",
+          "score": 99.02173913043478,
+          "diff_chars": 133,
+          "deviations": 12,
+          "punct_deviations": 3,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "08__19559867-CLAIMS-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/08__19559867-CLAIMS-ASSERTIVE-10182026.pdf",
+          "score": 99.02173913043478,
+          "diff_chars": 133,
+          "deviations": 12,
+          "punct_deviations": 3,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "08__19559867-CLAIMS-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/08__19559867-CLAIMS-BALANCED-10182026.pdf",
+          "score": 99.02173913043478,
+          "diff_chars": 133,
+          "deviations": 12,
+          "punct_deviations": 3,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "08__19559867-CLAIMS-EQUITABLE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/08__19559867-CLAIMS-EQUITABLE-10182026.pdf",
+          "score": 99.02173913043478,
+          "diff_chars": 133,
+          "deviations": 12,
+          "punct_deviations": 3,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "08__19559867-CLAIMS-DETAILED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/08__19559867-CLAIMS-DETAILED-10182026.pdf",
+          "score": 99.02173913043478,
+          "diff_chars": 133,
+          "deviations": 12,
+          "punct_deviations": 3,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19559867-ABSTRACT-CONCISE-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19559867-ABSTRACT-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/09__19559867-ABSTRACT-CONCISE-10182026.pdf",
+          "score": 96.73366834170855,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "09__19559867-ABSTRACT-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/09__19559867-ABSTRACT-BALANCED-10182026.pdf",
+          "score": 96.73366834170855,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "09__19559867-ABSTRACT-EQUITABLE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/09__19559867-ABSTRACT-EQUITABLE-10182026.pdf",
+          "score": 96.73366834170855,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "09__19559867-ABSTRACT-DETAILED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/09__19559867-ABSTRACT-DETAILED-10182026.pdf",
+          "score": 96.73366834170855,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "09__19559867-ABSTRACT-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-023927-RESPONSE/09__19559867-ABSTRACT-ASSERTIVE-10182026.pdf",
+          "score": 96.73366834170855,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19559867-RESPONSE-CONCISE-10182026.tex",
+    "02__": "02__19559867-EXTENSION-ASSERTIVE-10182026.pdf",
+    "03__": "03__19559867-SUSPENSION-CONCISE-10182026.pdf",
+    "04__": "04__19559867-DECLARATION-BALANCED-10182026.pdf",
+    "05__": "05__19559867-SPECIFICATION-BALANCED-10182026.pdf",
+    "06__": "06__19559867-MARKED-UP-SPEC-ASSERTIVE-10182026.pdf",
+    "07__": "07__19559867-DRAWINGS-EQUITABLE-10182026.pdf",
+    "08__": "08__19559867-CLAIMS-CONCISE-10182026.pdf",
+    "09__": "09__19559867-ABSTRACT-CONCISE-10182026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559867/EVALS/10182026/20261018_023948.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559867/EVALS/10182026/20261018_023948.html"
+}

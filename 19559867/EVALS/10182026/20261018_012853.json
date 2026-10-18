@@ -1,0 +1,362 @@
+{
+  "application_number": "19559867",
+  "evaluation_timestamp": "20261018_012853",
+  "date": "10182026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19559867-RESPONSE-ASSERTIVE-10182026.tex",
+      "01__19559867-RESPONSE-BALANCED-10182026.tex",
+      "01__19559867-RESPONSE-COMPREHENSIVE-10182026.tex",
+      "01__19559867-RESPONSE-CONCISE-10182026.tex",
+      "01__19559867-RESPONSE-STANDARD-10182026.tex"
+    ],
+    "winner": "01__19559867-RESPONSE-STANDARD-10182026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate 5 (STANDARD) is the most likely to succeed because it strictly adheres to the statutory requirements and the ATS Waterfall Strategy Directive without introducing unnecessary, combative, or irrelevant arguments. It correctly cites both 37 CFR \u00a7 1.22(b) and MPEP \u00a7 509 to direct the exact allocation of the $520.00 unapplied credits to the mathematically optimized fee codes (4011, 2311, 2051) and properly defers the remaining balance to a 37 CFR \u00a7 1.53(f) notice. Unlike Candidates 1, 2, and 3, it omits the 'Macro Equity' grievance regarding the $32,758.00 across the applicant's portfolio, which is legally irrelevant to the adjudication of this specific application and could antagonize Office personnel. It is professional, concise, and procedurally flawless.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "Candidate 5 perfectly aligns with the ATS pipeline's Path B directive. It explicitly requests the application of credits to unpaid base fees using the exact knapsack subset-sum maximum utilization values ($70 to 4011, $352 to 2311, $68 to 2051) and cites the required authorities (37 CFR \u00a7 1.22(b) and MPEP \u00a7 509). It also addresses the oath/declaration deficiency by submitting a Perfected AIA Declaration.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19559867-RESPONSE-STANDARD-10182026.tex",
+        "rank": 1,
+        "score": 98.0,
+        "cleanliness_and_arguments": "Highly professional, clean, and strictly focused on the procedural and statutory requirements. Arguments are concise and legally sound.",
+        "risks_and_liabilities": "Minimal to none. The document follows standard USPTO practice and avoids any extraneous commentary that could delay processing.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559867-RESPONSE-CONCISE-10182026.tex",
+        "rank": 2,
+        "score": 92.0,
+        "cleanliness_and_arguments": "Very clean and concise, but omits the explicit citation to MPEP \u00a7 509 requested in the ATS directive, which is helpful for overriding default agency accounting.",
+        "risks_and_liabilities": "Low risk, though the omission of MPEP \u00a7 509 might slightly reduce the forcefulness of the accounting override request.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559867-RESPONSE-BALANCED-10182026.tex",
+        "rank": 3,
+        "score": 75.0,
+        "cleanliness_and_arguments": "Contains the necessary statutory elements but includes an irrelevant 'Macro Equity' argument regarding portfolio-wide unapplied funds.",
+        "risks_and_liabilities": "Moderate risk. Including grievances about other applications in the portfolio is unprofessional and irrelevant to the instant application, potentially irritating the reviewing officer.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559867-RESPONSE-ASSERTIVE-10182026.tex",
+        "rank": 4,
+        "score": 70.0,
+        "cleanliness_and_arguments": "Includes overly combative language ('strongly notes', 'demanding equitable administrative crediting') and irrelevant portfolio-wide financial complaints.",
+        "risks_and_liabilities": "High risk of alienating Office personnel. The combative tone and inclusion of extraneous portfolio data do not advance the legal merits of the response.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559867-RESPONSE-COMPREHENSIVE-10182026.tex",
+        "rank": 5,
+        "score": 70.0,
+        "cleanliness_and_arguments": "Identical to the Assertive candidate, suffering from the same flaws regarding combative tone and irrelevant portfolio-wide grievances.",
+        "risks_and_liabilities": "High risk. The inclusion of non-germane complaints about the USPTO holding funds across 102 applications is inappropriate for a formal response.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19559867-DECLARATION-BALANCED-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19559867-DECLARATION-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/04__19559867-DECLARATION-BALANCED-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 1
+        },
+        {
+          "filename": "04__19559867-DECLARATION-STANDARD-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/04__19559867-DECLARATION-STANDARD-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 2
+        },
+        {
+          "filename": "04__19559867-DECLARATION-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/04__19559867-DECLARATION-ASSERTIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 3
+        },
+        {
+          "filename": "04__19559867-DECLARATION-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/04__19559867-DECLARATION-CONCISE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 4
+        },
+        {
+          "filename": "04__19559867-DECLARATION-COMPREHENSIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/04__19559867-DECLARATION-COMPREHENSIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 5
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application.pdf",
+      "winner": "05__19559867-SPECIFICATION-BALANCED-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19559867-SPECIFICATION-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/05__19559867-SPECIFICATION-BALANCED-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 1
+        },
+        {
+          "filename": "05__19559867-SPECIFICATION-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/05__19559867-SPECIFICATION-CONCISE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 2
+        },
+        {
+          "filename": "05__19559867-SPECIFICATION-STANDARD-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/05__19559867-SPECIFICATION-STANDARD-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 3
+        },
+        {
+          "filename": "05__19559867-SPECIFICATION-COMPREHENSIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/05__19559867-SPECIFICATION-COMPREHENSIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 4
+        },
+        {
+          "filename": "05__19559867-SPECIFICATION-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/05__19559867-SPECIFICATION-ASSERTIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 5
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application.pdf",
+      "winner": "06__19559867-MARKED-UP-STANDARD-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19559867-MARKED-UP-STANDARD-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/06__19559867-MARKED-UP-STANDARD-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 1
+        },
+        {
+          "filename": "06__19559867-MARKED-UP-COMPREHENSIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/06__19559867-MARKED-UP-COMPREHENSIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 2
+        },
+        {
+          "filename": "06__19559867-MARKED-UP-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/06__19559867-MARKED-UP-CONCISE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 3
+        },
+        {
+          "filename": "06__19559867-MARKED-UP-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/06__19559867-MARKED-UP-ASSERTIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 4
+        },
+        {
+          "filename": "06__19559867-MARKED-UP-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/06__19559867-MARKED-UP-BALANCED-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 5
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19559867-CLAIMS-CONCISE-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19559867-CLAIMS-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/08__19559867-CLAIMS-CONCISE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 1
+        },
+        {
+          "filename": "08__19559867-CLAIMS-COMPREHENSIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/08__19559867-CLAIMS-COMPREHENSIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 2
+        },
+        {
+          "filename": "08__19559867-CLAIMS-STANDARD-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/08__19559867-CLAIMS-STANDARD-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 3
+        },
+        {
+          "filename": "08__19559867-CLAIMS-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/08__19559867-CLAIMS-ASSERTIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 4
+        },
+        {
+          "filename": "08__19559867-CLAIMS-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/08__19559867-CLAIMS-BALANCED-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 5
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19559867-ABSTRACT-CONCISE-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19559867-ABSTRACT-CONCISE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/09__19559867-ABSTRACT-CONCISE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 1
+        },
+        {
+          "filename": "09__19559867-ABSTRACT-BALANCED-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/09__19559867-ABSTRACT-BALANCED-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 2
+        },
+        {
+          "filename": "09__19559867-ABSTRACT-STANDARD-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/09__19559867-ABSTRACT-STANDARD-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 3
+        },
+        {
+          "filename": "09__19559867-ABSTRACT-COMPREHENSIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/09__19559867-ABSTRACT-COMPREHENSIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 4
+        },
+        {
+          "filename": "09__19559867-ABSTRACT-ASSERTIVE-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559867-10182026-RESPONSE/09__19559867-ABSTRACT-ASSERTIVE-10182026.pdf",
+          "score": 0.0,
+          "diff_chars": 0,
+          "deviations": 0,
+          "punct_deviations": 0,
+          "status": "Error: diff_match_patch is required. Install via: pip install diff-match-patch or sudo apt install python3-diff-match-patch",
+          "rank": 5
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19559867-RESPONSE-STANDARD-10182026.tex",
+    "02__": "02__19559867-EXTENSION-ASSERTIVE-10182026.pdf",
+    "03__": "03__19559867-SUSPENSION-STANDARD-10182026.pdf",
+    "04__": "04__19559867-DECLARATION-BALANCED-10182026.pdf",
+    "05__": "05__19559867-SPECIFICATION-BALANCED-10182026.pdf",
+    "06__": "06__19559867-MARKED-UP-STANDARD-10182026.pdf",
+    "07__": "07__19559867-DRAWINGS-BALANCED-10182026.pdf",
+    "08__": "08__19559867-CLAIMS-CONCISE-10182026.pdf",
+    "09__": "09__19559867-ABSTRACT-CONCISE-10182026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559867/EVALS/10182026/20261018_012853.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559867/EVALS/10182026/20261018_012853.html"
+}
