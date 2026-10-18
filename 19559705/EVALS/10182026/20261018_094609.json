@@ -1,0 +1,162 @@
+{
+  "application_number": "19559705",
+  "evaluation_timestamp": "20261018_094609",
+  "date": "10182026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19559705-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10182026.tex",
+      "01__19559705-SUPPLEMENTAL-RESPONSE-BALANCED-10182026.tex",
+      "01__19559705-SUPPLEMENTAL-RESPONSE-CONCISE-10182026.tex",
+      "01__19559705-SUPPLEMENTAL-RESPONSE-DEFERENTIAL-10182026.tex",
+      "01__19559705-SUPPLEMENTAL-RESPONSE-RIGOROUS-10182026.tex"
+    ],
+    "winner": "01__19559705-SUPPLEMENTAL-RESPONSE-RIGOROUS-10182026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #5 (01__19559705-SUPPLEMENTAL-RESPONSE-RIGOROUS-10182026.tex) is selected by the panel of USPTO adjudicators as the document most likely to succeed. From an administrative and regulatory standpoint, Candidate #5 strikes the exact balance between statutory completeness and prosecutorial decorum required by the Office of Patent Application Processing (OPAP) and the Office of Petitions. It anchors its authority firmly in 37 CFR \u00a7\u00a7 1.111, 1.121, and MPEP \u00a7 714.03 for supplemental submissions, while invoking MPEP \u00a7 710.02(e) for the correct netting of the previously paid 4-month extension fee ($998.00 under Fee Code 2254) against the 5-month fee ($1,358.00 under Fee Code 2255), cleanly resolving the $360.00 delta. Furthermore, Candidate #5 impeccably executes the preemptive cure required by 37 CFR \u00a7 1.125 for substitute specifications (incorporating the necessary 1.125(b) 'no new matter' certification and clear segregation of drawings, claims, and abstracts) while removing the erroneous government license clause to secure Small Entity status under 37 CFR \u00a7 1.27. Unlike Candidate #1, which adopts an unnecessarily combative tone ('Demand for Order of Clearance'), or Candidate #4, which relies on inappropriate civil litigation nomenclature ('Prayer for Relief'), Candidate #5 maintains an authoritative, objective, and legally precise posture that maximizes the likelihood of immediate clearance and issuance of an updated Filing Receipt.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "All five candidates successfully recognize the operative docket posture following the October 9, 2026 filings, the 5-month maximum statutory extension window expiring November 9, 2026, and the necessity of filing a clean Substitute Specification under 37 CFR \u00a7 1.125 to remove embedded elements and protect small entity status. Candidate #5 provides the most rigorous alignment with USPTO accounting mechanisms and MPEP provisions, ensuring seamless entry into the Image File Wrapper without procedural bounce.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19559705-SUPPLEMENTAL-RESPONSE-RIGOROUS-10182026.tex",
+        "rank": 1,
+        "score": 96.5,
+        "cleanliness_and_arguments": "Exemplary legal precision. Integrates MPEP 714.03, MPEP 710.02(e), 37 CFR 1.125(b) certification, and granular point-of-sale accounting for base fees and extension fee differentials.",
+        "risks_and_liabilities": "Extremely low risk. Leaves zero ambiguity for OPAP paralegals regarding fee application or document indexing.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559705-SUPPLEMENTAL-RESPONSE-BALANCED-10182026.tex",
+        "rank": 2,
+        "score": 93.0,
+        "cleanliness_and_arguments": "Very well structured, articulate, and complete across all eight curative instruments. Explains the Patent Center previously paid extension fee field accurately.",
+        "risks_and_liabilities": "Low risk; slightly less comprehensive on explicit MPEP rule citations than Candidate #5.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559705-SUPPLEMENTAL-RESPONSE-CONCISE-10182026.tex",
+        "rank": 3,
+        "score": 89.0,
+        "cleanliness_and_arguments": "Clean, compact, and addresses all necessary statutory points without unnecessary verbiage.",
+        "risks_and_liabilities": "Low-to-moderate risk; the brevity in Section III leaves out specific MPEP accounting guidance that aids OPAP staff during manual fee reconciliation.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559705-SUPPLEMENTAL-RESPONSE-DEFERENTIAL-10182026.tex",
+        "rank": 4,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Substantively sound and covers all required formal corrections, but relies on overly deferential phrasing ('courteous cooperation', 'Prayer for Relief') more suited to state court practice than USPTO administrative prosecution.",
+        "risks_and_liabilities": "Moderate risk; archaic judicial framing can detract from clean administrative processing.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559705-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10182026.tex",
+        "rank": 5,
+        "score": 81.0,
+        "cleanliness_and_arguments": "Technically complete regarding substantive instruments, but unnecessarily antagonistic in tone, concluding with a 'Demand for Order of Clearance' and asserting that action is 'legally mandated'.",
+        "risks_and_liabilities": "Elevated risk of administrative friction and potential scrutiny from the Office of Petitions due to abrasive, adversarial phrasing.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19559705-SUPPLEMENTAL-INVENTOR-DECLARATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19559705-SUPPLEMENTAL-INVENTOR-DECLARATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559705-10182026-094558-Supplemental/04__19559705-SUPPLEMENTAL-INVENTOR-DECLARATION-10182026.pdf",
+          "score": 93.17697228144989,
+          "diff_chars": 341,
+          "deviations": 11,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application.pdf",
+      "winner": "05__19559705-SUPPLEMENTAL-SPECIFICATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19559705-SUPPLEMENTAL-SPECIFICATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559705-10182026-094558-Supplemental/05__19559705-SUPPLEMENTAL-SPECIFICATION-10182026.pdf",
+          "score": 99.58514830947937,
+          "diff_chars": 1807,
+          "deviations": 19,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application.pdf",
+      "winner": "06__19559705-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19559705-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559705-10182026-094558-Supplemental/06__19559705-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10182026.pdf",
+          "score": 97.81097984711606,
+          "diff_chars": 388,
+          "deviations": 29,
+          "punct_deviations": 14,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19559705-SUPPLEMENTAL-CLAIMS-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19559705-SUPPLEMENTAL-CLAIMS-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559705-10182026-094558-Supplemental/08__19559705-SUPPLEMENTAL-CLAIMS-10182026.pdf",
+          "score": 99.16123019571296,
+          "diff_chars": 152,
+          "deviations": 22,
+          "punct_deviations": 6,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19559705-SUPPLEMENTAL-ABSTRACT-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19559705-SUPPLEMENTAL-ABSTRACT-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559705-10182026-094558-Supplemental/09__19559705-SUPPLEMENTAL-ABSTRACT-10182026.pdf",
+          "score": 97.81696053736356,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19559705-SUPPLEMENTAL-RESPONSE-RIGOROUS-10182026.tex",
+    "02__": "02__19559705-SUPPLEMENTAL-EXTENSION-BALANCED-10182026.pdf",
+    "03__": "03__19559705-SUPPLEMENTAL-SUSPENSION-ASSERTIVE-10182026.pdf",
+    "04__": "04__19559705-SUPPLEMENTAL-INVENTOR-DECLARATION-10182026.pdf",
+    "05__": "05__19559705-SUPPLEMENTAL-SPECIFICATION-10182026.pdf",
+    "06__": "06__19559705-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10182026.pdf",
+    "07__": "07__19559705-SUPPLEMENTAL-DRAWINGS-10182026.pdf",
+    "08__": "08__19559705-SUPPLEMENTAL-CLAIMS-10182026.pdf",
+    "09__": "09__19559705-SUPPLEMENTAL-ABSTRACT-10182026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559705/EVALS/10182026/20261018_094609.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559705/EVALS/10182026/20261018_094609.html"
+}

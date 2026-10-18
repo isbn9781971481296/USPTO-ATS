@@ -125,8 +125,58 @@
         <div class='table-responsive'><table class='table table-sm'><thead><tr><th>Date</th><th>Type</th><th>Description</th><th>Status</th><th>Extendable</th></tr></thead><tbody><tr class='table-danger'><td>2026-09-10</td><td>IMPLIED_CROSS_REFERENCED</td><td>Two-month initial response deadline set in Notice to File Missing Parts (mailed 2026-07-10), confirmed by the Notice of Incomplete Reply (2026-09-09) and Decision on Petition (2026-09-29) as continuing to run from the July 10, 2026 mail date.</td><td>EXTENSION_REQUIRED</td><td>5 months (Max: 2027-02-10)</td></tr><tr class='table-danger'><td>2026-10-12</td><td>EXTENDABLE</td><td>First-month extension of time deadline (original 2026-10-10 falls on Saturday, rolling to Monday, 2026-10-12 under 35 U.S.C. 21 and 37 CFR 1.7) to reply to Notice to File Missing Parts with 1-month extension fee.</td><td>EXTENSION_REQUIRED</td><td>4 months (Max: 2027-02-10)</td></tr><tr class='table-warning'><td>2026-11-30</td><td>STATUTORY</td><td>Non-extendable two-month deadline to request reconsideration of the Office of Petitions decision dismissed September 29, 2026 (2026-11-29 falls on a Sunday, extending under 35 U.S.C. 21 / 37 CFR 1.7 to Monday, 2026-11-30).</td><td>UPCOMING</td><td>0 months (Max: 2026-11-30)</td></tr><tr class='table-warning'><td>2027-02-10</td><td>STATUTORY</td><td>Maximum 5-month extension deadline under 37 CFR 1.136(a) to reply to Notice to File Missing Parts mailed July 10, 2026, after which the application will become abandoned.</td><td>UPCOMING</td><td>0 months (Max: 2027-02-10)</td></tr></tbody></table></div>
     </div>
     
+    
+    <div id="portfolio-fees" class="mb-4">
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="mb-0">External Portfolio Fee Heuristic & Credit Knapsack Analysis</h5>
+            <div class="d-flex align-items-center gap-2">
+                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
+                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('portfolio-fees', this)" title="Copy permalink to Portfolio Fees">🔗 Permalink</button>
+            </div>
+        </div>
+        <pre class='bg-light p-3 border rounded border-info text-dark' style='font-size: 0.85em; font-family: monospace; white-space: pre-wrap;'>================================================================================
+APPLICATION: 19560062 | Title: PORTABLE DATA CARTRIDGE WITH OPTICAL INTERFACE...
+Filing Date: 2026-03-08 | Entity Tier: SMALL_ENTITY
+Notice Date: 2026-07-10 (Deadline: 2026-09-10) | Current Status: Extension Month 2 [AUTO: Today 2026-10-18 vs Deadline 2026-09-10]
+--------------------------------------------------------------------------------
+PREVIOUSLY PAID FEES IN DOCKET XML (7 items, Total: $784.00):
+  - Code 2830 : Processing fee, except in provisional applica $   60.00 (2026-10-09)
+  - Code 2251 : Extension for response within first month, ex $   94.00 (2026-10-09)
+  - Code 2462 : Petitions requiring the petition fee set fort $  180.00 (2026-08-03)
+  - Code 3051 : Surcharge - Late filing fee, search fee, exam $   34.00 (2026-07-21)
+  - Code 3111 : Utility search fee                            $  154.00 (2026-03-09)
+  - Code 3311 : Utility examination fee                       $  176.00 (2026-03-09)
+  - Code 3054 : Non-DOCX filing surcharge                     $   86.00 (2026-03-09)
+--------------------------------------------------------------------------------
+DEFICIENT / UNPAID FEES IDENTIFIED (6 items, Total: $1,246.00):
+  - Code  4011: Basic Filing Fee — Utility (Small Entity, Electr $   70.00 (37 CFR 1.16(a))
+  - Code  2111: Utility Search Fee (Small Entity)                $  308.00 (37 CFR 1.16(k))
+  - Code  2311: Utility Examination Fee (Small Entity)           $  352.00 (37 CFR 1.16(o))
+  - Code  2051: Late Filing Surcharge (Small Entity)             $   68.00 (37 CFR 1.16(f))
+  - Code  2054: Non-DOCX Filing Surcharge (Small Entity)         $  172.00 (37 CFR 1.16(u))
+  - Code  2252: Extension of time — Month 2 (Small Entity)       $  276.00 (37 CFR 1.17(a)(2))
+--------------------------------------------------------------------------------
+UNAPPLIED CREDITS DETECTED:                                     $416.00
+OPTIMAL CREDIT APPLICATION (Knapsack evaluated 15 valid subsets):
+  [✓] REQUEST TO APPLY UNAPPLIED CREDITS TO:
+      * Code  4011: Basic Filing Fee — Utility (Small Entity, Ele $   70.00
+      * Code  2051: Late Filing Surcharge (Small Entity)          $   68.00
+      * Code  2252: Extension of time — Month 2 (Small Entity)    $  276.00
+  Total Credits Absorbed:                                         $414.00
+  Remaining Stranded Credits (Surplus/Refund under 37 CFR 1.26):  $2.00
+--------------------------------------------------------------------------------
+  [!] REMAINING DEFICIENT FEES REQUIRING FRESH FUNDS ($832.00):
+      * Code  2111: Utility Search Fee (Small Entity)             $  308.00
+      * Code  2311: Utility Examination Fee (Small Entity)        $  352.00
+      * Code  2054: Non-DOCX Filing Surcharge (Small Entity)      $  172.00
+  NET FRESH TENDER DUE UPON FILING:                               $832.00
+================================================================================</pre>
+    </div>
+    
+
     <div id="extension-fees" class="mb-4">
         
+
     <div class="card mb-4 border-info">
         <div class="card-header bg-light d-flex justify-content-between align-items-center">
             <h5 class="mb-0 text-dark">Extension of Time Fee Analysis (37 CFR 1.136(a) Small Entity)</h5>

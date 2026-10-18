@@ -1,0 +1,2654 @@
+FILED
+26-0511
+5/27/2026 7:40 AM
+tex-115364438
+SUPREME COURT OF TEXAS
+BLAKE A. HAWTHORNE, CLERK
+
+No. 26-0511
+In re Reinaldo J. Aguiar Marcano,
+Relator
+
+§
+§
+§
+§
+§
+
+IN THE
+SUPREME COURT
+OF TEXAS
+
+RELATOR’S RESPONSE TO MOTION FOR RULE 52.11
+SANCTIONS, EMERGENCY MOTION FOR IMMEDIATE
+TEMPORARY STAY UNDER TRAP 52.10, AND CONCURRENT
+CROSS-PETITION FOR WRIT OF MANDAMUS AND EX PARTE
+HABEAS CORPUS
+
+Reinaldo J. Aguiar Marcano
+26714 Valleyside Drive, Katy, Texas 77494
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 1 of 25
+
+TABLE OF CONTENTS
+● Identity of Parties and Counsel
+● Index of Authorities
+● Statement of the Case
+● Statement of Jurisdiction
+● Issues Presented
+● Statement of Facts
+● Argument and Authorities
+○ Argument I: The Automatic Operation of the Rule 18a Stay and the
+Absolute Voidness of the Under-Color Enforcement Actions.
+○ Argument II: Structural De Process Deprivation and the Systematic
+Abdication of Mandatory Section 201.015 De Novo Reviews.
+○ Argument III: Real Party’s Unclean Hands, Litigation Duress, and the
+Coercive Infringement of the Absolute Right to Self-Representation.
+○ Argument IV: Interlocking Federal Public Procurement and Sovereign
+Military Trade Secret Protection Matrix.
+○ Argument V: Erroneous Denial Below and the Immediate Operational
+Bounds of Constructive Restraint Habeas Jurisdiction.
+● Prayer and Relief Sought
+● Certi�cate of Compliance
+● Certi�cate of Service
+● Veri�cation
+● Master Appendix And Comprehensive Index Of Requisite Exhibits Pursuant To
+Tex. R. App. P. 52.3(K)
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 3 of 25
+
+INDEX OF AUTHORITIES
+Cases:
+● Albright v. Oliver, 510 U.S. 266 (1994)
+● Attorney General of Texas v. Orr, 989 S.W.2d 464 (Tex. App.—Austin 1999, no
+pet.)
+● Ex parte Shaﬀer, 649 S.W.2d 300 (Tex. 1983)
+● Ex parte Snodgrass, 43 Tex. Crim. 359, 65 S.W. 1061 (1901)
+● In re Marshall, 515 S.W.3d 420 (Tex. App.—Houston [14th Dist.] 2017, orig.
+proceeding)
+● In re Strickland, No. 05-23-01004-CV, 2024 WL 115289 (Tex. App.—Dallas Jan.
+10, 2024, orig. proceeding)
+● In re Timothy Chad Gold, No. 01-24-00123-CV (Tex. App.—Houston [1st Dist.]
+May 7, 2025, orig. proceeding)
+● Walker v. Packer, 827 S.W.2d 833 (Tex. 1992)
+
+Statutes and Rules:
+● 18 U.S.C. § 1951 (The Hobbs Act)
+● 18 U.S.C. § 1832 (Defend Trade Secrets Act)
+● 28 U.S.C. § 2201 (Declaratory Judgment Act)
+● 48 C.F.R. § 227.7004 (DFARS Administrative Claims)
+● Tex. Civil Prac. & Rem. Code § 11.051
+● Tex. Civil Prac. & Rem. Code § 30.016
+● Tex. Civil Prac. & Rem. Code § 132.001
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 4 of 25
+
+● Tex. Fam. Code § 201.015
+● Tex. R. App. P. 9.4, 52.2, 52.3, 52.10, 52.11
+● Tex. R. Civ. P. 7, 18a, 21
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 5 of 25
+
+STATEMENT OF THE CASE
+The underlying proceeding is a domestic relations suit captioned In the Matter of the
+Marriage of Gloria Espina and Reinaldo J. Aguiar Marcano, Cause No.
+25-DCV-328122, pending in the 387th District Court of Fort Bend County, Texas, the
+Honorable Oscar M. Telfair III presiding. On January 14, 2026, Relator �led his Third
+Veri�ed Motion to Recuse Judge Telfair (Index #149) , which was formally referred to
+the Chief Justice of this Court on January 27, 2026 (Index #170).
+Despite the mandatory operation of the statutory stay, the Trial Court conducted an
+extrajudicial enforcement hearing on May 14, 2026 , leading to a void "Order for Capias
+and Setting of Bond" signed by Judge Telfair (Index #222). Relator sought emergency
+relief in the First Court of Appeals, which summarily denied his petitions for
+mandamus and habeas corpus on May 26, 2026. Concurrently, the Trial Court clerk
+altered docket entries to backdate records , and Real Party's counsel issued an
+extrajudicial ultimatum threat on May 26, 2026, demanding the withdrawal of these
+high-court proceedings.
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 6 of 25
+
+STATEMENT OF JURISDICTION
+This Court maintains absolute concurrent original jurisdiction to issue writs of
+mandamus, prohibition, and habeas corpus pursuant to Texas Government Code §
+22.002 and Texas Rule of Appellate Procedure 52. Jurisdiction is further compelled
+because the intermediate court of appeals has failed to safeguard constitutional limits,
+leaving Relator with no alternative remedy to cure an ongoing, state-sanctioned
+property and liberty deprivation.
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 7 of 25
+
+ISSUES PRESENTED
+1. Whether a trial court's execution of an arrest warrant and scheduling of ex parte
+property discovery during a pending recusal referral is void ab initio under TRCP
+18a.
+2. Whether a trial court abdicates its ministerial duty by refusing to hold a
+mandatory de novo review under Texas Family Code § 201.015.
+3. Whether an attorney’s out-of-court text and email commands ordering a pro se
+litigant to drop an appeal or hire an attorney under threat of professional and
+personal ruin violates TRCP 7 and Ex parte Sha�er.
+4. Whether a state civil court lacks subject-matter jurisdiction to compel the
+production of computing hardware encumbered by active federal defense claims
+and pre-procurement grants under DFARS 227.7004.
+5. Whether a live, unserved Capias warrant creates a state of "constructive restraint"
+su�cient to support high-court habeas jurisdiction under Article 11.21.
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 8 of 25
+
+STATEMENT OF FACTS
+The objective record tracking this procedural breakdown demonstrates that this
+litigation has been transformed into a commercial property extraction mechanism. On
+January 14, 2026, Relator �led his Third Veri�ed Motion to Recuse Judge Telfair
+(Index #149) based on documented evidence of administrative partiality. This motion
+was referred by Regional Presiding Judge Susan Brown to the Chief Justice of the
+Supreme Court of Texas on January 27, 2026 (Index #170), triggering a mandatory stay
+of all lower court mechanisms.
+On April 17, 2026, Relator formally executed an irrevocable, perpetual, no-fee
+technology license to the United States Department of Defense, administered by the
+Under Secretary of Defense for Research and Engineering. This grant covered a
+portfolio of �fty-two (52) foundational hardware and software applications.
+Simultaneously, Relator �led an active administrative claim under DFARS 227.7004
+against major aerospace contractors to audit and halt procurement fraud.
+Four days later, on April 21, 2026, Real Party’s counsel abruptly accelerated discovery
+demands in the family court. This culminated in a "Motion to Compel Discovery" �led
+on April 28, 2026 , targeting corporate computing hardware used for Human
+Resources operations , supported by a standard corporate fee ledger of $17,500. On
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 9 of 25
+
+May 14, 2026, during the stay, the trial court held an ex parte contempt hearing and
+signed a void "Order for Capias and Setting of Bond" (Index #222). This instrument
+was withheld from the public view until May 22, 2026, to prevent a timely response.
+Concurrently, a text message from Petitioner asserted a personal "gift" ownership
+interest over the corporate hardware node. The clerk then modi�ed the docket sheet to
+hide the original proposed Capias records (Index #213) , and added an ambiguous ex
+parte entry for May 27, 2026, labeled "M-Compel". On Friday, May 22, and Monday,
+May 25, 2026, Relator electronically submitted his written statutory objections and his
+Fifth Motion for De Novo Hearing. The district clerk processed these documents to
+apply a standardized, altered �le stamp of "5/26/2026 12:00 AM" across all separate
+envelopes to obscure the real ingestion dates.
+On May 26, 2026, at 4:42 P.M., G. Troy Pickett sent an explicit ultimatum email to
+Relator. Counsel threatened to �le for immediate sanctions at 10:00 P.M. tonight and a
+vexatious litigant motion on Monday, June 1, 2026, unless Relator voluntarily
+withdrew his Supreme Court records and surrendered his pro se status by hiring an
+appearance attorney.
+The administrative record presents a severe chronological contradiction exposing active
+manipulation of the enforcement timeline. While the lower court register of actions
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 10 of 25
+
+notes a text entry on May 15, 2026, stating "Court signs Capias," the actual physical
+Writ of Capias attached hereto tells a completely di�erent story. The writ was not
+executed, sealed, or validated by the clerk until May 26, 2026—the exact day this Court
+issued its "Forward Matters" directive and the Real Party launched his extrajudicial
+sanctions ultimatum. The clerk’s o�ce held an unissued pocket warrant for eleven (11)
+days, intentionally keeping the Relator under an unserved cloud of imminent
+con�nement to paralyze his ability to access alternative court divisions.
+The fraudulent nature of this speci�c docket insertion is exposed by a glaring, literal
+typographic error within the entry text itself, which reads: "Capias Issued/Faliure to
+Appear (Inactive Status)." Far from a routine or system-generated logging event, the
+clerk’s literal misspelling of the word "Failure" as "Faliure" provides irrefutable proof of
+an ad hoc, manual intervention into the electronic register. An automated
+case-management system or standardized software template does not make
+typographical spelling errors; such an anomaly can only occur when a human actor
+manually inputs custom text directly into the portal �eld. This speci�c typo reveals that
+the record-tampering maneuver was executed in a state of absolute administrative haste,
+as personnel scrambled to manually inject a colorable basis for the Relator's arrest
+before this Court could lock down and freeze the electronic record transmission under
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 11 of 25
+
+the May 26, 2026 "Forward Matters" directive.
+
+ARGUMENT AND AUTHORITIES
+Argument I: The Automatic Operation of the Rule 18a Stay and the
+Absolute Voidness of the Under-Color Enforcement Actions
+The Real Party’s primary defense against a �nding of absolute voidness relies upon
+Texas Civil Practice & Remedies Code § 30.016, asserting that a tertiary motion to
+recuse permits a presiding judge to ignore the traditional, non-discretionary stay
+requirements of the rules of procedure. This position represents a profound
+misapplication of the statutory framework. Section 30.016(b) states that a judge shall
+continue to preside except as otherwise provided by the rules of procedure. It does not
+grant a trial clerk or coordinator license to engage in extrajudicial docket manipulation
+or secret enforcement operations while a formal referral remains pending before the
+Chief Justice of this Court.
+The automatic operation of Texas Rule of Civil Procedure 18a(g)(1) is explicit: the
+judge who is the subject of the recusal motion "must take no further action in the case"
+until the motion is formally decided by a competent authority. The issuance of a Capias
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 12 of 25
+
+warrant on May 15, 2026, is a severe exercise of judicial power that goes straight to
+physical containment. Under established Texas jurisprudence, including In re
+Marshall, 515 S.W.3d 420, 422 (Tex. App.—Houston [14th Dist.] 2017, orig.
+proceeding), any orders signed, hearings held, or warrants processed during the
+pendency of a mandatory recusal stay are absolute nullities, void ab initio, and
+completely incapable of supporting any subsequent civil enforcement or discovery
+sanctions.
+The Real Party’s contention that the Relator faces no imminent threat to liberty relies
+entirely on a deceptive administrative entry on the trial docket dated May 26, 2026,
+which reads: "Capias Issued/Faliure to Appear (Inactive Status)." In standard court
+administration matrices, changing a case pro�le metric to "inactive" is a routine
+reporting mechanism utilized while an individual is sought. However, by con�ating
+case disposition metrics within the literal description of the arrest warrant, the clerk has
+constructed a fraudulent record designed to mislead this Court into believing the
+Capias itself is defunct. A Writ of Capias commanding peace o�cers to take the body
+of the Relator instanter is never "inactive." It remains a live, dangerous instrument of
+state duress until quashed, and labeling it "inactive" on a public screen while leaving it
+operational in law enforcement databases constitutes a deliberate due process
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 13 of 25
+
+distortion.
+
+Argument II: Structural Due Process Deprivation and the Systematic
+Abdication of Mandatory Section 201.015 De Novo Reviews
+The Real Party's motion for sanctions argues that Texas Family Code § 201.015 is
+restricted entirely to associate judges and carries zero weight when a presiding judge
+conducts an enforcement hearing. This argument deliberately ignores the underlying
+record of this case. Relator has �led �ve distinct, timely motions for de novo
+review. Each motion challenges speci�c extrajudicial orders that are directly predicated
+on unserved, secret recommendations and baseline "Proposed Orders" drafted by
+predecessor and associate judicial mechanisms dating back to April 2025.
+A party's right to a de novo hearing under Family Code § 201.015(a) is an absolute
+statutory mandate. It is not a discretionary privilege that a trial judge can sit on or
+ignore. As held in Attorney General of Texas v. Orr, 989 S.W.2d 464, 469 (Tex.
+App.—Austin 1999, no pet.), the trial court maintains zero jurisdiction to execute
+enforcement actions or sign a Capias warrant to backstop a prior ruling while a timely
+request for a complete de novo review remains unaddressed on the active docket.
+Deferring or ignoring �ve successive de novo �lings while using an active arrest warrant
+to con�ne an unrepresented whistleblower represents a complete breakdown of
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 14 of 25
+
+structural due process.
+
+Argument III: Real Party’s Unclean Hands, Litigation Duress, and the
+Coercive Infringement of the Absolute Right to Self-Representation
+The Real Party comes before this Court with heavily unclean hands. The electronic
+transmission delivered by G. Troy Pickett on May 26, 2026, at 4:42 P.M. represents a
+severe, documented infraction of Texas Rule of Civil Procedure 7 and the basic
+principles of professional conduct. Counsel’s explicit command ordering Relator to
+dismantle his high-court appellate �lings by a 10:00 P.M. midnight deadline under
+threat of immediate �nancial penalties and a localized vexatious litigant blockade
+constitutes a direct form of litigation duress.
+Furthermore, counsel’s written statement that he would withhold his punitive �lings
+only if Relator surrendered his pro se status and hired an appearance attorney represents
+an unconstitutional attack on the right to self-representation.
+[ TACTICAL DURESS TIMELINE ]
+
+│
+┌────────────────────────────┴────────────────────────────┐
+▼
+▼
+[ JULY 12, 2025 ]
+Psychiatric Evaluation Motion
+(Coerces baseline family agreements
+status under active threat of
+medical stigma)
+
+[ MAY 26, 2026 ]
+Out-of-Court Ultimatum Email
+(Demands surrender of Pro Se
+under active threat of financial
+ruin)
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 15 of 25
+
+In Ex parte Shaﬀer, 649 S.W.2d 300, 301 (Tex. 1983), this Court held that any judicial
+or administrative mechanism that conditions a citizen’s right to access the courts or
+protect their liberty on the forced retention of an attorney is structurally void. This
+threat is part of a multi-year pattern of coercion:
+● July 12, 2025: Counsel deployed a tactical psychiatric evaluation motion to force
+baseline family agreements under the active threat of medical stigma.
+● September 8 & 11, 2025: Counsel utilized compressed scheduling blocks to
+systematically strip Relator of his statutory response windows.
+● May 2026: Counsel combined a hidden Capias with an un-noti�ed property
+discovery hearing to secure an asset conversion while keeping Relator locked in his
+residence.
+This systemic behavior directly violates Texas Disciplinary Rule of Professional
+Conduct 3.04, which explicitly prohibits the fraudulent concealment, alteration, or
+spoliation of evidentiary records and public docket tracking nodes.
+This metadata shift provides irrefutable evidence of unclean hands and tactical
+spoliation under Texas Disciplinary Rule 3.04. The physical Capias document bears the
+o�cial seal and explicit text: "Witness my hand and seal of O�ce at Richmond, Texas,
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 16 of 25
+
+on this the 26th day of May, 2026," signed by Deputy Clerk Jiajing Lin. Yet, the clerk
+backdated the administrative track to hide an eleven-day gap where an unissued warrant
+was held as a tool of duress. This timeline matches the exact hour G. Troy Pickett issued
+his email ultimatum demanding the withdrawal of these appellate proceedings. The
+lower court network is actively altering docket entry descriptions and issue dates to
+match the Real Party's shifting litigation narrative, executing a coordinated strategy to
+reshape public records to escape high-court review.
+The fraudulent nature of this speci�c docket insertion is additionally exposed by a
+glaring, literal typographic error within the entry text itself, which reads: "Capias
+Issued/Faliure to Appear (Inactive Status)." Far from a routine, system-generated
+tracking metric, the clerk’s literal misspelling of the word "Failure" as "Faliure" provides
+irrefutable proof of a manual, ad hoc intervention into the electronic register of actions.
+Automated court-management templates do not make spelling typos; such an anomaly
+can only occur when a human actor manually types custom text directly into a portal
+�eld. This speci�c typo establishes that the record-tampering maneuver was executed in
+a state of absolute administrative haste, as clerical personnel bypassed system
+automation to manually invent an on-screen "Inactive" status to hide the active arrest
+warrant before this Court could capture and freeze the transmission under its May 26,
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 17 of 25
+
+2026 "Forward Matters" directive.
+
+Argument IV: Interlocking Federal Public Procurement and Sovereign
+Military Trade Secret Protection Matrix
+The accelerated discovery demands and the scheduling of tomorrow's ex parte
+"M-Compel" hearing are explicitly tied to Relator’s commercial technology assets. The
+timeline shows a direct link between Relator's federal disclosures and the private actors'
+enforcement moves:
+[ FEDERAL NEXUS & PRETEXTUAL INTERCEPTION ]
+│
+┌─────────────────────────┴───────────────────────────┐
+▼
+▼
+[ APRIL 17, 2026 ]
+[ APRIL 28, 2026 ]
+DFARS 227.7004 Claim Filed
+Emergency Motion to Compel
+(Protects F-35 technology
+(Targets corporate
+and reports
+computing hardware
+Multi-billion-dollar
+containing primary
+procurement fraud)
+source code keys)
+● April 17, 2026: Relator �les his formal DFARS 227.7004 Administrative
+Claim with the Department of Defense, protecting his F-35 quantum computing
+architectures and reporting procurement fraud.
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 18 of 25
+
+● April 21, 2026: Four days later, Pickett �les his discovery dispute letter.
+● April 28, 2026: Counsel secures an emergency setting for a Motion to Compel ,
+targeting corporate computing hardware containing the primary source code keys
+to Relator’s patent applications.
+The physical hardware targeted by the trial court's order is not community or marital
+property; it is an independent corporate asset owned by Plainti� Haretz Hamuvlakhat
+Corp.. Fifty (50) of the underlying inventions in this portfolio are encumbered by an
+active, irrevocable, worldwide, no-fee license of use granted directly to the United States
+Federal Government for national defense purposes.
+Because the United States Government holds a direct property interest in these
+technologies, any attempt by a local state court to execute a forced physical conversion
+and public disclosure of these systems directly compromises federal sovereign
+procurement and national security interests. Consequently, the United States
+Government quali�es as a necessary Real Party in Interest under TRAP 52.2, and the
+state court is completely divested of subject-matter jurisdiction to compel the
+production of federally encumbered computing infrastructure under the color of a
+domestic relations dispute.
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 19 of 25
+
+Argument V: Erroneous Denial Below and the Immediate Operational
+Bounds of Constructive Restraint Habeas Jurisdiction
+The Real Party asserts that because Relator is not currently sitting inside a physical jail
+cell, he cannot seek habeas corpus protection from this Court, and his petition remains
+entirely groundless under appellate guidelines. This position directly misstates the clear
+boundaries of Texas law. Texas Code of Criminal Procedure Article 11.21 de�nes
+restraint as any "direction, in�uence, or con�nement" exercised over a person to prevent
+them from moving freely within their chosen environment.
+In the landmark decision Ex parte Snodgrass, 43 Tex. Crim. 359, 65 S.W. 1061 (1901),
+Texas courts established that a person is under su�cient restraint to unlock habeas
+corpus review if an active, live warrant for their arrest exists, forcing them to alter their
+daily movements, limit their travel, or remain in hiding to avoid a raw deprivation of
+liberty. Relator has been subjected to a continuous condition of de facto house arrest for
+eleven (11) days because leaving his home exposes him to immediate arrest under a void
+Capias, vehicle impoundment, and the physical loss of corporate proprietary
+technology.
+The existence of an unquashed Capias—regardless of the clerk’s arbitrary parenthetical
+addition of the words "(Inactive Status)" on a docket sheet—constitutes an ongoing
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 20 of 25
+
+constructive restraint under Article 11.21. The Relator remains physically con�ned to
+his home because stepping into public view triggers immediate execution of the
+warrant, vehicle impoundment, and the physical loss of corporate data keys material to
+an active federal defense procurement audit. A citizen is not required to walk into a trap
+and be locked behind bars to establish habeas jurisdiction when the state instrument
+ordering his immediate arrest is live, signed, and actively circulating in law enforcement
+systems.
+Because the First Court of Appeals erroneously denied relief on May 26, 2026, by
+ignoring these operational realities, Relator has completely exhausted his lower
+appellate tracks. This Court must exercise its original jurisdiction to resolve this record
+con�ict and dissolve the unconstitutional enforcement actions paralyzing the Relator.
+
+PRAYER AND RELIEF SOUGHT
+PREMISES CONSIDERED, Relator Reinaldo J. Aguiar Marcano respectfully prays
+that this Honorable Supreme Court of Texas enters an immediate order:
+1. DENYING G. Troy Pickett’s Motion for Rule 52.11 Sanctions in its entirety,
+�nding that Relator’s �lings represent a legitimate constitutional record dispute;
+2. GRANTING an immediate, emergency temporary stay under TRAP 52.10,
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 21 of 25
+
+canceling tomorrow's ex parte "M-Compel" event and halting all local
+enforcement of the void Capias warrant signed on May 15, 2026;
+3. CONDITIONALLY GRANTING a Writ of Mandamus and Habeas Corpus
+declaring the Capias and all trial court orders signed after January 14, 2026,
+absolute nullities under TRCP 18a; and
+4. ORDERING the Fort Bend County District Clerk to restore the unalterable
+electronic submission timestamps across Envelopes 115287913, 115289907,
+115289920, and 115302179 to correct the appellate record prior to transmittal.
+Respectfully submitted,
+
+Reinaldo J. Aguiar Marcano,
+Pro Se Relator / Respondent
+26714 Valleyside Drive, Katy, Texas 77494
+Phone: (646) 229-5724 | Email: rj.aguiar.m@gmail.com
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 22 of 25
+
+CERTIFICATE OF SERVICE
+Pursuant to Texas Rule of Appellate Procedure 9.5, I certify that a true and correct copy of
+the foregoing consolidated Response, Emergency Stay Motion, and Cross-Petition was served
+on May 27, 2026, upon all parties and counsel of record via the integrated electronic eFiling
+manager or direct electronic mail transmission as speci�ed below:
+● G. Troy Pickett, OWLawyers (troy@owlawyers.com; houservice@owlawyers.com)
+
+● William Kyle Adams, Adams Law Firm, P.C. (wka@adamslaw�rm.com)
+● Morgan T. Rivera-Hybner, Adams Law Firm, P.C.
+(mhybner@adamslaw�rm.com)
+● The Honorable Oscar Telfair III, Presiding Judge
+(387th@fortbendcountytx.gov)
+● Lt. Gen. Mike Schmidt, F-35 Joint Program O�ce (michael.schmidt@us.af.mil)
+● The Honorable Emil Michael, Under Secretary of Defense
+(emil.michael@mail.mil)
+By:
+
+Pro Se ---
+
+Response To Motion For Sanctions & Cross-Petition For Writ Of Mandamus And Ex Parte Habeas Corpus
+
+p. 24 of 25
+
+No. 26-0511
+In re Reinaldo J. Aguiar Marcano,
+Relator
+
+§
+§
+§
+§
+§
+
+IN THE
+SUPREME COURT
+OF TEXAS
+
+RELATOR’S MASTER APPENDIX AND COMPREHENSIVE
+INDEX OF REQUISITE EXHIBITS PURSUANT TO TEX. R. APP.
+P. 52.3(k)
+
+Relator Reinaldo J. Aguiar Marcano, Pro Se, certi�es that the following items are true,
+correct, exact, and literal electronic copies of o�cial documents, electronic recordings, or
+cryptographically veri�ed �lings material to the determination of this cause, and are
+organized and indexed in support of his uni�ed response, stay request, and cross-petition:
+
+CATEGORY I: CHALLENGED STATE COURT ORDERS & APPELLATE
+RULINGS
+● EXHIBIT A: Complete copy of the Memorandum Opinion issued by the First
+Court of Appeals on May 26, 2026, in Cause No. 01-26-00516-CV (Ex parte
+Reinaldo J. Aguiar Marcano), summarily denying the Petition for Writ of Habeas
+Corpus.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Page 1 of 5
+
+● EXHIBIT B: Complete copy of the Memorandum Opinion issued by the First
+Court of Appeals on May 26, 2026, in Cause No. 01-26-00544-CV (In re
+Reinaldo J. Aguiar Marcano), summarily denying the Petition for Writ of
+Mandamus and Injunction.
+● EXHIBIT C: True and correct copy of the physical Writ of Capias issued in Cause
+No. 25-DCV-328122, bearing the o�cial stamp and validation text: "Witness my
+hand and seal of O�ce at Richmond, Texas, on this the 26th day of May, 2026,"
+signed by Deputy District Clerk Jiajing Lin, demonstrating an 11-day issue gap
+from the historic May 15 docket entries.
+● EXHIBIT D: True and correct copy of the notice setting a physical evidentiary
+hearing issued by Real Party's counsel on April 28, 2026, titled "Notice of
+Hearing," which scheduled the ex parte "M-Compel" property extraction event
+for Wednesday, May 27, 2026, at 9:00 AM.
+
+CATEGORY II: DIGITAL METADATA LOGS & EVIDENCE OF
+CLERICAL SPOLIATION
+● EXHIBIT E: True and correct typographic copy of the o�cial Fort Bend County
+Register of Actions for underlying Cause No. 25-DCV-328122 captured on May
+27, 2026, at 1:00 AM, documenting the retroactive application of a standardized
+"5/26/2026 12:00 AM" �le stamp across multiple independent statutory �lings.
+● EXHIBIT F-1: Automated E-Service Submission Con�rmation generated by
+Tyler Technologies for Envelope ID 115287913, establishing a permanent digital
+audit trail of Relator's Second Emergency and Mandatory Motion for De Novo
+Hearing submitted on Saturday, May 23, 2026.
+● EXHIBIT F-2: Automated E-Service Submission Con�rmation generated by
+Tyler Technologies for Envelope ID 115289907, establishing a permanent digital
+audit trail of Relator's Third Emergency and Mandatory Motion for De Novo
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Page 2 of 5
+
+Hearing submitted on Saturday, May 23, 2026.
+● EXHIBIT F-3: Automated E-Service Submission Con�rmation generated by
+Tyler Technologies for Envelope ID 115289920, establishing a permanent digital
+audit trail of Relator's Fourth Emergency and Mandatory Motion for De Novo
+Hearing submitted on Saturday, May 23, 2026.
+● EXHIBIT F-4: Automated E-Service Submission Con�rmation generated by
+Tyler Technologies for Envelope ID 115302179, establishing a permanent digital
+audit trail of Relator's Fifth Emergency and Mandatory Motion for De Novo
+Hearing submitted on Monday, May 25, 2026.
+
+CATEGORY III: SOVEREIGN DEFENSE ENCUMBRANCES &
+MILITARY PROCUREMENT FRAUD AUDITS
+● EXHIBIT G: Formal Notice of Perpetual, No-Fee Technology License Grant
+delivered by Relator to the Honorable Heidi Shyu, Under Secretary of Defense for
+Research and Engineering, dated March 12, 2026, covering a portfolio of 33 core
+computing and secure data transfer architectures.
+● EXHIBIT H: Formal Administrative Claim for Patent Infringement under
+DFARS 227.7004 served by Relator upon Lieutenant General Mike Schmidt
+(F-35 Joint Program O�ce PEO) and Lockheed Martin Corporation corporate
+counsel Kevin J. O'Connor on April 17, 2026.
+● EXHIBIT I: Cryptographically veri�ed RPost Registered Receipt™ (Tracking
+ID: 77D821347FDBA15F9F2D60EB2BB3F7803F631719), providing
+permanent proof of delivery and the o�cial time of opening of the DFARS
+administrative claim �les by defense procurement leadership on April 17, 2026.
+
+CATEGORY IV: INTELLECTUAL PROPERTY REPOSITORIES &
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Page 3 of 5
+
+ADVERSARIAL COERCION ADMISSIONS
+● EXHIBIT J: Primary cover con�guration, o�cial Library of Congress control
+metadata, and printed Table of Contents of Relator’s published compendium: Be
+Water, Be Light: Portfolio of Patent Applications Submitted to the US
+Patent and Trademark Oﬃce During Year 2026 (ISBN 9781971481296).
+● EXHIBIT K: Respondent’s Unsworn Emergency Declaration of Translation and
+Transcription Certi�cation pursuant to Tex. Civ. Prac. & Rem. Code § 132.001,
+embedding the text message exchange with Petitioner Gloria Espina wherein she
+asserts a personal "gift" ownership interest over a corporate-funded computer tool.
+● EXHIBIT L: Printout of the o�cial Fort Bend County Register of Actions
+captured on May 27, 2026, at 1:00 AM, explicitly documenting the deceptive
+con�ated entry at Index #229 titled "Capias Issued/Failure to Appear (Inactive
+Status)" utilized to distort the active nature of the arrest warrant before this Court.
+
+MANDATORY SIGNATURE BLOCK
+Respectfully submitted,
+By:
+
+Pro Se Relator / Respondent
+26714 Valleyside Drive, Katy, Texas 77494
+Phone: (646) 229-5724
+Email: rj.aguiar.m@gmail.com
+Inventor, Corporate Representative of Haaretz Hamuvlakhat Corp., and Federal
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Page 4 of 5
+
+EXHIBIT A: Complete copy of the Memorandum Opinion issued by the First Court of Appeals
+on May 26, 2026, in Cause No. 01-26-00516-CV (Ex parte Reinaldo J. Aguiar Marcano),
+summarily denying the Petition for Writ of Habeas Corpus.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Opinion issued May 26, 2026
+
+In The
+
+Court of Appeals
+For The
+
+First District of Texas
+————————————
+
+NO. 01-26-00516-CV
+———————————
+EX PARTE REINALDO J. AGUIAR MARCANO, Relator
+
+Original Proceeding on Petition for Writ of Habeas Corpus
+
+MEMORANDUM OPINION
+On May 14, 2026, Relator Reinaldo J. Aguiar Marcano filed a petition for writ
+of habeas corpus claiming that the trial court conducted a contempt hearing earlier
+that morning and “is now poised to sign” proposed orders for his commitment and
+arrest.1 Relator requests that our Court “issue an order staying the signing and
+
+1
+
+The underlying case is In the Matter of the Marriage of Gloria Espina and Reinaldo
+J. Aguiar and In the Interest of M.A.A., a child, cause number 25-DCV-328122,
+pending in the 387th District Court of Fort Bend County, Texas, the Honorable
+Oscar M. Telfair III presiding.
+
+execution of the Proposed Order for Commitment and Capias, and grant its writ of
+habeas corpus declaring the contempt proceeding and any resulting orders void, and
+discharging Relator from any threat of custody or restraint.” On May 15, 2026,
+Relator filed an “Emergency Motion to Correct Prejudicial Docketing Error,
+Supplement to Petition for Writ of Habeas Corpus, and Renewed Plea for Immediate
+Consideration.” Among other things, the new filing asserts that “the docket in the
+underlying Cause No. 25-DCV-328122 reflects that the presiding judge, the
+Honorable Oscar Telfair, III, has signed the ‘Order for Capias and Setting Bond.’”
+We deny the petition for writ of habeas corpus and all related motions and
+requests for relief.
+PER CURIAM
+Panel consists of Justices Rivas-Molloy, Gunn, and Caughey.
+
+2
+
+EXHIBIT B: Complete copy of the Memorandum Opinion issued by the First Court of Appeals
+on May 26, 2026, in Cause No. 01-26-00544-CV (In re Reinaldo J. Aguiar Marcano), summarily
+denying the Petition for Writ of Mandamus and Injunction.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Opinion issued May 26, 2026
+
+In The
+
+Court of Appeals
+For The
+
+First District of Texas
+————————————
+
+NO. 01-26-00544-CV
+———————————
+IN RE REINALDO J. AGUIAR MARCANO, Relator
+Original Proceeding on Petition for Writ of Mandamus and Injunction
+MEMORANDUM OPINION
+On May 21, 2026, Relator Reinaldo J. Aguiar Marcano filed an “Emergency
+Petition for Writs of Mandamus and Injunction, and Request for Immediate Interim
+Relief” requesting that we compel the Clerk of this Court to take various actions
+regarding Relator’s filings.1 We deny the petition and all related requests for relief.
+All pending motions are denied.
+1
+
+The underlying case is In the Matter of the Marriage of Gloria Espina and Reinaldo
+J. Aguiar and In the Interest of M.A.A., a child, cause number 25-DCV-328122,
+pending in the 387th District Court of Fort Bend County, Texas, the Honorable
+Oscar M. Telfair III presiding.
+
+PER CURIAM
+Panel consists of Justices Gunn, Caughey, and Morgan.
+
+2
+
+EXHIBIT C: True and correct typographic copy of the physical Writ of Capias issued in Cause
+No. 25-DCV-328122, bearing the official stamp and validation text: "Witness my hand and seal
+of Office at Richmond, Texas, on this the 26th day of May, 2026," signed by Deputy District
+Clerk Jiajing Lin, demonstrating an 11-day issue gap from the historic May 15 docket entries.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+SERVICE FEE COLLECTED
+BY DISTRICT CLERK
+
+Capias
+
+Date of Birth:
+Driver License No:
+
+Gender: MALE
+Social Security No:
+
+539
+
+000002502
+
+26714 VALLEYSIDE DR
+KATY TX 77494
+
+Other:
+
+OR 2302 BRITTON RIDGE DRIVE
+Bond Type:
+Bond Amount:
+
+CASH BOND
+$2,500.00
+
+Cause No. 25-DCV-328122
+
+THE STATE OF TEXAS,
+TO ANY PEACE OFFICER OF THE STATE OF TEXAS---GREETING:
+YOU ARE HEREBY COMMANDED TO ARREST: REINALDO J. AGUIAR MARCANDO, to be found in your
+county, and REINALDO J. AGUIAR MARCANO safely keep, so that you have REINALDO J. AGUIAR MARCANO
+before the 387th Judicial District Court of Fort Bend County, Texas, at the Court House of said County, located at
+1422 Eugene Heimann Circle, Richmond, TX 77469, and there to answer for their failure to appear for CIVIL
+
+NON-SUPPORT on May 14, 2026 before the 387TH JUDICIAL DISTRICT COURT, as ordered.
+HEREIN FAIL NOT, but make due return hereof to this Court on INSTANTER.
+Witness my hand and seal of Office at Richmond, Texas, on this the 26th day of May, 2026.
+
+BEVERLEY MCGREW WALKER, DISTRICT CLERK
+FORT BEND COUNTY, TEXAS
+Physical Address:
+Room
+
+Richmond, Texas 77469
+Mailing Address:
+301 Jackson Street, Room 101
+Richmond, Texas.77469
+By:
+
+Deputy District Clerk Jiajing Lin
+Telephone: (281) 341-4515
+
+SERVICE RETURN
+This capias was received on
+
+CJ
+
+20
+
+at
+
+o'clock _.m., and it was
+
+Executed onthe day of
+20
+, at
+Aguiar Marcano and confining Reinaldo J. Aguiar Marcano in the county jail of
+
+o'clock
+
+.m. by arresting Reinaldo
+
+further order of the Court.
+Not executed because:
+
+O
+
+Efforts to find Reinaldo J. Aguiar Marcano and information as to Reinaldo J. Aguiar Marcano whereabouts:
+
+miles in the service of this Capias, in addition to any other mileage may have
+actually and necessarily traveled
+traveled in the service of other process in this cause during the same trip.
+|
+
+Fees:
+
+Serving Capias
+Mileage
+Totals
+
+|
+
+$
+$
+$
+
+By:
+
+*State day and hour and place of serving each person.
+
+SERVICE
+
+J.
+
+County to await the
+
+Sheriff or Constable
+County, Texas
+Deputy
+
+EXHIBIT D: Certified copy of the notice setting a physical evidentiary hearing issued by Real
+Party's counsel on April 28, 2026, titled "Notice of Hearing," which scheduled the ex parte
+"M-Compel" property extraction event for Wednesday, May 27, 2026, at 9:00 AM.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Filed
+4/28/2026 2:28 PM
+
+Beverley McGrew Walker
+District Clerk
+Fort Bend County, Texas
+Denisse Kaleh
+
+NOTICE: THIS DOCUMENT
+CONTAINS SENSITIVE DATA
+NO. 25-DCV-328122
+
+IN THE DISTRICT COURT
+
+IN THE MATTER OF
+THE MARRIAGE OF
+
+GLORIA ESPINA
+
+AND
+
+REINALDO
+MARCANO
+
+J.
+
+AGUIAR
+
+THE NTEREST OF
+
+AND
+
+A CHILD
+
+387TH JUDICIAL DISTRICT
+
+§
+
+FORT BEND COUNTY, TEXAS
+
+NOTICE OF HEARING
+Notice is given that the hearing on Motion to Compel Discovery and for
+
+Sanctions is set before the Court at 9:00 A.M. on May 27, 2026
+
+All participants must appear on the date and at the time set for the hearing
+physically in the courtroom of this Court at 1422 Eugene Heimann Cir, Richmond,
+Texas. Participants may appear before the Court by other means only if permitted
+by court order. The Court's designated contact information is by telephone at 281238-3290.
+
+Failure of a participant to appear as directed may have prejudicial
+consequences, including the issuance of an order by default affecting a participant's
+
+rights; dismissal of a participant's existing claims, if any; monetary sanctions; or
+other consequences that detrimentally affect a participant's ongoing involvement in
+the litigation.
+
+Instructions for submitting evidence: a. Exhibit List and Witness List SHALL
+
+Page 1 of 2
+
+be exchanged and filed with the clerk by 12 noon on the business day before any
+
+hearing or trial; b. Exhibits shall be pre-marked, exchanged and copies provided to
+
+all counsel and self-represented litigants by 12 noon on the business day before any
+hearing or trial; c. Exhibits should be pre-marked identifying the offering party
+(Petitioner, Respondent, Intervenor, etc.) and using numbers only. For example,
+
+"Petitioner Ex. 1," but not "Petitioner Ex. A."
+
+Additional instructions for participating in the hearing: None.
+
+SIGNED on April 28, 2026
+OWLawyers
+O'Neil Wysocki, P.C.
+19 Briar Hollow Lane, Ste. 200
+Houston, Texas 77027
+Tel: (713) 224-1800
+Fax: (713) 224-1804
+
+By:
+
+G
+State Bar No. 24072757
+troy@owlawyers.com
+Attorney for Petitioner
+
+CERTIFICATE OF SERVICE
+I certify that a true copy of this document was served in accordance with rule
+21a of the Texas Rules of Civil Procedure on the following on April 28, 2026:
+Reinaldo J. Aguiar Marcano by electronic filing manager.
+
+G
+ket
+Attorney for Gloria Espina
+
+Page 2 of 2
+
+Automated Certificate of eService
+This automated certificate of service was created by the efiling system.
+The filer served this document via email generated by the efiling system
+on the date and to the persons listed below. The rules governing
+certificates of service have not changed. Filers must still provide a
+certificate of service that complies with all applicable rules.
+Troy Pickett on behalf of Troy Pickett
+Bar No. 24072757
+troy@owlawyers.com
+Envelope ID: 114211498
+Filing Code Description: Motion (No Fee)
+Filing Description: Motion to Compel Discovery and for Sanctions
+Status as of 4/29/2026 8:16 AM CST
+Case Contacts
+Name
+
+BarNumber
+
+Email
+
+TimestampSubmitted
+
+Status
+
+G. Troy Pickett
+
+24072757
+
+houservice@owlawyers.com
+
+4/28/2026 2:28:13 PM
+
+SENT
+
+G. TroyPickett
+
+troy@owlawyers.com
+
+4/28/2026 2:28:13 PM
+
+SENT
+
+Reinaldo Aguiar Marcano
+
+aguiar@reinaldo.ca
+
+4/28/2026 2:28:13 PM
+
+SENT
+
+EXHIBIT F-1: Automated E-Service Submission Confirmation generated by Tyler Technologies
+for Envelope ID 115287913, establishing a permanent digital audit trail of Relator's Second
+Emergency and Mandatory Motion for De Novo Hearing submitted on Saturday, May 23, 2026.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Filed
+5/26/2026 12:00 AM
+Beverley McGrew Walker
+District Clerk
+Fort Bend County, Texas
+A'Leah Hudson
+
+NO. 25-DCV-328122
+
+IN THE MATTER OF THE MARRIAGE OF
+GLORIA ESPINA AND REINALDO J. AGUIAR MARCANO
+
+IN THE DISTRICT COURT OF FORT BEND COUNTY, TEXAS
+387TH JUDICIAL DISTRICT
+
+RELATOR’S SECOND EMERGENCY AND MANDATORY MOTION
+FOR DE NOVO HEARING
+(REGARDING VOID CAPIAS HEARING OF MAY 14, 2026)
+TO THE HONORABLE OSCAR TELFAIR, III, PRESIDING JUDGE:
+Relator, REINALDO J. AGUIAR MARCANO, files this Second Emergency and Mandatory
+Motion for De Novo Hearing, and shows the Court as follows:
+
+I. SUMMARY
+The Court held a hearing on May 14, 2026, in Relator’s absence, which resulted in the issuance of
+a void ”Order for Capias and Setting of Bond” (Index #222). The signed order was then withheld
+from the docket until May 22, 2026, depriving Relator of his statutory right to request a de novo
+hearing within the three-day limit prescribed by the Texas Family Code. This motion asserts that
+right. Further, this motion once again demands that this Court clarify its position on the mandatory,
+automatic stay that renders all such hearings and orders void. The Court’s continued refusal to
+rule on this jurisdictional issue, while simultaneously threatening Relator’s liberty, constitutes a
+deliberate and ongoing violation of due process.
+
+II. ARGUMENT AND AUTHORITIES
+A. The Right to a De Novo Hearing Was Obstructed by the Court’s Delay
+Texas Family Code §201.015 grants a party the right to request a de novo hearing within three
+working days of receiving notice of a judge’s ruling. Here, the hearing occurred on May 14, 2026.
+1
+
+EXHIBIT F-2: Automated E-Service Submission Confirmation generated by Tyler Technologies
+for Envelope ID 115289907, establishing a permanent digital audit trail of Relator's Third
+Emergency and Mandatory Motion for De Novo Hearing submitted on Saturday, May 23, 2026.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Filed
+5/26/2026 12:00 AM
+Beverley McGrew Walker
+District Clerk
+Fort Bend County, Texas
+Denisse Kaleh
+
+NO. 25-DCV-328122
+
+IN THE MATTER OF THE MARRIAGE OF
+GLORIA ESPINA AND REINALDO J. AGUIAR MARCANO
+
+IN THE DISTRICT COURT OF FORT BEND COUNTY, TEXAS
+387TH JUDICIAL DISTRICT
+
+RELATOR’S THIRD EMERGENCY AND MANDATORY MOTION FOR
+DE NOVO HEARING
+(REGARDING HEARING OF SEPTEMBER 8, 2025)
+TO THE HONORABLE OSCAR TELFAIR, III, PRESIDING JUDGE:
+Relator, REINALDO J. AGUIAR MARCANO, files this Third Mandatory Motion for De Novo
+Hearing.
+The Court held a hearing on September 8, 2025. At the conclusion of that hearing, the Court
+immediately scheduled a follow-up hearing for September 11, 2025, only two business days later.
+This scheduling order, by its very nature, deprived Relator of his statutory three-day window under
+Texas Family Code § 201.015 to request a de novo review of the September 8th proceedings.
+This is a structural and repeatable denial of due process. Because Relator was procedurally
+prevented from exercising his mandatory right in a timely fashion, the right is preserved. Relator
+hereby invokes his right to a de novo hearing for all matters addressed in the September 8, 2025
+hearing.
+This Court’s refusal to rule on this and other mandatory motions constitutes an abdication of
+judicial duty and is the subject of proceedings before the Supreme Court of Texas.
+
+1
+
+PRAYER
+Relator prays that this Court GRANT an immediate de novo hearing on all matters related to
+the September 8, 2025, hearing.
+
+Respectfully submitted,
+
+Pro Se
+
+2
+
+Automated Certificate of eService
+This automated certificate of service was created by the efiling system.
+The filer served this document via email generated by the efiling system
+on the date and to the persons listed below. The rules governing
+certificates of service have not changed. Filers must still provide a
+certificate of service that complies with all applicable rules.
+
+Envelope ID: 115289907
+Filing Code Description: Motion (No Fee)
+Filing Description: Relator's Third Emergency and Mandatory Motion for
+the Novo Hearing (Regarding Hearing of September 8, 2025)
+Status as of 5/26/2026 10:36 AM CST
+Case Contacts
+Name
+
+BarNumber
+
+Email
+
+TimestampSubmitted
+
+Status
+
+G. Troy Pickett
+
+24072757
+
+houservice@owlawyers.com
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+Morgan Hybner
+
+mhybner@adamslawfirm.com
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+Tina Simon
+
+tsimon@adamslawfirm.com
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+G. TroyPickett
+
+troy@owlawyers.com
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+Reinaldo Aguiar Marcano
+
+aguiar@reinaldo.ca
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+William ADAMS
+
+wka@adamslawfirm.com
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+Reinaldo Aguiar Marcano
+
+aguiar@reinaldo.ca
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+Oscar Telfair
+
+387th@fortbendcountytx.gov
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+Oscar Telfair
+
+387th@fortbendcountytx.gov
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+G. Troy Pickett
+
+troy@owlawyers.com
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+David Perwin
+
+david@perwinaguirre.com
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+Beverley McGrew Walker
+
+Distclerkcivil@fortbendcountytx.gov
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+Reinaldo Aguiar Marcano
+
+rj.aguiar.m@gmail.com
+
+5/23/2026 4:06:16 PM
+
+SENT
+
+387th Court Scheduler
+
+387thhearings@fortbendcountytx.gov 5/23/2026 4:06:16 PM
+
+SENT
+
+EXHIBIT F-3: Automated E-Service Submission Confirmation generated by Tyler Technologies
+for Envelope ID 115289920, establishing a permanent digital audit trail of Relator's Fourth
+Emergency and Mandatory Motion for De Novo Hearing submitted on Saturday, May 23, 2026.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Filed
+5/26/2026 12:00 AM
+Beverley McGrew Walker
+District Clerk
+Fort Bend County, Texas
+Tracy Morales
+
+NO. 25-DCV-328122
+
+IN THE MATTER OF THE MARRIAGE OF
+GLORIA ESPINA AND REINALDO J. AGUIAR MARCANO
+
+IN THE DISTRICT COURT OF FORT BEND COUNTY, TEXAS
+387TH JUDICIAL DISTRICT
+
+RELATOR’S FOURTH EMERGENCY AND MANDATORY MOTION
+FOR DE NOVO HEARING
+(REGARDING HEARING OF SEPTEMBER 11, 2025)
+
+TO THE HONORABLE OSCAR TELFAIR, III, PRESIDING JUDGE:
+Relator, REINALDO J. AGUIAR MARCANO, files this Fourth Mandatory Motion for De
+Novo Hearing.
+The Court held a hearing on September 11, 2025, which resulted in verbal orders that would
+eventually be distorted and memorialized in the void ”Temporary Orders” (Index #89). However,
+the draft for that order was not filed until many days later, and the final order was not signed until
+October 15, 2025. This inordinate and unexplained delay between the hearing and the signing of
+the order deprived Relator of his statutory three-day window under Texas Family Code §201.015
+to request a de novo review of the September 11th proceedings.
+Because Relator was procedurally prevented from exercising his mandatory right in a timely
+fashion, the right is preserved. Relator hereby invokes his right to a de novo hearing for all matters
+addressed in the September 11, 2025 hearing.
+This Court’s refusal to rule on this and other mandatory motions constitutes an abdication of
+judicial duty and is the subject of proceedings before the Supreme Court of Texas.
+
+1
+
+EXHIBIT F-4: Automated E-Service Submission Confirmation generated by Tyler Technologies
+for Envelope ID 115302179, establishing a permanent digital audit trail of Relator's Fifth
+Emergency and Mandatory Motion for De Novo Hearing submitted on Monday, May 25, 2026.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Filed
+5/26/2026 12:00 AM
+Beverley McGrew Walker
+District Clerk
+Fort Bend County, Texas
+Tracy Morales
+
+NO. 25-DCV-328122
+IN THE MATTER OF THE MARRIAGE OF
+GLORIA ESPINA AND REINALDO J. AGUIAR MARCANO
+IN THE DISTRICT COURT OF FORT BEND COUNTY, TEXAS
+387TH JUDICIAL DISTRICT
+AND IN THE INTEREST OF A CHILD
+BY SUBMISSION ONLY
+
+RESPONDENT’S EMERGENCY, MANDATORY, AND JURISDICTIONAL
+MOTION UNDER FAMILY CODE § 201.015 OBJECTING TO EX PARTE
+"M-COMPEL" HEARING; FIFTH EMERGENCY MOTION FOR DE NOVO
+HEARING; AND PLEA TO THE JURISDICTION REGARDING TARGETED
+EXTORTION OF INTELLECTUAL PROPERTY ASSETS
+I. LIMITED APPEARANCE AND REQUEST FOR RESOLUTION BY
+SUBMISSION
+COMES NOW, Reinaldo J. Aguiar Marcano ("Respondent"), an inventor with an extensive active
+commercial portfolio before the United States Patent and Trademark Office (USPTO), appearing
+strictly in a limited capacity to protect his fundamental constitutional rights, physical liberty,
+and corporate proprietary property from immediate and irreparable injury.
+Respondent explicitly requests that this Court rule upon the instant motion BY SUBMISSION
+ONLY. Respondent is barred from physically appearing in a courtroom due to a condition of de
+facto house arrest deliberately engineered by this Court. On May 15, 2026, this Court signed a
+void Order for Capias and Setting Bond (Index #222) during a period in which this Court’s
+jurisdiction was completely stripped and frozen by a mandatory, automatic stay under Texas
+Rule of Civil Procedure 18a(g)(1). Because leaving his residence subjects Respondent to
+immediate arrest, vehicle impoundment, and the physical seizure of proprietary technology
+
+CATEGORY III: SOVEREIGN DEFENSE ENCUMBRANCES & MILITARY
+PROCUREMENT FRAUD AUDITS
+EXHIBIT G: Formal Notice of Perpetual, No-Fee Technology License Grant delivered by Relator
+to the Honorable Heidi Shyu, Under Secretary of Defense for Research and Engineering, dated
+March 12, 2026, covering a portfolio of 33 core computing and secure data transfer
+architectures.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+4 PREAMBLE: LETTERS SENT TO THE DEPARTMENT OF DEFENSE AND THE SEC ON MARCH 12, 2026.
+
+5
+
+EXHIBIT H: Formal Administrative Claim for Patent Infringement under DFARS 227.7004
+served by Relator upon Lieutenant General Mike Schmidt (F-35 Joint Program Office PEO) and
+Lockheed Martin Corporation corporate counsel Kevin J. O'Connor on April 17, 2026.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+FORMAL ADMINISTRATIVE CLAIM FOR PATENT
+INFRINGEMENT UNDER DFARS 227.7004 AND
+NOTIFICATION OF PROCUREMENT IRREGULARITIES
+CONCERNING PERPETUALLY LICENSED
+TECHNOLOGIES
+This notice:
+https://storage.googleapis.com/rj-aguiar/01_DFARS_227.7004_Lockheed-Martin.pdf
+
+TO: PROCURING CONTRACTING OFFICERS (PCOs) AND DIRECTORS
+michael.schmidt@us.af.mil (Lt. Gen. Mike Schmidt, Program Executive Officer, F-35 JPO)
+F-35 Joint Program Office (JPO) – Contracting Directorate
+CC: EXECUTIVE LEADERSHIP, CORPORATE COUNSEL, AND MILITARY IP COUNSEL
+kevin.j.oconnor@lmco.com (Kevin J. O'Connor, Legal Counsel, Lockheed Martin)
+craig.martell@lmco.com (Craig Martell, Vice President and Chief Technology Officer, Lockheed
+Martin)
+valerie.browning@lmco.com (Valerie Browning, Vice President of Research and Technology,
+Lockheed Martin)
+emil.michael@osd.mil (The Honorable Emil Michael, Under Secretary of Defense for Research
+and Engineering / Chief Technology Officer)
+Chief of the Intellectual Property Law Division (JALS-IP), U.S. Army Legal Services Agency
+RE: ACTUAL KNOWLEDGE OF PATENT INFRINGEMENT (35 U.S.C. § 154(d)), INITIATION OF
+DFARS 227.7004 ADMINISTRATIVE CLAIM, AND NOTIFICATION OF POTENTIAL PROCUREMENT
+FRAUD BY LOCKHEED MARTIN CORPORATION
+DATE: April 17, 2026
+DELIVERY METHOD: Cryptographically Verified via Registered Email (RPost)
+DEAR:
+Lt. Gen. Schmidt and the F-35 JPO Contracting Directorate,
+
+Page 1 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+This comprehensive technical and legal brief is served upon you in your official capacities
+within the United States Department of Defense (DoD).
+This document constitutes a formal Administrative Claim for Patent Infringement under the
+Defense Federal Acquisition Regulation Supplement (DFARS) 227.7004. The purpose of this
+claim is to notify the United States Government of a highly anomalous and legally precarious
+situation involving the unauthorized commercialization of a foundational patent portfolio by
+Lockheed Martin Corporation.
+
+I. THE U.S. DEPARTMENT OF DEFENSE LICENSE GRANT
+AND STRATEGIC BLOCKADE
+Under standard operating procedures defined by 28 U.S.C. § 1498, the United States
+Government exercises eminent domain over domestic patents, shielding its defense
+contractors from civil injunctions and assuming financial liability for infringement.
+However, the inventor of the Aguiar Marcano Intellectual Property Portfolio—which comprises
+52 foundational patent applications published defensively in The Architecture of Control (ISBN
+978-1-97-148129-6)—has proactively granted an irrevocable, perpetual, no-fee license to the
+federal government for all national defense purposes. The United States Department of
+Defense, specifically through Under Secretary of Defense Emil Michael, has been placed on
+direct notice of this license grant and is the designated authority administering this license on
+behalf of the military.
+Lockheed Martin is currently utilizing these specific patented architectures to overcome severe
+computational bottlenecks in their aerospace and quantum programs. By embedding the
+research, development, and licensing costs of these technologies into multi-billion-dollar
+government contracts, Lockheed Martin is effectively charging the American taxpayer for
+intellectual property that the government already possesses the legal right to utilize indefinitely
+and without cost. Failing to halt the disbursement of funds to this contractor for pre-licensed
+intellectual property constitutes a gross mismanagement of taxpayer dollars.
+
+II. Satisfaction of DFARS 227.7004 Administrative
+Claim Requirements
+To compel immediate administrative intervention, this communication strictly adheres to the
+requirements of DFARS 227.7004(a) and (b):
+1.​ Allegation of Infringement: We formally allege that the systems provided and
+developed by Lockheed Martin directly infringe upon the patent applications detailed
+
+Page 2 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+below.
+2.​ Request for Compensation: Because the government holds a free license to this
+portfolio, our request for compensation is a formal legal demand that the DoD
+immediately cease compensating Lockheed Martin for the licensed intellectual property.
+3.​ Citation of Patents: The infringed applications include USPTO 19/639,219; 19/560,038;
+19/562,838; and 19/562,845.
+4.​ Identification of Procurements: See Section III below for the specific systems and
+contracting activities.
+5.​ Element-by-Element Comparison: The required claim maps demonstrating precisely
+how the representative claims map to the accused software and processes are attached
+to this verified transmission.
+
+III. Technological Nexus and Targeted Procurements
+Lockheed Martin's most critical modernization efforts intersect directly with our proprietary
+claims, making their government contracts highly susceptible to this administrative review.
+
+A. F-35 Technology Refresh 3 (TR-3) and the Integrated Core
+Processor
+Responsible Activity: F-35 Joint Program Office (JPO)
+The TR-3 upgrade is designed to modernize the computational core of the F-35 via a new
+L3Harris integrated core processor and a new aircraft memory unit, promising a 25x computing
+increase. Attempting to achieve this massive increase in computational throughput within the
+strict thermal and weight constraints of an airborne fighter requires abandoning traditional
+electrical data buses.
+●​ USPTO 19/560,038 (Optical Computing Architecture) & USPTO 19/562,838
+(Energy-Efficient Computing via Clock Speed Reduction): These patents define a
+holistic data fabric that replaces electrical I/O bottlenecks with a massively parallel optical
+interconnect, enabling a reduction in clock speed while maintaining high throughput. Any
+TR-3 processor upgrades utilizing internal optical data buses to mitigate thermal output
+directly infringe upon these hardware claims.
+●​ USPTO 19/639,219 (Central Processing Unit Architecture for Native Parametric and
+Symbolic Computation): Upgrading the F-35's core processing capabilities to handle
+
+Page 3 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+advanced sensor fusion natively relies upon our parametric high-radix architecture.
+
+B. Strategic Quantum Computing and QML Partnerships
+Responsible Activity: Lockheed Martin Research and Technology / Defense Innovation Unit
+(DIU)
+Target Leadership: Craig Martell (CTO) and Valerie Browning (VP, Research & Technology)
+Lockheed Martin is aggressively pursuing quantum technologies for aerospace and defense,
+recently signing strategic collaborations with PsiQuantum (November 2025), Xanadu (February
+2026), and Fujitsu (February 2026). These partnerships focus on deploying fault-tolerant
+quantum algorithms, Quantum Machine Learning (QML), and dual-use AI/ML edge computing.
+●​ USPTO 19/562,845 (Physically Disaggregated Computing Systems): To achieve the
+hybrid quantum-classical workflows required by these new partnerships, Lockheed
+Martin must utilize a disaggregated architecture where classical GPUs and quantum
+processing units (QPUs) are segregated yet interconnected via an ultra-high-bandwidth
+data fabric. This exact hybrid integration model is legally encumbered by our portfolio.
+
+IV. Statutory and Ethical Mandates
+Because Lockheed Martin operates as a publicly traded corporate entity bound by strict
+compliance and ethical frameworks, we must formally remind your corporate leadership and
+legal counsel of the following obligations:
+1. SEC Disclosure Requirements for Public Companies
+For Lockheed Martin Corporation, we remind you that if you find yourselves potentially
+infringing any of the Inventions covered in this intellectual property portfolio, you are legally
+obligated to assess whether it is necessary to notify your investors and file a material risk
+disclosure notice with the Securities and Exchange Commission (SEC). The failure to disclose a
+material intellectual property encumbrance that threatens your core aerospace platforms (such
+as the F-35) constitutes a severe breach of fiduciary duty.
+2. Attorney Ethical Obligations (Model Rule 8.3)
+A direct reminder is issued to the Chief Legal Officers, General Counsels, and all retained
+outside counsel receiving or reviewing this notice (including Kevin J. O'Connor): You are strictly
+bound by your ethical obligations, including ABA Model Rule of Professional Conduct 8.3. You
+maintain an affirmative obligation to report any unprivileged knowledge of wrongdoing that
+raises a substantial question as to a lawyer's honesty, trustworthiness, or fitness. If your internal
+audits reveal evidence of coordinated intellectual property theft or procurement fraud that
+
+Page 4 of 5
+ISBN 9781971481296
+
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+may compromise the integrity of a court, you are ethically mandated to report such conduct to
+the appropriate professional authorities.
+
+V. Immutable Audit Trail and Mandatory
+Administrative Action
+This formal claim is delivered via Registered Email (RPost). This service provides an immutable,
+cryptographically verified audit trail, including proof of delivery, message content, and the
+exact official time of sending and opening.
+As warranted Procuring Contracting Officers, if you receive cryptographically verified proof
+that a contractor is charging the government for freely available intellectual property, your
+failure to initiate an audit or halt payments leaves a permanent digital footprint of your inaction.
+This exposes you to severe administrative and potentially criminal liability for complicity in
+procurement fraud.
+Pursuant to federal acquisition regulations, you are hereby mandated to freeze approvals
+related to the disputed intellectual property, halt the assumption of clear title for the F-35 TR-3
+upgrades, and forward this communication immediately to the Intellectual Property Law
+Division of your respective branches.
+V/R,
+Reinaldo Aguiar Marcano
+2302 Britton Ridge Drive, Katy TX 77494
+https://xislist.org/ (ISBN 9781971481296)
+
+Page 5 of 5
+ISBN 9781971481296
+
+4/17/26, 8:55 AM
+
+Gmail - Registered: [CORRECTED] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.700…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Registered: [CORRECTED] FORMAL ADMINISTRATIVE CLAIM FOR PATENT
+INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT
+IRREGULARITIES CONCERNING PERPETUALLY LICENSED TECHNOLOGIES
+1 message
+RJ Aguiar JR via RPost <rmail@r1.rpost.net>
+Fri, Apr 17, 2026 at 8:40 AM
+Reply-To: rj.aguiar.m+legal-notice@gmail.com
+To: william.a.creech3.civ@army.mil, mia.a.steele2.civ@army.mil, tamara.n.jenkins.civ@mail.mil, undra.n.robinson.civ@mail.mil,
+Emely.E.Winnert@nga.mil, AFLCMCJAWorkFlowmail@us.af.mil, emil.michael@mail.mil
+Cc: rj.aguiar.m+legal-notice@gmail.com
+
+Registered Email™ | File Share
+This is a Registered Email™ message from RJ Aguiar JR .
+Large file(s) have been sent to you and are ready to be downloaded. The file(s) will be available for download for 14 days.
+File Name(s)
+01_DFARS_227.7004_Plantir-andAnduril-Industries.pdf
+02__ISBN-9781971481296__Portfolioof-PatentApplications_and_DeclarationD132.pdf
+03__DEFENSIVE-PUBLICATIONEMAIL-with-RECEIPT-EPO_
+gphilpott@epo.org_nsimon@epo.
+org_srowan@epo.org_rmenidjel@
+epo.org_ymeniere@epo.org_
+tvilela@epo.org.pdf
+04__DOWNLOAD-RECEIPT_jeff.
+bezos@amazon.com__Tier-0.pdf
+05__Department-of-Defense__TheHeidi-Shyu-License-Grant_
+Administered-by-Emil-Michael.pdf
+
+137.26KB
+
+75.12MB
+
+630.05KB
+
+93.28KB
+954.05KB
+
+Download Files
+[Corrections in red below]
+Dear Mr. Creech, Ms. Steele, Ms. Jenkins, Mr. Robinson, Ms. Winnert, Mr. Elliott, and the AFLCMC Contracting Office,
+As a way of introduction, my name is Reinaldo Aguiar, I am the Principal at a firm focusing on Aerospace and Sat-Comm
+technologies, and a former Managing Director at Goldman Sachs and Staff Engineer at Google.
+Please find attached:
+01. FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICATION OF
+PROCUREMENT IRREGULARITIES CONCERNING PERPETUALLY LICENSED TECHNOLOGIES, attached as file:
+01_DFARS_227.7004_Plantir-and-Anduril-Industries.pdf .
+02. Portfolio of fifty-two (52) USPTO Patent Applications mentioned in the Notice (# 01 DFARS 227.7004 above), attached as
+file: 02__ISBN-9781971481296__Portfolio-of-Patent-Applications_and_Declaration-D132.pdf.
+03. Defensive Publication Disclosure made to the European Patent Office (EPO).
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862725304445205759&simpl=msg-f:1862725304445205759
+
+1/2
+
+EXHIBIT I: Cryptographically verified RPost Registered Receipt™ (Tracking ID:
+77D821347FDBA15F9F2D60EB2BB3F7803F631719), providing permanent proof of delivery
+and the official time of opening of the DFARS administrative claim files by defense procurement
+leadership on April 17, 2026.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+4/17/26, 10:33 AM
+
+Gmail - Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICAT…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER
+DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT IRREGULARITIES
+CONCERNING PERPETUALLY LICENSED TECHNOLOGIES (Delivery Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Fri, Apr 17, 2026 at 10:28 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+Delivered
+
+Delivered (local) Opened (local)
+
+(UTC*)
+
+william.a.creech3.civ@army.mil
+
+Delivered to
+Mail Server
+
+relayed;prijeemsg.eemsg.mail.mil
+(156.112.250.6)
+
+04/17/2026
+01:28:13 PM
+(UTC)
+
+04/17/2026
+01:28:13 PM
+
+mia.a.steele2.civ@army.mil
+
+Delivered and
+Opened
+
+04/17/2026
+HTTP-IP:139.241.236.65 01:28:18 PM
+(UTC)
+
+04/17/2026
+01:28:18 PM
+
+tamara.n.jenkins.civ@mail.mil
+
+Delivered to
+Mail Server
+
+relayed;prijeemsg.eemsg.mail.mil
+(156.112.250.6)
+
+04/17/2026
+01:28:14 PM
+(UTC)
+
+04/17/2026
+01:28:14 PM
+
+undra.n.robinson.civ@mail.mil
+
+Delivered and
+Opened
+
+04/17/2026
+HTTP-IP:139.241.236.65 01:28:23 PM
+(UTC)
+
+04/17/2026
+01:28:23 PM
+
+emely.e.winnert@nga.mil
+
+Delivered to
+Mail Server
+
+relayed;prijeemsg.eemsg.mail.mil
+(156.112.250.6)
+
+04/17/2026
+01:28:13 PM
+
+jonathan.elliott@army.mil
+
+550 5.1.10
+RESOLVER.ADR.
+RecipientNotFound;
+Delivery Failed Recipient
+***
+jonathan.elliott@army.mil
+not found by SMTP
+address lookup
+
+aflcmcjaworkflowmail@us.af.mil
+
+Delivered to
+Mail Server
+
+relayed;pri-usafeemsg.eemsg.mail.mil
+(156.112.250.199)
+
+04/17/2026
+01:28:12 PM
+(UTC)
+
+04/17/2026
+01:28:12 PM
+
+emil.michael@mail.mil
+
+Delivered and
+Opened
+
+04/17/2026
+HTTP-IP:139.241.236.65 01:28:27 PM
+(UTC)
+
+04/17/2026
+01:28:27 PM
+
+04/17/2026
+01:28:29 PM
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+Opened
+
+HTTP-IP:66.249.80.3
+
+04/17/2026
+01:30:57 PM
+(UTC)
+
+04/17/2026
+01:30:57 PM
+
+04/17/2026
+01:31:20 PM
+
+04/17/2026
+01:28:13 PM
+(UTC)
+
+04/17/2026
+01:28:22 PM
+
+04/17/2026
+01:28:26 PM
+
+***
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732067246302326&simpl=msg-f:1862732067246302326
+
+1/7
+
+4/17/26, 11:58 AM
+
+Gmail - Receipt: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.700…
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: [Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT
+INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT
+IRREGULARITIES CONCERNING PERPETUALLY LICENSED TECHNOLOGIES (Delivery
+Failure)
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Fri, Apr 17, 2026 at 11:54 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+michael.schmidt@us.af.mil
+
+Delivered and
+Opened
+
+kevin.j.oconnor@lmco.com
+
+craig.martell@lmco.com
+
+Delivered (UTC*)
+
+Delivered (local)
+
+Opened (local)
+
+04/17/2026
+HTTP02:15:01 PM
+IP:139.241.236.129
+(UTC)
+
+04/17/2026
+02:15:01 PM
+
+04/17/2026
+02:15:31 PM
+
+Delivered and
+Opened
+
+04/17/2026
+HTTP-IP:3.32.29.56 02:15:02 PM
+(UTC)
+
+04/17/2026
+02:15:02 PM
+
+04/17/2026
+02:15:24 PM
+
+Delivery Failed
+
+550 5.1.1 ... User
+Unknown or Invalid
+Recipient Address
+
+***
+
+***
+
+valerie.browning@lmco.com Delivery Failed
+
+550 5.1.1 ... User
+Unknown or Invalid
+Recipient Address
+
+***
+
+***
+
+emil.michael@osd.mil
+
+Delivery Failed
+
+5.4.4 (unable to
+route: no mail hosts ***
+for domain)
+
+***
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+Opened
+
+HTTPIP:66.249.80.2
+
+04/17/2026
+02:23:43 PM
+(UTC)
+
+04/17/2026
+02:23:43 PM
+
+04/17/2026
+03:03:08 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+[Lockheed-Martin] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT
+UNDER DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT IRREGULARITIES
+CONCERNING PERPETUALLY LICENSED TECHNOLOGIES
+
+To:
+
+<michael.schmidt@us.af.mil> <kevin.j.oconnor@lmco.com> <craig.martell@lmco.com>
+<valerie.browning@lmco.com> <emil.michael@osd.mil>
+
+Cc:
+
+<rj.aguiar.m+legal-notice@gmail.com>
+
+Bcc:
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862737451442715455&simpl=msg-f:1862737451442715455
+
+1/5
+
+4/17/26, 10:56 AM
+
+Gmail - Receipt: [CORRECTED] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT UNDER DFARS 227.7004 …
+
+RJ Aguiar, JR. <rj.aguiar.m@gmail.com>
+
+Receipt: [CORRECTED] FORMAL ADMINISTRATIVE CLAIM FOR PATENT
+INFRINGEMENT UNDER DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT
+IRREGULARITIES CONCERNING PERPETUALLY LICENSED TECHNOLOGIES
+1 message
+Receipt <receipt@r1.rpost.net>
+To: rj.aguiar.m+legal-notice@gmail.com
+
+Fri, Apr 17, 2026 at 10:43 AM
+
+This receipt contains verifiable proof of your RPost transaction.
+The holder of this receipt has proof of delivery, message and attachment content, and official time of sending and receipt.
+Depending on services selected, the holder also may have proof of encrypted transmission and/or electronic signature.
+To authenticate this receipt, forward this email with its attachment to 'verify@r1.rpost.net' or click here
+Delivery Status
+Address
+
+Status
+
+Details
+
+william.a.creech3.civ@army.mil
+
+relayed;pri04/17/2026
+Delivered to Mail
+jeemsg.eemsg.mail. 01:41:01 PM
+Server
+mil (156.112.250.2) (UTC)
+
+04/17/2026
+01:41:01 PM
+
+mia.a.steele2.civ@army.mil
+
+relayed;pri04/17/2026
+Delivered to Mail
+jeemsg.eemsg.mail. 01:41:03 PM
+Server
+mil (156.112.250.2) (UTC)
+
+04/17/2026
+01:41:03 PM
+
+tamara.n.jenkins.civ@mail.mil
+
+relayed;pri04/17/2026
+Delivered to Mail
+jeemsg.eemsg.mail. 01:41:02 PM
+Server
+mil (156.112.250.2) (UTC)
+
+04/17/2026
+01:41:02 PM
+
+undra.n.robinson.civ@mail.mil
+
+relayed;pri04/17/2026
+Delivered to Mail
+jeemsg.eemsg.mail. 01:41:04 PM
+Server
+mil (156.112.250.2) (UTC)
+
+04/17/2026
+01:41:04 PM
+
+emely.e.winnert@nga.mil
+
+relayed;pri04/17/2026
+Delivered to Mail
+jeemsg.eemsg.mail. 01:41:01 PM
+Server
+mil (156.112.250.2) (UTC)
+
+04/17/2026
+01:41:01 PM
+
+relayed;pri-usafDelivered to Mail eemsg.eemsg.
+aflcmcjaworkflowmail@us.af.mil
+Server
+mail.mil
+(156.112.250.198)
+
+Delivered (UTC*) Delivered (local)
+
+04/17/2026
+01:41:02 PM
+(UTC)
+
+04/17/2026
+01:41:02 PM
+
+emil.michael@mail.mil
+
+relayed;pri04/17/2026
+Delivered to Mail
+jeemsg.eemsg.mail. 01:41:06 PM
+Server
+mil (156.112.250.2) (UTC)
+
+04/17/2026
+01:41:06 PM
+
+rj.aguiar.m+legal-notice@
+gmail.com
+
+Delivered and
+Opened
+
+04/17/2026
+01:41:21 PM
+(UTC)
+
+04/17/2026
+01:41:21 PM
+
+HTTPIP:66.249.80.4
+
+Opened (local)
+
+04/17/2026
+01:52:37 PM
+
+*UTC represents Coordinated Universal Time: https://www.rmail.com/resources/coordinated-universal-time/
+
+Message Envelope
+From:
+
+RJ Aguiar JR <rj.aguiar.m+legal-notice@gmail.com>
+
+Subject:
+
+[CORRECTED] FORMAL ADMINISTRATIVE CLAIM FOR PATENT INFRINGEMENT
+UNDER DFARS 227.7004 AND NOTIFICATION OF PROCUREMENT IRREGULARITIES
+
+https://mail.google.com/mail/u/0/?ik=e2fd7a9b0e&view=pt&search=all&permthid=thread-f:1862732991862508328&simpl=msg-f:1862732991862508328
+
+1/6
+
+CATEGORY IV: INTELLECTUAL PROPERTY REPOSITORIES & ADVERSARIAL
+COERCION ADMISSIONS
+EXHIBIT J: Primary cover configuration, official Library of Congress control metadata, and
+printed Table of Contents of Relator’s published compendium: Be Water, Be Light: Portfolio of
+Patent Applications Submitted to the US Patent and Trademark Office During Year 2026
+(ISBN 9781971481296).
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+Exhibit E: Cover page, copyright registration data, and Table of Contents of Respondent’s
+published work: Published Catalog of Active Patent Applications Submitted to the United States
+Patent and Trademark Office (USPTO) during the Year 2026 (ISBN 9781971481296).
+
+Be Water, Be Light
+Portfolio of Patent Applications Submitted to the US Patent and Trademark Office
+During Year 2026
+Compiled by R.J. Aguiar
+2026 Version 2.1998.9
+
+Contents
+Foreword: A Public Record of Invention
+
+1
+
+Preamble: Letters sent to the Department of Defense and the SEC on March 12, 2026.
+
+3
+
+Part 1: The Most Important Technology in this Portfolio (USPTO # 19/632,333)
+
+11
+
+Part 2: The Second Most Important Technology in this Portfolio (USPTO # 19/639,219; 19/639,222; 19/638,192; 19/638,176;
+19/639,220; 19/638,180)
+
+39
+
+The Parametric High-Radix Computer (or “Just-in-Time Computer”) (USPTO # 19/639,219; 19/639,245; 19/639,222;
+19/639,220) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+41
+
+USPTO # 19/639,219: A Central Processing Unit Architecture for Native Parametric and Symbolic Computation
+
+42
+
+USPTO # 19/639,245: A Method and System for High-Radix Physical Layer Data Encoding and Representation .
+
+52
+
+USPTO # 19/640,945: A METHOD FOR ASYNCHRONOUS SECURE COMMUNICATION WITH POST-HOC KEY
+DERIVATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+61
+
+USPTO # 19/639,222: A Memory System for the Storage and Retrieval of Parametric and Symbolic Data Representations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+68
+
+USPTO # 19/639,271: A High-Radix Mass Storage System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+77
+
+USPTO # 19/639,220: Method and System for High-Radix Data Representation Using Parametric Mathematical
+Encoding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+86
+
+USPTO # 19/639,253: A Protocol Stack and System for Parametric Data Networking . . . . . . . . . . . . . . . .
+
+96
+
+USPTO # 19/640,973: A SECURE PARAMETRIC NETWORK PROTOCOL WITH ROTATING ENCODING MAPS
+FOR FORWARD SECRECY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+105
+
+USPTO # 19/639,255: A High-Radix and Parametric Cellular Communication System . . . . . . . . . . . . . . .
+
+113
+
+USPTO # 19/639,265: A High-Radix and Parametric Satellite Communication System . . . . . . . . . . . . . . .
+
+122
+
+USPTO # 19/639,258: A High-Radix and Parametric Point-to-Point RF Communication System . . . . . . . . . .
+
+131
+
+USPTO # 19/639,272: An Adaptive High-Radix and Parametric Troposcatter Communication System . . . . . .
+
+139
+
+USPTO # 19/645,192: METHOD AND APPARATUS FOR ACCELERATED PRIME NUMBER GENERATION VIA
+MODULAR SIGNAL ANALYSIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+148
+
+USPTO # 19/645,194: A SYSTEM FOR CRYPTANALYSIS BASED ON PARAMETRIC DENOISING OF A PUBLIC
+KEY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+158
+
+USPTO # 19/645,371: A METHOD FOR SECURE COMMUNICATION VIA RECEIVER-GENERATED KEY SEEDS 168
+USPTO # 19/658,569: SYSTEM AND METHOD FOR AN ENCRYPTED DATA BUS . . . . . . . . . . . . . . . . .
+
+178
+
+USPTO # 19/658,572: SYSTEM AND METHOD FOR ENCRYPTED KEYBOARD EVENTS . . . . . . . . . . . . .
+
+186
+
+USPTO # 19/658,570: METHOD AND SYSTEM FOR GEOGRAPHICAL AND ORIENTATION-BASED ENCRYPTION SEEDS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+195
+
+The Parametric High-Radix Data Bus (USPTO # 19/638,192; 19/638,176; 19/638,180) . . . . . . . . . . . . . . . . . . . .
+
+203
+
+i
+
+ii CONTENTS
+USPTO # 19/638,192: APPARATUS AND METHOD FOR AN ULTRA-WIDE DATA BUS ARCHITECTURE VIA
+PARAMETRIC ENCODING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+203
+
+USPTO # 19/638,176: METHOD AND APPARATUS FOR HIGH-RADIX NUMBER REPRESENTATION USING
+PARAMETRIC SERIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+212
+
+USPTO # 19/638,180: SYSTEM AND METHOD FOR HIGH-PRECISIONFRACTIONAL NUMBER REPRESENTATION IN A DIGITAL COMPUTING SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Part 3: The Optical Computing Revolution
+
+221
+231
+
+USPTO # 19/559,705: High-Bandwidth, Low-Latency Optical Data Cable and Transmission Protocol . . . . . . . . . .
+
+233
+
+USPTO # 19/560,041: Apparatus and Method for Physical Transmission of Spatially-Encoded Optical Data . . . . . .
+
+247
+
+USPTO # 19/560,037: Optical Memory Bus and Interface for High-Bandwidth Memory Access . . . . . . . . . . . . .
+
+259
+
+USPTO # 19/560,038: Optical Computing Architecture and System . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+269
+
+USPTO # 19/560,033: Active Optical Data Cable System with Integrated Processing Unit . . . . . . . . . . . . . . . . .
+
+279
+
+USPTO # 19/560,031: Method and System for Pixel-Based Network Routing in a Massively Parallel Optical Interconnect 291
+USPTO # 19/560,042: Method and System for High-Bandwidth, Free-Space Optical Data Exchange Between Mobile
+Devices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+303
+
+USPTO # 19/562,818: Apparatus for a Massively Parallel Optical Data Bus Architecture . . . . . . . . . . . . . . . . .
+
+315
+
+USPTO # 19/562,822: Apparatus for a Reconfigurable-Width Optical Bus . . . . . . . . . . . . . . . . . . . . . . . . .
+
+323
+
+USPTO # 19/562,825: System for an Optically-Native Central Processing Unit . . . . . . . . . . . . . . . . . . . . . . .
+
+331
+
+USPTO # 19/571,558:
+
+SYSTEM AND METHOD FOR HIGH-RADIX COMPUTING USING WAVELENGTH-
+
+DISCRIMINATING PHOTOTRANSISTORS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+339
+
+USPTO # 19/562,829: Method for High-Radix Computing via Optical Bus . . . . . . . . . . . . . . . . . . . . . . . . .
+
+349
+
+USPTO # 19/562,838: Method for Energy-Efficient Computing via Clock Speed Reduction . . . . . . . . . . . . . . . .
+
+355
+
+USPTO # 19/562,841: Asynchronous Optical Computing System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+363
+
+USPTO # 19/562,844: Method for Performance Benchmarking for Parallel Architectures . . . . . . . . . . . . . . . . .
+
+371
+
+USPTO # 19/562,845: A Physically Disaggregated Computing System . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+379
+
+USPTO # 19/562,847: Apparatus for an Optical Data Fabric Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+387
+
+USPTO # 19/562,853: Method for Dynamic Composition of Bare-Metal Computing Resources . . . . . . . . . . . . . .
+
+395
+
+USPTO # 19/562,855: System for a Data Center Architecture with Functionally Segregated Resource Pools . . . . . .
+
+403
+
+USPTO # 19/641,125: A SYSTEM AND METHOD FOR HIGH-RADIX PARAMETRIC OPTICAL GROUND-TOSPACE COMMUNICATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+410
+
+Part 4: High-Cardinality Encoding and Security Protocols (Filed with the USPTO on March 9, 2026 and Subsequently
+Published on this book on March 10, 2026).
+
+419
+
+USPTO # 19/561,200: Method for Generating a Channel-Optimized Data Encoding Map . . . . . . . . . . . . . . . . .
+
+421
+
+USPTO # 19/561,223: System and Method for N-Gram Parallel Data Encoding . . . . . . . . . . . . . . . . . . . . . . .
+
+429
+
+USPTO # 19/561,228: Method for Legacy Protocol Tunneling Over a High-Cardinality Interface . . . . . . . . . . . .
+
+437
+
+USPTO # 19/561,236: Protocol for Physical and Data-Link Layer Encoding Negotiation . . . . . . . . . . . . . . . . .
+
+443
+
+USPTO # 19/561,246: System and Method for Secure Communication via Disposable Encoding Maps . . . . . . . . .
+
+451
+
+USPTO # 19/561,259: Protocol for Encoding Map Rotation for Forward Secrecy . . . . . . . . . . . . . . . . . . . . . .
+
+459
+
+CONTENTS
+
+iii
+
+USPTO # 19/638,448: METHOD AND SYSTEM FOR DIRECT ANALOG SIGNAL ENCODING ON A HIGHCARDINALITY PARALLEL INTERFACE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+467
+
+USPTO # 19/638,466: SYSTEM FOR SECURE COMMUNICATION USING COVERT SIDE-CHANNELS EMBEDDED IN
+A HIGH-CARDINALITY PARALLEL DATA STREAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Part 5: The Physical Data Logistics Network
+
+477
+487
+
+USPTO # 19/574,352: SYSTEM AND METHOD FOR SECURE ASYNCHRONOUS DATA COMMUNICATION . . . . .
+
+489
+
+USPTO # 19/560,061: Optically-Attached Storage (OAS) Apparatus and System . . . . . . . . . . . . . . . . . . . . . .
+
+499
+
+USPTO # 19/560,062: Portable Data Cartridge with Optical Interface . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+507
+
+USPTO # 19/560,065: Autonomous Robotic Data Logistics System . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+515
+
+USPTO # 19/560,066: Asynchronous Physical Data Logistics Network (OALNet) . . . . . . . . . . . . . . . . . . . . .
+
+523
+
+USPTO # 19/560,068: Method for a Physical Data Routing Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+531
+
+USPTO # 19/560,071: Business Method for a Payload Size Surcharge in a High-Bandwidth Data Transfer Service . . .
+
+539
+
+USPTO # 19/560,069: Business Method for Dual-Purpose Logistics Networks . . . . . . . . . . . . . . . . . . . . . . .
+
+547
+
+Part 6: Covert Communications and Data Exfiltration
+
+557
+
+USPTO # 19/559,881: Method and System for a Covert Data Relay . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+559
+
+USPTO # 19/559,867: Method and System for Covert Screen Data Exfiltration . . . . . . . . . . . . . . . . . . . . . . .
+
+567
+
+USPTO # 19/559,745: System and Method for Covert Communication Using Arrangements of Satellite-Observable,
+Distinctively Colored Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+571
+
+USPTO # 19/559,656: Method for Covert Communication via Satellite Vision Systems . . . . . . . . . . . . . . . . . .
+
+581
+
+USPTO # 19/559,972: Method and System for Communication via Passive Reflection from Non-Cooperative Orbiting
+Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Part 8: Surveillance, Counter-Surveillance, and Identification
+
+597
+621
+
+USPTO # 19/559,858: Method for a Cryptographic Side-Channel Attack Using Acoustic Analysis of Keystroke Metadata 623
+USPTO # 19/559,849: Method and System for Identifying Encrypted Traffic by Injecting Steganographic Anchors . .
+
+633
+
+USPTO # 19/559,842: Method and System for Coordinated Dual-Vehicle Scanning . . . . . . . . . . . . . . . . . . . .
+
+643
+
+USPTO # 19/559,969: System and Method for Detecting and Countering Covert Retail Surveillance . . . . . . . . . . .
+
+653
+
+USPTO # 19/559,873: Method and System for Information Leak-Proofing of Organizations . . . . . . . . . . . . . . .
+
+665
+
+Part 7: Data Integrity and Systemic Exploits
+
+673
+
+USPTO # 19/559,958: Method and System for Detecting Data Transposition and Unauthorized Data Permutation . . .
+
+675
+
+USPTO # 19/559,608: Method and System for a Geo-Indexing Covert Ledger . . . . . . . . . . . . . . . . . . . . . . .
+
+685
+
+USPTO # 19/559,959: Method and System for Covert Manipulation of a Supply Chain . . . . . . . . . . . . . . . . . .
+
+705
+
+USPTO # 19/574,356: A COMPUTING DEVICE WITH HARDWARE-ENFORCED GRID-ISOLATED OPERATION . . .
+
+713
+
+USPTO # 19/571,566: METHOD AND SYSTEM FOR DE-ANONYMIZING RADIO FREQUENCY SIGNALS VIA A DISTRIBUTED SENSOR ARRAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Part 8: Analysis of Power and Influence
+USPTO # 19/559,957: Method and System for Power Holder Analysis in Social Networks . . . . . . . . . . . . . . . .
+Epilogue
+
+723
+733
+735
+745
+
+EXHIBIT K: Respondent’s Unsworn Emergency Declaration of Translation and Transcription
+Certification pursuant to Tex. Civ. Prac. & Rem. Code § 132.001, embedding the text message
+exchange with Petitioner Gloria Espina wherein she asserts a personal "gift" ownership interest
+over a corporate-funded computer tool.
+
+Relator’s Master Appendix And Comprehensive Index Of Requisite Exhibits
+
+NO. 25-DCV-328122
+IN THE MATTER OF THE MARRIAGE OF
+GLORIA ESPINA AND REINALDO J. AGUIAR MARCANO
+IN THE DISTRICT COURT OF FORT BEND COUNTY, TEXAS
+387TH JUDICIAL DISTRICT
+AND IN THE INTEREST OF A CHILD
+
+RESPONDENT’S UNSWORN EMERGENCY DECLARATION OF
+TRANSLATION AND TRANSCRIPTION CERTIFICATION PURSUANT TO
+TEX. CIV. PRAC. & REM. CODE § 132.001
+My name is Reinaldo J. Aguiar Marcano. My date of birth is February 17th, 1979, and my address
+is 26714 Valleyside Drive, Katy, Texas 77494, United States of America. I am the Respondent in
+the above-styled cause. I am over eighteen years of age, of sound mind, have personal
+knowledge of the facts stated herein, and am fully competent to make this unsworn
+declaration.
+1.​ I am native-fluent and fully proficient in both the English and Spanish languages,
+possessing the requisite linguistic capability to accurately, completely, and faithfully
+transcribe and translate legal, evidentiary, and electronic documents between said
+languages.
+2.​ I am the creator and custodian of the attached transcript and translation of the electronic
+text message exchanges between myself and the Petitioner, Gloria Espina, which took
+place in May 2026, attached to the main motion as Appendix Exhibit C.
+3.​ I hereby certify under penalty of perjury under the laws of the State of Texas and the
+United States of America that the Spanish-language text contained within the
+transcription is a true, literal, and exact typographic replication of the original electronic
+communications, and that the English-language text is a true, faithful, and accurate
+translation of said transcription to the best of my skills and linguistic ability.
+4.​ Statement of Emergency Constraints, Exigent Circumstances, and Unavailability of
+a Notary Public: I am executing this translation, transcription, and certification
+personally as an Unsworn Declaration under Texas Civil Practice and Remedies Code
+§ 132.001 out of absolute procedural necessity and a complete lack of alternative legal
+or notary access, arising from the following immediate constraints intentionally imposed
+upon me:
+○​ Timing Constraints: This Court unilaterally scheduled an ex parte event on the
+docket for Wednesday, May 27, 2026, but did not update, expose, or make the
+entry visible until Friday afternoon, May 22, 2026, leaving me with less than two
+clear business days to prepare, translate, file, and serve my mandatory statutory
+objections.
+
+○​ Physical Confinement / De Facto House Arrest: This Court signed a void Order
+for Capias on May 15, 2026 (Index #222), during an active jurisdictional stay
+pending before the Supreme Court of Texas (Cause No. 26-0511). This unlawful
+warrant has placed me under a state of de facto house arrest, legally and physically
+preventing me from traveling to a commercial notary public, bank, or certified
+translation agency without facing the immediate threat of arrest, confinement, and
+vehicle/proprietary technology impoundment.
+5.​ Due to these bad-faith administrative and physical constraints, I have no recourse but to
+submit this self-certified translation utilizing an unsworn declaration to ensure my timely,
+statutory written objections are preserved before the May 27, 2026 deadline.
+6.​ I formally pledge to this Court and the Appellate Clerks that I will procure a secondary,
+independent certification from an accredited, third-party court translator and a
+traditionally notarized affidavit immediately upon the lifting of the mandatory, automatic
+stay currently pending before the Supreme Court of Texas in Cause No. 26-0511, and
+upon the quashing or staying of the void Capias that currently restrains my physical
+liberty.
+
+MANDATORY STATUTORY VERIFICATION
+"I, REINALDO J. AGUIAR MARCANO, declare under penalty of perjury that the foregoing is true
+and correct."
+Executed in Fort Bend County, State of Texas, on this 25 day of May, 2026.
+
+Declarant / Respondent Pro Se
+26714 Valleyside Drive
+Katy, Texas 77494
+(646) 229-5724
+rj.aguiar.m@gmail.com
+
+English Translation
+[11:32 AM] Gloria Andrea Espina: Ok. No visit today either? I was thinking of going after
+graduation
+[11:44 AM] Reinaldo J. Aguiar Marcano: With the looming threat of arrest: no. I am not going
+to expose the child to the trauma of seeing his dad being arrested. I find it unbelievable that
+you don’t see how traumatic that could be for a child his age
+[10:15 AM] Reinaldo J. Aguiar Marcano: Hello Good morning, sorry to bother you. I am trying
+to log into the computer that I gave you when I hired you to hire salespeople, it's a MacBook
+but it's asking me for a security code from your Apple account
+[10:16 AM] Reinaldo J. Aguiar Marcano: I sent it to your cell phone at this number, can you
+pass it to me, please?
+[10:40 AM] Gloria Andrea Espina: Hello. I haven't received anything and of course I cannot
+give you the security code to my Apple account. Besides, that computer is mine
+[10:43 AM] Reinaldo J. Aguiar Marcano: It is the company's computer
+[10:43 AM] Reinaldo J. Aguiar Marcano: And it is not the code to your account, it is a code to
+unlock the computer
+[10:43 AM] Gloria Andrea Espina: No. You gifted it to me
+[10:44 AM] Reinaldo J. Aguiar Marcano: Now you're going to start fabricating things to sue
+me, now over the computer
+[10:44 AM] Reinaldo J. Aguiar Marcano: Don't worry, don't give me the password
+
+Spanish Transcription
+[11:32 AM] Gloria Andrea Espina: Ok. No visita hoy tampoco? yo pensaba ir despues de la
+graduacion
+[11:44 AM] Reinaldo J. Aguiar Marcano: Con la amenaza latente de arresto: no. No voy a
+
+exponer Al nino Al trauma de ver a su papa siendo arrested. Me parece increible que no veas lo
+traumatico que eso podria ser para un nino de su edad
+[10:15 AM] Reinaldo J. Aguiar Marcano: Hola Buenos dias, disculpa te moleste. Estoy
+tratando de entrar a la computadora que te di cuando te contrate para contratat vendedores,
+es una MacBook pero me pide un codigo se seguridad de tu cuenta apple
+[10:16 AM] Reinaldo J. Aguiar Marcano: Te lo envie a tu celular a Este numero, me lo puedes
+pasar , por fa ?
+[10:40 AM] Gloria Andrea Espina: Hola. No me ha llegado nada y por supuesto no te puedo
+dar el codigo de seguridad de mi cuenta apple. Además esa computadora es mía
+[10:43 AM] Reinaldo J. Aguiar Marcano: Es la computadora de la empresa
+[10:43 AM] Reinaldo J. Aguiar Marcano: Y no es El codigo de tu cuenta , es un codigo para
+desbloquear la computadora
+[10:43 AM] Gloria Andrea Espina: No. Tu me la regalaste a mi
+[10:44 AM] Reinaldo J. Aguiar Marcano: Ya vas a empezar a escribir cosas crafted para
+demandarme, ahora por la computadora
+[10:44 AM] Reinaldo J. Aguiar Marcano: Tranquila no me des la clave
+
+Automated Certificate of eService
+This automated certificate of service was created by the efiling system.
+The filer served this document via email generated by the efiling system
+on the date and to the persons listed below:
+
+Envelope ID: 115364438
+Filing Code Description: Motion for Emergency Relief
+Filing Description: RELATOR'S RESPONSE TO MOTION FOR RULE
+52.11 SANCTIONS, EMERGENCY MOTION FOR IMMEDIATE
+TEMPORARY STAY UNDER TRAP 52.10, AND CONCURRENT
+CROSS-PETITION FOR WRIT OF MANDAMUS AND EX PARTE
+HABEAS CORPUS
+Status as of 5/27/2026 8:34 AM CST
+Case Contacts
+Name
+
+BarNumber
+
+Email
+
+TimestampSubmitted
+
+Status
+
+G. Troy Pickett
+
+troy@owlawyers.com
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+William ADAMS
+
+wka@adamslawfirm.com
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+Morgan Rivera-Hybner
+
+mhybner@adamslawfirm.com
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+Brian Middleton
+
+brian.middleton@fortbendcountytx.gov 5/27/2026 7:40:48 AM
+
+SENT
+
+Spira Boyd
+
+sboyd@rmwbh.com
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+Oscar Telfair
+
+387th@fortbendcountytx.gov
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+Reinaldo Aguiar Marcano
+
+rj.aguiar.m@gmail.com
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+Brian Middleton
+
+Middleton@fortbendcountytx.gov
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+G. Troy Pickett
+
+houservice@owlawyers.com
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+Alex Ogundare
+
+agoundare@rmwbh.com
+
+5/27/2026 7:40:48 AM
+
+ERROR
+
+Emil Michael
+
+emil.michael@mail.mil
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+Michael Schmidt
+
+michael.schmidt@us.af.mil
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+Beverley McGrew Walker
+
+Distclerkcivil@fortbendcountytx.gov
+
+5/27/2026 7:40:48 AM
+
+SENT
+
+
