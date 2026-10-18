@@ -1,0 +1,94 @@
+{
+  "application_number": "19640945",
+  "evaluation_timestamp": "20261018_172854",
+  "date": "10182026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19640945-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10182026.tex",
+      "01__19640945-SUPPLEMENTAL-RESPONSE-BALANCED-10182026.tex",
+      "01__19640945-SUPPLEMENTAL-RESPONSE-CONCISE-10182026.tex",
+      "01__19640945-SUPPLEMENTAL-RESPONSE-EQUITABLE-10182026.tex",
+      "01__19640945-SUPPLEMENTAL-RESPONSE-STATUTORY-10182026.tex"
+    ],
+    "winner": "01__19640945-SUPPLEMENTAL-RESPONSE-BALANCED-10182026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #2 (01__19640945-SUPPLEMENTAL-RESPONSE-BALANCED-10182026.tex) is unequivocally selected as the most likely to succeed before the Office of Patent Application Processing (OPAP), the Office of Finance, and Technology Center 2100. From an adjudicative and administrative standpoint, Candidate #2 excels across every operational dimension: (1) Transmittal Architecture: It uniquely structures the filing package by providing an explicit, orderly enumerated index of Documents 02 through 09, allowing OPAP intake paralegals to instantly reconcile and docket each individual PDF/attachment (Clean and Marked-Up Substitute Specification, Standalone Replacement Claims, Standalone Abstract, Formal Drawings, AIA Declaration, Extension Petition, and Suspension Request); (2) Accounting & Knapsack Precision: Item III cleanly tabulates all five Small Entity statutory fee codes (4011, 2111, 2311, 2051, 2054) totaling $970.00 in a clear bulleted breakdown, rigorously implements the Path B knapsack optimization applying $446.00 in unapplied credits to Codes 4011, 2111, and 2051 with the $4.00 surplus applied to the remaining delta, leaving exactly $520.00 net fresh funds remitted at checkout; (3) Preemptive Defect Resolution: It fully incorporates the 37 CFR 1.125(b) no-new-matter certification and formally excises embedded drawings, claims, and abstracts to preserve formalities compliance and the foreign filing license grant; (4) Administrative Temperance: Unlike Candidate #4, which injects distracting grievances regarding portfolio-wide unapplied deposits ($32,758.00 across unrelated dockets), Candidate #2 maintains strict focus on Application 19/640,945; and (5) Procedural Accuracy: Unlike Candidate #5, which erroneously invokes 37 CFR 1.111 (inapplicable to pre-examination formalities replies), Candidate #2 correctly anchors its pleading within the pre-examination framework of 37 CFR 1.53(f), 1.22(b), and 1.27. Consequently, Candidate #2 represents the lowest administrative risk and highest probability of prompt OPAP clearance and transfer to examination.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "Candidate #2 perfectly aligns with all statutory criteria, the MPEP, and the ATS directive. It executes Path B credit knapsack allocation to the dollar ($446 applied, $4 surplus, $520 net cash), rectifies the computational confusion from the October 10 submission, notes the prior payment of the $60 suspension fee (Receipt 82989426), and supplies a complete substitute specification package under 37 CFR 1.125.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19640945-SUPPLEMENTAL-RESPONSE-BALANCED-10182026.tex",
+        "rank": 1,
+        "score": 98.5,
+        "cleanliness_and_arguments": "Exemplary drafting quality. Features an itemized document manifest mapping all package instruments, bulleted statutory fee tabulation, and precise accounting citations under 37 CFR 1.22(b) and MPEP 509.",
+        "risks_and_liabilities": "Minimal. Zero procedural friction; clean fee reconciliation ensures immediate processing by the Office of Finance and OPAP.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19640945-SUPPLEMENTAL-RESPONSE-CONCISE-10182026.tex",
+        "rank": 2,
+        "score": 93.0,
+        "cleanliness_and_arguments": "Substantively complete and accurate on statutory fee reconciliation and defect curing, but formats the fee schedule as running narrative text rather than an itemized tabular breakdown.",
+        "risks_and_liabilities": "Low risk of miscalculation by intake personnel due to inline narrative text format compared to Candidate #2.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19640945-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10182026.tex",
+        "rank": 3,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Assertive and legally sound, fully satisfying all missing parts and pre-exam defects. However, the tone leans combative and it lacks an explicit indexed document manifest.",
+        "risks_and_liabilities": "Low-to-moderate; slightly less user-friendly for intake staff processing multi-part transmittals.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19640945-SUPPLEMENTAL-RESPONSE-STATUTORY-10182026.tex",
+        "rank": 4,
+        "score": 86.5,
+        "cleanliness_and_arguments": "Well-drafted and accurate on fees, but contains a procedural inaccuracy by citing 37 CFR 1.111 and 1.121 in the opening paragraph, which govern post-rejection replies on the merits rather than pre-examination formalities.",
+        "risks_and_liabilities": "Moderate; procedural miscitation could generate minor confusion during OPAP classification.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19640945-SUPPLEMENTAL-RESPONSE-EQUITABLE-10182026.tex",
+        "rank": 5,
+        "score": 80.0,
+        "cleanliness_and_arguments": "Technically satisfies fee requirements, but unnecessarily injects external arguments regarding $32,758.00 in unapplied deposit funds across the applicant's broader portfolio, which is irrelevant to this specific pre-examination docket.",
+        "risks_and_liabilities": "Moderate-to-high liability of alienating agency intake reviewers and causing administrative pushback or supervisory referral.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19640945-SUPPLEMENTAL-INVENTOR-DECLARATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19640945-SUPPLEMENTAL-INVENTOR-DECLARATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19640945-10182026-172849-Supplemental/04__19640945-SUPPLEMENTAL-INVENTOR-DECLARATION-10182026.pdf",
+          "score": 93.11452015697466,
+          "diff_chars": 349,
+          "deviations": 9,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19640945-SUPPLEMENTAL-RESPONSE-BALANCED-10182026.tex",
+    "02__": "02__19640945-SUPPLEMENTAL-EXTENSION-STATUTORY-10182026.pdf",
+    "03__": "03__19640945-SUPPLEMENTAL-SUSPENSION-EQUITABLE-10182026.pdf",
+    "04__": "04__19640945-SUPPLEMENTAL-INVENTOR-DECLARATION-10182026.pdf",
+    "05__": "05__19640945-SUPPLEMENTAL-SUBSTITUTE-SPECIFICATION-10182026.pdf",
+    "06__": "06__19640945-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10182026.pdf",
+    "07__": "07__19640945-SUPPLEMENTAL-DRAWINGS-10182026.pdf",
+    "08__": "08__19640945-SUPPLEMENTAL-REPLACEMENT-CLAIMS-10182026.pdf",
+    "09__": "09__19640945-SUPPLEMENTAL-REPLACEMENT-ABSTRACT-10182026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19640945/EVALS/10182026/20261018_172854.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19640945/EVALS/10182026/20261018_172854.html"
+}
