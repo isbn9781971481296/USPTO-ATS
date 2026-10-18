@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PatentApplicationData>
     <FileHeader>
-        <FileCreationTimeStamp>2026-10-08</FileCreationTimeStamp>
+        <FileCreationTimeStamp>2026-10-17</FileCreationTimeStamp>
     </FileHeader>
     <CorrespondenceInfo>
         <CorrespondenceAddresses>
@@ -31,8 +31,8 @@
         <CustomerNumber>226458</CustomerNumber>
         <FilingDate>2026-03-06</FilingDate>
         <ExaminerName>
-            <FirstName>ANDREA</FirstName>
-            <LastName>BENNETT</LastName>
+            <FirstName>DEMETRIUS</FirstName>
+            <LastName>JONES</LastName>
         </ExaminerName>
         <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
         <InventionTitle>METHOD FOR A CRYPTOGRAPHIC SIDE-CHANNEL ATTACK USING ACOUSTIC ANALYSIS OF KEYSTROKE METADATA</InventionTitle>
@@ -70,6 +70,10 @@
     </Inventors>
     <Applicants/>
     <FileContentHistories>
+        <FileContentHistory>
+            <TransactionDate>2026-10-10</TransactionDate>
+            <TransactionDescription>Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27</TransactionDescription>
+        </FileContentHistory>
         <FileContentHistory>
             <TransactionDate>2026-08-17</TransactionDate>
             <TransactionDescription>Email Notification</TransactionDescription>
@@ -203,6 +207,13 @@
             <MailRoomDate>2026-08-17</MailRoomDate>
             <PageQuantity>1</PageQuantity>
         </ImageFileWrapperDocument>
+        <ImageFileWrapperDocument>
+            <DocumentCategory>0</DocumentCategory>
+            <DocumentDescription>Assertion of entitlement to small entity status via PC</DocumentDescription>
+            <FileWrapperDocumentCode>SES.REQ.PC</FileWrapperDocumentCode>
+            <MailRoomDate>2026-10-10</MailRoomDate>
+            <PageQuantity>1</PageQuantity>
+        </ImageFileWrapperDocument>
     </ImageFileWrapperList>
     <ForeignPriorities/>
     <SupplementalContents>
@@ -272,19 +283,19 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-03-06</AccountingDate>
-            <FeeCode>3011</FeeCode>
-            <FeeAmount>70</FeeAmount>
-            <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>70</TotalAmount>
+            <FeeCode>3201</FeeCode>
+            <FeeAmount>120</FeeAmount>
+            <FeeQuantity>8</FeeQuantity>
+            <TotalAmount>960</TotalAmount>
             <MailroomDate>2026-03-06</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-03-06</AccountingDate>
-            <FeeCode>3311</FeeCode>
-            <FeeAmount>176</FeeAmount>
+            <FeeCode>3011</FeeCode>
+            <FeeAmount>70</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>176</TotalAmount>
+            <TotalAmount>70</TotalAmount>
             <MailroomDate>2026-03-06</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
@@ -299,19 +310,19 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-03-06</AccountingDate>
-            <FeeCode>3201</FeeCode>
-            <FeeAmount>120</FeeAmount>
-            <FeeQuantity>8</FeeQuantity>
-            <TotalAmount>960</TotalAmount>
+            <FeeCode>3111</FeeCode>
+            <FeeAmount>154</FeeAmount>
+            <FeeQuantity>1</FeeQuantity>
+            <TotalAmount>154</TotalAmount>
             <MailroomDate>2026-03-06</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-03-06</AccountingDate>
-            <FeeCode>3111</FeeCode>
-            <FeeAmount>154</FeeAmount>
+            <FeeCode>3311</FeeCode>
+            <FeeAmount>176</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>154</TotalAmount>
+            <TotalAmount>176</TotalAmount>
             <MailroomDate>2026-03-06</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>

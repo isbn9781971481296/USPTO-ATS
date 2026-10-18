@@ -89,6 +89,13 @@
     </div>
     
     
+    <div class="card mb-4 bg-light border-0 shadow-sm">
+        <div class="card-body py-2 px-3 d-flex flex-wrap align-items-center gap-2">
+            <span class="text-secondary fw-bold small me-1">⚡ Quick Links:</span>
+            <a href="#communications" class="btn btn-sm btn-outline-primary py-0 px-2 fw-semibold">Communications</a>
+        </div>
+    </div>
+    
     
     <div class="alert alert-info">
         <strong>Analysis Posture:</strong> No analysis available
@@ -105,16 +112,7 @@
         <p class="border p-3 bg-light">No summary available.</p>
     </div>
     
-    <div id="actions-in-other-ledgers" class="mb-4">
-        <div class="d-flex justify-content-between align-items-center mb-2">
-            <h5 class="mb-0">Actions in other ledgers</h5>
-            <div class="d-flex align-items-center gap-2">
-                <a href="#" class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" title="Back to top of page">↑ Back to top</a>
-                <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('actions-in-other-ledgers', this)" title="Copy permalink to Actions in other ledgers">🔗 Permalink</button>
-            </div>
-        </div>
-        <p class='text-muted'><em>No actions recorded in other ledgers.</em></p>
-    </div>
+    
     
     <div id="deadlines" class="mb-4">
         <div class="d-flex justify-content-between align-items-center mb-2">
@@ -186,7 +184,30 @@
                 <button class="btn btn-sm btn-outline-secondary py-0 border-0 text-muted" onclick="copySectionPermalink('communications', this)" title="Copy permalink to Communications">🔗 Permalink</button>
             </div>
         </div>
-        <p class='text-muted'><em>No communications recorded in local docket.</em></p>
+        
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered table-sm">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Mail Date</th>
+                        <th>Document Code</th>
+                        <th>Description</th>
+                        <th>Document Link</th>
+                        <th>Size</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+            <td><code>2026-10-14</code></td>
+            <td><span class="badge bg-warning text-dark">OATH (PDF)</span></td>
+            <td>Oath or Declaration filed</td>
+            <td><a href="https://uspto-ats.isbn9781971481296.com/#a--19839441--226458_19839441_10-14-2026_OATH_dot_PDF" class="fw-bold"><code>226458_19839441_10-14-2026_OATH.PDF</code> (PDF)</a></td>
+            <td>68 KB</td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+        
     </div>
 
     <div id="oath-audit">
