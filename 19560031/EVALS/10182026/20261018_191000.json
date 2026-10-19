@@ -1,0 +1,162 @@
+{
+  "application_number": "19560031",
+  "evaluation_timestamp": "20261018_191000",
+  "date": "10182026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19560031-RESPONSE-BALANCED-10182026.tex",
+      "01__19560031-RESPONSE-RIGOROUS-10182026.tex",
+      "01__19560031-RESPONSE-ASSERTIVE-10182026.tex",
+      "01__19560031-RESPONSE-CONCISE-10182026.tex",
+      "01__19560031-RESPONSE-EQUITY-10182026.tex"
+    ],
+    "winner": "01__19560031-RESPONSE-BALANCED-10182026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #2 (01__19560031-RESPONSE-BALANCED-10182026.tex) represents the optimal, professionally balanced, and procedurally unassailable prosecution paper. It achieves complete statutory compliance under Title 35 and Title 37 CFR without injecting adversarial friction or extraneous portfolio grievances into the file wrapper. Specifically: (1) it accurately invokes 35 U.S.C. \u00a7 21(b) and 37 CFR \u00a7 1.7 to establish unquestionable timely filing within the two-month period running to Monday, October 19, 2026, while concurrently tendering a protective petition under 37 CFR \u00a7 1.136(a); (2) it articulates the complete statutory qualification language for Small Entity status under 37 CFR \u00a7 1.27, averring lack of any disqualifying assignment or license obligations; (3) it executes an exhaustive formalities cure by transmitting standalone replacement claims (37 CFR \u00a7 1.75(h)), standalone replacement abstract (37 CFR \u00a7 1.72(b)), formal drawings (37 CFR \u00a7 1.84), a compliant AIA declaration supplying the 37 CFR \u00a7 1.63(a)(4) authorization clause, and a substitute specification under 37 CFR \u00a7 1.125 excising embedded figures and deleting the government license grant; and (4) its fee settlement posture tenders full payment across all required small entity codes ($1,030.00 total) to eliminate all financial deficiencies instantly while reserving deposit credits for reconciliation. This impeccable administrative hygiene guarantees prompt pre-examination clearance and transfer to TC 2100 without procedural friction.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "Fully cures all substantive and administrative defects identified in the ATS brief and Notice to File Missing Parts. Although the ATS Knapsack heuristic suggested partial credit offset against base fees, Candidate #2's decision to remit full fresh funds ($1,030.00 including suspension fee) while preserving deposit credits under 37 CFR \u00a7 1.26 is legally superior, avoiding potential automated accounting delays in the Office of Finance.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19560031-RESPONSE-BALANCED-10182026.tex",
+        "rank": 1,
+        "score": 96.0,
+        "cleanliness_and_arguments": "Exemplary drafting, sober legal tone, comprehensive recitation of 37 CFR \u00a7 1.27 small entity criteria, and precise adherence to MPEP Form Paragraph 6.28.02.",
+        "risks_and_liabilities": "Virtually zero administrative risk; presents a clean, standard file wrapper record that Office of Patent Application Processing (OPAP) paralegals can process without referral to Petitions.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19560031-RESPONSE-RIGOROUS-10182026.tex",
+        "rank": 2,
+        "score": 93.0,
+        "cleanliness_and_arguments": "Technically robust and structured with high precision across all curing instruments.",
+        "risks_and_liabilities": "Low risk; slightly less comprehensive than Candidate #2 in spelling out the specific negative covenants required under 37 CFR \u00a7 1.27(a).",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19560031-RESPONSE-ASSERTIVE-10182026.tex",
+        "rank": 3,
+        "score": 89.0,
+        "cleanliness_and_arguments": "Legally sound, but utilizes slightly idiosyncratic terminology such as 'sovereign accounting election' which can raise unnecessary scrutiny from administrative staff.",
+        "risks_and_liabilities": "Low-to-moderate risk of triggering unnecessary administrative review due to aggressive phrasing.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19560031-RESPONSE-CONCISE-10182026.tex",
+        "rank": 4,
+        "score": 87.0,
+        "cleanliness_and_arguments": "Clear and economical, but bundles multiple major filings into a single compressed paragraph in Section II, diminishing immediate visual clarity for docket clerks.",
+        "risks_and_liabilities": "Low risk, though structural readability during clerical screening is inferior to Candidate #2.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19560031-RESPONSE-EQUITY-10182026.tex",
+        "rank": 5,
+        "score": 82.0,
+        "cleanliness_and_arguments": "Contains solid substantive cures, but unnecessarily introduces portfolio macro context citing $32,758.00 in deposit balances across unrelated matters.",
+        "risks_and_liabilities": "Moderate liability; cluttering an individual application's file history with macro-portfolio complaints creates administrative annoyance and potential pushback from the Office of Petitions.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19560031-DECLARATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19560031-DECLARATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560031-10182026-190950-RESPONSE/04__19560031-DECLARATION-10182026.pdf",
+          "score": 92.74956217162872,
+          "diff_chars": 325,
+          "deviations": 15,
+          "punct_deviations": 7,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application.pdf",
+      "winner": "05__19560031-SPECIFICATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19560031-SPECIFICATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560031-10182026-190950-RESPONSE/05__19560031-SPECIFICATION-10182026.pdf",
+          "score": 99.43230689833132,
+          "diff_chars": 492,
+          "deviations": 23,
+          "punct_deviations": 15,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application.pdf",
+      "winner": "06__19560031-SPECIFICATION-MARKUP-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19560031-SPECIFICATION-MARKUP-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560031-10182026-190950-RESPONSE/06__19560031-SPECIFICATION-MARKUP-10182026.pdf",
+          "score": 96.63987350112005,
+          "diff_chars": 419,
+          "deviations": 29,
+          "punct_deviations": 20,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19560031-CLAIMS-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19560031-CLAIMS-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560031-10182026-190950-RESPONSE/08__19560031-CLAIMS-10182026.pdf",
+          "score": 99.07955292570676,
+          "diff_chars": 155,
+          "deviations": 24,
+          "punct_deviations": 19,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19560031-ABSTRACT-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19560031-ABSTRACT-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560031-10182026-190950-RESPONSE/09__19560031-ABSTRACT-10182026.pdf",
+          "score": 97.37903225806451,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19560031-RESPONSE-BALANCED-10182026.tex",
+    "02__": "02__19560031-EXTENSION-CONCISE-10182026.pdf",
+    "03__": "03__19560031-SUSPENSION-EQUITY-10182026.pdf",
+    "04__": "04__19560031-DECLARATION-10182026.pdf",
+    "05__": "05__19560031-SPECIFICATION-10182026.pdf",
+    "06__": "06__19560031-SPECIFICATION-MARKUP-10182026.pdf",
+    "07__": "07__19560031-DRAWINGS-10182026.pdf",
+    "08__": "08__19560031-CLAIMS-10182026.pdf",
+    "09__": "09__19560031-ABSTRACT-10182026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19560031/EVALS/10182026/20261018_191000.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19560031/EVALS/10182026/20261018_191000.html"
+}

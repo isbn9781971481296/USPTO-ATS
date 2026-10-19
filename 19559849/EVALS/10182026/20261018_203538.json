@@ -1,0 +1,144 @@
+{
+  "application_number": "19559849",
+  "evaluation_timestamp": "20261018_203538",
+  "date": "10182026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19559849-RESPONSE-ASSERTIVE-10182026.tex",
+      "01__19559849-RESPONSE-BALANCED-10182026.tex",
+      "01__19559849-RESPONSE-CONCISE-10182026.tex"
+    ],
+    "winner": "01__19559849-RESPONSE-CONCISE-10182026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #3 (01__19559849-RESPONSE-CONCISE-10182026.tex) is selected as the candidate most likely to succeed before the USPTO Office of Patent Application Processing (OPAP) and Pre-Examination Formalities division. It adheres strictly to statutory and regulatory practice under 37 CFR \u00a7 1.53(f), 37 CFR \u00a7 1.27, 37 CFR \u00a7 1.125, and 37 CFR \u00a7 1.22(b). In Item I, Candidate #3 supplies the operative negative-covenant language required under 37 CFR \u00a7 1.27(f) for establishing Small Entity entitlement without extraneous collateral assertions. In Item II, it provides an itemized transmittal index paired with an unassailable 37 CFR \u00a7 1.125(b) certification of no new matter for the substitute specification excising drawings, abstract, and claims. In Item III, Candidate #3 focuses squarely on the official docket XML accounting record ($520.00 unapplied funds) without introducing irrelevant and contentious cross-portfolio deposit claims ($32,758.00 across unrelated dockets) or premature district court litigation references that could invite administrative delays or scrutiny. It executes the Path B knapsack optimization with mathematical precision\u2014directing $490.00 in credits to Codes 4011 ($70), 2311 ($352), and 2051 ($68), leaving $30 stranded credit, while tendering the precise remaining fresh cash balance of $480.00 for Codes 2111 and 2054. This represents the cleanest, most legally disciplined pre-examination clearance filing.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "All three candidates align with the ATS brief's core directives: confirming Small Entity status, curing the Notice to File Missing Parts mailed August 18, 2026, preemptively curing specification/formalities defects via 37 CFR \u00a7 1.125, and adhering to the Path B Waterfall Credit Directive. Candidate #3 represents the highest fidelity to USPTO pre-examination procedures by avoiding distractions from external portfolio accounting disputes while implementing the knapsack fee allocation perfectly.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19559849-RESPONSE-CONCISE-10182026.tex",
+        "rank": 1,
+        "score": 96.5,
+        "cleanliness_and_arguments": "Exemplary legal draftsmanship. Itemizes all accompanying instruments clearly, articulates the exact statutory standard for Small Entity qualification under 37 CFR \u00a7 1.27, includes an uncompromised 37 CFR \u00a7 1.125(b) no-new-matter certification, and accurately implements the subset-sum allocation under 37 CFR \u00a7 1.22(b) and MPEP \u00a7 509.",
+        "risks_and_liabilities": "Minimal. Avoids extraneous docket controversies, ensuring immediate and friction-free processing by OPAP pre-exam paralegals.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559849-RESPONSE-BALANCED-10182026.tex",
+        "rank": 2,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Very solid structural presentation that properly addresses all missing parts requirements, formalities curatives, and credit knapsack allocations. However, it unnecessarily injects external portfolio balance figures ($32,758.00) into an individual docket response.",
+        "risks_and_liabilities": "Low-to-moderate risk of confusing pre-examination processing clerks with cross-application accounting claims not relevant to resolving Notice to File Missing Parts on this single file wrapper.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559849-RESPONSE-ASSERTIVE-10182026.tex",
+        "rank": 3,
+        "score": 84.5,
+        "cleanliness_and_arguments": "Substantively complete in curing missing parts and allocating fees, but includes adversarial rhetoric regarding agency discretion, external portfolio deposit balances, and mentions unrelated pending litigation in the Southern District of Texas that is irrelevant and premature at the pre-examination formalities stage.",
+        "risks_and_liabilities": "Moderate risk of triggering administrative hold or supervisory review due to extraneous litigation notices and combative portfolio accounting demands.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19559849-INVENTOR-DECLARATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19559849-INVENTOR-DECLARATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559849-10182026-203532-RESPONSE/04__19559849-INVENTOR-DECLARATION-10182026.pdf",
+          "score": 90.57502551888398,
+          "diff_chars": 381,
+          "deviations": 9,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application.pdf",
+      "winner": "05__19559849-SPECIFICATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19559849-SPECIFICATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559849-10182026-203532-RESPONSE/05__19559849-SPECIFICATION-10182026.pdf",
+          "score": 99.41287481652338,
+          "diff_chars": 156,
+          "deviations": 18,
+          "punct_deviations": 12,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application.pdf",
+      "winner": "06__19559849-MARKED-UP-SPECIFICATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19559849-MARKED-UP-SPECIFICATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559849-10182026-203532-RESPONSE/06__19559849-MARKED-UP-SPECIFICATION-10182026.pdf",
+          "score": 95.07397171191676,
+          "diff_chars": 481,
+          "deviations": 25,
+          "punct_deviations": 14,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19559849-CLAIMS-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19559849-CLAIMS-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559849-10182026-203532-RESPONSE/08__19559849-CLAIMS-10182026.pdf",
+          "score": 99.09411172622043,
+          "diff_chars": 142,
+          "deviations": 18,
+          "punct_deviations": 7,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19559849-ABSTRACT-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19559849-ABSTRACT-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559849-10182026-203532-RESPONSE/09__19559849-ABSTRACT-10182026.pdf",
+          "score": 96.76258992805755,
+          "diff_chars": 154,
+          "deviations": 2,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19559849-RESPONSE-CONCISE-10182026.tex",
+    "02__": "02__19559849-EXTENSION-OF-TIME-10182026.pdf",
+    "03__": "03__19559849-SUSPENSION-10182026.pdf",
+    "04__": "04__19559849-INVENTOR-DECLARATION-10182026.pdf",
+    "05__": "05__19559849-SPECIFICATION-10182026.pdf",
+    "06__": "06__19559849-MARKED-UP-SPECIFICATION-10182026.pdf",
+    "07__": "07__19559849-DRAWINGS-10182026.pdf",
+    "08__": "08__19559849-CLAIMS-10182026.pdf",
+    "09__": "09__19559849-ABSTRACT-10182026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559849/EVALS/10182026/20261018_203538.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559849/EVALS/10182026/20261018_203538.html"
+}

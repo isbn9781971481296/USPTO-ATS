@@ -1,0 +1,162 @@
+{
+  "application_number": "19560042",
+  "evaluation_timestamp": "20261018_200820",
+  "date": "10182026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19560042-RESPONSE-ASSERTIVE-10182026.tex",
+      "01__19560042-RESPONSE-BALANCED-10182026.tex",
+      "01__19560042-RESPONSE-CONCISE-10182026.tex",
+      "01__19560042-RESPONSE-RIGOROUS-10182026.tex",
+      "01__19560042-RESPONSE-STANDARD-10182026.tex"
+    ],
+    "winner": "01__19560042-RESPONSE-RIGOROUS-10182026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #4 (01__19560042-RESPONSE-RIGOROUS-10182026.tex) is selected by the adjudicating panel as the most likely to succeed before the Office of Patent Application Processing (OPAP) and the assigned Examiner Demetrius Jones. It exhibits the most complete statutory and procedural rigor. Specifically: (1) It articulates the mechanics of 35 U.S.C. \u00a7 21(b) and 37 CFR \u00a7 1.7 with precision regarding the rollover from Sunday October 18 to Monday October 19, 2026; (2) In Section I, it expressly affirms the substantive legal standard of 37 CFR \u00a7 1.27(a)(1) ('Applicant qualifies as an independent inventor and has not assigned or licensed any rights in the invention to any large entity'), creating an unassailable legal nexus for the deletion of the 'Statement of License Grant to the United States Government' in Section II; (3) It enumerates the complete 9-document curative envelope in a clear itemized structure, facilitating immediate verification by pre-exam intake paralegals; (4) It provides a 37 CFR \u00a7 1.125(b) non-new-matter certification and specifies the three distinct procedural grounds for the Substitute Specification under 37 CFR \u00a7\u00a7 1.58(a), 1.72(b), and 1.75(h); (5) It flawlessly executes the Knapsack subset-sum fee allocation under Path B (applying $352.00 in deposit credits to Fee Code 2311 and tendering $618.00 in fresh funds across Codes 4011, 2111, 2051, and 2054, plus $60.00 for Code 2830), eliminating any possibility of a fee deficiency notice under 37 CFR \u00a7 1.53(f); and (6) It strikes the ideal balance of firmness, professionalism, and deference to agency procedure without contentious rhetoric.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "Candidate #4 aligns fully with the ATS analysis pipeline and the Path B Waterfall Mandate. It adheres strictly to Small Entity fee calculations ($970.00 base total), correctly identifies and requests allocation of the $364.00 deposit credit to Fee Code 2311 ($352.00) leaving $12.00 stranded, notes concurrent tender of $618.00 plus $60.00 for Code 2830, provides for the required replacement claims (37 CFR \u00a7 1.75(h)) and abstract (37 CFR \u00a7 1.72(b)), includes the 37 CFR \u00a7 1.63 AIA declaration, and executes the preemptive excision of embedded drawings and the government license grant via a compliant Substitute Specification (37 CFR \u00a7 1.125).",
+    "candidate_scores": [
+      {
+        "candidate": "01__19560042-RESPONSE-RIGOROUS-10182026.tex",
+        "rank": 1,
+        "score": 97.5,
+        "cleanliness_and_arguments": "Exemplary legal drafting. Establishes explicit statutory basis for the rollover under 35 U.S.C. 21(b) and 37 CFR 1.7, articulates independent inventor qualification under 37 CFR 1.27(a)(1) to reinforce the excision of the Government License Grant, and presents an itemized checklist of the 9-document curative filing package alongside a flawless fee waterfall reconciliation.",
+        "risks_and_liabilities": "Virtually zero procedural liability. Leaves no ambiguities for OPAP pre-exam intake and ensures clean progression to examination on the merits.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19560042-RESPONSE-STANDARD-10182026.tex",
+        "rank": 2,
+        "score": 94.0,
+        "cleanliness_and_arguments": "High quality transmittal response. Cleanly itemizes the specific dollar amounts for each fee code (4011, 2111, 2051, 2054) in Section III, which is helpful to the finance clerk. Slightly less thorough than Candidate #4 in articulating the independent inventor statutory predicate under 37 CFR 1.27(a)(1).",
+        "risks_and_liabilities": "Low risk; fully cures all pre-exam formalities and provides correct fee tender.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19560042-RESPONSE-BALANCED-10182026.tex",
+        "rank": 3,
+        "score": 92.5,
+        "cleanliness_and_arguments": "Well-balanced and professional. Cures all cited defects and follows the Path B fee allocation correctly. Does not itemize the specific fee breakdown dollar amounts as clearly as Candidate #5 or provide the statutory qualification predicate of Candidate #4.",
+        "risks_and_liabilities": "Minimal risk; straightforward and compliant.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19560042-RESPONSE-ASSERTIVE-10182026.tex",
+        "rank": 4,
+        "score": 88.0,
+        "cleanliness_and_arguments": "Legally substantive and technically compliant with Path B instructions and deficiency curing. However, the assertive tone ('Absolute Entitlement', 'erroneously assessed on the pre-examination worksheet are cured as a matter of law') introduces minor adversarial friction with clerical staff over routine pre-exam default billing.",
+        "risks_and_liabilities": "Low procedural risk, but unnecessary friction during administrative intake.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19560042-RESPONSE-CONCISE-10182026.tex",
+        "rank": 5,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Covers all necessary legal bases and fee instructions, but compresses the 9-document submission inventory into an inline paragraph rather than a structured itemized list, making rapid indexing by OPAP intake personnel more cumbersome.",
+        "risks_and_liabilities": "Slight formatting risk of clerical oversight during pre-exam document logging due to dense inline listing.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19560042-INVENTOR-DECLARATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19560042-INVENTOR-DECLARATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560042-10182026-200813-RESPONSE/04__19560042-INVENTOR-DECLARATION-10182026.pdf",
+          "score": 92.22104892643436,
+          "diff_chars": 367,
+          "deviations": 9,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application-Mobile-Optical-Data-Exchange.pdf",
+      "winner": "05__19560042-SUBSTITUTE-SPECIFICATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19560042-SUBSTITUTE-SPECIFICATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560042-10182026-200813-RESPONSE/05__19560042-SUBSTITUTE-SPECIFICATION-10182026.pdf",
+          "score": 99.58724202626642,
+          "diff_chars": 471,
+          "deviations": 12,
+          "punct_deviations": 7,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application-Mobile-Optical-Data-Exchange.pdf",
+      "winner": "06__19560042-SPECIFICATION-MARKUP-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19560042-SPECIFICATION-MARKUP-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560042-10182026-200813-RESPONSE/06__19560042-SPECIFICATION-MARKUP-10182026.pdf",
+          "score": 97.36805066854328,
+          "diff_chars": 339,
+          "deviations": 20,
+          "punct_deviations": 12,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application-Mobile-Optical-Data-Exchange.pdf",
+      "winner": "08__19560042-CLAIMS-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19560042-CLAIMS-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560042-10182026-200813-RESPONSE/08__19560042-CLAIMS-10182026.pdf",
+          "score": 99.33216168717047,
+          "diff_chars": 144,
+          "deviations": 16,
+          "punct_deviations": 15,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application-Mobile-Optical-Data-Exchange.pdf",
+      "winner": "09__19560042-ABSTRACT-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19560042-ABSTRACT-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19560042-10182026-200813-RESPONSE/09__19560042-ABSTRACT-10182026.pdf",
+          "score": 97.42366412213741,
+          "diff_chars": 155,
+          "deviations": 3,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19560042-RESPONSE-RIGOROUS-10182026.tex",
+    "02__": "02__19560042-EXTENSION-OF-TIME-10182026.pdf",
+    "03__": "03__19560042-SUSPENSION-OF-ACTION-10182026.pdf",
+    "04__": "04__19560042-INVENTOR-DECLARATION-10182026.pdf",
+    "05__": "05__19560042-SUBSTITUTE-SPECIFICATION-10182026.pdf",
+    "06__": "06__19560042-SPECIFICATION-MARKUP-10182026.pdf",
+    "07__": "07__19560042-DRAWINGS-10182026.pdf",
+    "08__": "08__19560042-CLAIMS-10182026.pdf",
+    "09__": "09__19560042-ABSTRACT-10182026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19560042/EVALS/10182026/20261018_200820.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19560042/EVALS/10182026/20261018_200820.html"
+}
