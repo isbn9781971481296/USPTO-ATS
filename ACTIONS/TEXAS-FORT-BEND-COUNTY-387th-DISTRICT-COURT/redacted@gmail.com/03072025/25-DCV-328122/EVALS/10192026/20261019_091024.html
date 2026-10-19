@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GRS Candidate Evaluation Report - 25-DCV-328122</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0f172a;
+            color: #e2e8f0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            padding: 30px 20px;
+        }
+        .report-container {
+            max-width: 1280px;
+            margin: 0 auto;
+        }
+        .card {
+            background-color: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+            color: #e2e8f0;
+        }
+        .card-header {
+            background-color: #243247;
+            border-bottom: 1px solid #334155;
+            padding: 14px 20px;
+        }
+        .winner-chip {
+            display: inline-flex;
+            align-items: center;
+            background-color: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 8px;
+            padding: 8px 14px;
+            margin: 4px 8px 4px 0;
+        }
+        .winner-pref {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 11px;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-right: 8px;
+        }
+        .winner-name {
+            color: #38bdf8;
+            margin-right: 10px;
+        }
+        .copy-btn {
+            background-color: #334155;
+            color: #f1f5f9;
+            border: 1px solid #475569;
+            border-radius: 4px;
+            font-size: 11px;
+            padding: 3px 8px;
+            cursor: pointer;
+            transition: all 0.15s ease-in-out;
+        }
+        .copy-btn:hover {
+            background-color: #475569;
+            color: #ffffff;
+            border-color: #64748b;
+        }
+        .copy-btn.btn-copied {
+            background-color: #16a34a !important;
+            border-color: #16a34a !important;
+            color: #ffffff !important;
+        }
+        .winner-callout {
+            background-color: rgba(34, 197, 94, 0.1);
+            border: 1px solid rgba(34, 197, 94, 0.3);
+            border-radius: 8px;
+            padding: 12px 18px;
+        }
+        .statement-box {
+            background-color: #0f172a;
+            border-left: 4px solid #3b82f6;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        table {
+            color: #e2e8f0;
+            margin-bottom: 0;
+        }
+        th {
+            background-color: #243247 !important;
+            color: #94a3b8 !important;
+            font-size: 12px;
+            text-transform: uppercase;
+            border-bottom: 2px solid #334155 !important;
+        }
+        td {
+            border-bottom: 1px solid #334155 !important;
+            font-size: 13px;
+            vertical-align: middle;
+        }
+        .table-hover tbody tr:hover {
+            background-color: #243247 !important;
+        }
+        .winner-row {
+            background-color: rgba(34, 197, 94, 0.05);
+        }
+        .badge-winner {
+            background-color: #22c55e;
+            color: #052e16;
+            font-weight: 700;
+            font-size: 10px;
+        }
+        .badge-score {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 12px;
+        }
+        .badge-eval-type {
+            background-color: #475569;
+            color: #e2e8f0;
+            font-size: 11px;
+        }
+        code {
+            color: #38bdf8;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="report-container">
+        <!-- Header -->
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <h2 class="text-white mb-1">⚖️ Phase-II Candidate Ranking & Adjudication Report</h2>
+                <div class="text-secondary">
+                    Application: <strong class="text-white">25-DCV-328122</strong> |
+                    Evaluation Timestamp: <strong class="text-white"></strong> |
+                    Date: <strong class="text-white"></strong>
+                </div>
+            </div>
+            <div>
+                <span class="badge bg-primary px-3 py-2 fs-6">GRS Autonomous Adjudicator</span>
+            </div>
+        </div>
+
+        <!-- Winning Ensembles Card -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">🏆 Winning Document Ensemble (Selected for Filing)</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-secondary mb-2">Click any copy button to immediately copy the filename to clipboard for terminal searching or staging:</p>
+                <div class="d-flex flex-wrap">
+                    
+        <div class="winner-chip">
+            <span class="winner-pref">01__</span>
+            <span class="winner-name"><code>01__25-DCV-328122-MOTION-TO-QUASH-BALANCED-10192026.tex</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('01__25-DCV-328122-MOTION-TO-QUASH-BALANCED-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">02__</span>
+            <span class="winner-name"><code>02__25-DCV-328122-PROPOSED-ORDER-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('02__25-DCV-328122-PROPOSED-ORDER-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">03__</span>
+            <span class="winner-name"><code>03__25-DCV-328122-DECLARATION-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('03__25-DCV-328122-DECLARATION-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">04__</span>
+            <span class="winner-name"><code>04__25-DCV-328122-EXHIBIT-INDEX-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('04__25-DCV-328122-EXHIBIT-INDEX-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+                </div>
+            </div>
+        </div>
+
+        <!-- Substantive Adjudication -->
+        
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">⚖️ Substantive Prosecution Paper Adjudication (01__ Transmittal / Response)</h5>
+                <span class="badge badge-eval-type">Adjudicator Panel: Examiner / Reviewer / Office of Petitions Senior Officer</span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Winning Transmittal:</strong>
+                    <code class="fs-6 ms-2">01__25-DCV-328122-MOTION-TO-QUASH-BALANCED-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__25-DCV-328122-MOTION-TO-QUASH-BALANCED-10192026.tex', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="statement-box mb-3">
+                    <h6 class="text-primary mb-2">Adjudicator Collective Decision Rationale:</h6>
+                    <p class="mb-0">Candidate #1 (01__25-DCV-328122-MOTION-TO-QUASH-BALANCED-10192026.tex) represents the most legally viable, procedurally disciplined, and rhetorically calibrated instrument among the five variants submitted. The drafting avoids the fatal pitfalls that afflict its competitors: it eschews inappropriate citations to federal criminal extortion statutes (such as 18 U.S.C. § 1951 found in Candidate #4), avoids the unnecessary inclusion of a formal Table of Authorities on a short five-page motion (which Candidate #5 erroneously includes despite SDTX Local Rule 7.2 only requiring it for briefs exceeding 10 pages), and structures the four Winter preliminary injunction factors with rigorous factual specificity. Candidate #1 anchors Plaintiff's procedural due process arguments directly to verified record entries from the state court docket—specifically highlighting that the underlying October 15, 2025 Temporary Orders were certified by the clerk as returned unserved ('RTS Attempted - Not Known Unable to Forward', Index #91), and that the May 15, 2026 Capias was executed while an active recusal referral under TRCP 18a(g)(1) deprived the trial judge of jurisdiction. By framing the October 6, 2026 letter from opposing counsel as tangible evidentiary proof of bad-faith harassment under Younger v. Harris and Dombrowski v. Pfister, Candidate #1 constructs the strongest plausible argument for federal equitable intervention while maintaining complete deference and professional decorum under SDTX Local Rule 83.1.</p>
+                </div>
+                <div class="mb-3"><strong>ATS Defect & Waterfall Alignment:</strong> <span class="text-secondary">All five candidates demonstrate strict adherence to SDTX structural directives: they incorporate the authoritative Houston Division caption with Case No. 4:26-cv-08794, assign the filing to Judge Kenneth M. Hoyt, observe mandatory double spacing (SDTX LR 10.1), respect 1.0-inch margins, incorporate structured prayers for relief (FRCP 8(a)(3)), provide compliant Certificates of Conference under SDTX Local Rule 7.1.D, and conclude with valid Certificates of Service under FRCP 5(d) and SDTX LR 5.4. However, Candidate #1 achieves the highest ATS score because it does not over-paginate, maintains dispassionate evidentiary language, excludes internal system jargon (Rule R-21), and correctly limits single spacing to block quotations and certificate blocks.</span></div>
+                <div class="alert alert-warning mt-3"><strong>⚠️ Adjudicator Liabilities & Warnings:</strong><p class="mb-0 mt-1">Notwithstanding Candidate #1's relative superiority within the candidate pool, the panel unanimously concludes that it remains highly unlikely to succeed in obtaining an order from Judge Kenneth M. Hoyt quashing the state court hearing notice or enjoining the state proceedings, due to four insurmountable federal jurisdictional and statutory bars: (1) Judicial Officer Immunity under 42 U.S.C. § 1983: Following the Federal Courts Improvement Act of 1996 (FCIA), § 1983 explicitly dictates that 'in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a declaratory decree was violated or declaratory relief was unavailable.' Candidate #1 seeks an immediate preliminary injunction restraining Defendant Judge Oscar Telfair III from conducting hearings, which is statutorily barred in the Fifth Circuit (see Bauer v. Texas, 341 F.3d 352, 357 (5th Cir. 2003)); (2) Younger Abstention & Moore v. Sims: Under binding Fifth Circuit and Supreme Court precedent, federal district courts must abstain from interfering in pending state domestic relations proceedings that implicate paramount state interests in family welfare and the enforcement of state court contempt orders, absent a showing of bad faith so egregious that no state corrective process exists (Moore v. Sims, 442 U.S. 415 (1979); Wightman-Cervantes v. Texas, 2005 WL 774843 (5th Cir. 2005)). Although Plaintiff argues that state habeas petitions were summarily denied, the Fifth Circuit treats summary appellate denials as exhausted state avenues rather than proof of systemic bad faith or futility; (3) Anti-Injunction Act (28 U.S.C. § 2283): While Mitchum v. Foster recognizes § 1983 as an expressly authorized exception, federal courts routinely decline to invoke this exception to halt state court civil contempt hearings where state appellate mandamus or final appeal remains the proper corrective vehicle; and (4) Procedural Anomaly of 'Quashing' a State Notice: A United States District Court does not sit as a direct appellate overseer or calendar administrator of a Texas district court, and lacks the procedural authority under the FRCP to 'quash' a state court's internal notice of hearing. The appropriate federal procedural vehicle is a Motion for Preliminary Injunction or Temporary Restraining Order under FRCP 65 directed strictly against non-judicial parties, rather than a motion to quash state notices.</p></div>
+                <h6 class="mt-4 mb-2">Candidate Evaluation Scores & Reasoning:</h6>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 25%;">Candidate Filename</th>
+                                <th style="width: 8%;">Score</th>
+                                <th style="width: 32%;">Cleanliness of Arguments</th>
+                                <th style="width: 22%;">Risks & Liabilities</th>
+                                <th style="width: 8%;">ATS Addressed</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>01__25-DCV-328122-MOTION-TO-QUASH-BALANCED-10192026.tex</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__25-DCV-328122-MOTION-TO-QUASH-BALANCED-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">92.5</span></td>
+                <td>Exemplary legal craftsmanship, clear factual register references (Indices #9, #91, #149, #170, #222), precise four-factor Winter analysis, and measured tone that refrains from hyperbolic accusations while firmly establishing bad-faith Younger exception arguments.</td>
+                <td>Seeks injunctive relief directly against a state judicial officer barred by 42 U.S.C. § 1983 (FCIA); asks federal court to 'quash' a state court hearing notice which exceeds standard federal equitable remedies under FRCP 65.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#2</strong></td>
+                <td>
+                    <code>01__25-DCV-328122-MOTION-TO-QUASH-EXHAUSTIVE-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__25-DCV-328122-MOTION-TO-QUASH-EXHAUSTIVE-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">88.0</span></td>
+                <td>Substantively thorough, includes the All Writs Act (28 U.S.C. § 1651) and Anti-Injunction Act (28 U.S.C. § 2283) statutory framework, and details the four-stage exhaustion history. Deducted points for inserting a formal Table of Authorities on a brief under 10 pages, which deviates from standard SDTX practice under LR 7.2.</td>
+                <td>Faces the exact same § 1983 judicial officer bar and Younger abstention vulnerabilities as Candidate #1, with minor formatting over-engineering.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#3</strong></td>
+                <td>
+                    <code>01__25-DCV-328122-MOTION-TO-QUASH-DUE-PROCESS-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__25-DCV-328122-MOTION-TO-QUASH-DUE-PROCESS-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">83.5</span></td>
+                <td>Strong focus on Mathews v. Eldridge procedural due process framework and absence of personal service. However, it fails to explicitly parse the four required Winter injunction factors in Section III, weakening its compliance with Rule 65 injunction standards.</td>
+                <td>Omission of detailed Winter four-factor balancing makes the motion susceptible to summary denial for failure to meet the threshold burden for emergency preliminary injunctive relief.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#4</strong></td>
+                <td>
+                    <code>01__25-DCV-328122-MOTION-TO-QUASH-CONCISE-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__25-DCV-328122-MOTION-TO-QUASH-CONCISE-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">80.0</span></td>
+                <td>Clean and highly readable, but truncates the legal argumentation by omitting specific Winter factor analysis and condensing the exhaustion narrative into conclusory sentences.</td>
+                <td>Insufficiently briefed on the specific irreparable injury and balance of hardships prongs required by Judge Hoyt when entertaining emergency preliminary injunctive relief against state actors.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#5</strong></td>
+                <td>
+                    <code>01__25-DCV-328122-MOTION-TO-QUASH-EMERGENCY-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__25-DCV-328122-MOTION-TO-QUASH-EMERGENCY-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">72.0</span></td>
+                <td>Improperly invokes Title 18 U.S.C. § 1951 (Hobbs Act federal criminal extortion statute) against opposing civil counsel in an emergency civil rights injunction motion. This triggers severe FRCP Rule 11 and Local Rule 83.1 concerns and risks immediate judicial censure.</td>
+                <td>High risk of immediate summary strike or Rule 11 sanctions for criminalizing a civil settlement communication in a federal motion for preliminary injunction.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Non-Substantive Containment Rankings -->
+        <p class='text-muted'><em>No non-substantive candidate clusters required competitive ranking.</em></p>
+
+        <div class="text-center text-muted mt-4">
+            <small>USPTO Autonomous Patent Prosecution Engine • GRS Phase-II Adjudicator Framework</small>
+        </div>
+    </div>
+
+    <script>
+        function copyToClipboard(text, btn) {
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(text).then(() => showCopied(btn)).catch(() => fallbackCopy(text, btn));
+            } else {
+                fallbackCopy(text, btn);
+            }
+        }
+
+        function fallbackCopy(text, btn) {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            ta.style.position = 'fixed';
+            ta.style.left = '-9999px';
+            document.body.appendChild(ta);
+            ta.focus();
+            ta.select();
+            try {
+                document.execCommand('copy');
+                showCopied(btn);
+            } catch (e) {
+                prompt('Copy filename:', text);
+            }
+            ta.remove();
+        }
+
+        function showCopied(btn) {
+            const orig = btn.innerHTML;
+            btn.innerHTML = '✓ Copied!';
+            btn.classList.add('btn-copied');
+            setTimeout(() => {
+                btn.innerHTML = orig;
+                btn.classList.remove('btn-copied');
+            }, 2000);
+        }
+    </script>
+</body>
+</html>

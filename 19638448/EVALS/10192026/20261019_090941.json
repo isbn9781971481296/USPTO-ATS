@@ -1,0 +1,58 @@
+{
+  "application_number": "19638448",
+  "evaluation_timestamp": "20261019_090941",
+  "date": "10192026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19638448-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex"
+    ],
+    "winner": "01__19638448-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate 01__19638448-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex represents an exemplary, legally watertight substantive response and transmittal for Application No. 19/638,448. From the perspective of the Office of Petitions and an OPAP Supervisory Legal Instruments Examiner, the document executes every statutory and administrative requirement with precision. It correctly identifies the assigned examiner (Demetrius Jones) in Art Unit / TC 2100 following the docket update, confirms Small Entity qualification under 35 U.S.C. 41(h) and 37 CFR 1.27, and provides a clear roadmap of the eight concurrent curing instruments. Most critically, it fulfills the preemptive formalities mandate by certifying compliance under 37 CFR 1.125(b) (no new matter introduced), properly accounting for the excision of embedded drawings pursuant to 37 CFR 1.58(a) / 1.84, physical segregation of claims (37 CFR 1.75(h)) and abstract (37 CFR 1.72(b)), and excision of the Government License Grant to protect small entity status. Furthermore, its fee reconciliation accurately mirrors the verified electronic fee payments receipted between October 10 and October 15, 2026, confirming that the base fees ($970.00), the 4-month extension of time ($998.00 under 37 CFR 1.136(a)), and the suspension fee ($60.00 under Fee Code 2830) are satisfied in full through November 13, 2026. This transmittal provides OPAP with everything necessary to immediately issue the pre-examination clearance and transfer docket jurisdiction to TC 2100.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "The document aligns seamlessly with both the ATS docket status and the underlying statutory requirements of 35 U.S.C. and 37 CFR. It reflects the October 18, 2026 docket reality where fees have already been remitted via CC checkout (Receipt N417.PYMT-27 on October 15), rendering unnecessary any awkward, unviable requests to defer base fees. Instead, it accurately references the satisfied base fees and 4-month extension fee, notes remaining unapplied deposit credits pursuant to 37 CFR 1.22(b) and MPEP 509, and cleanly articulates the conditional request for suspension under 37 CFR 1.103(a). It impeccably adheres to the Darwinian evolutionary strategy by choosing substantive legal efficacy over rigid, outdated procedural paths.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19638448-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+        "rank": 1,
+        "score": 95.0,
+        "cleanliness_and_arguments": "The writing is exceptionally clear, authoritative, and concise. It eschews contentious or irrelevant colloquy, presenting instead a structured, professional USPTO pleading. Headers, bibliographical caption blocks, citations to relevant CFR provisions (1.27, 1.63, 1.72(b), 1.75(h), 1.84, 1.103(a), 1.125, 1.136(a)), and signature blocks comply strictly with 37 CFR 1.4(d)(2) and MPEP 502/605.",
+        "risks_and_liabilities": "Extremely low risk. All cited formalities defects in the Notice to File Missing Parts and Notice of Incomplete Reply are addressed and supported by accompanying instruments. The fee calculations align with the official fee schedule and accounting history, leaving zero fee deficiencies or grounds for administrative abandonment.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19638448-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19638448-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19638448-10192026-090937-Supplemental/04__19638448-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+          "score": 91.50877192982456,
+          "diff_chars": 400,
+          "deviations": 12,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19638448-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+    "02__": "02__19638448-SUPPLEMENTAL-EXTENSION-OF-TIME-CONCISE-10192026.pdf",
+    "03__": "03__19638448-SUPPLEMENTAL-REQUEST-FOR-SUSPENSION-CONCISE-10192026.pdf",
+    "04__": "04__19638448-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+    "05__": "05__19638448-SUPPLEMENTAL-SUBSTITUTE-SPECIFICATION-10192026.pdf",
+    "06__": "06__19638448-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf",
+    "07__": "07__19638448-SUPPLEMENTAL-FORMAL-DRAWINGS-10192026.pdf",
+    "08__": "08__19638448-SUPPLEMENTAL-REPLACEMENT-CLAIMS-10192026.pdf",
+    "09__": "09__19638448-SUPPLEMENTAL-REPLACEMENT-ABSTRACT-10192026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19638448/EVALS/10192026/20261019_090941.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19638448/EVALS/10192026/20261019_090941.html"
+}

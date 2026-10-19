@@ -1,0 +1,94 @@
+{
+  "application_number": "19638448",
+  "evaluation_timestamp": "20261019_091833",
+  "date": "10192026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19638448-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+      "01__19638448-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+      "01__19638448-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+      "01__19638448-SUPPLEMENTAL-RESPONSE-EQUITABLE-10192026.tex",
+      "01__19638448-SUPPLEMENTAL-RESPONSE-STATUTORY-10192026.tex"
+    ],
+    "winner": "01__19638448-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #2 (BALANCED) is unanimously selected by the adjudicating panel as the candidate most likely to succeed in securing immediate pre-examination clearance and transfer to TC 2100. From the perspective of an OPAP Supervisory Legal Instruments Examiner and Petitions Senior Officer, Candidate #2 provides the ideal combination of statutory precision, complete formalities rectification, and administrative professionalism. It thoroughly itemizes every curative instrument (clean substitute specification, marked-up copy, 37 CFR 1.125(b) certification, formal standalone drawings under 37 CFR 1.84, claims under 37 CFR 1.75(h), abstract under 37 CFR 1.72(b), and AIA declaration under 37 CFR 1.63). Crucially, Candidate #2 articulates the precise three-fold justification for the substitute specification under 37 CFR 1.125(b): segregating embedded figures, segregating claims/abstract, and excising the voluntary government license grant to preserve small entity qualification under 37 CFR 1.27. Furthermore, its fee accounting under Section III is pristine, accurately documenting the payment dates, receipt numbers (N417.PYMT-27), extension fee math under 37 CFR 1.136(a) ($904 plus prior remittances satisfying the $998 4-month extension through November 13, 2026), and the 37 CFR 1.103(a) conditional suspension fee ($60), thereby confirming zero balance due at checkout ($0.00). In doing so, it avoids extraneous macro-portfolio rhetoric and irrelevant equity theories that introduce docket risk in Candidates #1 and #4.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "Candidate #2 aligns perfectly with the statutory and regulatory requirements identified in the ATS analysis for Application 19/638,448. It fully cures every deficiency noted in the May 12, 2026 Notice to File Missing Parts and August 17, 2026 Notice of Incomplete Reply. It documents complete base fee satisfaction ($970 total), reconciles the 4-month extension of time pursuant to 37 CFR 1.136(a) and MPEP 710.02(e), ratifies the conditional 6-month suspension under 37 CFR 1.103(a), and preemptively protects Small Entity status by striking the government license grant from the disclosure.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19638448-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+        "rank": 1,
+        "score": 98.0,
+        "cleanliness_and_arguments": "Exemplary legal craftsmanship. The arguments are clear, objective, and meticulously anchored to 37 CFR and MPEP provisions. Section II provides an explicit, granular 7-point roadmap with detailed sub-elements for the 37 CFR 1.125(b) no-new-matter certification.",
+        "risks_and_liabilities": "Minimal to zero administrative risk. Conforms exactly to OPAP and TC 2100 processing requirements.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19638448-SUPPLEMENTAL-RESPONSE-STATUTORY-10192026.tex",
+        "rank": 2,
+        "score": 94.0,
+        "cleanliness_and_arguments": "Very solid statutory framework and clean presentation. However, its Section II(3) no-new-matter certification lacks the explicit granular recital of the three specific amendments (figure segregation, claim/abstract segregation, license excision) found in Candidate #2.",
+        "risks_and_liabilities": "Low risk; easily processed, though slightly less descriptive on the exact scope of the substitute specification.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19638448-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+        "rank": 3,
+        "score": 91.0,
+        "cleanliness_and_arguments": "Direct, compact, and efficient. While it covers all requisite headings and fee recitals, its brevity in Section I and Section II provides less background context for an OPAP screener reviewing a complex docket with prior incomplete reply notices.",
+        "risks_and_liabilities": "Low procedural risk, but the lack of detailed explanatory recitals may require secondary clerical cross-referencing by the Office.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19638448-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+        "rank": 4,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Strong substantive compliance on formalities and fees, but unnecessarily introduces macro-portfolio rhetoric regarding '$32,758.00 in unapplied deposit capital across Applicant's dockets', which is irrelevant to the specific formalities review of Application 19/638,448.",
+        "risks_and_liabilities": "Moderate risk of creating confusion or clerical hesitation within OPAP by referencing external docket financial figures.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19638448-SUPPLEMENTAL-RESPONSE-EQUITABLE-10192026.tex",
+        "rank": 5,
+        "score": 80.0,
+        "cleanliness_and_arguments": "Substantively addresses the required instruments, but frames the transmittal around 'Equitable Pre-Examination Clearance' and 'Macro Equity Reconciliation', concepts foreign to standard pre-examination formalities review under 37 CFR 1.53(f).",
+        "risks_and_liabilities": "Elevated risk of administrative friction or petitory referral due to non-standard equitable framing and extraneous portfolio capital claims.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19638448-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19638448-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19638448-10192026-091827-Supplemental/04__19638448-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+          "score": 91.96209196209196,
+          "diff_chars": 375,
+          "deviations": 9,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19638448-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+    "02__": "02__19638448-SUPPLEMENTAL-EXTENSION-OF-TIME-10192026.pdf",
+    "03__": "03__19638448-SUPPLEMENTAL-REQUEST-FOR-SUSPENSION-10192026.pdf",
+    "04__": "04__19638448-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+    "05__": "05__19638448-SUPPLEMENTAL-SUBSTITUTE-SPECIFICATION-10192026.pdf",
+    "06__": "06__19638448-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf",
+    "07__": "07__19638448-SUPPLEMENTAL-FORMAL-DRAWINGS-10192026.pdf",
+    "08__": "08__19638448-SUPPLEMENTAL-REPLACEMENT-CLAIMS-10192026.pdf",
+    "09__": "09__19638448-SUPPLEMENTAL-REPLACEMENT-ABSTRACT-10192026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19638448/EVALS/10192026/20261019_091833.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19638448/EVALS/10192026/20261019_091833.html"
+}
