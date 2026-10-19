@@ -1,0 +1,126 @@
+{
+  "application_number": "19559972",
+  "evaluation_timestamp": "20261018_213837",
+  "date": "10182026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19559972-RESPONSE-ASSERTIVE-10182026.tex",
+      "01__19559972-RESPONSE-BALANCED-10182026.tex",
+      "01__19559972-RESPONSE-CONCISE-10182026.tex",
+      "01__19559972-RESPONSE-EQUITABLE-10182026.tex",
+      "01__19559972-RESPONSE-RIGOROUS-10182026.tex"
+    ],
+    "winner": "01__19559972-RESPONSE-BALANCED-10182026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #2 (01__19559972-RESPONSE-BALANCED-10182026.tex) represents the optimal, professionally poised response that will be received and processed most effectively by Pre-Exam (OPAP) and the Office of Petitions. It flawlessly articulates the rollover of the response deadline from Sunday, October 18, 2026 to Monday, October 19, 2026 pursuant to 35 U.S.C. \u00a7 21(b) and 37 CFR \u00a7 1.7. It systematically itemizes every required remedial submission\u2014including the substitute specification under 37 CFR \u00a7 1.125 excising embedded drawings and claims, formal standalone drawing sheets under 37 CFR \u00a7 1.84, standalone abstract under 37 CFR \u00a7 1.72(b), and the compliant AIA Inventor Declaration under 37 CFR \u00a7 1.63(a)(4). Furthermore, its execution of the Waterfall Path B knapsack fee allocation directive under 37 CFR \u00a7 1.22(b) and MPEP \u00a7 509 is mathematically sound ($446.00 credits applied across codes 4011, 2051, and 2111, with $524.00 fresh funds plus $60.00 for conditional suspension). Crucially, unlike the Assertive and Equitable drafts, Candidate #2 avoids contentious rhetoric concerning external district court litigation or allegations regarding funds held across the macro portfolio, preserving a focused, compliant administrative posture.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "All five candidates align structurally with the core substantive remedies specified in the ATS Brief (substitute specification, separate abstract, formal drawings, 37 CFR 1.63(a)(4) declaration, and exact subset-sum knapsack fee allocation). However, Candidate #2 excels by adhering strictly to the administrative framework of pre-examination processing without introducing extraneous legal vulnerabilities or antagonistic language.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19559972-RESPONSE-BALANCED-10182026.tex",
+        "rank": 1,
+        "score": 96.0,
+        "cleanliness_and_arguments": "Exemplary legal drafting. Clear, objective, professional tone that covers every statutory requirement without contentious baggage. Fully articulates the 35 U.S.C. 21(b) weekend rollover, 37 CFR 1.125 substitute specification certification, and Knapsack Path B fee accounting.",
+        "risks_and_liabilities": "Minimal to none. Leaves no room for administrative confusion or procedural pushback by OPAP.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559972-RESPONSE-CONCISE-10182026.tex",
+        "rank": 2,
+        "score": 93.0,
+        "cleanliness_and_arguments": "Very clean, concise, and professional. Covers all core defects and complies with Path B knapsack allocation. Slightly less robust in its itemized narrative and Small Entity recitations than Candidate #2.",
+        "risks_and_liabilities": "Very low risk; highly viable alternative.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559972-RESPONSE-RIGOROUS-10182026.tex",
+        "rank": 3,
+        "score": 88.0,
+        "cleanliness_and_arguments": "Thorough and legally precise, but employs mildly antagonistic phrasing (e.g., stating the Office 'detains' unapplied funds) which is unnecessary in an ex parte pre-examination reply.",
+        "risks_and_liabilities": "Low substantive risk, but minor liability of inviting clerical friction.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559972-RESPONSE-ASSERTIVE-10182026.tex",
+        "rank": 4,
+        "score": 84.0,
+        "cleanliness_and_arguments": "Legally comprehensive but injects extraneous district court litigation assertions (SDTX Case No. 4:26-cv-08794) and macro-portfolio grievances ($32,758.00 held without interest) into a simple pre-exam missing parts response.",
+        "risks_and_liabilities": "Moderate risk of diverting clerical review into collateral issues or inviting petition scrutiny.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559972-RESPONSE-EQUITABLE-10182026.tex",
+        "rank": 5,
+        "score": 82.0,
+        "cleanliness_and_arguments": "Similar to Candidate #1, it introduces extraneous macro-portfolio grievances and accusatory terminology ('Office currently detains $450.00... and holds over $32,758.00').",
+        "risks_and_liabilities": "Elevated liability of drawing negative administrative scrutiny without adding any legal value to formalities clearance.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19559972-DECLARATION-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19559972-DECLARATION-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559972-10182026-213825-RESPONSE/04__19559972-DECLARATION-10182026.pdf",
+          "score": 92.50700280112045,
+          "diff_chars": 338,
+          "deviations": 8,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19559972-CLAIMS-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19559972-CLAIMS-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559972-10182026-213825-RESPONSE/08__19559972-CLAIMS-10182026.pdf",
+          "score": 99.23715503702041,
+          "diff_chars": 166,
+          "deviations": 29,
+          "punct_deviations": 25,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19559972-ABSTRACT-10182026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19559972-ABSTRACT-10182026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559972-10182026-213825-RESPONSE/09__19559972-ABSTRACT-10182026.pdf",
+          "score": 97.37373737373738,
+          "diff_chars": 154,
+          "deviations": 2,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19559972-RESPONSE-BALANCED-10182026.tex",
+    "02__": "02__19559972-EXTENSION-STANDARD-10182026.pdf",
+    "03__": "03__19559972-SUSPENSION-STANDARD-10182026.pdf",
+    "04__": "04__19559972-DECLARATION-10182026.pdf",
+    "07__": "07__19559972-DRAWINGS-10182026.pdf",
+    "08__": "08__19559972-CLAIMS-10182026.pdf",
+    "09__": "09__19559972-ABSTRACT-10182026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559972/EVALS/10182026/20261018_213837.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559972/EVALS/10182026/20261018_213837.html"
+}
