@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GRS Candidate Evaluation Report - 19632333</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0f172a;
+            color: #e2e8f0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            padding: 30px 20px;
+        }
+        .report-container {
+            max-width: 1280px;
+            margin: 0 auto;
+        }
+        .card {
+            background-color: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+            color: #e2e8f0;
+        }
+        .card-header {
+            background-color: #243247;
+            border-bottom: 1px solid #334155;
+            padding: 14px 20px;
+        }
+        .winner-chip {
+            display: inline-flex;
+            align-items: center;
+            background-color: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 8px;
+            padding: 8px 14px;
+            margin: 4px 8px 4px 0;
+        }
+        .winner-pref {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 11px;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-right: 8px;
+        }
+        .winner-name {
+            color: #38bdf8;
+            margin-right: 10px;
+        }
+        .copy-btn {
+            background-color: #334155;
+            color: #f1f5f9;
+            border: 1px solid #475569;
+            border-radius: 4px;
+            font-size: 11px;
+            padding: 3px 8px;
+            cursor: pointer;
+            transition: all 0.15s ease-in-out;
+        }
+        .copy-btn:hover {
+            background-color: #475569;
+            color: #ffffff;
+            border-color: #64748b;
+        }
+        .copy-btn.btn-copied {
+            background-color: #16a34a !important;
+            border-color: #16a34a !important;
+            color: #ffffff !important;
+        }
+        .winner-callout {
+            background-color: rgba(34, 197, 94, 0.1);
+            border: 1px solid rgba(34, 197, 94, 0.3);
+            border-radius: 8px;
+            padding: 12px 18px;
+        }
+        .statement-box {
+            background-color: #0f172a;
+            border-left: 4px solid #3b82f6;
+            padding: 14px 18px;
+            border-radius: 0 8px 8px 0;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        table {
+            color: #e2e8f0;
+            margin-bottom: 0;
+        }
+        th {
+            background-color: #243247 !important;
+            color: #94a3b8 !important;
+            font-size: 12px;
+            text-transform: uppercase;
+            border-bottom: 2px solid #334155 !important;
+        }
+        td {
+            border-bottom: 1px solid #334155 !important;
+            font-size: 13px;
+            vertical-align: middle;
+        }
+        .table-hover tbody tr:hover {
+            background-color: #243247 !important;
+        }
+        .winner-row {
+            background-color: rgba(34, 197, 94, 0.05);
+        }
+        .badge-winner {
+            background-color: #22c55e;
+            color: #052e16;
+            font-weight: 700;
+            font-size: 10px;
+        }
+        .badge-score {
+            background-color: #3b82f6;
+            color: #ffffff;
+            font-size: 12px;
+        }
+        .badge-eval-type {
+            background-color: #475569;
+            color: #e2e8f0;
+            font-size: 11px;
+        }
+        code {
+            color: #38bdf8;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="report-container">
+        <!-- Header -->
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <div>
+                <h2 class="text-white mb-1">⚖️ Phase-II Candidate Ranking & Adjudication Report</h2>
+                <div class="text-secondary">
+                    Application: <strong class="text-white">19632333</strong> |
+                    Evaluation Timestamp: <strong class="text-white">20261019_191322</strong> |
+                    Date: <strong class="text-white">10192026</strong>
+                </div>
+            </div>
+            <div>
+                <span class="badge bg-primary px-3 py-2 fs-6">GRS Autonomous Adjudicator</span>
+            </div>
+        </div>
+
+        <!-- Winning Ensembles Card -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">🏆 Winning Document Ensemble (Selected for Filing)</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-secondary mb-2">Click any copy button to immediately copy the filename to clipboard for terminal searching or staging:</p>
+                <div class="d-flex flex-wrap">
+                    
+        <div class="winner-chip">
+            <span class="winner-pref">01__</span>
+            <span class="winner-name"><code>01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">02__</span>
+            <span class="winner-name"><code>02__19632333-SUPPLEMENTAL-EXTENSION-EXHAUSTIVE-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('02__19632333-SUPPLEMENTAL-EXTENSION-EXHAUSTIVE-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">03__</span>
+            <span class="winner-name"><code>03__19632333-SUPPLEMENTAL-SUSPENSION-CONCISE-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('03__19632333-SUPPLEMENTAL-SUSPENSION-CONCISE-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">04__</span>
+            <span class="winner-name"><code>04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">05__</span>
+            <span class="winner-name"><code>05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">06__</span>
+            <span class="winner-name"><code>06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">07__</span>
+            <span class="winner-name"><code>07__19632333-SUPPLEMENTAL-DRAWINGS-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('07__19632333-SUPPLEMENTAL-DRAWINGS-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">08__</span>
+            <span class="winner-name"><code>08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+
+        <div class="winner-chip">
+            <span class="winner-pref">09__</span>
+            <span class="winner-name"><code>09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf</code></span>
+            <button class="copy-btn" onclick="copyToClipboard('09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+        </div>
+        
+                </div>
+            </div>
+        </div>
+
+        <!-- Substantive Adjudication -->
+        
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">⚖️ Substantive Prosecution Paper Adjudication (01__ Transmittal / Response)</h5>
+                <span class="badge badge-eval-type">Adjudicator Panel: Examiner / Reviewer / Office of Petitions Senior Officer</span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Winning Transmittal:</strong>
+                    <code class="fs-6 ms-2">01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="statement-box mb-3">
+                    <h6 class="text-primary mb-2">Adjudicator Collective Decision Rationale:</h6>
+                    <p class="mb-0">The Supervisory Patent Examination and Petitions Senior Review Panel unanimously selects Candidate #2 (01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex) as the candidate most likely to succeed. Candidate #2 achieves total procedural perfection by meticulously executing every requirement of 37 CFR §§ 1.16, 1.27, 1.58, 1.63, 1.72, 1.75, 1.84, 1.125, and 1.136(a). Specifically, it completely satisfies Waterfall Path A by strictly eschewing any unapplied deposit credit offset requests and tendering the exact full fresh remittance balance ($1,578.00 total: $998.00 4-month extension fee under Code 2254, $60.00 suspension processing under Code 2830, and the exact itemized net pre-examination base fees of $520.00 across Codes 4011, 2111, 2311, 2051, and 2054). Moreover, Candidate #2 preemptively and thoroughly addresses all formal document infirmities, providing the complete 37 CFR § 1.125(b) no-new-matter certification, excising embedded drawings to standalone sheets under 37 CFR § 1.84, segregating abstract and claims onto dedicated statutory sheets, deleting the government license grant clause to preserve Small Entity entitlement, and submitting a perfected Form PTO/AIA/01 containing the affirmative 37 CFR § 1.63(a)(4) maker authorization averment. Its balanced drafting tone, pristine statutory accounting, and comprehensive defect-curing structure leave zero grounds for rejection or procedural delay by the Pre-Exam Formalities Branch.</p>
+                </div>
+                <div class="mb-3"><strong>ATS Defect & Waterfall Alignment:</strong> <span class="text-secondary">Fully aligned with the ATS analysis brief and the Path A Waterfall directive. All five pre-examination deficiencies (unpaid statutory fees, extension of time requirement, embedded drawings under 37 CFR 1.58, unsegregated claims/abstract under 37 CFR 1.72/1.75, and deficient declaration under 37 CFR 1.63(a)(4)) are completely cured. Furthermore, Candidate #2 accurately accounts for the $450.00 in previously recognized docket payments, observes the October 29, 2026 Month 4 extension boundary, and adheres to the mandate of fresh checkout payment without stranded offset requests.</span></div>
+                
+                <h6 class="mt-4 mb-2">Candidate Evaluation Scores & Reasoning:</h6>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 25%;">Candidate Filename</th>
+                                <th style="width: 8%;">Score</th>
+                                <th style="width: 32%;">Cleanliness of Arguments</th>
+                                <th style="width: 22%;">Risks & Liabilities</th>
+                                <th style="width: 8%;">ATS Addressed</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">98.5</span></td>
+                <td>Exemplary legal drafting with impeccable statutory fee reconciliation, enumerating every individual fee code (4011, 2111, 2311, 2051, 2054, 2254, 2830) and providing an exact total cash remittance ($1,578.00). Formality cures under 37 CFR 1.58, 1.72, 1.75, 1.84, and 1.125 are thoroughly itemized.</td>
+                <td>Minimal to zero procedural liability; meets all pre-exam statutory requirements and provides an unassailable record for OPAP and the assigned art unit.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#2</strong></td>
+                <td>
+                    <code>01__19632333-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__19632333-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">93.0</span></td>
+                <td>Strong legal presentation and compliant with Path A directives, but omits the explicit individual itemization of the base pre-exam fee codes in the text and omits the total checkout tender figure.</td>
+                <td>Low risk; however, lacks the granular fee code itemization present in Candidate #2 which facilitates instant processing by the USPTO Office of Finance.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#3</strong></td>
+                <td>
+                    <code>01__19632333-SUPPLEMENTAL-RESPONSE-EXHAUSTIVE-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__19632333-SUPPLEMENTAL-RESPONSE-EXHAUSTIVE-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">91.5</span></td>
+                <td>Comprehensive coverage of all procedural requirements and curative instruments, but slightly repetitive in structure and lacks the granular base fee breakdown.</td>
+                <td>Low risk; fully compliant with MPEP pre-examination guidelines.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#4</strong></td>
+                <td>
+                    <code>01__19632333-SUPPLEMENTAL-RESPONSE-PROCEDURAL-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__19632333-SUPPLEMENTAL-RESPONSE-PROCEDURAL-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">90.0</span></td>
+                <td>Sound procedural outline; clearly addresses all items in bulleted format, but condenses Item III fee settlement without detailing individual statutory fee code components.</td>
+                <td>Low risk; fully cures all deficiencies but requires manual arithmetic cross-checking by the formalities clerk.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+
+            <tr class="">
+                <td class="text-center"><strong>#5</strong></td>
+                <td>
+                    <code>01__19632333-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('01__19632333-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">88.5</span></td>
+                <td>Very succinct and readable, correctly identifying all necessary instruments and dates, but aggregates all formality items into a single dense paragraph in Item II.</td>
+                <td>Low-to-moderate risk; while legally sufficient, dense formatting could lead to oversights during clerical intake compared to an enumerated list.</td>
+                <td class="text-center">✅ Yes</td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Non-Substantive Containment Rankings -->
+        
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">📏 Deterministic Character Containment Ranking: Cluster <code>04__</code></h5>
+                <span class="badge badge-eval-type">Reference: <code>04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf</code></span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Replacement Variant:</strong>
+                    <code class="fs-6 ms-2">04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 45%;">Candidate Replacement PDF</th>
+                                <th style="width: 12%;">Containment %</th>
+                                <th style="width: 15%;">Diff Chars</th>
+                                <th style="width: 10%;">Deviations</th>
+                                <th style="width: 13%;">Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">94.73%</span></td>
+                <td class="text-center"><code>238</code> chars</td>
+                <td class="text-center">10</td>
+                <td><span class="badge bg-secondary">High Match</span></td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">📏 Deterministic Character Containment Ranking: Cluster <code>05__</code></h5>
+                <span class="badge badge-eval-type">Reference: <code>application-Attributed-Control-Aggregation-System.pdf</code></span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Replacement Variant:</strong>
+                    <code class="fs-6 ms-2">05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 45%;">Candidate Replacement PDF</th>
+                                <th style="width: 12%;">Containment %</th>
+                                <th style="width: 15%;">Diff Chars</th>
+                                <th style="width: 10%;">Deviations</th>
+                                <th style="width: 13%;">Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">99.40%</span></td>
+                <td class="text-center"><code>1401</code> chars</td>
+                <td class="text-center">23</td>
+                <td><span class="badge bg-secondary">High Match</span></td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">📏 Deterministic Character Containment Ranking: Cluster <code>06__</code></h5>
+                <span class="badge badge-eval-type">Reference: <code>application-Attributed-Control-Aggregation-System.pdf</code></span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Replacement Variant:</strong>
+                    <code class="fs-6 ms-2">06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 45%;">Candidate Replacement PDF</th>
+                                <th style="width: 12%;">Containment %</th>
+                                <th style="width: 15%;">Diff Chars</th>
+                                <th style="width: 10%;">Deviations</th>
+                                <th style="width: 13%;">Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">96.91%</span></td>
+                <td class="text-center"><code>354</code> chars</td>
+                <td class="text-center">24</td>
+                <td><span class="badge bg-secondary">High Match</span></td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">📏 Deterministic Character Containment Ranking: Cluster <code>08__</code></h5>
+                <span class="badge badge-eval-type">Reference: <code>application-Attributed-Control-Aggregation-System.pdf</code></span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Replacement Variant:</strong>
+                    <code class="fs-6 ms-2">08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 45%;">Candidate Replacement PDF</th>
+                                <th style="width: 12%;">Containment %</th>
+                                <th style="width: 15%;">Diff Chars</th>
+                                <th style="width: 10%;">Deviations</th>
+                                <th style="width: 13%;">Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">98.05%</span></td>
+                <td class="text-center"><code>197</code> chars</td>
+                <td class="text-center">16</td>
+                <td><span class="badge bg-secondary">High Match</span></td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">📏 Deterministic Character Containment Ranking: Cluster <code>09__</code></h5>
+                <span class="badge badge-eval-type">Reference: <code>application-Attributed-Control-Aggregation-System.pdf</code></span>
+            </div>
+            <div class="card-body">
+                <div class="winner-callout mb-3">
+                    <strong>🏆 Selected Replacement Variant:</strong>
+                    <code class="fs-6 ms-2">09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf</code>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf', this)" title="Copy filename">📋 Copy Filename</button>
+                </div>
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">Rank</th>
+                                <th style="width: 45%;">Candidate Replacement PDF</th>
+                                <th style="width: 12%;">Containment %</th>
+                                <th style="width: 15%;">Diff Chars</th>
+                                <th style="width: 10%;">Deviations</th>
+                                <th style="width: 13%;">Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+            <tr class="winner-row">
+                <td class="text-center"><strong>#1</strong></td>
+                <td>
+                    <code>09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf</code><span class="badge badge-winner ms-1">🏆 WINNER</span>
+                    <button class="copy-btn ms-2" onclick="copyToClipboard('09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf', this)" title="Copy filename">📋 Copy</button>
+                </td>
+                <td class="text-center"><span class="badge badge-score">96.45%</span></td>
+                <td class="text-center"><code>158</code> chars</td>
+                <td class="text-center">5</td>
+                <td><span class="badge bg-secondary">High Match</span></td>
+            </tr>
+            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="text-center text-muted mt-4">
+            <small>USPTO Autonomous Patent Prosecution Engine • GRS Phase-II Adjudicator Framework</small>
+        </div>
+    </div>
+
+    <script>
+        function copyToClipboard(text, btn) {
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(text).then(() => showCopied(btn)).catch(() => fallbackCopy(text, btn));
+            } else {
+                fallbackCopy(text, btn);
+            }
+        }
+
+        function fallbackCopy(text, btn) {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            ta.style.position = 'fixed';
+            ta.style.left = '-9999px';
+            document.body.appendChild(ta);
+            ta.focus();
+            ta.select();
+            try {
+                document.execCommand('copy');
+                showCopied(btn);
+            } catch (e) {
+                prompt('Copy filename:', text);
+            }
+            ta.remove();
+        }
+
+        function showCopied(btn) {
+            const orig = btn.innerHTML;
+            btn.innerHTML = '✓ Copied!';
+            btn.classList.add('btn-copied');
+            setTimeout(() => {
+                btn.innerHTML = orig;
+                btn.classList.remove('btn-copied');
+            }, 2000);
+        }
+    </script>
+</body>
+</html>

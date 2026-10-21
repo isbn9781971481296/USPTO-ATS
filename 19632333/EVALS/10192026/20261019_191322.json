@@ -1,0 +1,162 @@
+{
+  "application_number": "19632333",
+  "evaluation_timestamp": "20261019_191322",
+  "date": "10192026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19632333-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+      "01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+      "01__19632333-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+      "01__19632333-SUPPLEMENTAL-RESPONSE-EXHAUSTIVE-10192026.tex",
+      "01__19632333-SUPPLEMENTAL-RESPONSE-PROCEDURAL-10192026.tex"
+    ],
+    "winner": "01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+    "collective_statement_most_likely_to_succeed": "The Supervisory Patent Examination and Petitions Senior Review Panel unanimously selects Candidate #2 (01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex) as the candidate most likely to succeed. Candidate #2 achieves total procedural perfection by meticulously executing every requirement of 37 CFR \u00a7\u00a7 1.16, 1.27, 1.58, 1.63, 1.72, 1.75, 1.84, 1.125, and 1.136(a). Specifically, it completely satisfies Waterfall Path A by strictly eschewing any unapplied deposit credit offset requests and tendering the exact full fresh remittance balance ($1,578.00 total: $998.00 4-month extension fee under Code 2254, $60.00 suspension processing under Code 2830, and the exact itemized net pre-examination base fees of $520.00 across Codes 4011, 2111, 2311, 2051, and 2054). Moreover, Candidate #2 preemptively and thoroughly addresses all formal document infirmities, providing the complete 37 CFR \u00a7 1.125(b) no-new-matter certification, excising embedded drawings to standalone sheets under 37 CFR \u00a7 1.84, segregating abstract and claims onto dedicated statutory sheets, deleting the government license grant clause to preserve Small Entity entitlement, and submitting a perfected Form PTO/AIA/01 containing the affirmative 37 CFR \u00a7 1.63(a)(4) maker authorization averment. Its balanced drafting tone, pristine statutory accounting, and comprehensive defect-curing structure leave zero grounds for rejection or procedural delay by the Pre-Exam Formalities Branch.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "Fully aligned with the ATS analysis brief and the Path A Waterfall directive. All five pre-examination deficiencies (unpaid statutory fees, extension of time requirement, embedded drawings under 37 CFR 1.58, unsegregated claims/abstract under 37 CFR 1.72/1.75, and deficient declaration under 37 CFR 1.63(a)(4)) are completely cured. Furthermore, Candidate #2 accurately accounts for the $450.00 in previously recognized docket payments, observes the October 29, 2026 Month 4 extension boundary, and adheres to the mandate of fresh checkout payment without stranded offset requests.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+        "rank": 1,
+        "score": 98.5,
+        "cleanliness_and_arguments": "Exemplary legal drafting with impeccable statutory fee reconciliation, enumerating every individual fee code (4011, 2111, 2311, 2051, 2054, 2254, 2830) and providing an exact total cash remittance ($1,578.00). Formality cures under 37 CFR 1.58, 1.72, 1.75, 1.84, and 1.125 are thoroughly itemized.",
+        "risks_and_liabilities": "Minimal to zero procedural liability; meets all pre-exam statutory requirements and provides an unassailable record for OPAP and the assigned art unit.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+        "rank": 2,
+        "score": 93.0,
+        "cleanliness_and_arguments": "Strong legal presentation and compliant with Path A directives, but omits the explicit individual itemization of the base pre-exam fee codes in the text and omits the total checkout tender figure.",
+        "risks_and_liabilities": "Low risk; however, lacks the granular fee code itemization present in Candidate #2 which facilitates instant processing by the USPTO Office of Finance.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-EXHAUSTIVE-10192026.tex",
+        "rank": 3,
+        "score": 91.5,
+        "cleanliness_and_arguments": "Comprehensive coverage of all procedural requirements and curative instruments, but slightly repetitive in structure and lacks the granular base fee breakdown.",
+        "risks_and_liabilities": "Low risk; fully compliant with MPEP pre-examination guidelines.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-PROCEDURAL-10192026.tex",
+        "rank": 4,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Sound procedural outline; clearly addresses all items in bulleted format, but condenses Item III fee settlement without detailing individual statutory fee code components.",
+        "risks_and_liabilities": "Low risk; fully cures all deficiencies but requires manual arithmetic cross-checking by the formalities clerk.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+        "rank": 5,
+        "score": 88.5,
+        "cleanliness_and_arguments": "Very succinct and readable, correctly identifying all necessary instruments and dates, but aggregates all formality items into a single dense paragraph in Item II.",
+        "risks_and_liabilities": "Low-to-moderate risk; while legally sufficient, dense formatting could lead to oversights during clerical intake compared to an enumerated list.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-191309-Supplemental/04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+          "score": 94.72753007784856,
+          "diff_chars": 238,
+          "deviations": 10,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application-Attributed-Control-Aggregation-System.pdf",
+      "winner": "05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-191309-Supplemental/05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf",
+          "score": 99.40119760479041,
+          "diff_chars": 1401,
+          "deviations": 23,
+          "punct_deviations": 18,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application-Attributed-Control-Aggregation-System.pdf",
+      "winner": "06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-191309-Supplemental/06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf",
+          "score": 96.9115925058548,
+          "diff_chars": 354,
+          "deviations": 24,
+          "punct_deviations": 20,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application-Attributed-Control-Aggregation-System.pdf",
+      "winner": "08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-191309-Supplemental/08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf",
+          "score": 98.04946011842563,
+          "diff_chars": 197,
+          "deviations": 16,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application-Attributed-Control-Aggregation-System.pdf",
+      "winner": "09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-191309-Supplemental/09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf",
+          "score": 96.45042839657283,
+          "diff_chars": 158,
+          "deviations": 5,
+          "punct_deviations": 3,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+    "02__": "02__19632333-SUPPLEMENTAL-EXTENSION-EXHAUSTIVE-10192026.pdf",
+    "03__": "03__19632333-SUPPLEMENTAL-SUSPENSION-CONCISE-10192026.pdf",
+    "04__": "04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+    "05__": "05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf",
+    "06__": "06__19632333-SUPPLEMENTAL-MARKED-UP-SPECIFICATION-10192026.pdf",
+    "07__": "07__19632333-SUPPLEMENTAL-DRAWINGS-10192026.pdf",
+    "08__": "08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf",
+    "09__": "09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19632333/EVALS/10192026/20261019_191322.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19632333/EVALS/10192026/20261019_191322.html"
+}

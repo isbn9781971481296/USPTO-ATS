@@ -1,0 +1,362 @@
+{
+  "application_number": "19571558",
+  "evaluation_timestamp": "20261019_225654",
+  "date": "10192026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19571558-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+      "01__19571558-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+      "01__19571558-SUPPLEMENTAL-RESPONSE-COMPREHENSIVE-10192026.tex",
+      "01__19571558-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+      "01__19571558-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex"
+    ],
+    "winner": "01__19571558-SUPPLEMENTAL-RESPONSE-COMPREHENSIVE-10192026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate 3 (COMPREHENSIVE) is the most likely to succeed because it explicitly and accurately identifies the specific pre-examination notices it is responding to (the Notice to File Missing Parts mailed April 20, 2026, and the Notice of Incomplete Reply mailed August 6, 2026). This establishes a clear procedural nexus for the Office of Patent Application Processing (OPAP) to clear the pre-examination formalities. Furthermore, it correctly assesses the factual record by noting that all required fees were already satisfied via electronic payment on October 15, 2026, rather than attempting to apply credits to already-paid fees. It also successfully executes the highly rewarded preemptive strike of filing a Substitute Specification to excise embedded drawings, segregate claims and abstract, and delete the Statement of License Grant to preserve Small Entity status, fully complying with 37 CFR 1.58, 1.72, 1.75, and 1.125.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "The candidate correctly deviates from the outdated Waterfall Strategy Directive (which assumed 0 months extension and unpaid fees) and instead aligns with the actual docket XML state and the Attorney Summary, which confirm that all fees were paid on October 15, 2026. It successfully addresses all cited deficiencies, requests the refund/credit of the unapplied $416.00 deposit, and preemptively cures formal defects as mandated.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19571558-SUPPLEMENTAL-RESPONSE-COMPREHENSIVE-10192026.tex",
+        "rank": 1,
+        "score": 98.0,
+        "cleanliness_and_arguments": "Highly professional and legally precise. Explicitly names the outstanding Office notices, establishing a perfect procedural foundation for the response.",
+        "risks_and_liabilities": "Minimal risk. Accurately reflects the fee payment status and perfectly executes the preemptive formalities curing.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19571558-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex",
+        "rank": 2,
+        "score": 92.0,
+        "cleanliness_and_arguments": "Strong legal drafting, but cites 37 CFR 1.111 which is typically reserved for replies to Office actions on the merits rather than pre-examination formalities notices.",
+        "risks_and_liabilities": "Low risk, though the citation to 1.111 is slightly misplaced for a pre-exam OPAP response.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19571558-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+        "rank": 3,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Good overall structure, but the introductory language is slightly informal and lacks specific reference to the outstanding notices.",
+        "risks_and_liabilities": "Low risk. Successfully cures the defects but relies on OPAP to connect the dots regarding which notices are being addressed.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19571558-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+        "rank": 4,
+        "score": 88.0,
+        "cleanliness_and_arguments": "Adequate and polite, but uses generic language ('address the outstanding formalities') instead of specifically identifying the procedural posture.",
+        "risks_and_liabilities": "Low risk, but less optimal for rapid OPAP processing compared to Candidate 3.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19571558-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+        "rank": 5,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Very brief introductory section. While it includes all necessary substantive components, it lacks the procedural clarity of identifying the specific notices.",
+        "risks_and_liabilities": "Low risk, but the generic preamble makes it the weakest of the highly similar candidates.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19571558-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19571558-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/04__19571558-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+          "score": 94.13623595505618,
+          "diff_chars": 252,
+          "deviations": 13,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "04__19571558-SUPPLEMENTAL-DECLARATION-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/04__19571558-SUPPLEMENTAL-DECLARATION-RIGOROUS-10192026.pdf",
+          "score": 94.13623595505618,
+          "diff_chars": 252,
+          "deviations": 13,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "04__19571558-SUPPLEMENTAL-DECLARATION-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/04__19571558-SUPPLEMENTAL-DECLARATION-BALANCED-10192026.pdf",
+          "score": 94.13623595505618,
+          "diff_chars": 252,
+          "deviations": 13,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "04__19571558-SUPPLEMENTAL-DECLARATION-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/04__19571558-SUPPLEMENTAL-DECLARATION-CONCISE-10192026.pdf",
+          "score": 94.13623595505618,
+          "diff_chars": 252,
+          "deviations": 13,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "04__19571558-SUPPLEMENTAL-DECLARATION-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/04__19571558-SUPPLEMENTAL-DECLARATION-COMPREHENSIVE-10192026.pdf",
+          "score": 94.13623595505618,
+          "diff_chars": 252,
+          "deviations": 13,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application-High-Radix-Phototransistor-Computing.pdf",
+      "winner": "05__19571558-SUPPLEMENTAL-SPECIFICATION-CONCISE-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19571558-SUPPLEMENTAL-SPECIFICATION-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/05__19571558-SUPPLEMENTAL-SPECIFICATION-CONCISE-10192026.pdf",
+          "score": 97.32943113224803,
+          "diff_chars": 1970,
+          "deviations": 21,
+          "punct_deviations": 15,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "05__19571558-SUPPLEMENTAL-SPECIFICATION-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/05__19571558-SUPPLEMENTAL-SPECIFICATION-ASSERTIVE-10192026.pdf",
+          "score": 97.32943113224803,
+          "diff_chars": 1970,
+          "deviations": 21,
+          "punct_deviations": 15,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "05__19571558-SUPPLEMENTAL-SPECIFICATION-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/05__19571558-SUPPLEMENTAL-SPECIFICATION-RIGOROUS-10192026.pdf",
+          "score": 97.32943113224803,
+          "diff_chars": 1970,
+          "deviations": 21,
+          "punct_deviations": 15,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "05__19571558-SUPPLEMENTAL-SPECIFICATION-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/05__19571558-SUPPLEMENTAL-SPECIFICATION-BALANCED-10192026.pdf",
+          "score": 97.32943113224803,
+          "diff_chars": 1970,
+          "deviations": 21,
+          "punct_deviations": 15,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "05__19571558-SUPPLEMENTAL-SPECIFICATION-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/05__19571558-SUPPLEMENTAL-SPECIFICATION-COMPREHENSIVE-10192026.pdf",
+          "score": 97.32943113224803,
+          "diff_chars": 1970,
+          "deviations": 21,
+          "punct_deviations": 15,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application-High-Radix-Phototransistor-Computing.pdf",
+      "winner": "06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-ASSERTIVE-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-ASSERTIVE-10192026.pdf",
+          "score": 98.22364901016586,
+          "diff_chars": 367,
+          "deviations": 45,
+          "punct_deviations": 34,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-BALANCED-10192026.pdf",
+          "score": 98.22364901016586,
+          "diff_chars": 367,
+          "deviations": 45,
+          "punct_deviations": 34,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-RIGOROUS-10192026.pdf",
+          "score": 98.22364901016586,
+          "diff_chars": 367,
+          "deviations": 45,
+          "punct_deviations": 34,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-CONCISE-10192026.pdf",
+          "score": 98.22364901016586,
+          "diff_chars": 367,
+          "deviations": 45,
+          "punct_deviations": 34,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-COMPREHENSIVE-10192026.pdf",
+          "score": 98.22364901016586,
+          "diff_chars": 367,
+          "deviations": 45,
+          "punct_deviations": 34,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application-High-Radix-Phototransistor-Computing.pdf",
+      "winner": "08__19571558-SUPPLEMENTAL-CLAIMS-CONCISE-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19571558-SUPPLEMENTAL-CLAIMS-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/08__19571558-SUPPLEMENTAL-CLAIMS-CONCISE-10192026.pdf",
+          "score": 99.24012158054711,
+          "diff_chars": 129,
+          "deviations": 10,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "08__19571558-SUPPLEMENTAL-CLAIMS-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/08__19571558-SUPPLEMENTAL-CLAIMS-RIGOROUS-10192026.pdf",
+          "score": 99.24012158054711,
+          "diff_chars": 129,
+          "deviations": 10,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "08__19571558-SUPPLEMENTAL-CLAIMS-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/08__19571558-SUPPLEMENTAL-CLAIMS-COMPREHENSIVE-10192026.pdf",
+          "score": 99.24012158054711,
+          "diff_chars": 129,
+          "deviations": 10,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "08__19571558-SUPPLEMENTAL-CLAIMS-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/08__19571558-SUPPLEMENTAL-CLAIMS-ASSERTIVE-10192026.pdf",
+          "score": 99.24012158054711,
+          "diff_chars": 129,
+          "deviations": 10,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "08__19571558-SUPPLEMENTAL-CLAIMS-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/08__19571558-SUPPLEMENTAL-CLAIMS-BALANCED-10192026.pdf",
+          "score": 99.24012158054711,
+          "diff_chars": 129,
+          "deviations": 10,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application-High-Radix-Phototransistor-Computing.pdf",
+      "winner": "09__19571558-SUPPLEMENTAL-ABSTRACT-BALANCED-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19571558-SUPPLEMENTAL-ABSTRACT-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/09__19571558-SUPPLEMENTAL-ABSTRACT-BALANCED-10192026.pdf",
+          "score": 97.12707182320443,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "09__19571558-SUPPLEMENTAL-ABSTRACT-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/09__19571558-SUPPLEMENTAL-ABSTRACT-RIGOROUS-10192026.pdf",
+          "score": 97.12707182320443,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "09__19571558-SUPPLEMENTAL-ABSTRACT-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/09__19571558-SUPPLEMENTAL-ABSTRACT-CONCISE-10192026.pdf",
+          "score": 97.12707182320443,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "09__19571558-SUPPLEMENTAL-ABSTRACT-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/09__19571558-SUPPLEMENTAL-ABSTRACT-ASSERTIVE-10192026.pdf",
+          "score": 97.12707182320443,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "09__19571558-SUPPLEMENTAL-ABSTRACT-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19571558-10192026-225632-Supplemental/09__19571558-SUPPLEMENTAL-ABSTRACT-COMPREHENSIVE-10192026.pdf",
+          "score": 97.12707182320443,
+          "diff_chars": 152,
+          "deviations": 1,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19571558-SUPPLEMENTAL-RESPONSE-COMPREHENSIVE-10192026.tex",
+    "02__": "02__19571558-SUPPLEMENTAL-EXTENSION-BALANCED-10192026.pdf",
+    "03__": "03__19571558-SUPPLEMENTAL-SUSPENSION-ASSERTIVE-10192026.pdf",
+    "04__": "04__19571558-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+    "05__": "05__19571558-SUPPLEMENTAL-SPECIFICATION-CONCISE-10192026.pdf",
+    "06__": "06__19571558-SUPPLEMENTAL-MARKED-UP-SPEC-ASSERTIVE-10192026.pdf",
+    "07__": "07__19571558-SUPPLEMENTAL-DRAWINGS-CONCISE-10192026.pdf",
+    "08__": "08__19571558-SUPPLEMENTAL-CLAIMS-CONCISE-10192026.pdf",
+    "09__": "09__19571558-SUPPLEMENTAL-ABSTRACT-BALANCED-10192026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19571558/EVALS/10192026/20261019_225654.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19571558/EVALS/10192026/20261019_225654.html"
+}

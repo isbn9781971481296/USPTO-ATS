@@ -1,0 +1,134 @@
+{
+  "application_number": "19638180",
+  "evaluation_timestamp": "20261020_200140",
+  "date": "10202026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19638180-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10202026.tex",
+      "01__19638180-SUPPLEMENTAL-RESPONSE-BALANCED-10202026.tex",
+      "01__19638180-SUPPLEMENTAL-RESPONSE-COMPREHENSIVE-10202026.tex",
+      "01__19638180-SUPPLEMENTAL-RESPONSE-CONCISE-10202026.tex",
+      "01__19638180-SUPPLEMENTAL-RESPONSE-STANDARD-10202026.tex"
+    ],
+    "winner": "01__19638180-SUPPLEMENTAL-RESPONSE-BALANCED-10202026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate 2 (BALANCED) is the most likely to succeed because it strikes the optimal professional tone while explicitly identifying the specific pre-examination notices being addressed (Notice to File Missing Parts and Notice of Incomplete Reply). This precise identification assists the Office of Patent Application Processing (OPAP) in quickly contextualizing the response. The document correctly implements the mandatory preemptive formalities curing by filing a Substitute Specification to excise embedded drawings, segregate claims and abstracts, and remove the License Grant to preserve Small Entity status. Furthermore, it flawlessly executes the complex Path B fee allocation directive, optimizing the knapsack subset-sum to apply exactly $446.00 of unapplied credits to base fees while remitting the remaining balance. Unlike Candidate 3, which incorrectly cites 37 CFR 1.111 (a rule applicable to replies to Office actions on the merits rather than pre-exam formalities), Candidate 2 avoids statutory missteps and presents a legally sound, highly effective administrative response.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "All candidates successfully align with the core ATS directives by addressing the outstanding pre-exam deficiencies, filing the required 1-month extension of time, and executing the exact Path B fee allocation strategy to prevent stranded funds. They also all successfully perform the highly rewarded preemptive strike of filing a Substitute Specification to cure 37 CFR 1.52/1.58/1.72 defects. The differentiation lies in the introductory framing and statutory citations.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19638180-SUPPLEMENTAL-RESPONSE-BALANCED-10202026.tex",
+        "rank": 1,
+        "score": 98.0,
+        "cleanliness_and_arguments": "Excellent. The introduction is perfectly balanced, explicitly naming the two outstanding notices (Notice to File Missing Parts and Notice of Incomplete Reply) which provides immediate clarity to the pre-exam clerk.",
+        "risks_and_liabilities": "Minimal risk. The document strictly adheres to 37 CFR requirements for pre-exam processing and accurately directs the Office of Finance regarding fee allocations.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19638180-SUPPLEMENTAL-RESPONSE-CONCISE-10202026.tex",
+        "rank": 2,
+        "score": 95.0,
+        "cleanliness_and_arguments": "Very clean and direct. The concise introduction gets straight to the point, though it lacks the specific naming of the outstanding notices found in Candidate 2.",
+        "risks_and_liabilities": "Low risk. It effectively cures the defects and handles the fee allocation properly without introducing unnecessary language.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19638180-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10202026.tex",
+        "rank": 3,
+        "score": 92.0,
+        "cleanliness_and_arguments": "The arguments are legally sound, but the tone is slightly demanding ('ensuring absolute compliance', 'without further delay'). While not fatal, a more neutral tone is preferred in administrative correspondence.",
+        "risks_and_liabilities": "Low risk of rejection, but the assertive tone could unnecessarily antagonize Office personnel.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19638180-SUPPLEMENTAL-RESPONSE-STANDARD-10202026.tex",
+        "rank": 4,
+        "score": 88.0,
+        "cleanliness_and_arguments": "The introduction includes an unnecessary reference to 'substantial unapplied funds currently held on deposit by the Office across the portfolio', which is irrelevant to the specific adjudication of this single application.",
+        "risks_and_liabilities": "Low risk of abandonment, but the inclusion of portfolio-level commentary in an application-specific response is procedurally awkward.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19638180-SUPPLEMENTAL-RESPONSE-COMPREHENSIVE-10202026.tex",
+        "rank": 5,
+        "score": 85.0,
+        "cleanliness_and_arguments": "The document incorrectly cites 37 CFR 1.111 in the introduction. Rule 1.111 pertains to replies to non-final Office actions on the merits, whereas this is a reply to pre-examination formalities notices (governed by 1.53(f) or 1.135).",
+        "risks_and_liabilities": "Moderate risk. Citing the wrong statute for the reply could cause confusion or a technical objection, although the actual curative actions taken in the body of the document are correct.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19638180-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10202026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19638180-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19638180-10202026-200120-Supplemental/04__19638180-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10202026.pdf",
+          "score": 92.18207088255733,
+          "diff_chars": 338,
+          "deviations": 9,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "04__19638180-SUPPLEMENTAL-DECLARATION-BALANCED-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19638180-10202026-200120-Supplemental/04__19638180-SUPPLEMENTAL-DECLARATION-BALANCED-10202026.pdf",
+          "score": 92.18207088255733,
+          "diff_chars": 338,
+          "deviations": 9,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "04__19638180-SUPPLEMENTAL-DECLARATION-CONCISE-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19638180-10202026-200120-Supplemental/04__19638180-SUPPLEMENTAL-DECLARATION-CONCISE-10202026.pdf",
+          "score": 92.18207088255733,
+          "diff_chars": 338,
+          "deviations": 9,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "04__19638180-SUPPLEMENTAL-DECLARATION-COMPREHENSIVE-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19638180-10202026-200120-Supplemental/04__19638180-SUPPLEMENTAL-DECLARATION-COMPREHENSIVE-10202026.pdf",
+          "score": 92.18207088255733,
+          "diff_chars": 338,
+          "deviations": 9,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "04__19638180-SUPPLEMENTAL-DECLARATION-STANDARD-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19638180-10202026-200120-Supplemental/04__19638180-SUPPLEMENTAL-DECLARATION-STANDARD-10202026.pdf",
+          "score": 92.18207088255733,
+          "diff_chars": 338,
+          "deviations": 9,
+          "punct_deviations": 5,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19638180-SUPPLEMENTAL-RESPONSE-BALANCED-10202026.tex",
+    "02__": "02__19638180-SUPPLEMENTAL-EXTENSION-STANDARD-10202026.pdf",
+    "03__": "03__19638180-SUPPLEMENTAL-SUSPENSION-ASSERTIVE-10202026.pdf",
+    "04__": "04__19638180-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10202026.pdf",
+    "05__": "05__19638180-SUPPLEMENTAL-SPECIFICATION-CONCISE-10202026.pdf",
+    "06__": "06__19638180-SUPPLEMENTAL-MARKEDUP-STANDARD-10202026.pdf",
+    "07__": "07__19638180-SUPPLEMENTAL-DRAWINGS-STANDARD-10202026.pdf",
+    "08__": "08__19638180-SUPPLEMENTAL-CLAIMS-ASSERTIVE-10202026.pdf",
+    "09__": "09__19638180-SUPPLEMENTAL-ABSTRACT-BALANCED-10202026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19638180/EVALS/10202026/20261020_200140.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19638180/EVALS/10202026/20261020_200140.html"
+}

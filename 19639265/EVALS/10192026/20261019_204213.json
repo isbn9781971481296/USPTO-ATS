@@ -1,0 +1,362 @@
+{
+  "application_number": "19639265",
+  "evaluation_timestamp": "20261019_204213",
+  "date": "10192026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19639265-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+      "01__19639265-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+      "01__19639265-SUPPLEMENTAL-RESPONSE-COMPREHENSIVE-10192026.tex",
+      "01__19639265-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+      "01__19639265-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex"
+    ],
+    "winner": "01__19639265-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate 5 (RIGOROUS) is selected as the most professionally drafted document among the set. It successfully executes the highly rewarded preemptive strike of filing a Substitute Specification to excise embedded drawings, claims, and the License Grant paragraph to preserve Small Entity status. Furthermore, it omits the unprofessional and irrelevant complaints regarding portfolio-wide unapplied funds present in Candidates 1, 2, and 3, and bolsters its requests with rigorous statutory citations (37 CFR 1.22(b), MPEP 509, 35 U.S.C. 133). However, despite being the best-drafted candidate, it is ultimately unlikely to succeed due to a fatal procedural violation shared by all candidates in this cluster.",
+    "unlikely_to_succeed_reasons": "All candidates, including the selected winner, fatally violate the strict 'WATERFALL STRATEGY DIRECTIVE: PATH A' conditional logic. The directive explicitly mandates that in the 4th or 5th month of extension, the applicant MUST NOT request the Office to apply unapplied deposit credits to any fees, and must tender all fees directly to secure absolute timeliness. All candidates explicitly request the allocation of $450.00 in unapplied deposit credits. Relying on the Office of Finance to manually apply stranded credits introduces a severe risk of processing delays that could easily push the application past the absolute 5-month statutory deadline (November 23, 2026), resulting in irrevocable abandonment.",
+    "ats_alignment_assessment": "The candidates successfully address the substantive deficiencies identified in the ATS brief (submitting replacement claims, a replacement abstract, and a perfected declaration) and execute the highly rewarded preemptive formalities curing. However, they fail to align with the critical Path A fee payment directive, opting instead to follow the external heuristic hint which suggested applying credits, directly contravening the authoritative mandate.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19639265-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex",
+        "rank": 1,
+        "score": 65.0,
+        "cleanliness_and_arguments": "Highly professional and rigorous. Omits unprofessional complaints and includes solid statutory citations for its requests.",
+        "risks_and_liabilities": "High risk of irrevocable abandonment. Violates the Path A directive by requesting the allocation of unapplied credits during a critical 4th-month extension window.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19639265-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+        "rank": 2,
+        "score": 60.0,
+        "cleanliness_and_arguments": "Clean and concise. Successfully omits the unprofessional complaints about portfolio funds, but lacks the statutory rigor of Candidate 5.",
+        "risks_and_liabilities": "High risk of irrevocable abandonment. Violates the Path A directive by requesting the allocation of unapplied credits.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19639265-SUPPLEMENTAL-RESPONSE-COMPREHENSIVE-10192026.tex",
+        "rank": 3,
+        "score": 50.0,
+        "cleanliness_and_arguments": "Comprehensive and includes statutory citations, but is marred by the inclusion of an unprofessional complaint regarding $32,758.00 in unapplied portfolio funds.",
+        "risks_and_liabilities": "High risk of irrevocable abandonment. Violates the Path A directive by requesting the allocation of unapplied credits.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19639265-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+        "rank": 4,
+        "score": 45.0,
+        "cleanliness_and_arguments": "Adequately drafted but includes unnecessary and unprofessional commentary about portfolio-wide unapplied funds.",
+        "risks_and_liabilities": "High risk of irrevocable abandonment. Violates the Path A directive by requesting the allocation of unapplied credits.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19639265-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+        "rank": 5,
+        "score": 40.0,
+        "cleanliness_and_arguments": "Assertive tone borders on demanding, particularly with the inclusion of complaints about portfolio funds 'warranting immediate and equitable crediting without further delay'.",
+        "risks_and_liabilities": "High risk of irrevocable abandonment. Violates the Path A directive by requesting the allocation of unapplied credits.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19639265-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19639265-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/04__19639265-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+          "score": 94.89208633093526,
+          "diff_chars": 270,
+          "deviations": 10,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "04__19639265-SUPPLEMENTAL-DECLARATION-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/04__19639265-SUPPLEMENTAL-DECLARATION-COMPREHENSIVE-10192026.pdf",
+          "score": 94.89208633093526,
+          "diff_chars": 270,
+          "deviations": 10,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "04__19639265-SUPPLEMENTAL-DECLARATION-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/04__19639265-SUPPLEMENTAL-DECLARATION-RIGOROUS-10192026.pdf",
+          "score": 94.89208633093526,
+          "diff_chars": 270,
+          "deviations": 10,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "04__19639265-SUPPLEMENTAL-DECLARATION-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/04__19639265-SUPPLEMENTAL-DECLARATION-CONCISE-10192026.pdf",
+          "score": 94.89208633093526,
+          "diff_chars": 270,
+          "deviations": 10,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "04__19639265-SUPPLEMENTAL-DECLARATION-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/04__19639265-SUPPLEMENTAL-DECLARATION-BALANCED-10192026.pdf",
+          "score": 94.89208633093526,
+          "diff_chars": 270,
+          "deviations": 10,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "High-Radix-Satellite-System.pdf",
+      "winner": "05__19639265-SUPPLEMENTAL-SPECIFICATION-BALANCED-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19639265-SUPPLEMENTAL-SPECIFICATION-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/05__19639265-SUPPLEMENTAL-SPECIFICATION-BALANCED-10192026.pdf",
+          "score": 95.240710232473,
+          "diff_chars": 1989,
+          "deviations": 15,
+          "punct_deviations": 6,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "05__19639265-SUPPLEMENTAL-SPECIFICATION-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/05__19639265-SUPPLEMENTAL-SPECIFICATION-ASSERTIVE-10192026.pdf",
+          "score": 95.240710232473,
+          "diff_chars": 1989,
+          "deviations": 15,
+          "punct_deviations": 6,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "05__19639265-SUPPLEMENTAL-SPECIFICATION-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/05__19639265-SUPPLEMENTAL-SPECIFICATION-RIGOROUS-10192026.pdf",
+          "score": 95.240710232473,
+          "diff_chars": 1989,
+          "deviations": 15,
+          "punct_deviations": 6,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "05__19639265-SUPPLEMENTAL-SPECIFICATION-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/05__19639265-SUPPLEMENTAL-SPECIFICATION-CONCISE-10192026.pdf",
+          "score": 95.240710232473,
+          "diff_chars": 1989,
+          "deviations": 15,
+          "punct_deviations": 6,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "05__19639265-SUPPLEMENTAL-SPECIFICATION-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/05__19639265-SUPPLEMENTAL-SPECIFICATION-COMPREHENSIVE-10192026.pdf",
+          "score": 95.240710232473,
+          "diff_chars": 1989,
+          "deviations": 15,
+          "punct_deviations": 6,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "High-Radix-Satellite-System.pdf",
+      "winner": "06__19639265-SUPPLEMENTAL-MARKEDUP-ASSERTIVE-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19639265-SUPPLEMENTAL-MARKEDUP-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/06__19639265-SUPPLEMENTAL-MARKEDUP-ASSERTIVE-10192026.pdf",
+          "score": 98.05547026916385,
+          "diff_chars": 524,
+          "deviations": 50,
+          "punct_deviations": 26,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "06__19639265-SUPPLEMENTAL-MARKEDUP-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/06__19639265-SUPPLEMENTAL-MARKEDUP-RIGOROUS-10192026.pdf",
+          "score": 98.05547026916385,
+          "diff_chars": 524,
+          "deviations": 50,
+          "punct_deviations": 26,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "06__19639265-SUPPLEMENTAL-MARKEDUP-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/06__19639265-SUPPLEMENTAL-MARKEDUP-CONCISE-10192026.pdf",
+          "score": 98.05547026916385,
+          "diff_chars": 524,
+          "deviations": 50,
+          "punct_deviations": 26,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "06__19639265-SUPPLEMENTAL-MARKEDUP-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/06__19639265-SUPPLEMENTAL-MARKEDUP-COMPREHENSIVE-10192026.pdf",
+          "score": 98.05547026916385,
+          "diff_chars": 524,
+          "deviations": 50,
+          "punct_deviations": 26,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "06__19639265-SUPPLEMENTAL-MARKEDUP-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/06__19639265-SUPPLEMENTAL-MARKEDUP-BALANCED-10192026.pdf",
+          "score": 98.05547026916385,
+          "diff_chars": 524,
+          "deviations": 50,
+          "punct_deviations": 26,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "High-Radix-Satellite-System.pdf",
+      "winner": "08__19639265-SUPPLEMENTAL-CLAIMS-BALANCED-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19639265-SUPPLEMENTAL-CLAIMS-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/08__19639265-SUPPLEMENTAL-CLAIMS-BALANCED-10192026.pdf",
+          "score": 99.21991084695394,
+          "diff_chars": 147,
+          "deviations": 20,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "08__19639265-SUPPLEMENTAL-CLAIMS-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/08__19639265-SUPPLEMENTAL-CLAIMS-COMPREHENSIVE-10192026.pdf",
+          "score": 99.21991084695394,
+          "diff_chars": 147,
+          "deviations": 20,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "08__19639265-SUPPLEMENTAL-CLAIMS-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/08__19639265-SUPPLEMENTAL-CLAIMS-CONCISE-10192026.pdf",
+          "score": 99.21991084695394,
+          "diff_chars": 147,
+          "deviations": 20,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "08__19639265-SUPPLEMENTAL-CLAIMS-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/08__19639265-SUPPLEMENTAL-CLAIMS-RIGOROUS-10192026.pdf",
+          "score": 99.21991084695394,
+          "diff_chars": 147,
+          "deviations": 20,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "08__19639265-SUPPLEMENTAL-CLAIMS-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/08__19639265-SUPPLEMENTAL-CLAIMS-ASSERTIVE-10192026.pdf",
+          "score": 99.21991084695394,
+          "diff_chars": 147,
+          "deviations": 20,
+          "punct_deviations": 8,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "High-Radix-Satellite-System.pdf",
+      "winner": "09__19639265-SUPPLEMENTAL-ABSTRACT-CONCISE-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19639265-SUPPLEMENTAL-ABSTRACT-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/09__19639265-SUPPLEMENTAL-ABSTRACT-CONCISE-10192026.pdf",
+          "score": 96.79715302491103,
+          "diff_chars": 154,
+          "deviations": 3,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "09__19639265-SUPPLEMENTAL-ABSTRACT-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/09__19639265-SUPPLEMENTAL-ABSTRACT-RIGOROUS-10192026.pdf",
+          "score": 96.79715302491103,
+          "diff_chars": 154,
+          "deviations": 3,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "09__19639265-SUPPLEMENTAL-ABSTRACT-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/09__19639265-SUPPLEMENTAL-ABSTRACT-ASSERTIVE-10192026.pdf",
+          "score": 96.79715302491103,
+          "diff_chars": 154,
+          "deviations": 3,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "09__19639265-SUPPLEMENTAL-ABSTRACT-COMPREHENSIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/09__19639265-SUPPLEMENTAL-ABSTRACT-COMPREHENSIVE-10192026.pdf",
+          "score": 96.79715302491103,
+          "diff_chars": 154,
+          "deviations": 3,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "09__19639265-SUPPLEMENTAL-ABSTRACT-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639265-10192026-204147-Supplemental/09__19639265-SUPPLEMENTAL-ABSTRACT-BALANCED-10192026.pdf",
+          "score": 96.79715302491103,
+          "diff_chars": 154,
+          "deviations": 3,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19639265-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex",
+    "02__": "02__19639265-SUPPLEMENTAL-EXTENSION-BALANCED-10192026.pdf",
+    "03__": "03__19639265-SUPPLEMENTAL-SUSPENSION-BALANCED-10192026.pdf",
+    "04__": "04__19639265-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+    "05__": "05__19639265-SUPPLEMENTAL-SPECIFICATION-BALANCED-10192026.pdf",
+    "06__": "06__19639265-SUPPLEMENTAL-MARKEDUP-ASSERTIVE-10192026.pdf",
+    "07__": "07__19639265-SUPPLEMENTAL-DRAWINGS-COMPREHENSIVE-10192026.pdf",
+    "08__": "08__19639265-SUPPLEMENTAL-CLAIMS-BALANCED-10192026.pdf",
+    "09__": "09__19639265-SUPPLEMENTAL-ABSTRACT-CONCISE-10192026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19639265/EVALS/10192026/20261019_204213.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19639265/EVALS/10192026/20261019_204213.html"
+}

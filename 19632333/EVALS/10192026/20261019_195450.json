@@ -1,0 +1,162 @@
+{
+  "application_number": "19632333",
+  "evaluation_timestamp": "20261019_195450",
+  "date": "10192026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19632333-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+      "01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+      "01__19632333-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+      "01__19632333-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex",
+      "01__19632333-SUPPLEMENTAL-RESPONSE-STANDARD-10192026.tex"
+    ],
+    "winner": "01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate #2 (01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex) is selected by the collective panel of USPTO Examiners and Petitions Officers as the most likely to succeed. It presents an impeccably balanced, legally rigorous transmittal that thoroughly cures all outstanding defects noted in both the April 29, 2026 Notice to File Missing Parts and the August 14, 2026 Notice of Incomplete Reply. Specifically, Candidate #2: (1) clearly enumerates the comprehensive 9-document curative package, explicitly referencing statutory requirements such as 37 CFR 1.63(a)(4) for the inventor's authorization clause and 37 CFR 1.75(h)/1.72(b) for commencing claims and abstract on separate sheets; (2) provides the required 37 CFR 1.125(b) certification of no new matter while preemptively striking the Government License Grant to protect Small Entity entitlement; (3) articulates a clear and accurate fee reconciliation waterfall under Small Entity rates ($970.00 base fees minus $450.00 recognized credit, allocating $446.00 to Codes 4011, 2111, and 2051, leaving a $4.00 surplus, and tendering $998.00 extension + $524.00 remaining base + $60.00 suspension processing in fresh funds); and (4) maintains an authoritative, professional, and respectful tone that facilitates rapid Office of Patent Application Processing (OPAP) clearance without procedural friction.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "All five candidates address the core substantive and administrative deficiencies identified in the ATS brief: the 4-month extension under 37 CFR 1.136(a) to bridge the gap from June 29, 2026 to October 29, 2026; the resolution of the declaration defect under 37 CFR 1.63(a)(4); the submission of compliant standalone drawings under 37 CFR 1.84, separate claims under 37 CFR 1.75(h), and separate abstract under 37 CFR 1.72(b); and the excision of the Government License Grant to safeguard Small Entity status under 37 CFR 1.27. While the ATS Waterfall Strategy Directive Path A recommended remitting all fees in fresh tender without credit offsets to prevent stranded allocation lag, all candidates elected to formally instruct the Office to apply $446.00 of the docket's $450.00 unapplied funds under 37 CFR 1.22(b) and MPEP 509 while paying the critical 4-month extension fee ($998.00) and balance ($524.00 + $60.00) via immediate electronic checkout. Because the extension fee is tendered unconditionally in cash, the application's pendency is fully protected from statutory abandonment, making Candidate #2's execution legally effective and viable under USPTO practice.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+        "rank": 1,
+        "score": 96.0,
+        "cleanliness_and_arguments": "Exemplary legal cleanliness, highly articulate itemization of all 9 supporting instruments, precise statutory citations (37 CFR 1.27, 1.63(a)(4), 1.72(b), 1.75(h), 1.84, 1.103(a), 1.125, 1.136(a)), and balanced professional prose.",
+        "risks_and_liabilities": "Minimal risk. Instructing allocation of unapplied credit is fully supported by 37 CFR 1.22(b); because the 4-month extension fee ($998.00) is paid concurrently via checkout, there is zero risk of pre-exam abandonment.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+        "rank": 2,
+        "score": 94.0,
+        "cleanliness_and_arguments": "Very clean, succinct, and includes explicit total fresh cash tender figure ($1,582.00) in Item III, aiding clerical verification.",
+        "risks_and_liabilities": "Minimal risk; slightly more condensed background narrative compared to Candidate #2.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex",
+        "rank": 3,
+        "score": 92.0,
+        "cleanliness_and_arguments": "Highly thorough and strict legal structure, but phrasing in the Operative Superseding Instrument clause is somewhat repetitive.",
+        "risks_and_liabilities": "Low risk; fully cures all informalities and complies with fee requirements.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+        "rank": 4,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Solid technical presentation, though tone in the Operative clause ('tenders 100% of statutory fees') is slightly aggressive for an administrative pre-exam transmittal.",
+        "risks_and_liabilities": "Low risk; cures all noted informalities.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19632333-SUPPLEMENTAL-RESPONSE-STANDARD-10192026.tex",
+        "rank": 5,
+        "score": 89.0,
+        "cleanliness_and_arguments": "Standard, fully functional boilerplate response, but omits some granular statutory descriptions present in Candidates #2 and #3 (e.g., specific mention of 6-month suspension duration in item 3).",
+        "risks_and_liabilities": "Low risk, legally sufficient to clear pre-exam formalities.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-195439-Supplemental/04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+          "score": 94.99645138396026,
+          "diff_chars": 230,
+          "deviations": 10,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application-Attributed-Control-Aggregation-System.pdf",
+      "winner": "05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-195439-Supplemental/05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf",
+          "score": 99.42028985507247,
+          "diff_chars": 1401,
+          "deviations": 23,
+          "punct_deviations": 18,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "application-Attributed-Control-Aggregation-System.pdf",
+      "winner": "06__19632333-SUPPLEMENTAL-SPECIFICATION-MARKUP-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19632333-SUPPLEMENTAL-SPECIFICATION-MARKUP-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-195439-Supplemental/06__19632333-SUPPLEMENTAL-SPECIFICATION-MARKUP-10192026.pdf",
+          "score": 96.95137638281452,
+          "diff_chars": 2717,
+          "deviations": 37,
+          "punct_deviations": 24,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application-Attributed-Control-Aggregation-System.pdf",
+      "winner": "08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-195439-Supplemental/08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf",
+          "score": 99.57924263674614,
+          "diff_chars": 128,
+          "deviations": 11,
+          "punct_deviations": 7,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application-Attributed-Control-Aggregation-System.pdf",
+      "winner": "09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19632333-10192026-195439-Supplemental/09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf",
+          "score": 96.56441717791411,
+          "diff_chars": 157,
+          "deviations": 4,
+          "punct_deviations": 3,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19632333-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+    "02__": "02__19632333-SUPPLEMENTAL-EXTENSION-ASSERTIVE-10192026.pdf",
+    "03__": "03__19632333-SUPPLEMENTAL-SUSPENSION-CONCISE-10192026.pdf",
+    "04__": "04__19632333-SUPPLEMENTAL-INVENTOR-DECLARATION-10192026.pdf",
+    "05__": "05__19632333-SUPPLEMENTAL-SPECIFICATION-10192026.pdf",
+    "06__": "06__19632333-SUPPLEMENTAL-SPECIFICATION-MARKUP-10192026.pdf",
+    "07__": "07__19632333-SUPPLEMENTAL-DRAWINGS-10192026.pdf",
+    "08__": "08__19632333-SUPPLEMENTAL-CLAIMS-10192026.pdf",
+    "09__": "09__19632333-SUPPLEMENTAL-ABSTRACT-10192026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19632333/EVALS/10192026/20261019_195450.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19632333/EVALS/10192026/20261019_195450.html"
+}

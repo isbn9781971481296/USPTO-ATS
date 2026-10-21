@@ -1,0 +1,362 @@
+{
+  "application_number": "19639253",
+  "evaluation_timestamp": "20261019_221247",
+  "date": "10192026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19639253-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+      "01__19639253-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+      "01__19639253-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+      "01__19639253-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex",
+      "01__19639253-SUPPLEMENTAL-RESPONSE-STANDARD-10192026.tex"
+    ],
+    "winner": "01__19639253-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+    "collective_statement_most_likely_to_succeed": "Candidate 1 is the most likely to succeed because it perfectly executes the mandatory ATS directives while demonstrating exceptional statutory precision. It correctly identifies the recent statutory 60% fee reduction for Small Entities under the Unleashing American Innovators Act of 2022, which validates the fee calculations. It preemptively cures formalities by filing a Substitute Specification to excise embedded drawings, claims, and abstracts, and strategically deletes the 'Statement of License Grant' to preserve the Small Entity status. Furthermore, it flawlessly executes the required subset-sum knapsack fee allocation strategy under 37 CFR 1.22(b), directing the exact $416.00 in unapplied credits to the Basic Filing Fee ($70) and Search Fee ($308), minimizing stranded funds. The assertive and clear language ensures the Office of Petitions and the pre-examination clerks have no ambiguity regarding the superseding nature of this response.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "The candidate aligns perfectly with the ATS brief. It addresses the imminent 3-month extension deadline, applies the unapplied credits exactly as mathematically optimized by the knapsack analysis, remits the remaining fresh funds, and preemptively cures the specification formalities.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19639253-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+        "rank": 1,
+        "score": 100.0,
+        "cleanliness_and_arguments": "Highly professional, assertive, and statutorily precise. The explicit mention of the 60% fee reduction demonstrates deep knowledge of current USPTO fee structures.",
+        "risks_and_liabilities": "Minimal to none. The explicit superseding clause prevents piecemeal prosecution, and the precise fee allocation prevents Notice of Fee Deficiency.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19639253-SUPPLEMENTAL-RESPONSE-BALANCED-10192026.tex",
+        "rank": 2,
+        "score": 95.0,
+        "cleanliness_and_arguments": "Well-drafted and clean, but lacks the specific statutory insight regarding the 60% fee reduction present in Candidate 1.",
+        "risks_and_liabilities": "Low risk. Properly executes the fee allocation and formalities curing.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19639253-SUPPLEMENTAL-RESPONSE-CONCISE-10192026.tex",
+        "rank": 3,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Concise and effective, but slightly less persuasive and authoritative in its introductory clauses compared to Candidate 1.",
+        "risks_and_liabilities": "Low risk. Meets all core requirements.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19639253-SUPPLEMENTAL-RESPONSE-RIGOROUS-10192026.tex",
+        "rank": 4,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Generally strong, but incorrectly cites 37 CFR 1.111 for a pre-examination response, which technically applies to replies to Office actions under 35 U.S.C. 132.",
+        "risks_and_liabilities": "Slight risk of procedural confusion due to the incorrect rule citation, though unlikely to be fatal.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19639253-SUPPLEMENTAL-RESPONSE-STANDARD-10192026.tex",
+        "rank": 5,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Identical to the concise version. Standard and acceptable, but lacks the polished assertiveness of the winning candidate.",
+        "risks_and_liabilities": "Low risk.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19639253-SUPPLEMENTAL-DECLARATION-RIGOROUS-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19639253-SUPPLEMENTAL-DECLARATION-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/04__19639253-SUPPLEMENTAL-DECLARATION-RIGOROUS-10192026.pdf",
+          "score": 94.96402877697841,
+          "diff_chars": 266,
+          "deviations": 10,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "04__19639253-SUPPLEMENTAL-DECLARATION-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/04__19639253-SUPPLEMENTAL-DECLARATION-CONCISE-10192026.pdf",
+          "score": 94.96402877697841,
+          "diff_chars": 266,
+          "deviations": 10,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "04__19639253-SUPPLEMENTAL-DECLARATION-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/04__19639253-SUPPLEMENTAL-DECLARATION-BALANCED-10192026.pdf",
+          "score": 94.96402877697841,
+          "diff_chars": 266,
+          "deviations": 10,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "04__19639253-SUPPLEMENTAL-DECLARATION-STANDARD-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/04__19639253-SUPPLEMENTAL-DECLARATION-STANDARD-10192026.pdf",
+          "score": 94.96402877697841,
+          "diff_chars": 266,
+          "deviations": 10,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "04__19639253-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/04__19639253-SUPPLEMENTAL-DECLARATION-ASSERTIVE-10192026.pdf",
+          "score": 94.96402877697841,
+          "diff_chars": 266,
+          "deviations": 10,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "Parametric-Networking-Protocol.pdf",
+      "winner": "05__19639253-SUPPLEMENTAL-SPECIFICATION-RIGOROUS-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19639253-SUPPLEMENTAL-SPECIFICATION-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/05__19639253-SUPPLEMENTAL-SPECIFICATION-RIGOROUS-10192026.pdf",
+          "score": 99.24948828746872,
+          "diff_chars": 1563,
+          "deviations": 18,
+          "punct_deviations": 13,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "05__19639253-SUPPLEMENTAL-SPECIFICATION-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/05__19639253-SUPPLEMENTAL-SPECIFICATION-BALANCED-10192026.pdf",
+          "score": 99.24948828746872,
+          "diff_chars": 1563,
+          "deviations": 18,
+          "punct_deviations": 13,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "05__19639253-SUPPLEMENTAL-SPECIFICATION-STANDARD-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/05__19639253-SUPPLEMENTAL-SPECIFICATION-STANDARD-10192026.pdf",
+          "score": 99.24948828746872,
+          "diff_chars": 1563,
+          "deviations": 18,
+          "punct_deviations": 13,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "05__19639253-SUPPLEMENTAL-SPECIFICATION-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/05__19639253-SUPPLEMENTAL-SPECIFICATION-CONCISE-10192026.pdf",
+          "score": 99.24948828746872,
+          "diff_chars": 1563,
+          "deviations": 18,
+          "punct_deviations": 13,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "05__19639253-SUPPLEMENTAL-SPECIFICATION-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/05__19639253-SUPPLEMENTAL-SPECIFICATION-ASSERTIVE-10192026.pdf",
+          "score": 99.24948828746872,
+          "diff_chars": 1563,
+          "deviations": 18,
+          "punct_deviations": 13,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "06__": {
+      "prefix": "06__",
+      "reference_document": "Parametric-Networking-Protocol.pdf",
+      "winner": "06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-STANDARD-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-STANDARD-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-STANDARD-10192026.pdf",
+          "score": 98.12663919070813,
+          "diff_chars": 307,
+          "deviations": 41,
+          "punct_deviations": 21,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-CONCISE-10192026.pdf",
+          "score": 98.12663919070813,
+          "diff_chars": 307,
+          "deviations": 41,
+          "punct_deviations": 21,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-BALANCED-10192026.pdf",
+          "score": 98.12663919070813,
+          "diff_chars": 307,
+          "deviations": 41,
+          "punct_deviations": 21,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-ASSERTIVE-10192026.pdf",
+          "score": 98.12663919070813,
+          "diff_chars": 307,
+          "deviations": 41,
+          "punct_deviations": 21,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-RIGOROUS-10192026.pdf",
+          "score": 98.12663919070813,
+          "diff_chars": 307,
+          "deviations": 41,
+          "punct_deviations": 21,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "Parametric-Networking-Protocol.pdf",
+      "winner": "08__19639253-SUPPLEMENTAL-CLAIMS-RIGOROUS-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19639253-SUPPLEMENTAL-CLAIMS-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/08__19639253-SUPPLEMENTAL-CLAIMS-RIGOROUS-10192026.pdf",
+          "score": 99.09995262908573,
+          "diff_chars": 137,
+          "deviations": 14,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "08__19639253-SUPPLEMENTAL-CLAIMS-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/08__19639253-SUPPLEMENTAL-CLAIMS-BALANCED-10192026.pdf",
+          "score": 99.09995262908573,
+          "diff_chars": 137,
+          "deviations": 14,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "08__19639253-SUPPLEMENTAL-CLAIMS-STANDARD-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/08__19639253-SUPPLEMENTAL-CLAIMS-STANDARD-10192026.pdf",
+          "score": 99.09995262908573,
+          "diff_chars": 137,
+          "deviations": 14,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "08__19639253-SUPPLEMENTAL-CLAIMS-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/08__19639253-SUPPLEMENTAL-CLAIMS-CONCISE-10192026.pdf",
+          "score": 99.09995262908573,
+          "diff_chars": 137,
+          "deviations": 14,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "08__19639253-SUPPLEMENTAL-CLAIMS-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/08__19639253-SUPPLEMENTAL-CLAIMS-ASSERTIVE-10192026.pdf",
+          "score": 99.09995262908573,
+          "diff_chars": 137,
+          "deviations": 14,
+          "punct_deviations": 1,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "Parametric-Networking-Protocol.pdf",
+      "winner": "09__19639253-SUPPLEMENTAL-ABSTRACT-STANDARD-10192026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19639253-SUPPLEMENTAL-ABSTRACT-STANDARD-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/09__19639253-SUPPLEMENTAL-ABSTRACT-STANDARD-10192026.pdf",
+          "score": 96.73278879813302,
+          "diff_chars": 156,
+          "deviations": 4,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 1
+        },
+        {
+          "filename": "09__19639253-SUPPLEMENTAL-ABSTRACT-ASSERTIVE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/09__19639253-SUPPLEMENTAL-ABSTRACT-ASSERTIVE-10192026.pdf",
+          "score": 96.73278879813302,
+          "diff_chars": 156,
+          "deviations": 4,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 2
+        },
+        {
+          "filename": "09__19639253-SUPPLEMENTAL-ABSTRACT-CONCISE-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/09__19639253-SUPPLEMENTAL-ABSTRACT-CONCISE-10192026.pdf",
+          "score": 96.73278879813302,
+          "diff_chars": 156,
+          "deviations": 4,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 3
+        },
+        {
+          "filename": "09__19639253-SUPPLEMENTAL-ABSTRACT-BALANCED-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/09__19639253-SUPPLEMENTAL-ABSTRACT-BALANCED-10192026.pdf",
+          "score": 96.73278879813302,
+          "diff_chars": 156,
+          "deviations": 4,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 4
+        },
+        {
+          "filename": "09__19639253-SUPPLEMENTAL-ABSTRACT-RIGOROUS-10192026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19639253-10192026-221225-Supplemental/09__19639253-SUPPLEMENTAL-ABSTRACT-RIGOROUS-10192026.pdf",
+          "score": 96.73278879813302,
+          "diff_chars": 156,
+          "deviations": 4,
+          "punct_deviations": 2,
+          "status": "High Match",
+          "rank": 5
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19639253-SUPPLEMENTAL-RESPONSE-ASSERTIVE-10192026.tex",
+    "02__": "02__19639253-SUPPLEMENTAL-EXTENSION-CONCISE-10192026.pdf",
+    "03__": "03__19639253-SUPPLEMENTAL-SUSPENSION-CONCISE-10192026.pdf",
+    "04__": "04__19639253-SUPPLEMENTAL-DECLARATION-RIGOROUS-10192026.pdf",
+    "05__": "05__19639253-SUPPLEMENTAL-SPECIFICATION-RIGOROUS-10192026.pdf",
+    "06__": "06__19639253-SUPPLEMENTAL-MARKED-UP-SPEC-STANDARD-10192026.pdf",
+    "07__": "07__19639253-SUPPLEMENTAL-DRAWINGS-RIGOROUS-10192026.pdf",
+    "08__": "08__19639253-SUPPLEMENTAL-CLAIMS-RIGOROUS-10192026.pdf",
+    "09__": "09__19639253-SUPPLEMENTAL-ABSTRACT-STANDARD-10192026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19639253/EVALS/10192026/20261019_221247.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19639253/EVALS/10192026/20261019_221247.html"
+}

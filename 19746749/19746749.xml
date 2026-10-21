@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PatentApplicationData>
     <FileHeader>
-        <FileCreationTimeStamp>2026-10-08</FileCreationTimeStamp>
+        <FileCreationTimeStamp>2026-10-20</FileCreationTimeStamp>
     </FileHeader>
     <CorrespondenceInfo>
         <CorrespondenceAddresses>
@@ -31,8 +31,9 @@
         <CustomerNumber>226458</CustomerNumber>
         <FilingDate>2026-07-20</FilingDate>
         <ExaminerName>
-            <FirstName>ANDREA</FirstName>
-            <LastName>BENNETT</LastName>
+            <FirstName>KYMORA</FirstName>
+            <MiddleName>SHAREE</MiddleName>
+            <LastName>HOWELL</LastName>
         </ExaminerName>
         <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
         <InventionTitle>A MONOLITHIC BIDIRECTIONAL ACTIVE-MATRIX DISPLAY WITH ENDOGENOUS SELF-FEEDBACK IMAGING (P.E.R.W.I.N.)</InventionTitle>
@@ -70,6 +71,10 @@
     </Inventors>
     <Applicants/>
     <FileContentHistories>
+        <FileContentHistory>
+            <TransactionDate>2026-10-20</TransactionDate>
+            <TransactionDescription>Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27</TransactionDescription>
+        </FileContentHistory>
         <FileContentHistory>
             <TransactionDate>2026-07-31</TransactionDate>
             <TransactionDescription>Email Notification</TransactionDescription>
@@ -283,10 +288,10 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-07-20</AccountingDate>
-            <FeeCode>3311</FeeCode>
-            <FeeAmount>176</FeeAmount>
+            <FeeCode>3111</FeeCode>
+            <FeeAmount>154</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>176</TotalAmount>
+            <TotalAmount>154</TotalAmount>
             <MailroomDate>2026-07-20</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
@@ -310,10 +315,10 @@
         </Fee>
         <Fee>
             <AccountingDate>2026-07-20</AccountingDate>
-            <FeeCode>3111</FeeCode>
-            <FeeAmount>154</FeeAmount>
+            <FeeCode>3311</FeeCode>
+            <FeeAmount>176</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>154</TotalAmount>
+            <TotalAmount>176</TotalAmount>
             <MailroomDate>2026-07-20</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>

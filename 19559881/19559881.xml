@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PatentApplicationData>
     <FileHeader>
-        <FileCreationTimeStamp>2026-10-08</FileCreationTimeStamp>
+        <FileCreationTimeStamp>2026-10-20</FileCreationTimeStamp>
     </FileHeader>
     <CorrespondenceInfo>
         <CorrespondenceAddresses>
@@ -31,8 +31,9 @@
         <CustomerNumber>226458</CustomerNumber>
         <FilingDate>2026-03-06</FilingDate>
         <ExaminerName>
-            <FirstName>ANDREA</FirstName>
-            <LastName>BENNETT</LastName>
+            <FirstName>RACHEL</FirstName>
+            <MiddleName>LAUREN</MiddleName>
+            <LastName>ROTH</LastName>
         </ExaminerName>
         <InventionSubjectMatterType>UTL</InventionSubjectMatterType>
         <InventionTitle>SYSTEM AND METHOD FOR ASYNCHRONOUS COVERT DATA TRANSFER USING A STATIC, CONCEALED ELECTRONIC DEAD DROP</InventionTitle>
@@ -70,6 +71,10 @@
     </Inventors>
     <Applicants/>
     <FileContentHistories>
+        <FileContentHistory>
+            <TransactionDate>2026-10-20</TransactionDate>
+            <TransactionDescription>Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27</TransactionDescription>
+        </FileContentHistory>
         <FileContentHistory>
             <TransactionDate>2026-08-21</TransactionDate>
             <TransactionDescription>Email Notification</TransactionDescription>
@@ -351,19 +356,19 @@
     <Fees>
         <Fee>
             <AccountingDate>2026-07-27</AccountingDate>
-            <FeeCode>3051</FeeCode>
-            <FeeAmount>34</FeeAmount>
+            <FeeCode>3806</FeeCode>
+            <FeeAmount>56</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>34</TotalAmount>
+            <TotalAmount>56</TotalAmount>
             <MailroomDate>2026-07-25</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>
         <Fee>
             <AccountingDate>2026-07-27</AccountingDate>
-            <FeeCode>3806</FeeCode>
-            <FeeAmount>56</FeeAmount>
+            <FeeCode>3051</FeeCode>
+            <FeeAmount>34</FeeAmount>
             <FeeQuantity>1</FeeQuantity>
-            <TotalAmount>56</TotalAmount>
+            <TotalAmount>34</TotalAmount>
             <MailroomDate>2026-07-25</MailroomDate>
             <PaymentMethod>CC</PaymentMethod>
         </Fee>

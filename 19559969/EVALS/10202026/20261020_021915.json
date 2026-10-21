@@ -1,0 +1,144 @@
+{
+  "application_number": "19559969",
+  "evaluation_timestamp": "20261020_021915",
+  "date": "10202026",
+  "substantive_evaluations": {
+    "prefix": "01__",
+    "document_type": "Substantive Transmittal / Response",
+    "evaluated_candidates": [
+      "01__19559969-SUPPLEMENTAL-RESP.PRE-ASSERTIVE-10202026.tex",
+      "01__19559969-SUPPLEMENTAL-RESP.PRE-BALANCED-10202026.tex",
+      "01__19559969-SUPPLEMENTAL-RESP.PRE-COMPREHENSIVE-10202026.tex",
+      "01__19559969-SUPPLEMENTAL-RESP.PRE-CONCISE-10202026.tex",
+      "01__19559969-SUPPLEMENTAL-RESP.PRE-EQUITABLE-10202026.tex"
+    ],
+    "winner": "01__19559969-SUPPLEMENTAL-RESP.PRE-BALANCED-10202026.tex",
+    "collective_statement_most_likely_to_succeed": "The evaluation team selects Candidate 2 (BALANCED) as the most likely to succeed. All candidates successfully execute the core substantive requirements: they preemptively cure the formalities by submitting a substitute specification to excise embedded drawings and claims, provide a 37 CFR \u00a7 1.125(b) certification, and address the fee situation. While the ATS brief contained a directive to apply credits to unpaid base fees, the primary docket XML confirms that all base fees and the 5-month extension fee were already paid in full on October 15, 2026. Therefore, the candidates' strategy to request a refund of excess payments to a deposit account under 37 CFR \u00a7 1.25(b) is a legally sound and factually appropriate mutation that reflects the actual state of the docket. Candidate 2 is preferred because its language is the most professional and polished ('securing the statutory fee reductions', 'to perfect the application', 'ensuring complete pre-examination clearance'), avoiding the slightly demanding tone of Candidate 1 and the bluntness of Candidate 4.",
+    "unlikely_to_succeed_reasons": null,
+    "ats_alignment_assessment": "The candidates deviate from the ATS 'Path B' directive which instructed the applicant to apply unapplied credits to unpaid base fees. However, this deviation is factually necessary and legally sound because the docket XML confirms that all required fees were already paid in full via credit card on October 15, 2026. Applying credits to fees that have already been paid is impossible. Instead, the candidates correctly request that the stranded credits be refunded to a deposit account under 37 CFR \u00a7 1.25(b). Furthermore, all candidates successfully execute the preemptive formalities curing (substitute specification, standalone drawings, etc.) which is highly rewarded under the core evaluation philosophy.",
+    "candidate_scores": [
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP.PRE-ASSERTIVE-10202026.tex",
+        "rank": 4,
+        "score": 85.0,
+        "cleanliness_and_arguments": "Presents all necessary legal arguments and cures defects, but uses slightly demanding language ('The Office is respectfully reminded...').",
+        "risks_and_liabilities": "Low risk. The substantive legal requests are valid, though the tone could mildly irritate an examiner or OPAP officer.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP.PRE-BALANCED-10202026.tex",
+        "rank": 1,
+        "score": 95.0,
+        "cleanliness_and_arguments": "Excellent, balanced, and professional tone. Effectively communicates the curing of defects and the fee refund request with polished transitional phrases.",
+        "risks_and_liabilities": "Minimal risk. The document perfectly aligns with the factual state of the docket and uses courteous, standard patent prosecution phrasing.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP.PRE-COMPREHENSIVE-10202026.tex",
+        "rank": 2,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Standard and comprehensive. Lacks the polished transitional phrases of Candidate 2 but is perfectly adequate.",
+        "risks_and_liabilities": "Minimal risk. Legally sound and factually accurate.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP.PRE-CONCISE-10202026.tex",
+        "rank": 5,
+        "score": 80.0,
+        "cleanliness_and_arguments": "Concise to the point of being slightly blunt ('Applicant submits...' instead of 'Applicant respectfully submits...').",
+        "risks_and_liabilities": "Low risk, but the lack of customary professional courtesy ('respectfully') is a minor stylistic drawback in formal USPTO correspondence.",
+        "ats_points_addressed": true
+      },
+      {
+        "candidate": "01__19559969-SUPPLEMENTAL-RESP.PRE-EQUITABLE-10202026.tex",
+        "rank": 2,
+        "score": 90.0,
+        "cleanliness_and_arguments": "Identical to Candidate 3. Standard and comprehensive.",
+        "risks_and_liabilities": "Minimal risk. Legally sound and factually accurate.",
+        "ats_points_addressed": true
+      }
+    ]
+  },
+  "non_substantive_evaluations": {
+    "04__": {
+      "prefix": "04__",
+      "reference_document": "04__19561223-SUPPLEMENTAL-INVENTOR-DECLARATION-10112026.pdf",
+      "winner": "04__19559969-SUPPLEMENTAL-OATH-STANDARD-10202026.pdf",
+      "rankings": [
+        {
+          "filename": "04__19559969-SUPPLEMENTAL-OATH-STANDARD-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10202026-021905-Supplemental/04__19559969-SUPPLEMENTAL-OATH-STANDARD-10202026.pdf",
+          "score": 92.3582295988935,
+          "diff_chars": 316,
+          "deviations": 9,
+          "punct_deviations": 4,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "05__": {
+      "prefix": "05__",
+      "reference_document": "application.pdf",
+      "winner": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-STANDARD-10202026.pdf",
+      "rankings": [
+        {
+          "filename": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-STANDARD-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10202026-021905-Supplemental/05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-STANDARD-10202026.pdf",
+          "score": 99.51219512195122,
+          "diff_chars": 204,
+          "deviations": 40,
+          "punct_deviations": 19,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "08__": {
+      "prefix": "08__",
+      "reference_document": "application.pdf",
+      "winner": "08__19559969-SUPPLEMENTAL-CLM-STANDARD-10202026.pdf",
+      "rankings": [
+        {
+          "filename": "08__19559969-SUPPLEMENTAL-CLM-STANDARD-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10202026-021905-Supplemental/08__19559969-SUPPLEMENTAL-CLM-STANDARD-10202026.pdf",
+          "score": 99.30145083288554,
+          "diff_chars": 153,
+          "deviations": 23,
+          "punct_deviations": 15,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    },
+    "09__": {
+      "prefix": "09__",
+      "reference_document": "application.pdf",
+      "winner": "09__19559969-SUPPLEMENTAL-ABSTRACT-STANDARD-10202026.pdf",
+      "rankings": [
+        {
+          "filename": "09__19559969-SUPPLEMENTAL-ABSTRACT-STANDARD-10202026.pdf",
+          "path": "/media/user/t1/DELETEME/p/USPTO-DRAFTS/19559969-10202026-021905-Supplemental/09__19559969-SUPPLEMENTAL-ABSTRACT-STANDARD-10202026.pdf",
+          "score": 97.16563330380869,
+          "diff_chars": 287,
+          "deviations": 10,
+          "punct_deviations": 10,
+          "status": "High Match",
+          "rank": 1
+        }
+      ]
+    }
+  },
+  "winners": {
+    "01__": "01__19559969-SUPPLEMENTAL-RESP.PRE-BALANCED-10202026.tex",
+    "02__": "02__19559969-SUPPLEMENTAL-EXTENSION-CONCISE-10202026.pdf",
+    "03__": "03__19559969-SUPPLEMENTAL-SUSP.REQ-COMPREHENSIVE-10202026.pdf",
+    "04__": "04__19559969-SUPPLEMENTAL-OATH-STANDARD-10202026.pdf",
+    "05__": "05__19559969-SUPPLEMENTAL-SPECIFICATION-CLEAN-STANDARD-10202026.pdf",
+    "07__": "07__19559969-SUPPLEMENTAL-DRAWINGS-STANDARD-10202026.pdf",
+    "08__": "08__19559969-SUPPLEMENTAL-CLM-STANDARD-10202026.pdf",
+    "09__": "09__19559969-SUPPLEMENTAL-ABSTRACT-STANDARD-10202026.pdf"
+  },
+  "eval_json_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559969/EVALS/10202026/20261020_021915.json",
+  "eval_html_path": "/media/user/t1/ASSETS/USPTO/Dockets/ATS/19559969/EVALS/10202026/20261020_021915.html"
+}
